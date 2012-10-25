@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- bottom toolbar -->
+  <string name="New">Новий</string>
+  <string name="Jump">Перейти</string>
+  <string name="Filter">Фільтр</string>
+  <string name="Menu">Меню</string>
+  <string name="Actions">Дії</string>
+  <!-- "New" popup -->
+  <string name="New_folder">Папка</string>
+  <string name="New_file">Файл</string>
+  <string name="New_FTP_connection">FTP з\'єднання</string>
+  <string name="New_SFTP_connection">SFTP з\'єднання</string>
+  <string name="New_SMB_connection">SMB з\'єднання</string>
+  <string name="New_cloud_connection">Мережеве сховище</string>
+  <!-- "Actions" popup -->
+  <string name="Copy">Копіювати</string>
+  <string name="Cut">Вирізати</string>
+  <string name="Paste">Вставити</string>
+  <string name="Delete">Видалити</string>
+  <string name="Properties">Властивості</string>
+  <string name="Select_all">Обрати все</string>
+  <string name="Select">Виділити</string>
+  <!-- "Jump" popup -->
+  <string name="Device">Пристрій</string>
+  <string name="Photos">Фото</string>
+  <string name="Downloads">Завантаження</string>
+  <string name="Network">Мережа</string>
+  <string name="Bookmarks">Закладки</string>
+  <string name="No_bookmarks">Немає</string>
+  <!-- "Menu" popup -->
+  <string name="View">Вигляд</string>
+  <string name="Sort">Сортувати</string>
+  <string name="Search">Пошук</string>
+  <string name="Operations">Дії</string>
+  <string name="Manage_bookmarks">Управління закладками</string>
+  <string name="File_sharing">Передача файлів</string>
+  <string name="Settings">Налаштування</string>
+  <string name="Exit">Вихід</string>
+  <!-- "Network" popup -->
+  <string name="Cloud_storage">Мережеве сховище</string>
+  <!-- "Device" popup -->
+  <string name="System_root">Корінь системи</string>
+  <string name="SD_card">SD картка</string>
+  <string name="Internal_memory">Внутрішня пам\'ять</string>
+  <string name="USB_drive_x">USB диск %x</string>
+  <!-- "View" popup -->
+  <string name="View_mode">Режим перегляду</string>
+  <string name="List">Список</string>
+  <string name="Detailed_list">Детальний список</string>
+  <string name="Grid">Сітка</string>
+  <string name="Detailed_grid">Детальна сітка</string>
+  <!-- "Sort" popup -->
+  <string name="Sort_files_by">Сортувати за</string>
+  <string name="File_name">Ім\'я файлу</string>
+  <string name="File_size">Розмір файлу</string>
+  <string name="File_type">Тип файлу</string>
+  <string name="Modified_date">Дата зміни</string>
+  <string name="Ascending">Висхідний</string>
+  <string name="Descending">Низхідний</string>
+  <string name="In_order">У порядку</string>
+  <!-- Browser switch popup -->
+  <string name="Active_browser">Активний перегляд</string>
+  <string name="Close_all">Закрити усі</string>
+  <string name="In_background">У фоні</string>
+  <!-- Context menu -->
+  <string name="Open_with">Відкрити за допомогою...</string>
+  <string name="Open_in_bg">Відкрити у фоні</string>
+  <string name="Send">Надіслати</string>
+  <string name="Bookmark">Закладка</string>
+  <string name="Rename">Перейменувати</string>
+  <string name="Extract">Видобути</string>
+  <string name="Extract_to">Видобути до</string>
+  <string name="Archive">Архів</string>
+  <string name="Paste_to_x">Вставити до \"%\"</string>
+  <!-- Dialogs -->
+  <string name="OK">OK</string>
+  <string name="Cancel">Скасувати</string>
+  <string name="Yes">Так</string>
+  <string name="No">Ні</string>
+  <!-- New folder/file dialog -->
+  <string name="Enter_the_name">Введіть ім\'я</string>
+  <!-- New connection Dialog -->
+  <string name="Display_name">Назва</string>
+  <string name="May_be_empty">необов\'язково</string>
+  <string name="Remote_path">Віддалений шлях</string>
+  <string name="Port">Порт</string>
+  <string name="User_name">Ім\'я користувача</string>
+  <string name="Password">Пароль</string>
+  <string name="Repeat_the_password">Повторіть пароль</string>
+  <string name="Authentication_method">Метод автентифікації</string>
+  <string name="Server">Сервер</string>
+  <string name="Connection_type">Тип з\'єднання</string>
+  <string name="Scan">Сканувати</string>
+  <string name="Computer_name_or_IP_adress">Ім\'я ком\'ютера або IP адреса</string>
+  <string name="Looking_for_computers">Пошук комп\'ютерів</string>
+  <string name="Share">SMB роздача</string>
+  <!-- Auth methods -->
+  <string name="Ask_for_password_each_time">Запитувати пароль завжди</string>
+  <string name="Store_encrypted_password">Зберігати зашифрований пароль</string>
+  <string name="No_password_required">Пароль не потрібен</string>
+  <string name="Anonymous">Анонімний</string>
+  <string name="Log_in_as_a_guest">Увійти як гість</string>
+  <!-- FTP types -->
+  <string name="FTP_no_encryption">FTP (без шифрування)</string>
+  <string name="FTPS_implicit_encryption">FTPS (неявне шифрування)</string>
+  <string name="FTPES_explicit_encryption">FTPES (явне шифрування)</string>
+  <!-- Search activity -->
+  <string name="Manual_search">Ручний пошук</string>
+  <string name="Results_from">Результати з:</string>
+  <string name="No_results">Немає</string>
+  <string name="Matches">Співпадіння</string>
+  <string name="Selected">Вибрано</string>
+  <string name="Match_mode">Режим відбору</string>
+  <string name="Match_start">Старт відбору</string>
+  <string name="Match_any">Підібрати будь-який</string>
+  <string name="Match_end">Кінець відбору</string>
+  <!-- Operations activity -->
+  <string name="History_is_empty">Історія пуста</string>
+  <string name="Current_operation">Поточні дії</string>
+  <string name="No_pending_operation">Немає дій</string>
+  <string name="History">Історія</string>
+  <string name="Count">Кількість</string>
+  <string name="Date">Дата</string>
+  <string name="Source">Джерело</string>
+  <string name="Destination">Призначення</string>
+  <!-- Operation info -->
+  <string name="Operation">Операція</string>
+  <string name="From">З</string>
+  <string name="To">До</string>
+  <string name="Size">Розмір</string>
+  <string name="Speed">Швидкість</string>
+  <string name="ETA">Часу залишилося</string>
+  <string name="NA">Невизначено</string>
+  <string name="Current">Поточний</string>
+  <!-- Operation descriptions -->
+  <string name="File_copy">Копіювання</string>
+  <string name="File_move">Переміщення</string>
+  <string name="File_delete">Видалення</string>
+  <string name="Temporary_download">Тимчасове завантаження</string>
+  <string name="Creating_archive">Створення % архіву</string>
+  <string name="Extracting_archive">Видобування % архіву</string>
+  <string name="X_has_been_completed">% завершено.</string>
+  <string name="X_has_failed">% невдало.</string>
+  <string name="Tap_to_show_details">Натисніть для деталей</string>
+  <string name="Pending_cancel_request">Скасування</string>
+  <string name="File_operation">Операція</string>
+  <!-- Bookmark manager -->
+  <string name="Bookmark_manager">Керування закладками</string>
+  <string name="Edit">Редагування</string>
+  <string name="Disconnect">Роз\'єднати</string>
+  <string name="Delete_all">Видалити усі</string>
+  <string name="Wifi_toggle">Перемкнути на WiFi</string>
+  <string name="Wifi_settings">Налаштування WiFi</string>
+  <string name="Disconnect_all">Роз\'єднати</string>
+  <string name="Connected">З\'єднано</string>
+  <string name="Not_connected">Роз\'єднано</string>
+  <string name="on">Увімкнено</string>
+  <string name="Local_bookmarks">Локальні закладки</string>
+  <string name="FTP_bookmarks">FTP закладки</string>
+  <string name="SFTP_bookmarks">SFTP закладки</string>
+  <string name="SMB_bookmarks">SMB закладки</string>
+  <string name="Cloud_bookmarks">Мережеві закладки</string>
+  <string name="Edit_bookmark">Редагувати закладки</string>
+  <string name="Name">Ім\'я</string>
+  <string name="Path">Шлях</string>
+  <!-- Dir picker -->
+  <string name="Pick_a_directory">Папка</string>
+  <!-- Cloud storage dialog -->
+  <string name="Cloud_storage_services">Мережеві служби</string>
+  <string name="Cloud_services_description">Оберіть службу</string>
+  <!-- File sharing -->
+  <string name="File_sharing_active">Роздача активна</string>
+  <string name="ftp_server_hint">Для з\'єднання, наберіть адресу сервера у вікні Windows Explorer або використовуйте FTP-клієнт.</string>
+  <string name="You_cannot_share_root_directory">Неможливо надати доступ до кореневої папки.</string>
+  <string name="File_sharing_stopped">Зупинено</string>
+  <string name="None">Немає</string>
+  <string name="You_have_to_be_connected_to_the_LAN_network">Потрібно бути приєднаним до LAN мережі</string>
+  <string name="Active">Активний</string>
+  <string name="Inactive">Неактивний</string>
+  <string name="FTP_Server">FTP сервер</string>
+  <string name="Shared_directory">Папка</string>
+  <string name="Type_to_change">Натисніть щоб змінити</string>
+  <string name="No_password_set">Пароль не призначено</string>
+  <string name="Status">Статус</string>
+  <string name="Server_address">Адреса сервера</string>
+  <string name="Start">Старт</string>
+  <string name="Stop">Зупинити</string>
+  <!-- Archive dialog -->
+  <string name="Create_archive_dialog_title">Створити архів</string>
+  <string name="Archive_name">Ім\'я архіву</string>
+  <string name="Compression">Стиснення</string>
+  <string name="Format">Формат</string>
+  <string name="Use_password_protection">Використати захист паролем</string>
+  <string name="Fast">Швидкий</string>
+  <string name="Normal">Нормальний</string>
+  <string name="Good">Кращий</string>
+  <string name="Best">Найкращий</string>
+  <!-- File properties -->
+  <string name="Content_summary">Загальне</string>
+  <string name="File_types">Типи файлів</string>
+  <string name="Top_10_files">10 найбільших</string>
+  <string name="Location">Розміщення</string>
+  <string name="Type">Тип</string>
+  <string name="Parent_path">Шлях</string>
+  <string name="Last_modified">Змінено</string>
+  <string name="Directory">Папка</string>
+  <string name="Unknown">Невідомо</string>
+  <string name="Symbolic_link">Символьне посилання</string>
+  <string name="Link_target">Об\'єкт посилання</string>
+  <string name="Open">Відкрити</string>
+  <string name="Open_directory">Відкрити теку</string>
+  <string name="MD5">MD5</string>
+  <string name="Calculate">Порахувати</string>
+  <string name="Compare">Порівняти</string>
+  <string name="Paste_to_compare">Вставити для порівняння</string>
+  <string name="Files">Файли</string>
+  <string name="Folders">Папки</string>
+  <string name="Calculation_error">Помилка підрахунку</string>
+  <string name="Content">Вміст</string>
+  <string name="Other_used">Інше</string>
+  <string name="Free_space">Вільно</string>
+  <string name="Usage">Використано</string>
+  <string name="Attributes">Атрибути</string>
+  <string name="Read">Читання</string>
+  <string name="Write">Запис</string>
+  <string name="Hidden">Прихований</string>
+  <string name="Additional_info">Додаткова інформація</string>
+  <string name="Percent">Процент</string>
+  <string name="Music">Аудіо</string>
+  <string name="Pictures">Фото</string>
+  <string name="Videos">Відео</string>
+  <string name="Archives">Архіви</string>
+  <string name="Documents">Документи</string>
+  <string name="Change">Змінити</string>
+  <string name="Execute">Виконати</string>
+  <string name="Owner">Власник</string>
+  <string name="Group">Група</string>
+  <string name="Others">Інші</string>
+  <string name="Owners">Власники</string>
+  <string name="Permissions">Дозволи</string>
+  <string name="Set">Встановити</string>
+  <string name="Used_space">Використане місце</string>
+  <string name="Free_space">Вільно</string>
+  <string name="Total_size">Загальний розмір</string>
+  <string name="Artist">Виконавець</string>
+  <string name="Title">Заголовок</string>
+  <string name="Duration">Тривалість</string>
+  <string name="Resolution">Роздільна здатність</string>
+  <string name="Recorded">Записано</string>
+  <string name="Width">Ширина</string>
+  <string name="Height">Висота</string>
+  <string name="Manufacturer">Виробник</string>
+  <string name="Camera_model">Модель камери</string>
+  <string name="Software">Програма</string>
+  <string name="Orientation">Орієнтація</string>
+  <string name="Exposure_time">Час експозиції</string>
+  <string name="Exposure_bias">Зміщення</string>
+  <string name="White_balance">Баланс білого</string>
+  <string name="Focal_length">Фокусна відстань</string>
+  <string name="Aperture_size">Діафрагма</string>
+  <string name="Flash">Спалах</string>
+  <!-- Dialogs again -->
+  <!-- File exists dialog -->
+  <!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
+    	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+  <string name="File_exists">Файл вже існує</string>
+  <string name="Skip">Пропустити</string>
+  <string name="Overwrite">Переписати</string>
+  <string name="Merge">Об\'єднати</string>
+  <string name="Keep_both">Зберегти обидва</string>
+  <string name="Remember_action">Запам\'ятати дію</string>
+  <string name="Keep_the_old_file">Залишити старий</string>
+  <string name="The_new_file_will_have_its_name_changed">Ім\'я нового файлу буде змінено</string>
+  <string name="Replace_the_file_with_this">Замінити цим файлом</string>
+  <string name="Create_master_password">Створити пароль</string>
+  <string name="Choose_an_activity_to_open_the_file">Оберіть додаток щоб відкрити</string>
+  <string name="Always_use_this_application">Завжди використовувати цей додаток</string>
+  <string name="Send_the_file_using">Надіслати через</string>
+  <string name="Progress">Прогрес</string>
+  <string name="Minimize">Сховати</string>
+  <string name="Pause">Пауза</string>
+  <string name="Resume">Продовжити</string>
+  <string name="Dismiss">Відміна</string>
+  <string name="Abort_operation">Скасування операції</string>
+  <string name="There_is_already_an_operation_running">Виконується операція. Зачекайте завершення.</string>
+  <!-- Question dialogs -->
+  <string name="Are_you_sure_you_want_to_clear_the_history">Ви дійсно бажаєте видалити історію?</string>
+  <string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Ви дійсно бажаєте видалити кеш іконок?</string>
+  <string name="Are_you_sure_you_want_to_delete_temporary_files">Ви дійсно бажаєте видалити тимчасові файли?</string>
+  <string name="It_is_time_for_sheduled_indexing">Час запланованої індексації. Виконати зараз?</string>
+  <string name="Folder_exists_descr">Така папка уже присутня. Що бажаєте робити?</string>
+  <string name="File_exists_descr">Такий файл уже присутній. Що бажаєте робити?</string>
+  <string name="Are_you_sure_you_want_to_delete">Бажаєте видалити \"%\"?</string>
+  <string name="Are_you_sure_to_abort_current_operation">Бажаєте перервати операцію?</string>
+  <string name="Are_you_sure_you_want_to_delete_all_bookmarks">Видалити усі закладки?</string>
+  <string name="Are_you_sure_you_want_to_delete_bookmark">Бажаєте видалити \"%\" ?</string>
+  <string name="Reindex_prompt">Буде запущено індексацію. Це займе кілька хвилин, продовжувати?</string>
+  <string name="Clear_index_prompt">Очистити кеш індексації? Операцію неможливо буде відмінити.</string>
+  <string name="Are_you_sure_to_stop_indexing">Зупинити індексацію?</string>
+  <string name="Are_you_sure_you_want_to_clear_file_type_associations">Очистити асоціації файлів?</string>
+  <string name="Changes_have_been_made_to_the_file">Відбулися зміни у "%". Бажаєте їх зберегти?</string>
+  <string name="Chown_confirm">Бажаєте змінити власників?</string>
+  <string name="Busybox_request">Схоже BusyBox не встановлено в системі. Він потрібен для root-доступу. Бажаєте встановити зараз?</string>
+  <!-- Information dialogs -->
+  <string name="SkyDrive_doesnt_support_x_files">SkyDrive не підтримує \"%\" файли. Операцію скасовано.</string>
+  <string name="Operation_not_supported">Операція не підтримується</string>
+  <string name="You_have_to_provide_a_password">Ви повинні вказати пароль</string>
+  <string name="Insufficient_space" formatted="false">Недостатньо місця для завершення дії. Розмір: %, доступно: %.</string>
+  <string name="Command_executed_successfully">Команду виконано успішно</string>
+  <string name="Deleting_data">Видалення даних</string>
+  <string name="Done">Завершено</string>
+  <string name="Preparing_for_operation">Підготовка...</string>
+  <string name="Connecting">З\'єднання</string>
+  <string name="Connecting_to_x">Під\'єднання до \"%\"</string>
+  <string name="File_is_too_big">Файл завеликий. Підтримується редагування файлів до 75 кб. Підтримка більших буде скоро.</string>
+  <string name="Operation_history_has_been_cleared">Історію дій очищено</string>
+  <string name="Encrypted_archive">Зашифрований архів</string>
+  <string name="Enter_the_password">Введіть пароль</string>
+  <string name="Confirmation">Підтвердження</string>
+  <string name="Input_request">Запит</string>
+  <string name="Message">Повідомлення</string>
+  <string name="Warning">Увага!</string>
+  <string name="You_did_not_specify_a_password">Ви не вказали пароль</string>
+  <string name="Reading_archive">Читання архіву</string>
+  <string name="Reading_archive_x">Читання архіву \"%\"</string>
+  <string name="Storage_not_available">Недоступне сховище</string>
+  <string name="The_password_given_is_incorrect">Вказаний пароль не вірний</string>
+  <string name="You_did_not_specify_a_server_name">Ви не вказали ім\'я серверу</string>
+  <string name="You_did_not_specify_a_computer_name">Ви не вказали ім\'я комп\'ютера</string>
+  <string name="You_did_not_specify_a_port_number">Ви не вказали номер порта</string>
+  <string name="You_did_not_specify_user_name">Ви не вказали ім\'я користувача</string>
+  <string name="Indexing">Індексація</string>
+  <string name="Indexing_in_progress">Триває індексація</string>
+  <string name="Indexing_paused">Індексацію призупинено</string>
+  <string name="Indexing_has_been_completed">Індексацію завершено</string>
+  <string name="Indexing_has_been_aborted">Індексацію скасовано</string>
+  <string name="Tap_to_dismiss">Натисніть щоб скасувати</string>
+  <string name="Tap_top_open">Натисніть щоб відкрити</string>
+  <string name="File_is_ready_to_open">Файл готовий для відкриття</string>
+  <string name="Operation_aborted_by_user">Дію скасовано користувачем</string>
+  <string name="You_cant_delete_this_item">Неможливо видалити елемент</string>
+  <string name="Indexing_service">Cлужба індексації</string>
+  <string name="Only_local_file_can_be_added_to_the_archive">Додати в архів можливо лише локальні файли</string>
+  <string name="Bookmark_already_exists">Закладка уже існує</string>
+  <string name="Added_to_bookmarks">\"%\" додано у закладки</string>
+  <string name="Rename_a_file">Перейменування файлу</string>
+  <string name="Input_was_left_blank">Порожній ввід</string>
+  <string name="File_named_already_exists">Файл з назвою \"%\" уже існує</string>
+  <string name="Confirm_delete">Підтвердження видалення</string>
+  <string name="You_cant_create_an_archive_here">Неможливо створити архів тут</string>
+  <string name="Cannot_connect_to">Неможливо з\'єднатись з \"%\"</string>
+  <string name="You_are_not_logged_in">Ви не увійшли</string>
+  <string name="Can_not_create_the_directory">Неможливо створити каталог</string>
+  <string name="Beta_expired">Бета-версію прострочено</string>
+  <string name="Can_not_create_the_file">Неможливо створити файл</string>
+  <string name="Uknown_file_type">Невідомий тип файлу</string>
+  <string name="No_activity_found_to_open_this_file">Незнайдено додатку для відкриття</string>
+  <string name="You_cant_send_a_folder">Неможливо надіслати папку</string>
+  <string name="Indexing_has_been_unscheduled">Розклад змінено</string>
+  <string name="Scheduled_indexing">Запланована індексація</string>
+  <string name="Tap_to_start">Натисніть для початку</string>
+  <string name="Are_you_sure_you_want_to_delete_items">Бажаєте видалити % елемент{1:|2-4:а|_2-4:а|__:ів}?</string>
+  <string name="X_files_deleted">% файл{1:|2-4:а|_2-4:а|__:ів} видалено.</string>
+  <string name="X_files_copied">% файл{1:|2-4:а|_2-4:а|__:ів} скопійовано.</string>
+  <string name="X_files_moved">% файл{1:|2-4:а|_2-4:а|__:ів} переміщено.</string>
+  <string name="X_items">% елемент{1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Deleting_X_files">Видалення % файл{1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Copying_X_files">Копіювання % файл{1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Moving_X_files">Переміщенння % файл{1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Indexing_scheduled_at_X_every_Y">Індексацію призначено на %x кожен %y д{1:ень|__:ень}</string>
+  <!-- Explanation of above
+    	
+    		 	In english things are simple because we have 1 file and multiple files.
+    		 	1 file, 2 files, 3 files and so on...
+    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+    			
+    			But let's take polish for example. File means 'Plik'. We have:
+    			0 plików
+    			1 plik
+    			2, 3, 4 pliki
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    			but.. 22, 23 pliki
+    			and 26, 27 plików
+    			Complicated, huh?
+    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+    			
+    			If you have problems creating this pattern for your language, contact me.
+    			
+    			Quick reference:
+    			'{' - starts the pattern
+    			'}' - ends the pattern
+    			'|' - rule divider
+    			':' - separates range from the associated suffix
+    			'_' - any digit
+    			'-' - range
+    			
+    			Examples:
+    			1:s 	= for single 1 give 's' suffix
+    			3:		= for single 3 give no suffix
+    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    			__:s	= give 's' for any number
+    			
+    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    			there should be always the __:something pattern at the end.
+    	
+    	-->
+  <!-- Open as dialog -->
+  <string name="Open_as">Відкрити як...</string>
+  <string name="Choose_a_preferred_type">Обрати переважний тип</string>
+  <string name="Text_file">Текст</string>
+  <string name="Image_file">Зображення</string>
+  <string name="Music_file">Аудіо</string>
+  <string name="Video_file">Відео</string>
+  <string name="ZIP_archive">ZIP архів</string>
+  <!-- File picker -->
+  <string name="Create_shortcut">Створити ярлик</string>
+  <string name="Shortcut_tip">Щоб створити ярлик до папки виберіть \"Створити ярлик\" з контекстного меню.</string>
+  <!-- Text editor -->
+  <string name="Wrap_lines">Згортати стрічки</string>
+  <string name="Font_size">Розмір шрифту</string>
+  <string name="Font">Шрифт</string>
+  <string name="App_default">по-замовчуванню</string>
+  <string name="System_default">Системний</string>
+  <string name="Serif">Serif</string>
+  <string name="Monospace">Monospace</string>
+  <string name="File_saved_successfully">Файл збережено успішно</string>
+  <!-- Preferences -->
+  <string name="Appearance">Вигляд</string>
+  <string name="Theme">Тема</string>
+  <string name="Choose_between_preinstalled_themes">Оберіть тему з поміж інстальованих</string>
+  <string name="Light">Світла</string>
+  <string name="Dark">Темна</string>
+  <string name="Toggle_visibility_of_hidden_files">Видимість прихованих файлів</string>
+  <string name="Show_hidden_files">Показати приховані</string>
+  <string name="Show_file_permissions">Показати дозволи</string>
+  <string name="Show_file_permissions_summary">Показувати Unix дозволи замість дати зміни(лише для root).</string>
+  <string name="Date_format">Формат дати</string>
+  <string name="Customize_date_format">Змінити формат дати</string>
+  <string name="Time_format">Формат часу</string>
+  <string name="Customize_time_format">Змінити формат часу</string>
+  <string name="Show_fast_scroll_thumb_in_file_list">Показати піктограму швидкого гортання</string>
+  <string name="Use_fast_scroll">Використовувати швидке гортання</string>
+  <string name="Low_quality_thumbnails">Піктограми низької якості</string>
+  <string name="Low_quality_thumbnails_summary">Для зменшення навантаження на пам\'ять</string>
+  <string name="Portrait_fullscreen">Портретний режим на весь екран</string>
+  <string name="Portrait_fullscreen_summary">Сховати статус-панель у портретному режимі</string>
+  <string name="Landscape_fullscreen">Альбомний режим на весь екран</string>
+  <string name="Landscape_fullscreen_summary">Сховати статус-панель у альбомному режимі</string>
+  <string name="File_list_size">Розмір списку (портрет)</string>
+  <string name="Adjust_size_of_the_file_list">Налаштувати розмір списку факйлів</string>
+  <string name="Landscape_file_list_size">Розмір списку (альбом)</string>
+  <string name="Adjust_size_of_the_file_list_in_landscape">Налаштувати розмір списку факйлів</string>
+  <string name="Small">Малий</string>
+  <string name="Normal">Нормальний</string>
+  <string name="Big">Великий</string>
+  <string name="Large">Large</string>
+  <string name="Extra_small">Дуже малий</string>
+  <string name="Hide_exit_button">Приховати кнопку виходу</string>
+  <string name="Hide_exit_button_summary">Щоб вийти, утримуйте кнопку "назад"</string>
+  <string name="Startup">Запуск</string>
+  <string name="Remember_last_folder">Пам\'ятати останні папки</string>
+  <string name="Will_start_with_recently_viewed_directories">Збереження стану панелей при виході</string>
+  <string name="First_panel_default_dir">Папка для першої панелі</string>
+  <string name="Second_panel_default_dir">Папка для другої панелі</string>
+  <string name="Change_pictures_directory">Папка з фото</string>
+  <string name="Change_downloads_directory">Папка завантажень</string>
+  <string name="Drag_and_drop">Drag and Drop</string>
+  <string name="Action_for_drop_inside_the_panel">Дія у межах одної панелі</string>
+  <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетягування фаулу на папку у цій же панелі</string>
+  <string name="Action_for_drop_to_the_second_panel">Дія в двох панелях</string>
+  <string name="Dropping_an_item_to_the_second_panel">Перетягування файлу в іншу панель</string>
+  <string name="Move">Переміщення</string>
+  <string name="Security">Безпека</string>
+  <string name="Master_password_prompt">Solid Explorer використовує головний пароль для шифрування ваших логінів та паролів. Якщо ви турбуєтесь про безпеку, рекомендується використовувати цю опцію. Запит головного паролю відбуватиметься лише один раз на сеанс роботи. У іншому випадку використовується стандартне шифрування без паролю. Бажаєте увімкнути опцію?</string>
+  <string name="Disable_master_password_warning">Disabling master password will cause switching to the default password. You will never be asked for it. Login credentials will still be encrypted. Do you want to proceed?</string>
+  <string name="Enable_master_password_warning">Якщо у вас є закладки шифровані за допомогою паролю за замовчуванням, їх буде вилучено. Продовжувати?</string>
+  <string name="Enable_master_password">Увімкнення головного паролю</string>
+  <string name="Too_weak_password">Пароль повинен містити хоча б 6 знаків, але не більше ніж 16</string>
+  <string name="Enter_the_master_password">Введіть головний пароль</string>
+  <string name="Enter_a_new_master_password">Введіть новий головний пароль</string>
+  <string name="Encrypt_all_login_ceredentials_with_a_master_password">Шифрувати усі реквізити за допомогою головного паролю</string>
+  <string name="Set_master_password">Зміна головного паролю</string>
+  <string name="All_passwords_will_be_reencrypted">Усі  паролі буде перешифровано</string>
+  <string name="I_dont_remember_my_old_password">Я не пам\'ятаю мій старий пароль</string>
+  <string name="Reset_password_warning">Увага! Якщо встановите новий пароль зараз, тоді усі закладки створені з старим буде видалено.</string>
+  <string name="Old_password">Старий пароль</string>
+  <string name="New_password">Новий пароль</string>
+  <string name="Master_password_has_been_disabled">Головний пароль вимкнено</string>
+  <string name="Passwords_do_not_match">Пролі не співпадають</string>
+  <string name="Password_is_too_short">Пароль занадто короткий</string>
+  <string name="Search_interface">Інтерфейс пошуку</string>
+  <string name="Search_key_starts_filtering">Клавіша пошуку запускає фільтр </string>
+  <string name="Search_key_starts_filtering_summary">Відкрити фільтрований список замість запуску пошуку</string>
+  <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Підбирати по початку слова під час фільтрування</string>
+  <string name="Filter_words_from_the_beginning">Фільтрування з початку</string>
+  <string name="Customize_indexing_engine_behaviour">Підлаштувати рушій індексації</string>
+  <string name="Indexing_engine">Рушій індексації</string>
+  <string name="Reindex_now">Переіндексувати зараз</string>
+  <string name="Refresh_index_database">Оновлення бази даних індексації. Змін не відбудется, поки процес не буде завершено.</string>
+  <string name="Clear_index_data">Очищення індексу</string>
+  <string name="Delete_all_index_data">Видалити усі дані індексації</string>
+  <string name="Reindex_on_media_mount">Переіндексовувати при монтуванні медіа</string>
+  <string name="Reindex_storage_device_when_it_is_mounted">Переіндексовувати при монтуванні накопичувача (рекомендовано)</string>
+  <string name="Shedule_indexing">Розклад індексування</string>
+  <string name="Perform_reindex_every_given_period">Виконувати індексацію через вказаний період</string>
+  <string name="Set_time_and_period">Встановити час та період</string>
+  <string name="The_time_when_the_indexing_will_be_triggered">Час коли запускати індексацію </string>
+  <string name="Maximum_index_age">Максимальна давність індексу</string>
+  <string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Як довго зберігати інформацію індексу за відсутності відповідного файлу</string>
+  <string name="one_day">1 день</string>
+  <string name="two_days">2 дні</string>
+  <string name="five_days">5 днів</string>
+  <string name="One_week">Тиждень</string>
+  <string name="Choose_interval">Оберіть інтервал</string>
+  <string name="three_days">3 дні</string>
+  <string name="How_often_indexing_will_be_performed">Як часто потрібно індексувати</string>
+  <string name="Set_period">Встановити період</string>
+  <string name="Set_time">Встановити час</string>
+  <string name="Show_notifications">Відображати сповіщення</string>
+  <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Відображати сповіщення коли індексацію завершено або скасовано</string>
+  <string name="Other">Інше</string>
+  <string name="Clear_persistent_data">Очистити накопичені дані</string>
+  <string name="Clear_persistent_data_summary">Видалити дані - кеш зображень, тимчасові файли, історія операцій, і т.і.</string>
+  <string name="Clear_thumbnail_cache">Очистити кеш зображень</string>
+  <string name="Clear_temporary_files">Очистити тимчасові файли</string>
+  <string name="Clear_operation_history">Очистити історію операцій</string>
+  <string name="Delete_all_image_previews">Видалити усі прев\'ю зображень</string>
+  <string name="Delete_all_temporary_files">Видалити усі тимчасові файли</string>
+  <string name="Delete_operation_history_entries">Видалити історію про усі виконані операції</string>
+  <string name="Clear_file_type_associations">Очистити асоціації файлів</string>
+  <string name="Clear_file_type_associations_summary">Видалити інформацію про те, якими додатками відкривати певні типи файлів</string>
+  <string name="Clear_temporary_files_on_exit">Очистити тимчасові файли при виході</string>
+  <string name="Temporary_files_will_be_removed_on_app_exit">Тимчасові файли буде видалено при виході з додатка</string>
+  <string name="Quick_start_guide">Короткий посібник</string>
+  <string name="Learn_about_main_features">Дізнатись про можливості Solid Explorer</string>
+  <string name="Help_make_Solid_Explorer_better">Зробити Solid Explorer краще</string>
+  <string name="Report_a_bug">Повідомити про помилку</string>
+  <string name="About">Про</string>
+  <string name="Author_version_and_changelog">Автор, версія та зміни</string>
+  <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+  <string name="Version">Версія</string>
+  <string name="Changelog">Зміни</string>
+  <string name="Whats_new">Що нового</string>
+  <string name="Author">Автор</string>
+  <string name="Functionality_for_future_releases">У майбутніх версіях</string>
+  <string name="Planned_features">Заплановані функції</string>
+  <!-- Other -->
+  <string name="Prefix">Префікс</string>
+  <string name="Expiration_message">Дякуємо, що користуєтесь Solid Explorer Beta. Для продовження тестування додатку, завантажте останню версію з Google Play.</string>
+  <string name="Empty">Пусто</string>
+  <string name="search_description">Пошук використовуючи Solid Explorer</string>
+  <string name="search_hint">Наберіть ім\'я файлу</string>
+  <string name="Save_file">Зберегти файл</string>
+  <string name="Solid_explorer_indexing_service">Служба індексації Solid Explorer</string>
+  <!-- acra -->
+  <string name="crash_toast_text">Ой! Solid Explorer несподівано завешив роботу. Будь ласка, надішліть повідомлення розробнику, щоб допомогти йому вирішити цю проблему!</string>
+  <string name="crash_notif_ticker_text">Несподівана помилка, будь ласка надішліть звіт...</string>
+  <string name="crash_notif_title">Solid Explorer завершив роботу...</string>
+  <string name="crash_notif_text">Натисніть тут, щоб допомогти вирішити проблему.</string>
+  <string name="crash_dialog_title">Solid Explorer завершив роботу</string>
+  <string name="crash_dialog_text">Несподівана помилка спричинила зупинку додатку. Будь ласка, допоможіть мені це виправити, надіславши дані про помилку.</string>
+  <string name="crash_dialog_comment_prompt">Опишіть нижче детальну інформацію про помилку. У більшості випадків неможливо відтворити проблему без вашого відгуку.</string>
+  <string name="crash_dialog_ok_toast">Дякую!</string>
+  <string name="Icon_designer">Дизайн піктограми</string>
+  <string name="Prefix">Префікс</string>
+  <string name="Translations">Переклад</string>
+  <string name="Translations_summary">Переклад на українську мову -\n Ярослав Хлопась \n motorslvrz6@gmail.com</string>
+  <string name="Empty">Пусто</string>
+  <string name="Press_once_again_to_exit">Щоб вийти, натисніть ще раз.</string>
+  <string name="View_in_DiskUsage">Переглянути у DiskUsage</string>
+  <string name="Retry">Спробувати ще раз</string>
+  <string name="Portrait">Портретний</string>
+  <string name="Landscape">Альбомний</string>
+  <string name="Customize_list">Налаштувати список</string>
+  <string name="Customize_list_summary">Налаштувати розмір іконок та тексту у списках</string>
+  <string name="Preview">Зразок</string>
+  <string formatted="false" name="Icon_size_pixels">Розмір іконки (max: % x %)</string>
+  <string name="Label_size">Назва</string>
+  <string name="Subtext_size">Деталі</string>
+  <string name="Label_size_points">Розмір тексту (max 35pt)</string>
+  <string name="Columns">Колонки</string>
+  <string name="No_computers_found">Комп\'ютерів не знайдено</string>
+  <string name="Local_directory">Локальна папка</string>
+  <string name="Default_panel">Панель за замовчуванням</string>
+  <string name="Destination_type">Тип призначення</string>
+  <string name="DiskUsage_not_installed">Схоже що, DiskUsage не встановлено. Ця програма докладно відображає використання пам\'яті. Бажаєте встановити її?</string>
+  <string name="Text_copied_to_clipboard">Текст скопійовано до буферу обміну</string>
+  <string name="Force_english">Англійська примусово</string>
+  <string name="Force_english_summary">Оберіть, якщо надаєте перевагу англійській мові. Набере чинності при наступному запуску.</string>
+  <string name="Encoding">Кодування</string>
+  <string name="Network_thumbnails">Завантажити іконки з мережі</string>
+  <string name="Network_thumbnails_summary">Завантаження іконок файлів через мобільну мережу</string>
+  <string name="Copy_to">Копіювати до</string>
+  <string name="Move_to">Перемістити до</string>
+  <string name="Shortcut">Ярлик</string>
+  <string name="Two_panels_in_landscape_summary">Відображати обидві панелі одночасно у альбомному режимі</string>
+  <string name="Two_panels_in_landscape">Дві панелі у альбомному реж.</string>
+  <string name="Restart_prompt">Потрібно перезавантажити додаток. Продовжити?</string>
+  <string name="Custom_color_scheme">Користувацька кольорова схема</string>
+  <string name="Custom_color_scheme_summary">Налаштувати кольорову схему. Відчутно вплине на час запуску додатку.</string>
+  <string name="Color_scheme">Кольорова схема</string>
+  <string name="Color_scheme_summary">Змінити відтінок та насиченість</string>
+  <string name="Change_color_scheme">Змінити кольорову схему</string>
+  <string name="Hue">Відтінок</string>
+  <string name="Saturation">Насиченість</string>
+  <string name="SolidExplorer_is_running">Solid Explorer працює</string>
+  <string name="Notification_shortcut">Ярлик сповіщення</string>
+  <string name="Notification_shortcut_summary">Помістити ярлик до стрічки сповіщень, коли додаток працює у фоні</string>
+  <string name="Please_wait">Будь ласка, зачекайте</string>
+  <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Бажаєте скопіювати до іншої панелі?</string>
+  <string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Бажаєте перемістити до іншої панелі?</string>
+  <string name="Image_not_loaded">Зображення не завантажено</string>
+  <string name="Target_SDK">Цільовий SDK</string>
+  <string name="Description">Опис</string>
+  <string name="Data_dir">Папка</string>
+  <!-- short word please -->
+  <string name="Installed">Інстальовано</string>
+  <string name="Updated">Оновлено</string>
+  <string name="Install">Встановити</string>
+  <string name="More">Більше</string>
+  <string name="Package_name">Ім\'я пакунка</string>
+  <string name="Map_view">Вигляд карти</string>
+  <string name="Street_view">Вигляд вулиці</string>
+  <string name="Ask">Питання</string>
+  <string name="Choose_an_action">Оберіть дію</string>
+  <string name="Folders_first">Спочатку папки</string>
+  <string name="Folders_first_summary">Показувати папки, потім файли.</string>
+  <string name="FAQ">FAQ</string>
+  <string name="FAQ_summary">Будь ласка, прочитайте FAQ, перш ніж запитувати</string>
+</resources>

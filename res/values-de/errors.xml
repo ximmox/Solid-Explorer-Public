@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Das Verzeichnis existiert nicht</string>
+    
+    <string name="Unable_to_read_the_file">Datei kann nicht gelesen werden</string>
+    <string name="Illegal_operation">Unzulässige Aktion</string>
+    
+    
+    <string name="Cannot_update_the_database">Datenbank kann nicht aktualisiert werden</string>
+    <string name="Error">Fehler</string>
+    
+    <string name="Invalid_password_for_user_x">Ungültiges Passwort für Benutzer \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Ungültiges Master-Passwort</string>
+    <string name="Unable_to_execute_shell_command">Shell Befehl kann nicht ausgeführt werden</string>
+    <string name="No_root_access_available">Kein Root-Zugang verfügbar</string>
+    <string name="Unable_to_read_root_directory">Stammverzeichnis kann nicht gelesen werden</string>
+    
+    <string name="Operation_has_failed">Der Vorgang ist fehlgeschlagen</string>
+    <string name="Invalid_file_path">Ungültiger Dateipfad</string>
+    
+    
+    <string name="Cannot_browse_to_x">Kann \&quot;%\&quot; nicht durchsuchen. Ein unbekannter Fehler ist aufgetreten.</string>
+    <string name="Cannot_write_to_the_system">Dateisystem kann nicht beschrieben werden. Mount zu Lese/Schreib-Recht ist fehlgeschlagen.</string>
+    <string name="Requested_file_x_has_not_been_found">Angeforderte Datei \&quot;%\&quot; wurde nicht gefunden.</string>
+    <string name="Unknown_read_write_exception">Unbekannte Lese/Schreib Ausnahmesituation.</string>
+    <string name="Invalid_url_x">Ungültige URL: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Fehler beim Zugriff auf das Master-Passwort.</string>
+    <string name="Operation_not_allowed">Vorgang nicht zulässig.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Keine Verbindung zu \&quot;%x\&quot; auf Port %y.</string>
+    <string name="Unable_to_resolve_host_x">Nicht möglich Hostname \&quot;%x\&quot; aufzulösen.</string>
+    <string name="Server_returned_illegal_response">Der Server liefert eine ungültige Antwort</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Es gab einen Fehler bei der Übertragung der Daten vom Server.</string>
+    <string name="Invalid_username_or_password">Benutzername oder Passwort ungültig.</string>
+    <string name="Internal_server_error">Interner Serverfehler.</string>
+    <string name="Server_response_x">Server-Antwort: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Nicht möglich die Datei zum Lesen zu öffnen.</string>
+    <string name="Unable_to_write_the_file_to_x">Datei kann nicht auf \&quot;%x\&quot; geschrieben werden.</string>
+    <string name="Unable_to_connect_to_the_x">Verbindung zu %x fehlgeschlagen.</string>
+    <string name="Unknown_error"> Ein unbekannter Fehler ist aufgetreten</string>
+    <string name="Cannot_create_directory_X">Verzeichnis \&quot;%x\&quot; kann nicht erstellt werden.</string>
+    
+</resources>

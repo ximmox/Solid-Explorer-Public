@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Le répertoire n\'existe pas</string>
+    
+    <string name="Unable_to_read_the_file">Impossible de lire le fichier</string>
+    <string name="Illegal_operation">Opération illégale</string>
+    
+    
+    <string name="Cannot_update_the_database">Impossible de mettre à jour la base de données</string>
+    <string name="Error">Erreur</string>
+    
+    <string name="Invalid_password_for_user_x">Mot de passe invalide pour l\'utilisateur \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Mot de passe Maître invalide</string>
+    <string name="Unable_to_execute_shell_command">Impossible d\'exécuter la commande shell</string>
+    <string name="No_root_access_available">Droit root non disponible</string>
+    <string name="Unable_to_read_root_directory">Impossible de lire le répertoire Root</string>
+    
+    <string name="Operation_has_failed">L\'opération a échouée</string>
+    <string name="Invalid_file_path">Chemin de fichier invalide</string>
+    
+    
+    <string name="Cannot_browse_to_x">Impossible d\'accéder à \&quot;%\&quot;. Erreur inconnue.</string>
+    <string name="Cannot_write_to_the_system">Impossible d\'écrire sur System. Monter en lecture/écriture a échoué.</string>
+    <string name="Requested_file_x_has_not_been_found">Le fichier \&quot;%\&quot; n\'a pas été trouvé.</string>
+    <string name="Unknown_read_write_exception">Erreur de lecture/écriture inconnue.</string>
+    <string name="Invalid_url_x">URL invalide: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Erreur lors de l\'accès au mot de passe Maître.</string>
+    <string name="Operation_not_allowed">Opération non autorisée.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Impossible de se connecter à \&quot;%x\&quot; sur le port %y.</string>
+    <string name="Unable_to_resolve_host_x">Impossible de résoudre le nom \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Le serveur a retourné une réponse illégale.</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Erreur lors du transfert de données depuis le serveur.</string>
+    <string name="Invalid_username_or_password">Utilisateur ou mot de passe invalide.</string>
+    <string name="Internal_server_error">Erreur interne au serveur.</string>
+    <string name="Server_response_x">Réponse du serveur: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Impossible d\'ouvrir le fichier pour lecture.</string>
+    <string name="Unable_to_write_the_file_to_x">Impossible d\'écrire le fichier vers \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Impossible de se connecter à %x.</string>
+    <string name="Unknown_error">Erreur inconnue</string>
+    <string name="Cannot_create_directory_X">Impossible de créer le dossier \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Impossible de démarrer le service sur le port %</string>
+    
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Директорията не съществува</string>
+    
+    <string name="Unable_to_read_the_file">Не мога да прочета файла</string>
+    <string name="Illegal_operation">Невалидна операция</string>
+    
+    
+    <string name="Cannot_update_the_database">Не мога да обновя базата данни</string>
+    <string name="Error">Грешка</string>
+    
+    <string name="Invalid_password_for_user_x">Невалидна парола за потребител \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Невалидна главна парола</string>
+    <string name="Unable_to_execute_shell_command">Не мога да изпълня шел команда</string>
+    <string name="No_root_access_available">Няма наличен root достъп</string>
+    <string name="Unable_to_read_root_directory">Не мога да прочета root директорията</string>
+    
+    <string name="Operation_has_failed">Неуспешна операция</string>
+    <string name="Invalid_file_path">Невалиден път до файл</string>
+    
+    
+    <string name="Cannot_browse_to_x">Не мога да отида до \&quot;%\&quot;. Възникна неизвестна грешка.</string>
+    <string name="Cannot_write_to_the_system">Не мога да пиша във файловата система. Неуспешно монтиране за четене/запис.</string>
+    <string name="Requested_file_x_has_not_been_found">Искания файл \&quot;%\&quot; не е намерен.</string>
+    <string name="Unknown_read_write_exception">Неизвестно четене/запис изключение.</string>
+    <string name="Invalid_url_x">Невалиден URL: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Възникна грешка при достъп до главната парола.</string>
+    <string name="Operation_not_allowed">Непозволена операция.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Не мога да се свържа към \&quot;%x\&quot; на порт %y.</string>
+    <string name="Unable_to_resolve_host_x">Не може да се разреши хост име \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Сървъра върна невалиден отговор</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Възникна грешка при прехвърляне на данни от сървъра.</string>
+    <string name="Invalid_username_or_password">Невалидно потребителско име или парола.</string>
+    <string name="Internal_server_error">Вътрешта грешка в сървъра.</string>
+    <string name="Server_response_x">Отговор на сървъра: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Не мога да отворя файла за четене</string>
+    <string name="Unable_to_write_the_file_to_x">Не мога да запиша файла в \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Не мога да се свържа с %x.</string>
+    <string name="Unknown_error">Неизвестна грешка</string>
+    <string name="Cannot_create_directory_X">Не мога да създам директория \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Невъзможно стартиране на услуга на порт %</string>
+   
+    <string name="Invalid_position">Невалидна позиция</string>
+
+</resources>

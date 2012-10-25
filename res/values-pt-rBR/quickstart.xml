@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">O Solid Explorer tem dois painéis independentes de navegação de arquivos. Por exemplo, você pode ver o cartão SD num painel e os compartilhamentos do seu PC no outro. Assim você pode manejar arquivos com facilidade.</string>
+    <string name="page1_2">No modo retrato há apenas um painel visível. Para alternar entre painéis, basta deslizar para a esquerda ou direita. No modo paisagem verá os dois painéis ao mesmo tempo.</string>
+    <string name="page2_1">Você pode arrastar vários arquivos simultaneamente, tocando e segurando seus ícones e arrastando e largando no outro painel. No modo retrato, basta deslizar para a extremidade da tela e o segundo painel vai aparecer. Fácil e intuitivo.</string>
+    <string name="page2_2">Você também pode soltar os arquivos em uma pasta. Segure-os por meio segundo e a pasta abrirá. Depois é só soltá-los.</string>
+    <string name="page3_1">Para selecionar os arquivos rapidamente, toque no ícone. A barra de seleção irá aparecer com algumas funções úteis. Você pode ativar os botões \&quot;Copiar\&quot;, \&quot;Mover\&quot; e \&quot;Enviar\&quot; nas Preferências.</string>
+    <string name="page3_2">A única exceção, onde este recurso não funciona, é com a exibição em modo grade. Neste caso, você tem que ativar o modo de seleção no menu Organizar.</string>
+    <string name="page4_1">A pesquisa indexada oferece acesso rápido a arquivos localizados em qualquer parte do seu dispositivo. Você pode pesquisar em menos de um segundo! Esqueça a espera. Mas se o arquivo não for encontrado, toque na opção \'Pesquisa Manual\' para procurar arquivo por arquivo em seu dispositivo.</string>
+    <string name="page4_2">Você também pode pesquisar no seu dispositivo através do Google Search. Vá ao menu de configurações do Google Search e ative o Solid Explorer.</string>
+    <string name="page5_1">O Solid Explorer suporta os protocolos FTP, SFTP e SMB. Quando você inicia uma sessão, esta é automaticamente armazenada como um favorito. Você pode optar por criptografar a senha com a senha metre, que deve ser definida nas opções.</string>
+    <string name="page5_2">Possui uma conta de armazenamento na Núvem? Se assim for, você pode navegar pelos seus arquivos nos serviços Dropbox, Box, Google Drive e SkyDrive com facilidade.</string>
+    <string name="page6_1">Precisa enviar alguns arquivos por e-mail? Crie arquivos compactados ZIP e TAR, com compressão GZIP ou BZIP2, protegidos por senha.</string>
+    <string name="page6_2">O Solid Explorer suporta visualização e extração de arquivos compactados ZIP, RAR e TAR. Você pode navegar dentro do arquivo compactado como se fosse uma pasta.</string>
+    <string name="page7_1">O Solid Explorer fornece informações detalhadas sobre arquivos e pastas. Agora você já pode verificar o que consome seu espaço ou ver algumas estatísticas.</string>
+    <string name="page8_1">Cada função tem o seu lugar nos seus simpáticos popups. Eles foram cuidadosamente agrupados para garantir a melhor experiência de uso.</string>
+    <string name="page8_2">Quando você tem vários painéis em 2º plano, pode alternar facilmente entre eles.</string>
+    <string name="page9">Fico feliz que você tenha decidido experimentar o Solid Explorer. Espero que aproveite ao máximo todos os recursos que a aplicação oferece. Se se esquecer de alguma coisa, poderá ver este Guia Rápido novamente, nas Configurações. Obrigado!</string>
+    <string name="Start_using_solid_explorer">Comece a usar o Solid Explorer</string>
+    <string name="page0_1">Benvindo ao Solid Explorer - o gerenciador de arquivos mais intuitivo e atraente para Android. Por favor, leia este Guia Rápido para se familiarizar com tudo o que esta aplicação lhe oferece.</string>
+    <string name="Not_now">Agora não</string>
+    <string name="page0_2">Para começar, passe para o próximo tela</string>
+    <string name="Welcome">Benvindo</string>
+    <string name="Two_panels">Dois painéis</string>
+    <string name="Quick_selection">Seleção rápida</string>
+    <string name="Indexed_search">Pesquisa indexada</string>
+    <string name="Archives">Arquivos</string>
+    <string name="Detailed_information">Informação detalhada</string>
+    <string name="Useful_popups">Popups úteis</string>
+    <string name="Lets_start">Vamos começar!</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Você pode ler o guia mais tarde. Basta ir às configurações e selecionar a opção \&quot;Guia Rápido\&quot;.</string>
+    <string name="Thank_you">Obrigado!</string>
+    
+</resources>

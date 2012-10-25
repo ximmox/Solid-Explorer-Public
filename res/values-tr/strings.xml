@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <!-- bottom toolbar -->
+    <string name="New">Yeni</string>
+    <string name="Jump">Atla</string>
+    <string name="Filter">Filtre</string>
+    <string name="Menu">Menü</string>
+    <string name="Actions">Eylemler</string>
+    
+    <!-- "New" popup -->
+    <string name="New_folder">Dizin</string>
+    <string name="New_file">Dosya</string>
+    <string name="New_FTP_connection">FTP bağlantısı</string>
+    <string name="New_SFTP_connection">SFTP bağlantısı</string>
+    <string name="New_SMB_connection">SMB bağlantısı</string>
+    <string name="New_cloud_connection">Bulut bağlantısı</string>
+    
+    <!-- "Actions" popup -->
+    
+    <string name="Copy">Kopyala</string>
+    <string name="Cut">Kes</string>
+    <string name="Paste">Yapıştır</string>
+    <string name="Delete">Sil</string>
+    <string name="Properties">Özellikler</string>
+    <string name="Select_all">Hepsini Seç</string>
+    <string name="Select">Seç</string>
+    
+    <!-- "Jump" popup -->
+    
+    <string name="Device">Cihaz</string>
+    <string name="Photos">Resimler</string>
+    <string name="Downloads">İndirilenler</string>
+    <string name="Network">Ağ</string>
+    <string name="Bookmarks">Yer İmleri</string>
+    <string name="No_bookmarks">Yer İmi Yok</string>
+    
+    <!-- "Menu" popup -->
+    <string name="View">Görünüm</string>
+    <string name="Sort">Sırala</string>
+    <string name="Search">Ara</string>
+    <string name="Operations">İşlemler</string>
+    <string name="Manage_bookmarks">Yer İmlerini Düzenle</string>
+    <string name="File_sharing">Dosya Paylaşımı</string>
+    <string name="Settings">Ayarlar</string>
+    <string name="Exit">Çıkış</string>
+    
+    <!-- "Network" popup -->
+    <string name="Cloud_storage">Bulut depolama</string>
+    
+    <!-- "Device" popup -->
+     <string name="System_root">Sistem kökü</string>
+    <string name="SD_card">SD kartı</string>
+    <string name="Internal_memory">Yerel Hafıza</string>
+    <string name="USB_drive_x">USB Sürücüsü %x</string>
+    
+    <!-- "View" popup -->
+    <string name="View_mode">Görüntüleme Modu</string>
+    <string name="List">Liste</string>
+    <string name="Detailed_list">Detaylı Liste</string>
+    <string name="Grid">Izgara</string>
+    <string name="Detailed_grid">Detaylı Izgara</string>
+    
+    <!-- "Sort" popup -->
+    <string name="Sort_files_by">Dosyaları Sırala :</string>
+    <string name="File_name">Dosya Adı</string>
+    <string name="File_size">Dosya Boyutu</string>
+    <string name="File_type">Dosya Tipi</string>
+    <string name="Modified_date">Düzenleme Tarihi</string>
+    <string name="Ascending">Artan</string>
+    <string name="Descending">Azalan</string>
+    <string name="In_order">Sıralama </string>
+    
+    <!-- Browser switch popup -->
+    <string name="Active_browser">Aktif gezgin</string>
+    <string name="Close_all">Hepsini kapat</string>
+    <string name="In_background">Arkaplanda</string>
+    
+    
+    
+    <!-- Context menu -->
+    <string name="Open_with">Birlikte Aç...</string>
+    <string name="Open_in_bg">Arkaplanda Aç</string>
+    <string name="Send">Gönder</string>
+    <string name="Bookmark">Yer İmi</string>
+    <string name="Rename">Yeniden Adlandır</string>
+    <string name="Extract">Ayrıştır</string>
+    <string name="Extract_to">Hedefe Ayrıştır</string>
+    <string name="Archive">Arşiv</string>
+    <string name="Paste_to_x">\&quot;%\&quot; konumuna yapıştır.</string>
+    
+    
+    <!-- Dialogs -->
+    <string name="OK">Tamam</string>
+    <string name="Cancel">İptal</string>
+    <string name="Yes">Evet</string>
+    <string name="No">Hayır</string>
+    
+	    <!-- New folder/file dialog -->
+	    <string name="Enter_the_name">Bir ad giriniz</string>
+	    
+	    <!-- New connection Dialog -->
+	    <string name="Display_name">Görüntü Adı</string>
+	    <string name="May_be_empty">Boş olabilir</string>
+    	<string name="Remote_path">Uzak konum</string>
+    	<string name="Port">Port</string>
+    	<string name="User_name">Kullanıcı Adı</string>
+    	<string name="Password">Parola</string>
+    	<string name="Repeat_the_password">Parolayı tekrarlayın</string>
+    	<string name="Authentication_method">Kimlik doğrulama metotu</string>
+    	<string name="Server">Sunucu</string>
+    	<string name="Connection_type">Bağlantı tipi</string>
+    	<string name="Scan">Tara</string>
+    	<string name="Computer_name_or_IP_adress">Bilgisayar adı ya da IP adresi</string>
+    	<string name="Looking_for_computers">Bilgisayarlar taranıyor</string>
+    	<string name="Share">SMB paylaşımı</string>
+    	
+    		<!-- Auth methods -->
+    		<string name="Ask_for_password_each_time">Her seferinde parola sor</string>
+        	<string name="Store_encrypted_password">Depoda şifrelenmiş parola</string>
+        	<string name="No_password_required">Parola gerekmiyor</string>
+        	<string name="Anonymous">Anonim</string>
+        	<string name="Log_in_as_a_guest">Misafir olarak giriş yap</string>
+        	
+        	<!-- FTP types -->
+        	<string name="FTP_no_encryption">FTP (şifreleme yok)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (örtülü şifreleme)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (sarih şifreleme)</string>
+        
+    <!-- Search activity -->	
+    <string name="Manual_search">Manuel Arama</string>
+    <string name="Results_from">Sonuçlar:</string>
+    <string name="No_results">Sonuç yok</string>
+    <string name="Matches">Eşleşmeler</string>
+    <string name="Selected">Seçili</string>
+    <string name="Match_mode">Eşleşme Modu</string>
+    <string name="Match_start">Eşleşme başlangıcı</string>
+    <string name="Match_any">Herhangi bir eşleşme</string>
+    <string name="Match_end">Eşleşme sonu</string>
+    
+    <!-- Operations activity -->
+    <string name="History_is_empty">Geçmiş boş</string>
+    <string name="Current_operation">Şu anki işlem</string>
+    <string name="No_pending_operation">Bekleyen işlem yok</string>
+    <string name="History">Geçmiş</string>
+    <string name="Count">Toplam</string>
+    <string name="Date">Tarih</string>
+    <string name="Source">Kaynak</string>
+    <string name="Destination">Hedef</string>
+    
+    	<!-- Operation info -->
+    	<string name="Operation">İşlem</string>
+    	<string name="From">Kaynak</string>
+    	<string name="To">Hedef</string>
+    	<string name="Size">Boyut</string>
+    	<string name="Speed">Hız</string>
+    	<string name="ETA">Kalan</string>
+    	<string name="NA">M/D</string>
+    	<string name="Current">Şu anki</string>
+    	
+    	<!-- Operation descriptions -->
+    	<string name="File_copy">Dosya Kopyalama</string>
+    	<string name="File_move">Dosya Taşıma</string>
+    	<string name="File_delete">Dosya Silme</string>
+    	<string name="Temporary_download">Geçici İndirme</string>
+	<string name="Creating_archive">% Arşivi Yaratıldı</string>
+    	<string name="Extracting_archive">% Arşivi Ayrıştırıldı</string>
+    	<string name="X_has_been_completed">% İşlemi Tamamlandı</string>
+    	<string name="X_has_failed">% İşlemi Başarısız Oldu</string>
+    	<string name="Tap_to_show_details">Detayları Görmek İçin Dokunun</string>
+    	<string name="Pending_cancel_request">İptal İsteği Bekleniyor</string>
+    	<string name="File_operation">Dosya Operasyonu</string>
+    
+    <!-- Bookmark manager -->
+    <string name="Bookmark_manager">Yer imi yöneticisi</string>
+    <string name="Edit">Düzenle</string>
+    <string name="Disconnect">Bağlantıyı Kopar</string>
+    <string name="Delete_all">Hepsini Sil</string>
+    <string name="Wifi_toggle">Wi-Fi Aç/Kapat</string>
+    <string name="Wifi_settings">Wi-Fi ayarları</string>
+    <string name="Disconnect_all">Bütün bağlantıları kopart</string>
+    <string name="Connected">Bağlandı</string> 
+    <string name="Not_connected">Bağlı değil</string>
+    <string name="on">açık</string>
+    <string name="Local_bookmarks">Yerel</string>
+    <string name="FTP_bookmarks">FTP</string>
+    <string name="SFTP_bookmarks">SFTP</string>
+    <string name="SMB_bookmarks">SMB</string>
+    <string name="Cloud_bookmarks">Bulut Sunucu</string>
+    <string name="Edit_bookmark">Yer İmini Düzenle</string>
+    <string name="Name">İsim</string>
+    <string name="Path">Yol</string>
+    
+    <!-- Dir picker -->
+    <string name="Pick_a_directory">Bir Dizin Seçin</string>
+    
+    <!-- Cloud storage dialog -->
+    <string name="Cloud_storage_services">Bulut Depolama Servisleri</string>
+    <string name="Cloud_services_description">Bulut depolama servisinizi seçiniz</string>
+    
+    <!-- File sharing -->
+    <string name="File_sharing_active">Dosya paylaşımı aktif</string> <!-- CURRENT -->
+    <string name="ftp_server_hint">Bağlanmak için kullandığınız işletim sisteminin gezgini üzerinde adres çubuğundaki adresi yazabilir ya da bir FTP istemcisi kullanabilirsiniz.</string>
+    <string name="You_cannot_share_root_directory">Kök dizini paylaştıramazsınız</string>
+    <string name="File_sharing_stopped">Dosya paylaşımı durdu</string>
+    <string name="None">Hiçbiri</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Yerel bir ağa bağlı olmak zorundasınız</string>
+    <string name="Active">Çalışıyor</string>
+    <string name="Inactive">Çalışmıyor</string>
+    <string name="FTP_Server">FTP Sunucusu</string>
+    <string name="Shared_directory">Paylaşım Klasörü</string>
+    <string name="Type_to_change">Değiştirmek için yazın</string>
+    <string name="No_password_set">Parola ayarlanmadı</string>
+    <string name="Status">Durum</string>
+    <string name="Server_address">Sunucu Adresi</string>
+    <string name="Start">Başlat</string>
+    <string name="Stop">Durdur</string>
+    
+    
+    <!-- Archive dialog -->
+    <string name="Create_archive_dialog_title">Arşiv yarat</string>
+    <string name="Archive_name">Arşiv adı</string>
+    <string name="Compression">Sıkıştırma</string>
+    <string name="Format">Tür</string>
+    <string name="Use_password_protection">Parola Koruması Kullan</string>
+    <string name="Fast">Hızlı</string>
+    <string name="Normal">Normal</string>
+    <string name="Good">İyi</string>
+    <string name="Best">En İyi</string>
+    
+    <!-- File properties -->
+    <string name="Content_summary">İçerik Özeti</string>
+    <string name="File_types">Dosya Türleri</string>
+    <string name="Top_10_files">İlk 10 Dosya</string>
+    <string name="Location">Konum</string>
+    <string name="Type">Tip</string>
+    <string name="Parent_path">Ebeyen Dizin</string>
+    <string name="Last_modified">Son düzenlenme</string>
+    <string name="Directory">Dizin</string>
+    <string name="Unknown">Bilinmiyor</string>
+    <string name="Symbolic_link">Sembolik bağlantı</string>
+    <string name="Link_target">Bağlantı hedefi</string>
+    <string name="Open">Aç</string>
+    <string name="Open_directory">Dizini aç</string>
+    <string name="MD5">MD5</string>
+    <string name="Calculate">Hesapla</string>
+    <string name="Compare">Karşılaştır</string>
+    <string name="Paste_to_compare">Karşılaştırmak için yapıştır</string>
+    <string name="Files">Dosyalar</string>
+    <string name="Folders">Dizinler</string>
+    <string name="Calculation_error">Hesaplama hatası</string>
+    <string name="Content">İçerik</string>
+    <string name="Other_used">Diğer</string>
+    <string name="Free_space">Boş</string>
+    <string name="Usage">Kullanım</string>
+    <string name="Attributes">Özellikler</string>
+    <string name="Read">Yazma</string>
+    <string name="Write">Okuma</string>
+    <string name="Hidden">Gizli</string>
+    <string name="Additional_info">Ek Bilgi</string>
+    <string name="Percent">Yüzde</string>
+    <string name="Music">Müzik</string>
+    <string name="Pictures">Resimler</string>
+    <string name="Videos">Görüntüler</string>
+    <string name="Archives">Arşivler</string>
+    <string name="Documents">Dökümanlar</string>
+    <string name="Change">Değiştir</string>
+    <string name="Execute">Çalıştır</string>
+    <string name="Owner">Sahip</string>
+    <string name="Group">Grup</string>
+    <string name="Others">Diğerleri</string>
+    <string name="Owners">Sahipler</string>
+    <string name="Permissions">İzinler</string>
+    <string name="Set">Ayarla</string>
+    <string name="Used_space">Kullanılan alan</string>
+    <string name="Free_space">Boş alan</string>
+    <string name="Total_size">Toplam alan</string>
+    <string name="Artist">Sanatçı</string>
+    <string name="Title">Başlık</string>
+    <string name="Duration">Uzunluk</string>
+    <string name="Resolution">Çözünürlük</string>
+    <string name="Recorded">Kaydedildi</string>
+    <string name="Width">Genişlik</string>
+    <string name="Height">Yükseklik</string>
+    <string name="Manufacturer">Üretici</string>
+    <string name="Camera_model">Kamera Modeli</string>
+    <string name="Software">Yazılım</string>
+    <string name="Orientation">Oryantasyon</string>
+    <string name="Exposure_time">Poz süresi</string>
+    <string name="Exposure_bias">Poz sapması</string>
+    <string name="White_balance">Beyaz dengesi</string>
+    <string name="Focal_length">Odak uzunluğu</string>
+    <string name="Aperture_size">Diyafram genişliği</string>
+    <string name="Flash">Flaş</string>
+    
+    <!-- Dialogs again -->
+    	<!-- File exists dialog -->
+    	<!-- <string name="This_file_already_exists">Bu dosya zaten var, ne yapmak istiyorsunuz?</string>
+    	<string name="This_folder_already_exists">Bu dizin zaten var, ne yapmak istiyorsunuz?</string> -->
+    	<string name="File_exists">Dosya var</string>
+    	<string name="Skip">Atla</string>
+    	<string name="Overwrite">Üzerine yaz</string>
+    	<string name="Merge">Birleştir</string>
+    	<string name="Keep_both">İkisini de sakla</string>
+    	<string name="Remember_action">Bu kararı hatırla</string>
+    	<string name="Keep_the_old_file">Eski dosyayı sakla</string>
+    	<string name="The_new_file_will_have_its_name_changed">Yeni dosyanın adı değişecek</string>
+    	<string name="Replace_the_file_with_this">Varolan dosyanın üzerine yaz</string>
+    	<string name="Create_master_password">Yönetici parolası yarat</string>
+    	
+    	<string name="Choose_an_activity_to_open_the_file">Dosyayı açmak için bir uygulama seçin</string>
+    	<string name="Always_use_this_application">Her zaman bu uygulamayı kullan</string>
+    	<string name="Send_the_file_using">Dosyayı bu uygulama ile gönder</string>
+    	<string name="Progress">İlerleme</string>
+    	<string name="Minimize">Küçült</string>
+    	<string name="Pause">Durdur</string>
+    	<string name="Resume">Devam Et</string>
+    	<string name="Dismiss">Sonlandır</string>
+    	
+    	<string name="Abort_operation">İşlemi durdur</string>
+    	<string name="There_is_already_an_operation_running">Halihazırda devam eden bir işlem var, lütfen işlem bitene kadar bekleyin.</string>
+    
+    	<!-- Question dialogs -->
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Geçmişi temizlemek istediğinize emin misiniz?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Önizleme önbelleğini temizlemek istediğinize emin misiniz?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Geçici dosyaları temizlemek istediğinize emin misiniz?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Planlanmış bir dizinleme işlemi vakti geldi, dizinleme işlemini şimdi yapmak istiyor musunuz?</string>
+    	<string name="Folder_exists_descr">Dizinde aynı isme sahip bir dizin bulunuyor. Ne yapmak istiyorsunuz?</string>
+    	<string name="File_exists_descr">Dizinde aynı isme sahip bir dosya bulunuyor. Ne yapmak istiyorsunuz?</string>
+    	<string name="Are_you_sure_you_want_to_delete">\&quot;%\&quot; dosyasını/dizinini silmek istiyor musunuz?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Şu anki işlemi iptal etmek istediğinize emin misiniz?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Bütün yer imlerini silmek istiyor musunuz?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">\&quot;%\&quot; yer imini silmek istiyor musunuz?</string>
+    	<string name="Reindex_prompt">Dizinleme işlemi gerçekelştirilecek, bu birkaç dakika alabilir. Devam etmek istiyor musunuz?</string>
+    	<string name="Clear_index_prompt">Bütün dizinleme verisini silmek istediğinize emin misiniz? (Bu işlem geri alınamaz.)</string>
+    	<string name="Are_you_sure_to_stop_indexing">Dizinlemeyi durdurmak istediğinize emin misiniz?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Dosya türü ilişkilerini temizlemek istediğinize emin misiniz?</string>
+    	<string name="Changes_have_been_made_to_the_file">&quot;%&quot; dosyasında değişiklikler gerçekleştirildi. Kaydetmek istiyor musunuz?</string>
+    	<string name="Chown_confirm">Bu dosyanın sahipliğini değiştirmek istediğinize emin misiniz?</string>
+    	<string name="Busybox_request">BusyBox cihazınızda yüklü görünmüyor, kök dosya sistemini görüntüleyebilmek için cihazınızda yüklü olmak zorundadır. Şimdi yüklemek ister misiniz?</string>
+    	
+    	
+    	<!-- Information dialogs -->
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive \&quot;%\&quot; dosyalarını desteklemiyor. İşlem durduruldu.</string>
+    	<string name="Operation_not_supported">İşlem desteklenmiyor</string>
+    	<string name="You_have_to_provide_a_password">Bir parola sağlamak zorundasınız</string>
+    	<string name="Insufficient_space" formatted="false">Bu işlemi gerçekleştirmek için yeterli alan yok. Alan: %, kullanılabilir: %.</string>
+    	<string name="Command_executed_successfully">Komut başarıyla çalıştırıldı</string>
+    	<string name="Deleting_data">Veri siliniyor</string>
+    	<string name="Done">Tamamlandı</string>
+    	<string name="Preparing_for_operation">İşlem için hazırlanıyor...</string>
+    	<string name="Connecting">Bağlanıyor</string>
+    	<string name="Connecting_to_x">\&quot;%\&quot; adresine bağlanıyor.</string>
+    	<string name="File_is_too_big">Bu dosya çok büyük. Şu an için 75kb büyüklüğüne kadar olan dosyalar desteklenmektedir. Yakında daha büyük dosyalar için destek verilecektir.</string>
+    	<string name="Operation_history_has_been_cleared">İşlem geçmişi temizlendi</string>
+    	<string name="Encrypted_archive">Şifreli arşiv</string>
+    	<string name="Enter_the_password">Parolayı girin</string>
+    	<string name="Confirmation">Onay</string>
+    	<string name="Input_request">Girdi isteği</string>
+    	<string name="Message">Mesaj</string>
+    	<string name="Warning">Uyarı!</string>
+    	<string name="You_did_not_specify_a_password">Bir parola girmediniz</string>
+    	<string name="Reading_archive">Arşiv okunuyor</string>
+    	<string name="Reading_archive_x">Arşiv okunuyor \&quot;%\&quot;</string>
+    	<string name="Storage_not_available">Depolama mevcut değil</string>
+    	<string name="The_password_given_is_incorrect">Sağlanan parola geçersiz</string>
+    	<string name="You_did_not_specify_a_server_name">Bir sunucu adı belirtmediniz</string>
+    	<string name="You_did_not_specify_a_computer_name">Bir bilgisayar adı belirtmediniz</string>
+    	<string name="You_did_not_specify_a_port_number">Bir port numarası belirtmediniz</string>
+    	<string name="You_did_not_specify_user_name">Bir kullanıcı adı belirtmediniz</string>
+    	<string name="Indexing">Dizinleniyor</string>
+    	<string name="Indexing_in_progress">Dizinleme devam ediyor</string>
+    	<string name="Indexing_paused">Dizinleme duraklatıldı</string>
+    	<string name="Indexing_has_been_completed">Dizinleme tamamlandı</string>
+    	<string name="Indexing_has_been_aborted">Dizinleme iptal edildi</string>
+    	<string name="Tap_to_dismiss">Sonlandırmak için dokunun</string>
+    	<string name="Tap_top_open">Açmak için dokunun</string>
+    	<string name="File_is_ready_to_open">Dosya açmak için hazır</string>
+    	
+    	<string name="Operation_aborted_by_user">İşlem kullanıcı tarafından iptal edildi</string>
+    	<string name="You_cant_delete_this_item">Bu dosya silinemez</string>
+    	<string name="Indexing_service">Dizinleme hizmeti</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">Sadece yerel olarak depolanan dosyalar arşive eklenebilir</string>
+    	<string name="Bookmark_already_exists">Yer imi zaten bulunuyor</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; yer imlerine eklendi</string>
+    	<string name="Rename_a_file">Yeniden adlandır</string>
+    	<string name="Input_was_left_blank">Girdi boş bırakıldı</string>
+    	<string name="File_named_already_exists">Dosya \&quot;%\&quot; zaten bulunuyor</string>
+    	<string name="Confirm_delete">Silmeyi onayla</string>
+    	<string name="You_cant_create_an_archive_here">Burada arşiv yaratamazsınız</string>
+    	<string name="Cannot_connect_to">\&quot;%\&quot; adresine bağlanılamıyor</string>
+    	<string name="You_are_not_logged_in">Giriş yapmadınız</string>
+		<string name="Can_not_create_the_directory">Dizin yaratılamıyor</string>
+    	<string name="Beta_expired">Beta süresi doldu</string>
+    	<string name="Can_not_create_the_file">Dosya yaratılamıyor</string>
+    	<string name="Uknown_file_type">Bilinmeyen dosya türü</string>
+    	<string name="No_activity_found_to_open_this_file">Bu dosyayı çalıştırabilecek hiçbir uygulama bulunamadı</string>
+    	<string name="You_cant_send_a_folder">Dizinleri gönderemezsiniz</string>
+    	<string name="Indexing_has_been_unscheduled">Zamanlanmış dizinleme başarıyla kaldırıldı</string>
+    	<string name="Scheduled_indexing">Zamanlanmış dizinleme</string>
+    	<string name="Tap_to_start">Başlatmak için dokunun</string>
+    	
+    	
+    	<string name="Are_you_sure_you_want_to_delete_items">% öğeyi silmek istediğinize emin misiniz?</string>
+    	<string name="X_files_deleted">% dosya silindi.</string>
+    	<string name="X_files_copied">% dosya kopyalandı.</string>
+    	<string name="X_files_moved">% dosya taşındı.</string>
+    	<string name="X_items">% öğe.</string>
+    	<string name="Deleting_X_files">% dosya siliniyor.</string>
+    	<string name="Copying_X_files">% dosya kopyalanıyor.</string>
+    	<string name="Moving_X_files">% dosya taşınıyor</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Dizinleme hizmeti her %y günde bir %x saatinde tekrarlanmak üzere ayarlandı.</string>
+    	<!-- Explanation of above
+    	
+    		 	In english things are simple because we have 1 file and multiple files.
+    		 	1 file, 2 files, 3 files and so on...
+    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+    			
+    			But let's take polish for example. File means 'Plik'. We have:
+    			0 plików
+    			1 plik
+    			2, 3, 4 pliki
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    			but.. 22, 23 pliki
+    			and 26, 27 plików
+    			Complicated, huh?
+    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+    			
+    			If you have problems creating this pattern for your language, contact me.
+    			
+    			Quick reference:
+    			'{' - starts the pattern
+    			'}' - ends the pattern
+    			'|' - rule divider
+    			':' - separates range from the associated suffix
+    			'_' - any digit
+    			'-' - range
+    			
+    			Examples:
+    			1:s 	= for single 1 give 's' suffix
+    			3:		= for single 3 give no suffix
+    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    			__:s	= give 's' for any number
+    			
+    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    			there should be always the __:something pattern at the end.
+    	
+    	-->
+    
+
+    
+    <!-- Open as dialog -->
+    <string name="Open_as">Birlikte aç...</string>
+    <string name="Choose_a_preferred_type">Tercih edilen türü seçin</string>
+    <string name="Text_file">Metin dosyası</string>
+    <string name="Image_file">Resim dosyası</string>
+    <string name="Music_file">Müzik dosyası</string>
+    <string name="Video_file">Görüntü dosyası</string>
+    <string name="ZIP_archive">ZIP arşivi</string>
+    
+    
+    <!-- File picker -->
+    
+    <string name="Create_shortcut">Kısayol yarak</string>
+    <string name="Shortcut_tip">Kısayol yaratmak için açılır menüden \&quot;Kısayol yarat\&quot; öğesini seçiniz.</string>
+    
+
+    
+	<!-- Text editor -->
+    <string name="Wrap_lines">Sözcük kaydır</string>
+    <string name="Font_size">Yazıtipi büyüklüğü</string>
+    <string name="Font">Yazıtipi</string>
+    <string name="App_default">Uygulama varsayılanı</string>
+    <string name="System_default">Sistem varsayılanı</string>
+    <string name="Serif">Serif</string>
+    <string name="Monospace">Monospace</string>
+    <string name="File_saved_successfully">Dosya başarıyla kaydedildi</string>
+    
+    
+    <!-- Preferences -->
+	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
+	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
+    <string name="Appearance">Görünüm</string>
+	<string name="Theme">Tema</string>
+    <string name="Choose_between_preinstalled_themes">Öntanımlı temalar arasından seçim yapın.</string>
+    <string name="Light">Açık</string>
+    <string name="Dark">Koyu</string>
+    
+    <string name="Toggle_visibility_of_hidden_files">Gizli dosyaların görünürlüğünü ayarla.</string>
+    <string name="Show_hidden_files">Gizli Dosyaları Göster</string>
+    
+    <string name="Show_file_permissions">Dosya İzinlerini Göster</string>
+    <string name="Show_file_permissions_summary">Son düzenlenme tarihi yerine Unix tipi izin bilgisi göster (kök dosyaları için sadece).</string>
+    
+    <string name="Date_format">Tarih Formatı</string>
+    <string name="Customize_date_format">Tarih formatını özelleştir.</string>
+    
+    <string name="Time_format">Saat Formatı</string>
+	<string name="Customize_time_format">Saat formatını özelleştir.</string>
+	
+	<string name="Show_fast_scroll_thumb_in_file_list">Hızlı kaydırma çubuğunu dosya listesinde göster.</string>
+    <string name="Use_fast_scroll">Kaydırma Çubuğunu Görüntüle</string>
+    
+    <string name="Low_quality_thumbnails">Düşük Kaliteli Önizlemeler</string>
+    <string name="Low_quality_thumbnails_summary">Düşük hafıza kullanımı için aktifleştirin.</string>
+    
+    <string name="Portrait_fullscreen">Tam Ekran Portre Görünümü</string>
+    <string name="Portrait_fullscreen_summary">Portre görünümünde durum çubuğunu gizler.</string>
+    
+    <string name="Landscape_fullscreen">Tam Ekran Manzara Görünümü</string>
+    <string name="Landscape_fullscreen_summary">Manzara görünümünde durum çubuğunu gizler.</string>
+    
+    <string name="File_list_size">Portre Görünümünde Liste Boyutu</string>
+    <string name="Adjust_size_of_the_file_list">Portre görünümünde liste boyutunu ayarlayın.</string>
+    
+    <string name="Landscape_file_list_size">Çerçeve Görünümü Liste Boyutu</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Çerçeve görünümünde liste boyutunu ayarlayın.</string>
+    
+    <string name="Small">Küçük</string>
+    <string name="Normal">Normal</string>
+    <string name="Big">Büyük</string>
+    <string name="Large">Çok Büyük</string>
+    <string name="Extra_small">Çok Küçük</string>
+    
+    <string name="Hide_exit_button">Çıkış Düğmesini Gizle</string>
+    <string name="Hide_exit_button_summary">Ayrıca uygulamadan geri tuşuna uzun süreli basarak da çıkış yapabilirsiniz.</string>
+    
+    <string name="Startup">Başlangıç</string>
+    
+    <string name="Remember_last_folder">Son Dizini Hatırla</string>
+    <string name="Will_start_with_recently_viewed_directories">Uygulama en son görüntülenen dizinlerle başlar.</string>
+    
+    
+    <string name="First_panel_default_dir">Birinci Bölme Dizini</string>
+    <string name="Second_panel_default_dir">İkinci Bölme Dizini</string>
+    
+    <string name="Change_pictures_directory">Resimler Dizinini Değiştir</string>
+    <string name="Change_downloads_directory">İndirilenler Dizinini Değiştir</string>
+    
+    <string name="Drag_and_drop">Sürükle ve Bırak</string>
+    <string name="Action_for_drop_inside_the_panel">Aynı Bölme İçin Eylem</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Bir öğeyi aynı bölmede bir dizine bıraktığınızda uygulanacak eylem.</string>
+    <string name="Action_for_drop_to_the_second_panel">Diğer Bölme İçin Eylem</string>
+    <string name="Dropping_an_item_to_the_second_panel">Bir öğeyi diğer bölmeye bıraktığınızda uygulanacak eylem.</string>
+    <string name="Move">Taşı</string>
+    
+    <string name="Security">Güvenlik</string>
+    <string name="Master_password_prompt">Solid Explorer bütün giriş bilgilerini tutmak için bir yönetici parolası kullanır. Eğer güvenlik sizin için önemliyse bu özelliği kullanmanız önerilir. Uygulamayı yeniden başlatmadığınız takdirde sizden yönetici parolasını bir defa girmeniz istenecek. Eğer bu özelliği kullanmak istemezseniz bir parola olmadan şifreleme yapılacak. Bu özelliği kullanmak istiyor musunuz?</string>
+    <string name="Disable_master_password_warning">Yönetici parolasını devre dışı bırakmanız varsayılan parolaya geri dönmenize neden olacak ve bir daha size sorulmayacak. Giriş bilgileri yine de şifrelenmiş olacak. Devam etmek istediğinize emin misiniz?</string>
+    <string name="Enable_master_password_warning">Daha önce varsayılan parola ile şifrelenmiş yer imleriniz varsa silinecekler. Devam etmek istiyor musunuz?</string>
+    <string name="Enable_master_password">Yönetici Parolası Kullan</string>
+	<string name="Too_weak_password">Parola 6 karakter ile 16 karakter arasında olmalıdır.</string>
+    <string name="Enter_the_master_password">Yönetici parolasını giriniz</string>
+    <string name="Enter_a_new_master_password">Yeni bir yönetici parolası giriniz.</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Bütün giriş bilgilerini bir yönetici parolası ile şifreleyin.</string>
+    <string name="All_passwords_will_be_reencrypted">Bütün parola bilgileri tekrar şifrelenecek.</string>
+    <string name="Set_master_password">Yönetici Parolası Ayarla</string>
+    
+    <string name="I_dont_remember_my_old_password">Eski parolamı hatırlamıyorum</string>
+    <string name="Reset_password_warning">Uyarı! Şimdi yeni bir parola yartatırsanız eski parolanızla şifrelediğiniz bütün yer imleri silinecek.</string>
+    <string name="Old_password">Eski Parola</string>
+    <string name="New_password">Yeni Parola</string>
+    <string name="Master_password_has_been_disabled">Yönetici parolası devre dışı bırakıldı.</string>
+    <string name="Passwords_do_not_match">Parolalar uyuşmuyor.</string>
+    <string name="Password_is_too_short">Parola çok kısa.</string>
+    
+    
+    
+    <string name="Search_interface">Arama Arayüzü</string>
+    <string name="Search_key_starts_filtering">Arama Listesi Filtreleme Yapsın</string>
+    <string name="Search_key_starts_filtering_summary">Arama işlemi yapmak yerine liste üzerinde filtreleme yapar.</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Listeleyi filtrelerken kelimenin sadece başlangıcını eşleştirir.</string>
+    <string name="Filter_words_from_the_beginning">Kelimeleri Başlangıçlarından Filtrele</string>
+    <string name="Customize_indexing_engine_behaviour">Dizinleme motorunun davranışlarını özelleştirin.</string>
+    <string name="Indexing_engine">Dizinleme motoru</string>
+    	<string name="Reindex_now">Şimdi Yeniden Dizinle</string>
+    	<string name="Refresh_index_database">Dizin veritabanını tazele. Devam eden bir işlem varsa hiçbir etkisi olmaz.</string>
+    	<string name="Clear_index_data">Dizinleme Bilgisini Temizle</string>
+    	<string name="Delete_all_index_data">Bütün dizinleme verisini siler.</string>
+    	<string name="Reindex_on_media_mount">Bir Aygıt Algılandığında Tekrar Dizinle</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">Yeni bir depolama aygıtı takıldığında yeniden dizinleme yap (önerilir).</string>
+    	<string name="Shedule_indexing">Zamanlanmış Dizinleme</string>
+    	<string name="Perform_reindex_every_given_period">Verilen aralıkta dizinleme işlemi yapar.</string>
+    	<string name="Set_time_and_period">Zamanı ve aralığı ayarla</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Dizinleme işleminin aralıklarla çalıştırılacağı süre.</string>
+    	<string name="Maximum_index_age">Dizinleme Zaman Aşımı</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Dosya var olmadığı takdirde dizin girdisinin veritabanında ne kadar süre daha tutulacağı.</string>
+    	<string name="one_day">1 gün</string>
+    	<string name="two_days">2 gün</string>
+    	<string name="five_days">5 gün</string>
+    	<string name="One_week">Bir hafta</string>
+    	<string name="Choose_interval">Sıklık seçin</string>
+    	<string name="three_days">3 gün</string>
+    	<string name="How_often_indexing_will_be_performed">Dizinleme işleminin ne sıklıkla yapılacağı.</string>
+    	<string name="Set_period">Aralık Ayarla</string>
+    	<string name="Set_time">Zamanı Ayarla</string>
+    	<string name="Show_notifications">Bilgilendirme Göster</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Dizinleme işlemi bittiğinde ya da iptal edildiğinde bilgilendirme göster.</string>
+    
+    
+    <string name="Other">Diğer</string>
+    	
+    <string name="Clear_persistent_data">Kalıcı Veriyi Temizle</string>
+    <string name="Clear_persistent_data_summary">Önizleme önbelleği, geçici dosyalar, işlem geçmişi gibi kalıcı veriyi sil.</string>
+    <string name="Clear_thumbnail_cache">Önizleme Önbelleğini Temizle</string>
+    <string name="Clear_temporary_files">Geçici Dosyaları Temizle</string>
+    <string name="Clear_operation_history">İşlem Geçmişini Temizle</string>
+    <string name="Delete_all_image_previews">Bütün resim önizlemelerini temizle.</string>
+    <string name="Delete_all_temporary_files">Bütün geçici dosyaları temizle.</string>
+    <string name="Delete_operation_history_entries">Bütün işlem geçmişi kayıtlarını temizle.</string>
+    <string name="Clear_file_type_associations">Dosya Tipi İlişkilerini Temizle</string>
+    <string name="Clear_file_type_associations_summary">Dosya türleri ve uygulamalar arasındaki çalışma ilişkisi bilgisini sil.</string>
+    <string name="Clear_temporary_files_on_exit">Çıkışta Geçici Dosyaları Temizle</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Uygulamadan çıkmadan önce geçici dosyaları siler.</string>
+    
+    <string name="Quick_start_guide">Hızlı Başlangıç Rehberi</string>
+    <string name="Learn_about_main_features">Solid Explorer\'ın önemli özellikleri hakkında bilgi edinin.</string>
+    <string name="Help_make_Solid_Explorer_better">Solid Explorer\'ı daha iyi bir hale getirmek için yardımcı olun.</string>
+    <string name="Report_a_bug">Bir Hatayı Bildir</string>
+   
+    <string name="About">Hakkında</string>
+    <string name="Author_version_and_changelog">Geliştirici, sürüm ve değişiklik geçmişi</string>
+    <string name="Copyright_text">Telif hakkı 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Version">Sürüm</string>
+    <string name="Changelog">Değişiklik Geçmişi</string>
+    <string name="Whats_new">Neler yeni.</string>
+    <string name="Author">Geliştirici</string>
+    <string name="Functionality_for_future_releases">Gelecek sürümlerde eklenmesi planlanan özellikler.</string>
+    <string name="Planned_features">Planlanan özellikler</string>
+    
+    
+    
+    <!-- Other -->
+    <string name="Prefix">Ön Ek</string>
+    <string name="Expiration_message">Solid Explorer\'ın beta sürümünü kullandığınız için teşekkürler. Bu uygulamayı test etmeye devam etmek için lütfen Google Play üzerinden en son sürümü indiriniz.</string>
+    <string name="Empty">Boş</string>
+	<string name="search_description">Cihazınızı Solid Explorer\'ı kullanarak arayın.</string>
+    <string name="search_hint">Bir dosya adı yazın</string>
+    <string name="Save_file">Dosyayı Kaydet</string>
+    <string name="Solid_explorer_indexing_service">Solid Explorer dizinleme hizmeti</string>
+    
+    
+    
+    <!-- acra -->
+    <string name="crash_toast_text">Hay aksi! Görünüşe göre Solid Explorer çöktü. Lütfen geliştiricye hata raporu ileterek sorunu çözmesinde yardımcı olun!</string>
+    <string name="crash_notif_ticker_text">Bilinmeyen hata, lütfen hata raporu gönderin...</string>
+    <string name="crash_notif_title">Solid Explorer çöktü...</string>
+    <string name="crash_notif_text">Lütfen sorunu çözmeye yardımcı olmak için buraya dokunun.</string>
+    <string name="crash_dialog_title">Solid Explorer çöktü</string>
+    <string name="crash_dialog_text">Uygulamayı durdurmak için zorlanırken bilinmeyen bir hata oluştu. Bu sorunu çözebilmemde yardımcı olmak için lütfen bana hata bilgisini gönderin.</string>
+    <string name="crash_dialog_comment_prompt">Lütfen sorun hakkında detaylı bilgi giriniz. Çoğu durumda sizin geri bildiriminiz olmadan sorunun tekrar oluşturulması mümkün değildir.</string>
+    <string name="crash_dialog_ok_toast">Teşekkürler!</string>
+    
+    <string name="Icon_designer">Simge tasarımcısı</string>
+    <string name="Prefix">Ön Ek</string>
+    <string name="Translations">Çeviri</string>
+    <string name="Translations_summary">Türkçe çeviri Buğra Kaan KAVUŞTUK tarafından yapılmıştır.</string>
+    <string name="Empty">Boş</string>
+    <string name="Press_once_again_to_exit">Uygulamayı kapatmak için bir defa daha dokunun.</string>
+
+    <string name="View_in_DiskUsage">DiskUsage uygulaması üzerinde göster.</string>
+    <string name="Retry">Yeniden Dene</string>
+    <string name="Portrait">Portre</string>
+    <string name="Landscape">Manzara</string>
+    <string name="Customize_list">Listeyi Özelleştir</string>
+    <string name="Customize_list_summary">Dosya listesindeki simgelerin ve metinlerin boyutlarını ayarla.</string>
+    <string name="Preview">Önizleme</string>
+    <string name="Icon_size_pixels" formatted="false">Simge boyutu (en fazla: % x %)</string>
+    <string name="Label_size">Etiket boyutu</string>
+    <string name="Subtext_size">Altmetin boyutu</string>
+    <string name="Label_size_points">Metin boyutu (en fazla 35 punto)</string>
+    <string name="Columns">Sütunlar</string>
+    <string name="No_computers_found">Hiç bilgisayar bulunamadı.</string>
+    <string name="Local_directory">Yerel Dizin</string>
+    <string name="Default_panel">Varsayılan Bölme</string>
+    <string name="Destination_type">Hedef Tipi</string>
+    <string name="DiskUsage_not_installed">Görünüşe göre DiskUsage uygulaması kurulmamış. Bu uygulama hafıza kullanımınını kullanıcının karmaşık hafıza kullanımını kullanıcı dostu bir arayüzde görüntülemesine yardımcı olur. Şimdi yüklemek istiyor musunuz?</string>
+    <string name="Text_copied_to_clipboard">Metin panoya kopyalandı</string>
+    <string name="Force_english">İngilizce Dilini Kullan</string>
+    <string name="Force_english_summary">Eğer öncelikli dil olarak İngilizce kullanmak isterseniz burayı işaretleyin. Uygulamayı yeniden başlattıktan sonra bu ayar efektif olacaktır.</string>
+    <string name="Encoding">Dil Kodlaması</string>
+    <string name="Network_thumbnails">Ağ Önizlemeleri</string>
+    <string name="Network_thumbnails_summary">Seçildiğinde resim önizlemeleri mobil veri bağlantısı kullanılarak yüklenecek.</string>
+    <string name="Copy_to">Hedefe Kopyala</string>
+    <string name="Move_to">Hedefe Taşı</string>
+    <string name="Shortcut">Kısayol</string>
+    <string name="Two_panels_in_landscape_summary">Manzara görünümünde aynı anda iki bölme göster.</string>
+    <string name="Two_panels_in_landscape">Manzara görünümünde iki bölme</string>
+    <string name="Restart_prompt">Değişikliklerin uygulanabilmesi için uygulamayı yeniden başlatmalısınız. Devam etmek istiyor musunuz?</string>
+    <string name="Custom_color_scheme">Özel Renk Şeması</string>
+    <string name="Custom_color_scheme_summary">Genel renk şemasını özelleştirir. Uygulamanın başlamasını ciddi ölçülerde yavaşlatır.</string>
+    <string name="Color_scheme">Renk Şeması</string>
+    <string name="Color_scheme_summary">Renk şemasının tonunu ve canlılığını değiştir</string>
+    <string name="Change_color_scheme">Renk şemasını değiştir</string>
+    <string name="Hue">Ton</string>
+    <string name="Saturation">Canlılık</string>
+    <string name="SolidExplorer_is_running">Solid Explorer çalışıyor</string>
+    <string name="Notification_shortcut">Bildirim Kısayolu</string>
+    <string name="Notification_shortcut_summary">Uygulama çalışırken bildirim çubuğuna kısayol yerleştir</string>
+    <string name="Please_wait">Lütfen bekleyiniz</string>
+
+        <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Bu dosyayı diğer bölmedeki konuma kopyalamak istediğinize emin misiniz?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Bu dosyayı diğer bölmedeki konuma taşımak istediğinize emin misiniz?</string>
+	<string name="Image_not_loaded">Resim yüklenmedi</string>
+	<string name="Target_SDK">Hedef SDK</string>
+	<string name="Description">Açıklama</string>
+	<string name="Data_dir">Veri dzn</string> <!-- short word please -->
+	<string name="Installed">Yüklendi</string>
+	<string name="Updated">Güncellendi</string>
+	<string name="Install">Yükle</string>
+	<string name="More">Daha Fazla</string>
+	<string name="Package_name">Paket adı</string>
+	<string name="Map_view">Harita Görünümü</string>
+	<string name="Street_view">Sokak Görünümü</string>
+	<string name="Ask">Sor</string>
+	<string name="Choose_an_action">Bir eylem seçin</string>
+	<string name="Folders_first">Önce Klasörler</string>
+	<string name="Folders_first_summary">Dosyalardan önce klasörleri göster.</string>
+	<string name="FAQ">SSS</string>
+	<string name="FAQ_summary">Lütfen soru sormadan önce SSS bölümünü ziyaret edin.</string>
+
+</resources>

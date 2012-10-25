@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ITALIAN by PieR @XDA - 18 Jul 2012 v1.0 -->
+    
+    <string name="Directory_does_not_exists">La directory non esiste</string>
+    
+    <string name="Unable_to_read_the_file">Impossibile leggere il file</string>
+    <string name="Illegal_operation">Operazione non valida</string>
+    
+    
+    <string name="Cannot_update_the_database">Impossibile aggiornare il database</string>
+    <string name="Error">Errore</string>
+    
+    <string name="Invalid_password_for_user_x">Password non valida per l\'utente \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Master password non valida</string>
+    <string name="Unable_to_execute_shell_command">Impossibile eseguire il comando shell</string>
+    <string name="No_root_access_available">Accesso di root non disponibile</string>
+    <string name="Unable_to_read_root_directory">Impossibile leggere la directory radice</string>
+    
+    <string name="Operation_has_failed">Operazione fallita</string>
+    <string name="Invalid_file_path">Percorso del file non valido</string>
+    
+    
+    <string name="Cannot_browse_to_x">Impossibile accedere a \&quot;%\&quot;. Si è verificato un errore sconosciuto.</string>
+    <string name="Cannot_write_to_the_system">Impossibile scrivere sul filesystem. Mount RW non riuscito.</string>
+    <string name="Requested_file_x_has_not_been_found">Il file \&quot;%\&quot; richiesto non è stato trovato.</string>
+    <string name="Unknown_read_write_exception">Eccezione sconosciuta in lettura/scrittura.</string>
+    <string name="Invalid_url_x">URL non valido: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Si è verificato un errore durante l\'accesso all master password.</string>
+    <string name="Operation_not_allowed">Operazione non consentita.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Impossibile connettersi a \&quot;%x\&quot; sulla porta %y.</string>
+    <string name="Unable_to_resolve_host_x">Impossibile risolvere il nome dell\'host \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Il server ha restituito una riposta non valida.</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Si è verificato un errore durante il trasferimento dei dati dal server.</string>
+    <string name="Invalid_username_or_password">Nome utente o password non validi.</string>
+    <string name="Internal_server_error">Errore interno del server.</string>
+    <string name="Server_response_x">Risposta del server: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Impossibile aprire il file in lettura</string>
+    <string name="Unable_to_write_the_file_to_x">Impossibile scrivere il file su \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Impossibile connettersi a %x.</string>
+    <string name="Unknown_error">Errore sconosciuto</string>
+    <string name="Cannot_create_directory_X">Impossibile creare la directory \&quot;%x\&quot;</string>
+	<string name="Unable_to_start_the_service_on_port_x">Impossibile avviare il servizio sulla porta %</string>
+    
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Katalogen finns ej</string>
+    
+    <string name="Unable_to_read_the_file">Kan ej läsa filen</string>
+    <string name="Illegal_operation">Otillåten operation</string>
+    
+    
+    <string name="Cannot_update_the_database">Kan ej uppdatera databasen</string>
+    <string name="Error">Fel</string>
+    
+    <string name="Invalid_password_for_user_x">Felaktigt lösenord för användare \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Felaktigt övergripande lösenord</string>
+    <string name="Unable_to_execute_shell_command">Kan ej exekvera skalkommando</string>
+    <string name="No_root_access_available">Rotanvändare ej tillgänglig</string>
+    <string name="Unable_to_read_root_directory">Kan ej läsa rotkatalogen</string>
+    
+    <string name="Operation_has_failed">Operationen misslyckades</string>
+    <string name="Invalid_file_path">Felaktig sökväg</string>
+    
+    
+    <string name="Cannot_browse_to_x">Kan inte gå till \&quot;%\&quot;. Ett okänt fel uppstod.</string>
+    <string name="Cannot_write_to_the_system">Kan inte skriva till systemet. Skrivbar montering misslyckades.</string>
+    <string name="Requested_file_x_has_not_been_found">Den begärda filen \&quot;%\&quot; hittades inte.</string>
+    <string name="Unknown_read_write_exception">Okänt läs/skrivfel uppstod.</string>
+    <string name="Invalid_url_x">Felaktig URL: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Ett fel uppstod då det övergripande lösenordet skille användas.</string>
+    <string name="Operation_not_allowed">Operationen tillåts inte.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Kan inte ansluta till \&quot;%x\&quot; på port %y.</string>
+    <string name="Unable_to_resolve_host_x">Kan inte slå upp värdnamnet \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Servern gav ett felaktigt svar</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Ett fel uppstod då data skickades från servern.</string>
+    <string name="Invalid_username_or_password">Felaktigt användarnamn eller lösenord.</string>
+    <string name="Internal_server_error">Internt serverfel.</string>
+    <string name="Server_response_x">Serversvar: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Kan inte öppna filen för läsning</string>
+    <string name="Unable_to_write_the_file_to_x">Kan inte skriva till filen \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Kan inte ansluta till %x.</string>
+    <string name="Unknown_error">Okänt fel</string>
+    <string name="Cannot_create_directory_X">Kan inte skapa katalogen \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Kan inte starta tjänsten på port %</string>
+
+</resources>

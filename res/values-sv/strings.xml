@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    
+    
+    <!-- bottom toolbar -->
+    <string name="New">Ny</string>
+    <string name="Jump">Hoppa</string>
+    <string name="Filter">Filter</string>
+    <string name="Menu">Meny</string>
+    <string name="Actions">Åtgärder</string>
+    
+    <!-- "New" popup -->
+    <string name="New_folder">Katalog</string>
+    <string name="New_file">Fil</string>
+    <string name="New_FTP_connection">FTPanslutning</string>
+    <string name="New_SFTP_connection">SFTPanslutning</string>
+    <string name="New_SMB_connection">SMBanslutning</string>
+    <string name="New_cloud_connection">Molnanslutning</string>
+    
+    <!-- "Actions" popup -->
+    
+    <string name="Copy">Kopiera</string>
+    <string name="Cut">Klipp ut</string>
+    <string name="Paste">Klistra in</string>
+    <string name="Delete">Radera</string>
+    <string name="Properties">Egenskaper</string>
+    <string name="Select_all">Välj allt</string>
+    <string name="Select">Välj</string>
+    
+    <!-- "Jump" popup -->
+    
+    <string name="Device">Enhet</string>
+    <string name="Photos">Foton</string>
+    <string name="Downloads">Nedladdningar</string>
+    <string name="Network">Nätverk</string>
+    <string name="Bookmarks">Bokmärken</string>
+    <string name="No_bookmarks">Inga bokmärken</string>
+    
+    <!-- "Menu" popup -->
+    <string name="View">Vy</string>
+    <string name="Sort">Sortera</string>
+    <string name="Search">Sök</string>
+    <string name="Operations">Operationer</string>
+    <string name="Manage_bookmarks">Hantera bokmärken</string>
+    <string name="File_sharing">Fildelning</string>
+    <string name="Settings">Inställningar</string>
+    <string name="Exit">Avsluta</string>
+    
+    <!-- "Network" popup -->
+    <string name="Cloud_storage">Molnlagring</string>
+    
+    <!-- "Device" popup -->
+     <string name="System_root">Systemets topp</string>
+    <string name="SD_card">SDkort</string>
+    <string name="Internal_memory">Internminne</string>
+    <string name="USB_drive_x">USBenhet %x</string>
+    
+    <!-- "View" popup -->
+    <string name="View_mode">Visningsläge</string>
+    <string name="List">Lista</string>
+    <string name="Detailed_list">Detaljerad lista</string>
+    <string name="Grid">Grid</string>
+    <string name="Detailed_grid">Detaljerad grid</string>
+    
+    <!-- "Sort" popup -->
+    <string name="Sort_files_by">Sortera filer efter</string>
+    <string name="File_name">Filnamn</string>
+    <string name="File_size">Filstorlek</string>
+    <string name="File_type">Filtyp</string>
+    <string name="Modified_date">Ändringsdatum</string>
+    <string name="Ascending">Ökande</string>
+    <string name="Descending">Minskande</string>
+    <string name="In_order">I ordning</string>
+    
+    <!-- Browser switch popup -->
+    <string name="Active_browser">Aktiv bläddrare</string>
+    <string name="Close_all">Stäng alla</string>
+    <string name="In_background">I bakgrunden</string>
+    
+    
+    
+    <!-- Context menu -->
+    <string name="Open_with">Öppna med...</string>
+    <string name="Open_in_bg">Öppna i bg</string>
+    <string name="Send">Dela</string>
+    <string name="Bookmark">Bokmärke</string>
+    <string name="Rename">Döp om</string>
+    <string name="Extract">Extrahera</string>
+    <string name="Extract_to">Extrahera till</string>
+    <string name="Archive">Arkiv</string>
+    <string name="Paste_to_x">Klistra in i \&quot;%\&quot;</string>
+    
+    
+    <!-- Dialogs -->
+    <string name="OK">OK</string>
+    <string name="Cancel">Avbryt</string>
+    <string name="Yes">Ja</string>
+    <string name="No">Nej</string>
+    
+	    <!-- New folder/file dialog -->
+	    <string name="Enter_the_name">Skriv namnet</string>
+	    
+	    <!-- New connection Dialog -->
+	    <string name="Display_name">Visningsnamn</string>
+	    <string name="May_be_empty">Får vara tom</string>
+    	<string name="Remote_path">Bortre sökväg</string>
+    	<string name="Port">Port</string>
+    	<string name="User_name">Användarnamn</string>
+    	<string name="Password">Lösenord</string>
+    	<string name="Repeat_the_password">Upprepa lösenordet</string>
+    	<string name="Authentication_method">Autentiseringsmetod</string>
+    	<string name="Server">Server</string>
+    	<string name="Connection_type">Anslutningstyp</string>
+    	<string name="Scan">Skanna</string>
+    	<string name="Computer_name_or_IP_adress">Datornamn eller IPaddress</string>
+    	<string name="Looking_for_computers">Letar efter datorer</string>
+    	<string name="Share">SMBdelning</string>
+    	
+    		<!-- Auth methods -->
+    		<string name="Ask_for_password_each_time">Be om löenord varje gång</string>
+        	<string name="Store_encrypted_password">Lagra krypterade lösenord</string>
+        	<string name="No_password_required">Inget lösenord krävs</string>
+        	<string name="Anonymous">Anonym</string>
+        	<string name="Log_in_as_a_guest">Logga in som gäst</string>
+        	
+        	<!-- FTP types -->
+        	<string name="FTP_no_encryption">FTP (okrypterat)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (implicit kryptering)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (explicit kryptering)</string>
+        
+    <!-- Search activity -->	
+    <string name="Manual_search">Manuell sökning</string>
+    <string name="Results_from">Resultat från:</string>
+    <string name="No_results">Inga resultat</string>
+    <string name="Matches">Träffar</string>
+    <string name="Selected">Vald</string>
+    <string name="Match_mode">Matchningsläge</string>
+    <string name="Match_start">Matcha början</string>
+    <string name="Match_any">Matcha var som helst</string>
+    <string name="Match_end">Matcha slutet</string>
+    
+    <!-- Operations activity -->
+    <string name="History_is_empty">Historiken är tom</string>
+    <string name="Current_operation">Nuvarande operation</string>
+    <string name="No_pending_operation">Ingen väntande operation</string>
+    <string name="History">Historik</string>
+    <string name="Count">Antal</string>
+    <string name="Date">Datum</string>
+    <string name="Source">Källa</string>
+    <string name="Destination">Destination</string>
+    
+    	<!-- Operation info -->
+    	<string name="Operation">Operation</string>
+    	<string name="From">Från</string>
+    	<string name="To">Till</string>
+    	<string name="Size">Storlek</string>
+    	<string name="Speed">Hastighet</string>
+    	<string name="ETA">ETA</string>
+    	<string name="NA">N/A</string>
+    	<string name="Current">Nuvarande</string>
+    	
+    	<!-- Operation descriptions -->
+    	<string name="File_copy">Filkopiering</string>
+    	<string name="File_move">Filflytt</string>
+    	<string name="File_delete">Filradering</string>
+    	<string name="Temporary_download">Temporär nedladdning</string>
+   	 	<string name="Creating_archive">Skapar % arkiv</string>
+    	<string name="Extracting_archive">Extraherar % arkiv</string>
+    	<string name="X_has_been_completed">% är klar.</string>
+    	<string name="X_has_failed">% misslyckades.</string>
+    	<string name="Tap_to_show_details">Klicka för detaljer</string>
+    	<string name="Pending_cancel_request">Väntar på avbrottsbegäran</string>
+    	<string name="File_operation">Filoperation</string>
+    
+    <!-- Bookmark manager -->
+    <string name="Bookmark_manager">Bokmärkeshanteraren</string>
+    <string name="Edit">Ändra</string>
+    <string name="Disconnect">Koppla ned</string>
+    <string name="Delete_all">Radera allt</string>
+    <string name="Wifi_toggle">Växla WiFi</string>
+    <string name="Wifi_settings">WiFi inställningar</string>
+    <string name="Disconnect_all">Koppla ned alla</string>
+    <string name="Connected">Ansluten</string> 
+    <string name="Not_connected">Ej ansluten</string>
+    <string name="on">på</string>
+    <string name="Local_bookmarks">Lokala bokmärken</string>
+    <string name="FTP_bookmarks">FTP-bokmärken</string>
+    <string name="SFTP_bookmarks">SFTP-bokmärken</string>
+    <string name="SMB_bookmarks">SMB-bokmärken</string>
+    <string name="Cloud_bookmarks">Molnbokmärken</string>
+    <string name="Edit_bookmark">Ändra bokmärke</string>
+    <string name="Name">Namn</string>
+    <string name="Path">Sökväg</string>
+    
+    <!-- Dir picker -->
+    <string name="Pick_a_directory">Välj katalog</string>
+    
+    <!-- Cloud storage dialog -->
+    <string name="Cloud_storage_services">Molnlagningsservicar</string>
+    <string name="Cloud_services_description">Välj den molnlagringsservice du vill använda</string>
+    
+    <!-- File sharing -->
+    <string name="File_sharing_active">Fildelning aktiv</string>
+    <string name="ftp_server_hint">För att ansluta, skriv in serveradressen i datorns browserfönster eller använd någon FTP-klient.</string>
+    <string name="You_cannot_share_root_directory">Du kan inte dela toppkatalogen</string>
+    <string name="File_sharing_stopped">Fildelning stoppad</string>
+    <string name="None">Ingen</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Du måste vara ansluten till LAN-nätet</string>
+    <string name="Active">Aktiv</string>
+    <string name="Inactive">Inaktiv</string>
+    <string name="FTP_Server">FTPserver</string>
+    <string name="Shared_directory">Delad katalog</string>
+    <string name="Type_to_change">Skriv för att ändra</string>
+    <string name="No_password_set">Inget lösenord satt</string>
+    <string name="Status">Status</string>
+    <string name="Server_address">Serveradress</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Slut</string>
+    
+    
+    <!-- Archive dialog -->
+    <string name="Create_archive_dialog_title">Skapa arkiv</string>
+    <string name="Archive_name">Arkivnamn</string>
+    <string name="Compression">Komprimering</string>
+    <string name="Format">Format</string>
+    <string name="Use_password_protection">Använd lösenordsskydd</string>
+    <string name="Fast">Snabb</string>
+    <string name="Normal">Normal</string>
+    <string name="Good">Bra</string>
+    <string name="Best">Bäst</string>
+    
+    <!-- File properties -->
+    <string name="Content_summary">Innehållssummering</string>
+    <string name="File_types">Filtyper</string>
+    <string name="Top_10_files">Topp 10-filer</string>
+    <string name="Location">Plats</string>
+    <string name="Type">Typ</string>
+    <string name="Parent_path">Föräldersökväg</string>
+    <string name="Last_modified">Senast ändrad</string>
+    <string name="Directory">Katalog</string>
+    <string name="Unknown">Okänd</string>
+    <string name="Symbolic_link">Symbolisk länk</string>
+    <string name="Link_target">Länkmål</string>
+    <string name="Open">Öppna</string>
+    <string name="Open_directory">Öppna katalog</string>
+    <string name="MD5">MD5</string>
+    <string name="Calculate">Räkna ut</string>
+    <string name="Compare">Jämför</string>
+    <string name="Paste_to_compare">Klista in för att jämföra</string>
+    <string name="Files">Filer</string>
+    <string name="Folders">Kataloger</string>
+    <string name="Calculation_error">Beräkningsfel</string>
+    <string name="Content">Innehåll</string>
+    <string name="Other_used">Annat</string>
+    <string name="Free_space">Ledigt</string>
+    <string name="Usage">Använt</string>
+    <string name="Attributes">Attribut</string>
+    <string name="Read">Läs</string>
+    <string name="Write">Skriv</string>
+    <string name="Hidden">Gömd</string>
+    <string name="Additional_info">Mer information</string>
+    <string name="Percent">Procent</string>
+    <string name="Music">Musik</string>
+    <string name="Pictures">Bilder</string>
+    <string name="Videos">Filmer</string>
+    <string name="Archives">Arkiv</string>
+    <string name="Documents">Dokument</string>
+    <string name="Change">Ändra</string>
+    <string name="Execute">Exekvera</string>
+    <string name="Owner">Ägare</string>
+    <string name="Group">Grupp</string>
+    <string name="Others">Andra</string>
+    <string name="Owners">Ägare</string>
+    <string name="Permissions">Tillåtelser</string>
+    <string name="Set">Ställ in</string>
+    <string name="Used_space">Använt utrymme</string>
+    <string name="Free_space">Ledigt utrymme</string>
+    <string name="Total_size">Total storlek</string>
+    <string name="Artist">Artist</string>
+    <string name="Title">Titel</string>
+    <string name="Duration">Längd</string>
+    <string name="Resolution">Upplösning</string>
+    <string name="Recorded">Inspelad</string>
+    <string name="Width">Bredd</string>
+    <string name="Height">Höjd</string>
+    <string name="Manufacturer">TIllverkare</string>
+    <string name="Camera_model">Kameramodell</string>
+    <string name="Software">Mjukvara</string>
+    <string name="Orientation">Orientering</string>
+    <string name="Exposure_time">Exponeringstid</string>
+    <string name="Exposure_bias">Exponeringsbias</string>
+    <string name="White_balance">Vitbalans</string>
+    <string name="Focal_length">Brännvidd</string>
+    <string name="Aperture_size">Öppning</string>
+    <string name="Flash">Blixt</string>
+    
+    <!-- Dialogs again -->
+    	<!-- File exists dialog -->
+    	<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
+    	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+    	<string name="File_exists">Filen finns redan</string>
+    	<string name="Skip">Hoppa över</string>
+    	<string name="Overwrite">Skriv över</string>
+    	<string name="Merge">Slå ihop</string>
+    	<string name="Keep_both">Spara båda</string>
+    	<string name="Remember_action">Kom ihåg valet</string>
+    	<string name="Keep_the_old_file">Spara den gamla filen</string>
+    	<string name="The_new_file_will_have_its_name_changed">Den nya filen döps om</string>
+    	<string name="Replace_the_file_with_this">Byt ur filen med detta</string>
+    	<string name="Create_master_password">Skapa övergripade lösenord</string>
+    	
+    	<string name="Choose_an_activity_to_open_the_file">Välj aktivtitet för att öppna filen</string>
+    	<string name="Always_use_this_application">Använd alltud denna app</string>
+    	<string name="Send_the_file_using">Dela filen med</string>
+    	<string name="Progress">Progress</string>
+    	<string name="Minimize">Minimera</string>
+    	<string name="Pause">Vänta</string>
+    	<string name="Resume">Fortsätt</string>
+    	<string name="Dismiss">Avfärda</string>
+    	
+    	<string name="Abort_operation">Avbryt operationen</string>
+    	<string name="There_is_already_an_operation_running">En operation genomförs redan. Du måste vänta tills den är klar.</string>
+    
+    	<!-- Question dialogs -->
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Är du säker på att du vill rensa historiken?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Är du säker på att du vill rensa tumnagel-cachen?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Är du säker på att du vill radera temporära filer?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Det är dags för schemalagd indexering. Vill du genomföra den nu?</string>
+    	<string name="Folder_exists_descr">Det finns redan en sådan katalog här. Vad vill du göra?</string>
+    	<string name="File_exists_descr">Det finns redan en sådan fil här. Vad vill du göra?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Är du säker på att di vill radera \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Är du säker på att du vill avbryta den pågående operationen?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Är du säkger på att du vill radera all bokmärken?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Är du säker på att du vill radera bokmärket \&quot;%\&quot; ?</string>
+    	<string name="Reindex_prompt">Du starta nu indexeringen manuellt. Detta kan ta flera minuter, fortsätt?</string>
+    	<string name="Clear_index_prompt">Är du säker på att du vill rensa alla indexerade data? Du kan inte ångra dig.</string>
+    	<string name="Are_you_sure_to_stop_indexing">Vill du verkligen avbryta indexeringen?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Vill du verkligen rensa alla filtypskopplingar?</string>
+    	<string name="Changes_have_been_made_to_the_file">Ändringar finns i &quot;%&quot;. Vill du spara dem?</string>
+    	<string name="Chown_confirm">Är du säker på att du vill ändra ägare på denna filen?</string>
+    	<string name="Busybox_request">Du verkar inte ha BusyBox installerad. Det krävs för att bläddra i toppen. Vill du installera nu?</string>
+    	
+    	
+    	<!-- Information dialogs -->
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive klarar inte av \&quot;%\&quot; filer. Operationen avbryts.</string>
+    	<string name="Operation_not_supported">Operationen supportas ej</string>
+    	<string name="You_have_to_provide_a_password">Du måste ange ett lösenord</string>
+    	<string name="Insufficient_space" formatted="false">Otillräckligt utrymme för operationen. Storlek: %, tillgängligt: %.</string>
+    	<string name="Command_executed_successfully">Kommandot utfördets korrekt</string>
+    	<string name="Deleting_data">Raderar datat</string>
+    	<string name="Done">Klar</string>
+    	<string name="Preparing_for_operation">Förbereder operationen...</string>
+    	<string name="Connecting">Ansluter</string>
+    	<string name="Connecting_to_x">Ansluten till \&quot;%\&quot;</string>
+    	<string name="File_is_too_big">Filen är för stor. Endast filer upp till 75kB kan modifieras. Större filer kan snart ändras.</string>
+    	<string name="Operation_history_has_been_cleared">Operationshistoriken har rensats</string>
+    	<string name="Encrypted_archive">Krypterat arkiv</string>
+    	<string name="Enter_the_password">Skriv lösenord</string>
+    	<string name="Confirmation">Bekräfta</string>
+    	<string name="Input_request">Inmatningsbegäran</string>
+    	<string name="Message">Meddelande</string>
+    	<string name="Warning">Varning!</string>
+    	<string name="You_did_not_specify_a_password">Du angav inget lösenord</string>
+    	<string name="Reading_archive">Läser arkiv</string>
+    	<string name="Reading_archive_x">Läser arkiv \&quot;%\&quot;</string>
+    	<string name="Storage_not_available">Lagring ej tillgänglig</string>
+    	<string name="The_password_given_is_incorrect">Lösenordet är fel</string>
+    	<string name="You_did_not_specify_a_server_name">Du angav inget servernamn</string>
+    	<string name="You_did_not_specify_a_computer_name">Du angav inget datornamn</string>
+    	<string name="You_did_not_specify_a_port_number">Du angav inget portnummer</string>
+    	<string name="You_did_not_specify_user_name">You did not specify user name</string>
+    	<string name="Indexing">Indexerar</string>
+    	<string name="Indexing_in_progress">Indexering pågår</string>
+    	<string name="Indexing_paused">Indexing avvaktar</string>
+    	<string name="Indexing_has_been_completed">Indexing klar</string>
+    	<string name="Indexing_has_been_aborted">Indexing avbröts</string>
+    	<string name="Tap_to_dismiss">Klicka för att avfärda</string>
+    	<string name="Tap_top_open">Klicka för att öppna</string>
+    	<string name="File_is_ready_to_open">Filen är klar att öppnas</string>
+    	
+    	<string name="Operation_aborted_by_user">Operationen avbröts av användaren</string>
+    	<string name="You_cant_delete_this_item">Du kan inte radera detta objekt</string>
+    	<string name="Indexing_service">Indexeringstjänst</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">Bara lokala filer kan läggas till i arkivet</string>
+    	<string name="Bookmark_already_exists">Bokmärket finns redan</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; tillagd bland bokmärken</string>
+    	<string name="Rename_a_file">Döp om en fil</string>
+    	<string name="Input_was_left_blank">Inmtningen var tom</string>
+    	<string name="File_named_already_exists">En file som heter \&quot;%\&quot; finns redan</string>
+    	<string name="Confirm_delete">Bekräfta radering</string>
+    	<string name="You_cant_create_an_archive_here">Du kan inte skapa ett arkiv här</string>
+    	<string name="Cannot_connect_to">Kan inte ansluta till \&quot;%\&quot;</string>
+    	<string name="You_are_not_logged_in">Du är inte inloggad</string>
+		<string name="Can_not_create_the_directory">Kan inte skapa katalogen</string>
+    	<string name="Beta_expired">Betan är nu slut</string>
+    	<string name="Can_not_create_the_file">Can inte skapa filen</string>
+    	<string name="Uknown_file_type">Okänd filtyp</string>
+    	<string name="No_activity_found_to_open_this_file">Ingen aktivitet hittade för att öppna denna fil</string>
+    	<string name="You_cant_send_a_folder">Du kan inte del en katalog</string>
+    	<string name="Indexing_has_been_unscheduled">Indexeringen ej längre schemalagd</string>
+    	<string name="Scheduled_indexing">Schemalagd indexering</string>
+    	<string name="Tap_to_start">Klicka för att börja</string>
+    	
+    	
+    	<string name="Are_you_sure_you_want_to_delete_items">Är du säker på att du vill radera % objekt{1:|__:}?</string>
+    	<string name="X_files_deleted">% fil{1:|__:er} raderad(e).</string>
+    	<string name="X_files_copied">% fil{1:|__:er} kopierad(e).</string>
+    	<string name="X_files_moved">% fil{1:|__:er} flyttad(e).</string>
+    	<string name="X_items">% objekt{1:|__:}</string>
+    	<string name="Deleting_X_files">Raderar % fil{1:|__:er}</string>
+    	<string name="Copying_X_files">Kopierar % fil{1:|__:er}</string>
+    	<string name="Moving_X_files">Flyttar % fil{1:|__:er}</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Indexering schemlagd till %x varje %y dag{1:|__:ar}</string>
+    	<!-- Explanation of above
+    	
+    		 	In english things are simple because we have 1 file and multiple files.
+    		 	1 file, 2 files, 3 files and so on...
+    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+    			
+    			But let's take polish for example. File means 'Plik'. We have:
+    			0 plików
+    			1 plik
+    			2, 3, 4 pliki
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    			but.. 22, 23 pliki
+    			and 26, 27 plików
+    			Complicated, huh?
+    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+    			
+    			If you have problems creating this pattern for your language, contact me.
+    			
+    			Quick reference:
+    			'{' - starts the pattern
+    			'}' - ends the pattern
+    			'|' - rule divider
+    			':' - separates range from the associated suffix
+    			'_' - any digit
+    			'-' - range
+    			
+    			Examples:
+    			1:s 	= for single 1 give 's' suffix
+    			3:		= for single 3 give no suffix
+    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    			__:s	= give 's' for any number
+    			
+    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    			there should be always the __:something pattern at the end.
+    	
+    	-->
+    
+
+    
+    <!-- Open as dialog -->
+    <string name="Open_as">Öppna som...</string>
+    <string name="Choose_a_preferred_type">Välj en föredragen typ</string>
+    <string name="Text_file">Textfil</string>
+    <string name="Image_file">Bildfil</string>
+    <string name="Music_file">Musikfil</string>
+    <string name="Video_file">Filmfil</string>
+    <string name="ZIP_archive">ZIParkiv</string>
+    
+    
+    <!-- File picker -->
+    
+    <string name="Create_shortcut">Skapa genväg</string>
+    <string name="Shortcut_tip">För att skapa katloggenväg välj \&quot;Skapa genväg\&quot; från kontextmenyn.</string>
+    
+
+    
+	<!-- Text editor -->
+    <string name="Wrap_lines">Radbryt</string>
+    <string name="Font_size">Fontstorlek</string>
+    <string name="Font">Font</string>
+    <string name="App_default">Appstandard</string>
+    <string name="System_default">Systemstandard</string>
+    <string name="Serif">Serif</string>
+    <string name="Monospace">Monospace</string>
+    <string name="File_saved_successfully">Filen har sparats korrekt</string>
+    
+    
+    <!-- Preferences -->
+    <string name="Appearance">Utseende</string>
+	<string name="Theme">Tema</string>
+    <string name="Choose_between_preinstalled_themes">Välj mellan förinstallerade teman</string>
+    <string name="Light">Ljus</string>
+    <string name="Dark">Mörk</string>
+    
+    <string name="Toggle_visibility_of_hidden_files">Växla synlighet för gömda filer</string>
+    <string name="Show_hidden_files">Visa gömda filer</string>
+    
+    <string name="Show_file_permissions">Visa filberhörigheter</string>
+    <string name="Show_file_permissions_summary">Visa Unixstil på behörighet i stället för senaste modifieringen (endast rotfiler).</string>
+    
+    <string name="Date_format">Datumformat</string>
+    <string name="Customize_date_format">Anpassat datumformat</string>
+    
+    <string name="Time_format">Tidformat</string>
+	<string name="Customize_time_format">Anpassat tidformat</string>
+	
+	<string name="Show_fast_scroll_thumb_in_file_list">Visa snabbscrollningshantag i fillistor</string>
+    <string name="Use_fast_scroll">Använd snabbscolllning</string>
+    
+    <string name="Low_quality_thumbnails">Låg kvalitet på tumnaglar</string>
+    <string name="Low_quality_thumbnails_summary">Avvändbart för begränsat minne</string>
+    
+    <string name="Portrait_fullscreen">Porträtt helskärm</string>
+    <string name="Portrait_fullscreen_summary">Gömmer systemstatus i porträttläge</string>
+    
+    <string name="Landscape_fullscreen">Landskap helskärm</string>
+    <string name="Landscape_fullscreen_summary">Gömmer systemstatys i landskapsläge</string>
+    
+    <string name="File_list_size">Porträtt liststorlek</string>
+    <string name="Adjust_size_of_the_file_list">Justera storlek på fillistan i porträttläge</string>
+    
+    <string name="Landscape_file_list_size">Landskap liststorlek</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Justera storleken på fillistan i landskapsläge</string>
+    
+    <string name="Small">Liten</string>
+    <string name="Normal">Normal</string>
+    <string name="Big">Stor</string>
+    <string name="Large">Större</string>
+    <string name="Extra_small">Minst</string>
+    
+    <string name="Hide_exit_button">Göm avslutaknappen</string>
+    <string name="Hide_exit_button_summary">Du kan även avsluta appen med långtryck på backknappen</string>
+    
+    <string name="Startup">Uppstart</string>
+    
+    <string name="Remember_last_folder">Kom ihåg senaste katalog</string>
+    <string name="Will_start_with_recently_viewed_directories">Appen startar med att visa senaste kataloger</string>
+    
+    
+    <string name="First_panel_default_dir">Första panelens katalog</string>
+    <string name="Second_panel_default_dir">Andra panelens katalog</string>
+    
+    <string name="Change_pictures_directory">Ändra bildkatalog</string>
+    <string name="Change_downloads_directory">Ändra nedladdningskatalog</string>
+    
+    <string name="Drag_and_drop">Dra och släpp</string>
+    <string name="Action_for_drop_inside_the_panel">Åtgärd för samma panel</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Släppa ett objekt i en katalog i samma panel</string>
+    <string name="Action_for_drop_to_the_second_panel">Åtgärd för andra panelen</string>
+    <string name="Dropping_an_item_to_the_second_panel">Släppa ett objekt i den andra panelen</string>
+    <string name="Move">Flytta</string>
+    
+    <string name="Security">Säkerhet</string>
+    <string name="Master_password_prompt">Solid Explorer använder ett övergripande lösenord för att kryptera alla inloggningsuppgifter. Om du bryr dig om säkerheten rekommenderas att använda den här funktionen. Du kommer att bli tillfrågad om det övergripande lösenordet bara en gång per start av appen. Annars används standardkryptering utan lösenord. Vill du använda den här funktionen?</string>
+    <string name="Disable_master_password_warning">Om du stänger av övergripande lösenord kommer du att byta till standardlösenordet. Du kommer aldrig att bli tillfrågad om det. Inloggningsuppgifter kommer fortfarande att vara krypterade. Vill du fortsätta?</string>
+    <string name="Enable_master_password_warning">Om du har några tidigare bokmärken krypterade med standardlösenord, kommer de att tas bort. Fortsätt?</string>
+    <string name="Enable_master_password">Slå på övergripande lösenord</string>
+	<string name="Too_weak_password">Lösenordet måste vara minst 6 tecken, men inte mer än 16 tecken</string>
+    <string name="Enter_the_master_password">Skriv övergripande lösenord</string>
+    <string name="Enter_a_new_master_password">Skriv nytt övergripande lösenord</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Kryptera all inloggingsuppgifter med övergripande lösenord</string>
+    <string name="Set_master_password">Ändra övergripande lösenord</string>
+    <string name="All_passwords_will_be_reencrypted">Alla lösenrod blir nu omkrypterade</string>
+    
+    <string name="I_dont_remember_my_old_password">Jag har glömt mitt gamla lösenord</string>
+    <string name="Reset_password_warning">Varning! Om du byter lösenord just nu sp raderas alla bokmärken som är krypterade med det gamla lösenordet.</string>
+    <string name="Old_password">Gammalt lösenord</string>
+    <string name="New_password">Nytt lösenord</string>
+    <string name="Master_password_has_been_disabled">Globalt lösenord har nu stängts av</string>
+    <string name="Passwords_do_not_match">Lösenorden är olika</string>
+    <string name="Password_is_too_short">Lösenordet är för kort</string>
+    
+    
+    
+    <string name="Search_interface">Sökgränssnitt</string>
+    <string name="Search_key_starts_filtering">Sökknappen startar filtrering</string>
+    <string name="Search_key_starts_filtering_summary">Börja filtrera listan i stället för att starta en sökaktivitet</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Match bara början av ord när listan filtreras</string>
+    <string name="Filter_words_from_the_beginning">Filtrer från början</string>
+    <string name="Customize_indexing_engine_behaviour">Anpassa indexeringen</string>
+    <string name="Indexing_engine">Indexeringsmotor</string>
+    	<string name="Reindex_now">Omindexera nu</string>
+    	<string name="Refresh_index_database">Uppdatera indexdatabasen. Gör ingen skillnad medan sökningen pågår.</string>
+    	<string name="Clear_index_data">Rensa indexdata</string>
+    	<string name="Delete_all_index_data">Rensa alla indexdata</string>
+    	<string name="Reindex_on_media_mount">Omindexera monterade media</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">Omindexera lagringsmedia när det ansluts (rekommenderas)</string>
+    	<string name="Shedule_indexing">Schemalägg indexering</string>
+    	<string name="Perform_reindex_every_given_period">Genomför indexering vid varje givet intervall</string>
+    	<string name="Set_time_and_period">Ställ in tid och interval</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Tiden då indexeringen ska starta</string>
+    	<string name="Maximum_index_age">Maximal ålder på indexet</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Hur länge data får sparas då filen inte har hittats</string>
+    	<string name="one_day">1 dag</string>
+    	<string name="two_days">2 dagar</string>
+    	<string name="five_days">5 dagar</string>
+    	<string name="One_week">En vecka</string>
+    	<string name="Choose_interval">Välj intervall</string>
+    	<string name="three_days">3 dagar</string>
+    	<string name="How_often_indexing_will_be_performed">Hur ofta indexering ska genomföras</string>
+    	<string name="Set_period">Välj period</string>
+    	<string name="Set_time">Välj tid</string>
+    	<string name="Show_notifications">Visa notifieringar</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Visa notifieringar när indexering blir klar eller misslyckas.</string>
+    
+    
+    <string name="Other">Annat</string>
+    	
+    <string name="Clear_persistent_data">Rensa sparade data</string>
+    <string name="Clear_persistent_data_summary">Rader data som tex tumnagelcache temporärfiler, operationshistorik, etc.</string>
+    <string name="Clear_thumbnail_cache">Rensa tumnagelcache</string>
+    <string name="Clear_temporary_files">Rensa temporärfiler</string>
+    <string name="Clear_operation_history">Rensa operationshistoriken</string>
+    <string name="Delete_all_image_previews">Radera alla förhandsgranskningar</string>
+    <string name="Delete_all_temporary_files">Radera alla temporärfiler</string>
+    <string name="Delete_operation_history_entries">Radera operationshistoriken</string>
+    <string name="Clear_file_type_associations">Radera filtypskopplingar</string>
+    <string name="Clear_file_type_associations_summary">Radera information om applikationer om används för utvalda filtyper</string>
+    <string name="Clear_temporary_files_on_exit">Rensa temp vid avslut</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Temporärfiler raderas di appen avslutas</string>
+    
+    <string name="Quick_start_guide">Snabbstartsguide</string>
+    <string name="Learn_about_main_features">Lär dig om Solid Explorer\'s primära funktioner</string>
+    <string name="Help_make_Solid_Explorer_better">Hjälp till att göra Solid Explorer bättre</string>
+    <string name="Report_a_bug">Rapportera en bugg</string>
+   
+    <string name="About">Om</string>
+    <string name="Author_version_and_changelog">Skapare, version and ändringslogg</string>
+    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Version">Version</string>
+    <string name="Changelog">Ändringslogg</string>
+    <string name="Whats_new">Vad är nytt</string>
+    <string name="Author">Skapare</string>
+    <string name="Functionality_for_future_releases">Planerat för framtida versioner</string>
+    <string name="Planned_features">Planerade funktioner</string>
+    
+    
+    
+    <!-- Other -->
+    <string name="Prefix">Prefix</string>
+    <string name="Expiration_message">Tack för att du använder Solid Explorer Beta. För att fortsätta testa denna app, ladda hem den senaste versionen från Google Play.</string>
+    <string name="Empty">Tom</string>
+	<string name="search_description">Sök igenom din enhet med Solid Explorer</string>
+    <string name="search_hint">Skriv ett filnamn </string>
+    <string name="Save_file">Spare fil</string>
+    <string name="Solid_explorer_indexing_service">Solid Explorer indexeringstjänst</string>
+    
+    
+    
+    <!-- acra -->
+    <string name="crash_toast_text">Ooooops! Solid Explorer har krashat. Var snätt och skicka rapporten till utvecklaren för att hjälpa honom fixa problemet!</string>
+    <string name="crash_notif_ticker_text">Oväntat fel, skicka en rapport...</string>
+    <string name="crash_notif_title">Solid Explorer har krashat...</string>
+    <string name="crash_notif_text">Var snäll och klockar hör flr att hjälpa till att fixa problemet</string>
+    <string name="crash_dialog_title">Solid Explorer har krachat</string>
+    <string name="crash_dialog_text">Ett oväntat fel inträffade som tvingade appen att sttanna. Var snäll och hjälpa mig fixa detta genom att skicka felrapporten.</string>
+    <string name="crash_dialog_comment_prompt">Var snäll och skriv in så mycket detaljer du kan om problemet nedan. Ofta är det omöjligt att återskapa problemet utan din beskrivning.</string>
+    <string name="crash_dialog_ok_toast">Tack!</string>
+    
+    <string name="Icon_designer">Ikonen designer</string>
+    <string name="Prefix">Prefixet</string>
+    <string name="Translations">Översättning</string>
+    <string name="Translations_summary">Svensk översättning av artighet av Jonas Petersson</string>
+    <string name="Empty">Tom</string>
+    <string name="Press_once_again_to_exit">Tryck en gång för att avsluta</string>
+    
+ 
+</resources>

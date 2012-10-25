@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="page1_1">Solid Explorer memiliki dua panel independen untuk menjelajahi file. Contoh: anda dapat memuat direktori SD Card pada panel pertama dan direktori komputer pada panel kedua. Lalu anda dapat memanipulasi file-file dengan mudah.</string>
+	<string name="page1_2">Pada modus berdiri hanya akan tampak satu panel. Untuk berpindah ke panel lainnya anda cukup menggeser layar ke kiri atau kanan. Pada modus tidur akan ditampilkan dua panel.</string>
+	<string name="page2_1">Anda dapat menarik file pada berserta gambar ikon dan melepaskannya di panel sebelahnya. Cukup menggeser ke ujung layar dan panel kedua akan muncul.</string>
+    <string name="page2_2">Anda juga dapat melepaskan file-file pada direktori. Caranya cukup menahannya diatas direktori hingga direktori terbuka. Lalu lepaskan file-file tersebut pada direktori.</string>
+	<string name="page3_1">Untuk memilih file secara cepat cukup sentuh ikonnya. Panel pilihan akan muncul dengan fungsi-fungsi yang berguna. Anda dapat mengaktifkan tombol \&quot;salin\&quot;, \&quot;potong\&quot; dan \&quot;kirim\&quot; dari menu preferensi.</string>
+    <string name="page3_2">Pengecualian: fitur diatas tidak aktif pada mode tampilan kolom. Anda harus mengaktifkan modus pemilihan pada menu Pengaturan.</string>
+	<string name="page4_1">Pencarian berdasarkan indeks akan memberikan akses yang cepat semua file yang ada pada handphone. Anda akan mendapatkan hasil dibawah satu detik! Lupakan menunggu, tetapi jika file tidak ditemukan maka klik opsi \'Pencarian Manual\' untuk mencarinya file per file.</string>
+	<string name="page4_2">Anda juga dapat melakukan pencarian dari Google Search. Yang perlu anda lakukan hanya membuka menu pengaturan dan mengaktifkan tampilan pencarian oleh Solid Explorer.</string>
+	<string name="page5_1">Solid Explorer mendukung protokol FTP, SFTP, dan SMB. Saat anda masuk ke suatu tempat maka data akan otomatis disimpan sebagai penanda. Anda dapat memilih untuk mengenkripsi password dengan password utama yang telah anda tentukan.</string>
+	<string name="page5_2">Jika anda memiliki akun penyimpanan awan (Seperti Dropbox atau Box) maka anda dapat menjelajahi file tersebut secara langsung seperti file pada perangkat anda.</string>
+	<string name="page6_1">Jika anda hendak mengirim beberapa file melalui surat elektronik maka anda dapat membuat file arsip. File arsip dapat dilindungi dengan kata sandi. Arsip ZIP atau TAR mendukung kompresi GZIP atau BZIP2.</string>
+    <string name="page6_2">Solid Explorer mendukung menjelajah dan mengekstrak arsip ZIP, RAR dan TAR. Anda dapat menjelajah file arsip sama seperti menjelajah direktori.</string>
+	<string name="page7_1">Solid Explorer memberikan anda informasi yang terperinci mengenai file-file dan direktori-direktori anda. Sehingga anda dapat memeriksa penyebab habisnya memori anda atau melihat statistik penggunaan memori.</string>
+    <string name="page8_1">Setiap fungsi yang ditaruh pada popup yang menarik. Fungsi-fungsi tersebut telah dikelompokkan untuk memberikan pengalaman yang terbaik bagi anda.</string>
+    <string name="page8_2">Saat anda memiliki beberapa panel yang bekerja di belakang layar maka anda dapat berpindah-pindah seperti cara disamping</string>
+	<string name="page9">Saya berterima kasih anda telah memutuskan untuk mencoba Solid Explorer. Saya harap anda akan menikmati semua fitur-fitur yang disediakan oleh aplikasi ini. Jika anda lupa akan sesuatu anda dapat melihat panduan cepat dan singkat ini dari menu pengaturan.</string>
+    <string name="Start_using_solid_explorer">Mulai menggunakan Solid Explorer</string>
+	<string name="page0_1">Selamat datang di aplikasi Solid Explorer - Manajer file yang paling intuitif dan menarik perhatian untuk android. Mohon membaca panduan cepat dan singkat agar terbiasa dengan semua fasilitas yang disediakan oleh aplikasi.</string>
+    <string name="Not_now">Tidak Sekarang</string>
+    <string name="page0_2">Untuk memulai silahkan menggeser layar</string>
+    <string name="Welcome">Selamat Datang</string>
+    <string name="Two_panels">Dua panel</string>
+    <string name="Quick_selection">Pemilihan cepat</string>
+    <string name="Indexed_search">Pencarian terindeks</string>
+    <string name="Archives">Arsip</string>
+    <string name="Detailed_information">Informasi terperinci</string>
+    <string name="Useful_popups">Efektif popup</string>
+    <string name="Lets_start">Mari mulai</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Anda dapat membaca panduan ini lain waktu. Cukup buka menu pengaturan dan memilih opsi \&quot;Panduan cepat dan singkat\&quot;.</string>
+    <string name="Thank_you">Terima kasih</string>
+    
+</resources>

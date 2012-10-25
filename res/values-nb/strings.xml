@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    
+    
+    <!-- bottom toolbar -->
+    <string name="New">Ny</string>
+    <string name="Jump">Hopp</string>
+    <string name="Filter">Filter</string>
+    <string name="Menu">Meny</string>
+    <string name="Actions">Handlinger</string>
+    
+    <!-- "New" popup -->
+    <string name="New_folder">Mapper</string>
+    <string name="New_file">Fil</string>
+    <string name="New_FTP_connection">FTP tilkobing</string>
+    <string name="New_SFTP_connection">SFTP tilkobling</string>
+    <string name="New_SMB_connection">SMB tilkobing</string>
+    <string name="New_cloud_connection">Sky tilkobing</string>
+    
+    <!-- "Actions" popup -->
+    
+    <string name="Copy">Kopier</string>
+    <string name="Cut">Klipp ut</string>
+    <string name="Paste">Lim inn</string>
+    <string name="Delete">Slett</string>
+    <string name="Properties">Egenskaper</string>
+    <string name="Select_all">Velg alle</string>
+    <string name="Select">Velg</string>
+    
+    <!-- "Jump" popup -->
+    
+    <string name="Device">Enhet</string>
+    <string name="Photos">Bilder</string>
+    <string name="Downloads">Nedlastinger</string>
+    <string name="Network">Nettverk</string>
+    <string name="Bookmarks">Bokmerker</string>
+    <string name="No_bookmarks">Ingen bokmerker</string>
+    
+    <!-- "Menu" popup -->
+    <string name="View">Vis</string>
+    <string name="Sort">Sorter</string>
+    <string name="Search">Søk</string>
+    <string name="Operations">Operasjoner</string>
+    <string name="Manage_bookmarks">Behandle bokmerker</string>
+    <string name="File_sharing">Fil deling</string>
+    <string name="Settings">Instillinger</string>
+    <string name="Exit">Avslutt</string>
+    
+    <!-- "Network" popup -->
+    <string name="Cloud_storage">Sky lagring</string>
+    
+    <!-- "Device" popup -->
+     <string name="System_root">System rot(root)</string>
+    <string name="SD_card">SD kort</string>
+    <string name="Internal_memory">Internt minne</string>
+    <string name="USB_drive_x">USB-stasjon %x</string>
+    
+    <!-- "View" popup -->
+    <string name="View_mode">Visningsmodus</string>
+    <string name="List">Liste</string>
+    <string name="Detailed_list">Detaljert Liste</string>
+    <string name="Grid">Grind</string>
+    <string name="Detailed_grid">Detaljert grind</string>
+    
+    <!-- "Sort" popup -->
+    <string name="Sort_files_by">Sorter filer etter</string>
+    <string name="File_name">Fil navn</string>
+    <string name="File_size">File størrelse</string>
+    <string name="File_type">File type</string>
+    <string name="Modified_date">Modifisert dato</string>
+    <string name="Ascending">Stigende</string>
+    <string name="Descending">Synkende</string>
+    <string name="In_order">I order</string>
+    
+    <!-- Browser switch popup -->
+    <string name="Active_browser">Aktive søk</string>
+    <string name="Close_all">Lukk alle</string>
+    <string name="In_background">I bakgrunnen</string>
+    
+    
+    
+    <!-- Context menu -->
+    <string name="Open_with">Åpne med...</string>
+    <string name="Open_in_bg">Åpne ved siden av</string>
+    <string name="Send">Send</string>
+    <string name="Bookmark">Bokmerke</string>
+    <string name="Rename">Gi nytt navn</string>
+    <string name="Extract">Pakk ut</string>
+    <string name="Extract_to">Pakk ut til</string>
+    <string name="Archive">Arkiv</string>
+    <string name="Paste_to_x">Lim inn til \&quot;%\&quot;</string>
+    
+    
+    <!-- Dialogs -->
+    <string name="OK">OK</string>
+    <string name="Cancel">Avbryt</string>
+    <string name="Yes">Ja</string>
+    <string name="No">Nei</string>
+    
+	    <!-- New folder/file dialog -->
+	    <string name="Enter_the_name">Skriv navnet</string>
+	    
+	    <!-- New connection Dialog -->
+	    <string name="Display_name">Visningsnavn</string>
+	    <string name="May_be_empty">Kan være tom</string>
+    	<string name="Remote_path">Ekstern bane</string>
+    	<string name="Port">Port</string>
+    	<string name="User_name">Bruker navn</string>
+    	<string name="Password">Passord</string>
+    	<string name="Repeat_the_password">Bekreft passord</string>
+    	<string name="Authentication_method">Autentiseringsmetode</string>
+    	<string name="Server">Server</string>
+    	<string name="Connection_type">Tilkoblings type</string>
+    	<string name="Scan">Skann</string>
+    	<string name="Computer_name_or_IP_adress">Datamarskin navn eller IP addresse</string>
+    	<string name="Looking_for_computers">Leter etter datamarskiner</string>
+    	<string name="Share">SMB deling</string>
+    	
+    		<!-- Auth methods -->
+    		<string name="Ask_for_password_each_time">Spør for passord for hver gang</string>
+        	<string name="Store_encrypted_password">Lagre kryptert passord</string>
+        	<string name="No_password_required">Ikke nødvendig med passord</string>
+        	<string name="Anonymous">Anonym</string>
+        	<string name="Log_in_as_a_guest">Logg inn som gjest</string>
+        	
+        	<!-- FTP types -->
+        	<string name="FTP_no_encryption">FTP (ingen kryptering)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (implisitt kryptering)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (eksplisitt kryptering)</string>
+        
+    <!-- Search activity -->	
+    <string name="Manual_search">Manuelt søk</string>
+    <string name="Results_from">Resultater fra:</string>
+    <string name="No_results">Ingen resultater</string>
+    <string name="Matches">Kamper</string>
+    <string name="Selected">Valgt</string>
+    <string name="Match_mode">Kamp modus</string>
+    <string name="Match_start">Kamp start</string>
+    <string name="Match_any">Kamp noen</string>
+    <string name="Match_end">Kamp slutt</string>
+    
+    <!-- Operations activity -->
+    <string name="History_is_empty">Historien er tom</string>
+    <string name="Current_operation">Gjeldende operasjon</string>
+    <string name="No_pending_operation">Ingen ventende operasjoner</string>
+    <string name="History">Historie</string>
+    <string name="Count">Telle</string>
+    <string name="Date">Dato</string>
+    <string name="Source">Kilder</string>
+    <string name="Destination"></string>
+    
+    	<!-- Operation info -->
+    	<string name="Operation">Operasjon</string>
+    	<string name="From">Fra</string>
+    	<string name="To">Til</string>
+    	<string name="Size">Størrelse</string>
+    	<string name="Speed">Fart</string>
+    	<string name="ETA">Tid igjen</string>
+    	<string name="NA">N/A</string>
+    	<string name="Gjeldende"></string>
+    	
+    	<!-- Operation descriptions -->
+    	<string name="File_copy">Kopier fil</string>
+    	<string name="File_move">Flytt fil</string>
+    	<string name="File_delete">Slett fil</string>
+    	<string name="Temporary_download">Midlertidlig nedlasting</string>
+   	 	<string name="Creating_archive">Lager % archive</string>
+    	<string name="Extracting_archive">Pakker ut % archive</string>
+    	<string name="X_has_been_completed">% har blitt ferdig.</string>
+    	<string name="X_has_failed">% har feilet.</string>
+    	<string name="Tap_to_show_details">Trykk for å se detaljer</string>
+    	<string name="Pending_cancel_request">Pending avbryt forespørsel</string>
+    	<string name="File_operation">Fil operasjon</string>
+    
+    <!-- Bookmark manager -->
+    <string name="Bookmark_manager">Bokmerke behandler</string>
+    <string name="Edit">Rediger</string>
+    <string name="Disconnect">Koble fra</string>
+    <string name="Delete_all">Slett alt</string>
+    <string name="Wifi_toggle">Slå på Wi-Fi</string>
+    <string name="Wifi_settings">Wi-Fi instillinger</string>
+    <string name="Disconnect_all">Koble fra alle</string>
+    <string name="Connected">Tilkoblet</string> 
+    <string name="Not_connected">Ikke tilkoblet</string>
+    <string name="on">på</string>
+    <string name="Local_bookmarks">Lokale bokmerker</string>
+    <string name="FTP_bookmarks">FTP bokmerker</string>
+    <string name="SFTP_bookmarks">SFTP bokmerker</string>
+    <string name="SMB_bookmarks">SMB bokmerker</string>
+    <string name="Cloud_bookmarks">Sky bokmerker</string>
+    <string name="Edit_bookmark">Rediger bokmerker</string>
+    <string name="Name">Navn</string>
+    <string name="Path">Bane</string>
+    
+    <!-- Dir picker -->
+    <string name="Pick_a_directory">Velg en mappe</string>
+    
+    <!-- Cloud storage dialog -->
+    <string name="Cloud_storage_services">Sky lagrings tjenester</string>
+    <string name="Cloud_services_description">Velg din sky lagrings tjeneste</string>
+    
+    <!-- File sharing -->
+    <string name="File_sharing_active">Fil deling aktiv</string>
+    <string name="ftp_server_hint">For å koble til, skriv serverens adresse i Windows Explorer adresselinjen, eller bruke et FTP-klient.</string>
+    <string name="You_cannot_share_root_directory">Du kan ikke dele root mappen</string>
+    <string name="File_sharing_stopped">Fil deling stoppet</string>
+    <string name="None">Ingen</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Du må være koblet til et lokalt nettverk</string>
+    <string name="Active">Aktiv</string>
+    <string name="Inactive">Inaktiv</string>
+    <string name="FTP_Server">FTP Server</string>
+    <string name="Shared_directory">Delt mappe</string>
+    <string name="Type_to_change">Skriv for å ender</string>
+    <string name="No_password_set">Inget passord satt</string>
+    <string name="Status">Status</string>
+    <string name="Server_address">Server addresse</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stopp</string>
+    
+    
+    <!-- Archive dialog -->
+    <string name="Create_archive_dialog_title">Lager archive</string>
+    <string name="Archive_name">Archive navn</string>
+    <string name="Compression">Komprimering</string>
+    <string name="Format">Format</string>
+    <string name="Use_password_protection">Bruk passord bekyttelse</string>
+    <string name="Fast">Fort</string>
+    <string name="Normal">Normalt</string>
+    <string name="Good">Godt</string>
+    <string name="Best">Beste</string>
+    
+    <!-- File properties -->
+    <string name="Content_summary">innhold oppsummering</string>
+    <string name="File_types">Fil typer</string>
+    <string name="Top_10_files">Topp 10 filer</string>
+    <string name="Location">Plassering</string>
+    <string name="Type">Sktiv</string>
+    <string name="Parent_path">Overordnede bane</string>
+    <string name="Last_modified">Sist modifisert</string>
+    <string name="Directory">Mappe</string>
+    <string name="Unknown">Ukjent</string>
+    <string name="Symbolic_link">Symbolsk lenke</string>
+    <string name="Link_target">Lenkemål</string>
+    <string name="Open">Åpne</string>
+    <string name="Open_directory">Åpne mappe</string>
+    <string name="MD5">MD5</string>
+    <string name="Calculate">Beregn</string>
+    <string name="Compare">Sammenlign</string>
+    <string name="Paste_to_compare">Lim inn å sammenligne</string>
+    <string name="Files">Filer</string>
+    <string name="Folders">Mapper</string>
+    <string name="Calculation_error">Regningsfeil</string>
+    <string name="Content">Innhold</string>
+    <string name="Other_used">Andre</string>
+    <string name="Free_space">Gratis</string>
+    <string name="Usage">Bruk</string>
+    <string name="Attributes">Attributter</string>
+    <string name="Read">Lese</string>
+    <string name="Write">Skrive</string>
+    <string name="Hidden">Skjult</string>
+    <string name="Additional_info">Tilleggsinformasjon</string>
+    <string name="Percent">Prosent</string>
+    <string name="Music">Musikk</string>
+    <string name="Pictures">Pilder</string>
+    <string name="Videos">Videoer</string>
+    <string name="Archives">Archives</string>
+    <string name="Documents">Dokumenter</string>
+    <string name="Change">Endre</string>
+    <string name="Execute">Utføre</string>
+    <string name="Owner">Eier</string>
+    <string name="Group">Gruppe</string>
+    <string name="Others">Andre</string>
+    <string name="Owners">Eiere</string>
+    <string name="Permissions">Tillatelser</string>
+    <string name="Set">Satt</string>
+    <string name="Used_space">Brukt plass</string>
+    <string name="Free_space">Ledig plass</string>
+    <string name="Total_size">Total plass</string>
+    <string name="Artist">Artist</string>
+    <string name="Title">Tittel</string>
+    <string name="Duration">Varighet</string>
+    <string name="Resolution">Skjermoppløsning</string>
+    <string name="Recorded">Tatt opp</string>
+    <string name="Width">Bredde</string>
+    <string name="Height">Høyde</string>
+    <string name="Manufacturer">Produsent</string>
+    <string name="Camera_model">Kamera modell</string>
+    <string name="Software">Programvare</string>
+    <string name="Orientation">Retning</string>
+    <string name="Exposure_time">Eksponeringstid</string>
+    <string name="Exposure_bias">Eksponeringsbias</string>
+    <string name="White_balance">Hvitbalanse</string>
+    <string name="Focal_length">Bremmvidde</string>
+    <string name="Aperture_size">Blenderåpningen</string>
+    <string name="Flash">blitz</string>
+    
+    <!-- Dialogs again -->
+    	<!-- File exists dialog -->
+    	<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
+    	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+    	<string name="File_exists">Filen eksisterer</string>
+    	<string name="Skip">Hopp over</string>
+    	<string name="Overwrite">Overskrive</string>
+    	<string name="Merge">Slå sammen</string>
+    	<string name="Keep_both">Behold begge</string>
+    	<string name="Remember_action">Husk denne handlingen</string>
+    	<string name="Keep_the_old_file">Behold den gamle filen</string>
+    	<string name="The_new_file_will_have_its_name_changed">Endrer navnet av filen</string>
+    	<string name="Replace_the_file_with_this">Erstatte den eksisterende filen</string>
+    	<string name="Create_master_password">Lag et hoved passord</string>
+    	
+    	<string name="Choose_an_activity_to_open_the_file">Velg aktiviteten for å åpne filen</string>
+    	<string name="Always_use_this_application">Alltid bruk dette programmet</string>
+    	<string name="Send_the_file_using">Send filed med</string>
+    	<string name="Progress">Progress</string>
+    	<string name="Minimize">Minimer</string>
+    	<string name="Pause">Pause</string>
+    	<string name="Resume">Fortsett</string>
+    	<string name="Dismiss">Forkast</string>
+    	
+    	<string name="Abort_operation">Avbryte operation</string>
+    	<string name="There_is_already_an_operation_running">En operasjon pågår. Vennligst vent til den er ferdig.</string>
+    
+    	<!-- Question dialogs -->
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Er du sikker på at du vil slette loggen?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Er du sikker på at du vil slette miniatyrbilder?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Er du sikker på at du vil slette midlertidige filer?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Det er tid for indeksering. Vil du utføre en indeks nå?</string>
+    	<string name="Folder_exists_descr">Det er allerede en mappe med samme navn i mappen. Hva vil du gjøre?</string>
+    	<string name="File_exists_descr">Det er allerede en fil med det samme navnet i mappen. Hva vil du gjøre?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Er du sikker på at du vil slette \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Er du sikker på å avbryte den aktuelle operasjonen?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Er du sikker på at du vil slette alle bokmerkene?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Er du sikker på at du vil slette bokmerke \&quot;%\&quot; ?</string>
+    	<string name="Reindex_prompt">Utføre en indeks. Dette kan ta flere minutter. Fortsette?</string>
+    	<string name="Clear_index_prompt">Er du sikker på at du vil fjerne alle indeksdata? Denne operasjonen kan ikke angres.</string>
+    	<string name="Are_you_sure_to_stop_indexing">Er du sikker på at du vil stoppe indeksering?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Er du sikker på at du vil slette filtypetilknytninger?</string>
+    	<string name="Changes_have_been_made_to_the_file">Endringer er blitt gjort med &quot;%&quot;. Vil du lagre dem?</string>
+    	<string name="Chown_confirm">Er du sikker på at du vil endre eierskap av denne filen?</string>
+    	<string name="Busybox_request">Det ser ut som Busybox ikke er installert på enheten eller sin versjon er utdatert. Det er nødvendig å utforske root av filsystemet. Ønsker du å installere det nå?</string>
+    	
+    	
+    	<!-- Information dialogs -->
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive støtter ikke \&quot;%\&quot; filer. Operasjonen har blitt avbrutt.</string>
+    	<string name="Operation_not_supported">Operasjonen støttes ikke</string>
+    	<string name="You_have_to_provide_a_password">Du må oppgi et passord</string>
+    	<string name="Insufficient_space" formatted="false">Det er ikke nok ledig plass til å fullføre operasjonen. Størrelse: %, tilgjengelig: %.</string>
+    	<string name="Command_executed_successfully">Kommando som ble utført med suksess</string>
+    	<string name="Deleting_data">Sletter dataene</string>
+    	<string name="Done">Ferdig</string>
+    	<string name="Preparing_for_operation">Forberedelse til operasjon ...</string>
+    	<string name="Connecting">Kobler til</string>
+    	<string name="Connecting_to_x">Kobler til \&quot;%\&quot;</string>
+    	<string name="File_is_too_big">Denne filen er for stor. Bare filer opp til 75KB støttes for redigering. Større filer vil bli støttet snart.</string>
+    	<string name="Operation_history_has_been_cleared">Operation historien har blitt ryddet</string>
+    	<string name="Encrypted_archive">Kryptert archive</string>
+    	<string name="Enter_the_password">Skriv inn passordet</string>
+    	<string name="Confirmation">Bekreftelse</string>
+    	<string name="Input_request">Forespørsel om inntasting</string>
+    	<string name="Message">Melding</string>
+    	<string name="Warning">ADVARSEL!</string>
+    	<string name="You_did_not_specify_a_password">Du har ikke angitt et passord</string>
+    	<string name="Reading_archive">Leser archive</string>
+    	<string name="Reading_archive_x">Leser archive \&quot;%\&quot;</string>
+    	<string name="Storage_not_available">Lagring ikke tilgjengelig</string>
+    	<string name="The_password_given_is_incorrect">Det oppgitte passordet er feil</string>
+    	<string name="You_did_not_specify_a_server_name">Du har ikke angitt et servernavn</string>
+    	<string name="You_did_not_specify_a_computer_name">Du har ikke angitt et datamaskinnavn</string>
+    	<string name="You_did_not_specify_a_port_number">Du har ikke angitt et annet portnummer</string>
+    	<string name="You_did_not_specify_user_name">Du spesifiserte ikke ett brukernavn</string>
+    	<string name="Indexing">Indeksering</string>
+    	<string name="Indexing_in_progress">Indeksering pågår</string>
+    	<string name="Indexing_paused">Indeksering pauset</string>
+    	<string name="Indexing_has_been_completed">Indeksering har fullført</string>
+    	<string name="Indexing_has_been_aborted">Indeksering har blitt avbrutt</string>
+    	<string name="Tap_to_dismiss">Trykk å avvise</string>
+    	<string name="Tap_top_open">Trykk for å åpne</string>
+    	<string name="File_is_ready_to_open">Fil er klar til å åpnes</string>
+    	
+    	<string name="Operation_aborted_by_user">Operasjonen ble avbrutt av brukeren</string>
+    	<string name="You_cant_delete_this_item">Dette elementet kan ikke slettes</string>
+    	<string name="Indexing_service">indekseringstjenesten</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">Bare en lokalt lagret fil kan legges til arkivet</string>
+    	<string name="Bookmark_already_exists">Bokmerke eksisterer allerede</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; lagt til i bokmerker</string>
+    	<string name="Rename_a_file">Gi nytt navn til filen</string>
+    	<string name="Input_was_left_blank">Input var tomt</string>
+    	<string name="File_named_already_exists">Filen med navnet \&quot;%\&quot; finnes allerede</string>
+    	<string name="Confirm_delete">Bekreft sletting</string>
+    	<string name="You_cant_create_an_archive_here">Archives kunne ikke lages her</string>
+    	<string name="Cannot_connect_to">Kunne ikke koble til \&quot;%\&quot;</string>
+    	<string name="You_are_not_logged_in">Du er ikke logget inn</string>
+		<string name="Can_not_create_the_directory">Kunne ikke lage mappe</string>
+    	<string name="Beta_expired">Beta demo har gått ut</string>
+    	<string name="Can_not_create_the_file">Kunne ikke lage filen</string>
+    	<string name="Uknown_file_type">Ukjent filtype</string>
+    	<string name="No_activity_found_to_open_this_file">Ingen aktivitet er stand til å åpne denne filen ble funnet</string>
+    	<string name="You_cant_send_a_folder">Mapper kan ikke bli sendt</string>
+    	<string name="Indexing_has_been_unscheduled">Indeksering er descheduled</string>
+    	<string name="Scheduled_indexing">indeksering</string>
+    	<string name="Tap_to_start">Trykk for å starte</string>
+    	
+    	
+    	<string name="Are_you_sure_you_want_to_delete_items">Er du sikker på at du vil slette % item{1:|__:s}?</string>
+    	<string name="X_files_deleted">% file{1:|__:s} slettet.</string>
+    	<string name="X_files_copied">% file{1:|__:s} kopiert.</string>
+    	<string name="X_files_moved">% file{1:|__:s} flyttet.</string>
+    	<string name="X_items">% item{1:|__:s}</string>
+    	<string name="Deleting_X_files">Sletter % file{1:|__:s}</string>
+    	<string name="Copying_X_files">Kopierer % file{1:|__:s}</string>
+    	<string name="Moving_X_files">Flytter % file{1:|__:s}</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Indeksering planlagt på %x hver %y dag {1:|__:s}</string>
+    	<!-- Explanation of above
+    	
+    		 	In english things are simple because we have 1 file and multiple files.
+    		 	1 file, 2 files, 3 files and so on...
+    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+    			
+    			But let's take polish for example. File means 'Plik'. We have:
+    			0 plików
+    			1 plik
+    			2, 3, 4 pliki
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    			but.. 22, 23 pliki
+    			and 26, 27 plików
+    			Complicated, huh?
+    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+    			
+    			If you have problems creating this pattern for your language, contact me.
+    			
+    			Quick reference:
+    			'{' - starts the pattern
+    			'}' - ends the pattern
+    			'|' - rule divider
+    			':' - separates range from the associated suffix
+    			'_' - any digit
+    			'-' - range
+    			
+    			Examples:
+    			1:s 	= for single 1 give 's' suffix
+    			3:		= for single 3 give no suffix
+    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    			__:s	= give 's' for any number
+    			
+    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    			there should be always the __:something pattern at the end.
+    	
+    	-->
+    
+
+    
+    <!-- Open as dialog -->
+    <string name="Open_as">Åpne som...</string>
+    <string name="Choose_a_preferred_type">Velg foretrukket type</string>
+    <string name="Text_file">Tekst fil</string>
+    <string name="Image_file">Bilde fil</string>
+    <string name="Music_file">Musikk fil</string>
+    <string name="Video_file">Video fil</string>
+    <string name="ZIP_archive">ZIP Archive</string>
+    
+    
+    <!-- File picker -->
+    
+    <string name="Create_shortcut">Lag snarvei</string>
+    <string name="Shortcut_tip">For å lage en mappe snarvei velg \&quot;Lag snarvei\&quot; fra hurtigmenyen.</string>
+    
+
+    
+	<!-- Text editor -->
+    <string name="Wrap_lines">Bryt linjer</string>
+    <string name="Font_size">Skrift størrelse</string>
+    <string name="Font">Font</string>
+    <string name="App_default">Standar app</string>
+    <string name="System_default">System standard</string>
+    <string name="Serif">Seriff</string>
+    <string name="Monospace">Monospace</string>
+    <string name="File_saved_successfully">Fil lagring vellykket</string>
+    
+    
+    <!-- Preferences -->
+	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
+	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
+    <string name="Appearance">Utseende</string>
+	<string name="Theme">Tema</string>
+    <string name="Choose_between_preinstalled_themes">Velg mellom forhåndsinstallerte temaer</string>
+    <string name="Light">Lys</string>
+    <string name="Dark">Mørk</string>
+    
+    <string name="Toggle_visibility_of_hidden_files">Slåpå synligheten av skjulte filer</string>
+    <string name="Show_hidden_files">Vis skjulte filer</string>
+    
+    <string name="Show_file_permissions">Vis filtilattelser</string>
+    <string name="Show_file_permissions_summary">Vis Unix stil tillatelser i stedet for siste endringsdato(trenger ROOT).</string>
+    
+    <string name="Date_format">Datoformat</string>
+    <string name="Customize_date_format">Tilpass datoformat</string>
+    
+    <string name="Time_format">Tidsformat</string>
+	<string name="Customize_time_format">Tilpass tidsformat</string>
+	
+	<string name="Show_fast_scroll_thumb_in_file_list">Vis rask blaing  med tommelen i fillisten</string>
+    <string name="Use_fast_scroll">Bruk rask blaing</string>
+    
+    <string name="Low_quality_thumbnails">Lav kvalitet miniatyrbilder</string>
+    <string name="Low_quality_thumbnails_summary">Egnet for lavt minnebruk</string>
+    
+    <string name="Portrait_fullscreen">Stående fullskjerm</string>
+    <string name="Portrait_fullscreen_summary">Skjuler system bar i stående modus</string>
+    
+    <string name="Landscape_fullscreen">Liggende fullskjerm</string>
+    <string name="Landscape_fullscreen_summary">Skjuler system bar i liggende modus</string>
+    
+    <string name="File_list_size">Stående(modus) listelengde</string>
+    <string name="Adjust_size_of_the_file_list">ustere størrelsen på filen listen i ståendemodus</string>
+    
+    <string name="Landscape_file_list_size">Liggende(modus) listlengde</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Justere størrelsen på filen listen i liggendemodus</string>
+    
+    <string name="Small">Liten</string>
+    <string name="Normal">Normal</string>
+    <string name="Big">Stor</string>
+    <string name="Large">Større</string>
+    <string name="Extra_small">Bitteliten</string>
+    
+    <string name="Hide_exit_button">Skjul avslutt knapp</string>
+    <string name="Hide_exit_button_summary">Du kan også avslutte programmet ved å lange trykke på tilbake-tasten</string>
+    
+    <string name="Startup">Oppstart</string>
+    
+    <string name="Remember_last_folder">Hust forrige mappe</string>
+    <string name="Will_start_with_recently_viewed_directories">Applikasjonen vil begynne med nylig viste mapper</string>
+    
+    
+    <string name="First_panel_default_dir">Første panel mappe</string>
+    <string name="Second_panel_default_dir">Andre panel mappe</string>
+    
+    <string name="Change_pictures_directory">Endre bilder mappe</string>
+    <string name="Change_downloads_directory">Endre nedlastinger mappe</string>
+    
+    <string name="Drag_and_drop">Dra og Slipp</string>
+    <string name="Action_for_drop_inside_the_panel">Handling for det samme panelet</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Slippe et element til en mappe i det samme panelet</string>
+    <string name="Action_for_drop_to_the_second_panel">Handling for det andre panelet</string>
+    <string name="Dropping_an_item_to_the_second_panel">Slippe et element til en mappe i andre samme panelet</string>
+    <string name="Move">Flytte</string>
+    
+    <string name="Security">Sikkerhet</string>
+    <string name="Master_password_prompt">Solid Explorer bruker et hovedpassord til å kryptere alle påloggingsinformasjon. Hvis du bryr deg om sikkerhet anbefales det å bruke denne funksjonen. Du vil bli bedt om hovedpassordet bare en gang hvis du starter programmet. Ellers som standard kryptering uten et passord er brukt. Vil du bruke denne funksjonen?</string>
+    <string name="Disable_master_password_warning">Deaktivere hovedpassordet vil føre bytte til standard passord. Du vil aldri bli bedt om det. Påloggingsinformasjon vil fortsatt være kryptert. Vil du fortsette?</string>
+    <string name="Enable_master_password_warning">Hvis du har noen tidligere bokmerker encypted med standard passord, vil de bli fjernet. Fortsette?</string>
+    <string name="Enable_master_password">Aktiver hovedpassord</string>
+	<string name="Too_weak_password">Passord må være minst 6 tegn, ikke mer enn 16 tegn</string>
+    <string name="Enter_the_master_password">Skriv inn hovedpassordet</string>
+    <string name="Enter_a_new_master_password">Tast inn et nytt hovedpassord.</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Krypter all påloggingsinformasjon med et hovedpassord</string>
+    <string name="Set_master_password">endre hovedpassord</string>
+    <string name="All_passwords_will_be_reencrypted">Alle passord vil bli re-kryptert</string>
+    
+    <string name="I_dont_remember_my_old_password">Jeg husker ikke min gamle passord</string>
+    <string name="Reset_password_warning">Advarsel! Hvis du setter det nye passordet akkurat nå, så alle bokmerker, som passord er kryptert med den gamle, vil bli fjernet.</string>
+    <string name="Old_password">Gammelt passord</string>
+    <string name="New_password">Nytt passord</string>
+    <string name="Master_password_has_been_disabled">Hovedpassord er deaktivert</string>
+    <string name="Passwords_do_not_match">Passordene samsvarer ikke</string>
+    <string name="Password_is_too_short">Passord er for kort</string>
+    
+    
+    
+    <string name="Search_interface">Søkegrensesnitt</string>
+    <string name="Search_key_starts_filtering">Søk-knappen begynner filtrering</string>
+    <string name="Search_key_starts_filtering_summary">Begynne filtrering liste i stedet for å lansere søkeaktivitet</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Matche bare begynnelsen av ordet når filtrere listen</string>
+    <string name="Filter_words_from_the_beginning">Filtrere fra begynnelsen</string>
+    <string name="Customize_indexing_engine_behaviour">Tilpass indeksering motor atferd</string>
+    <string name="Indexing_engine">Indeksering motor</string>
+    	<string name="Reindex_now">Indeksere nå</string>
+    	<string name="Refresh_index_database">Oppdater indeks database. Den har ingen virkning når prosessen er aktiv.</string>
+    	<string name="Clear_index_data">Tøm indeksdata</string>
+    	<string name="Delete_all_index_data">Slett alle indeksdata</string>
+    	<string name="Reindex_on_media_mount">indekser på medier mount</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted"> lagringsenhet når den er montert (anbefales)</string>
+    	<string name="Shedule_indexing">Planlegg indeksering</string>
+    	<string name="Perform_reindex_every_given_period">Utfør indeksere hver gitt periode</string>
+    	<string name="Set_time_and_period">Set time and period</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Den tiden da indeksering vil bli utløst</string>
+    	<string name="Maximum_index_age">Maximum index age</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Hvor mye tid indeksen bør forbli i databasen når det finnes ikke filen</string>
+    	<string name="one_day">1 dag</string>
+    	<string name="two_days">2 dager</string>
+    	<string name="five_days">5 dager</string>
+    	<string name="One_week">En uke</string>
+    	<string name="Choose_interval">Velg Intervall</string>
+    	<string name="three_days">3 dager</string>
+    	<string name="How_often_indexing_will_be_performed">Hvor ofte indeksering vil bli utført</string>
+    	<string name="Set_period">Sett periode</string>
+    	<string name="Set_time">Sett tiden</string>
+    	<string name="Show_notifications">Vis varsler</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Hvordan varslinger når indeksering er fullført eller avbrutt</string>
+    
+    
+    <string name="Other">Andre</string>
+    	
+    <string name="Clear_persistent_data">Tøm vedvarende data</string>
+    <string name="Clear_persistent_data_summary">Slett data som thumbnail cache, midlertidige filer, drift historie, osv.</string>
+    <string name="Clear_thumbnail_cache">Tøm miniatyrbildet hurtigbufferen</string>
+    <string name="Clear_temporary_files">Tøm midlertidlige filer</string>
+    <string name="Clear_operation_history">Tøm operasjon historie</string>
+    <string name="Delete_all_image_previews">Slett alle forhåndsvisninger</string>
+    <string name="Delete_all_temporary_files">Slett alle midlertidige filer</string>
+    <string name="Delete_operation_history_entries">Slett Driftsstatus oppføringer</string>
+    <string name="Clear_file_type_associations">Tøm filtypetilknytninger</string>
+    <string name="Clear_file_type_associations_summary">Slett informasjon om programmene som brukes til å åpne bestemte filtyper</string>
+    <string name="Clear_temporary_files_on_exit">Tøm temp på exit</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Midlertidige filer vil bli fjernet når app avsluttes</string>
+    
+    <string name="Quick_start_guide">Hurtigstartveiledning</string>
+    <string name="Learn_about_main_features">Lær om Solid Explorers viktigste funksjonene</string>
+    <string name="Help_make_Solid_Explorer_better">Hjelp med å lage Solid Explorer bedre</string>
+    <string name="Report_a_bug">Rapporter en feil</string>
+   
+    <string name="About">Om</string>
+    <string name="Author_version_and_changelog">Forfatter, versjon og endringslogg</string>
+    <string name="Copyright_text">Copyright 2011-2012 nKrzysztof Głodowski</string>
+    <string name="Version">Versjon</string>
+    <string name="Changelog">Endringslogg</string>
+    <string name="Whats_new">Hva er nytt</string>
+    <string name="Author">Forfatter</string>
+    <string name="Functionality_for_future_releases">Funksjonalitet for fremtidige utgivelser</string>
+    <string name="Planned_features">Planlagte funksjoner</string>
+    
+    
+    
+    <!-- Other -->
+    <string name="Prefix">prefikset</string>
+    <string name="Expiration_message">Takk for at du bruker Solid Explorer Beta. Hvis du vil fortsette å teste dette programmet, laste ned siste versjon fra Google Play.</string>
+    <string name="Empty">Tomt</string>
+	<string name="search_description">Søk enheten ved hjelp Solid Explorer</string>
+    <string name="search_hint">Skriv et filnavn </string>
+    <string name="Save_file">Lagre fil</string>
+    <string name="Solid_explorer_indexing_service">Solid Explorer indekseringstjenesten</string>
+    
+    
+    
+    <!-- acra -->
+    <string name="crash_toast_text">Ooooops! Solid Explorer har krasjet. Vennligst send rapporten til utvikleren å hjelpe ham fikse problemet!</string>
+    <string name="crash_notif_ticker_text">Uventet feil, vennligst send en rapport ...</string>
+    <string name="crash_notif_title">Solid Explorer har krasjet...</string>
+    <string name="crash_notif_text">Vennligst klikk her for å hjelpe fikse problemet.</string>
+    <string name="crash_dialog_title">Solid Explorer har krasjet</string>
+    <string name="crash_dialog_text">En uventet feil oppstod tvinge programmet til å stoppe. Behage hjelpe meg med å fikse dette ved å sende meg feil data.</string>
+    <string name="crash_dialog_comment_prompt">Vennligst gi detaljert informasjon om problemet nedenfor. I de fleste tilfeller er det umulig å gjenskape problemet uten tilbakemelding.</string>
+    <string name="crash_dialog_ok_toast">Tusen takk!</string>
+    
+    <string name="Icon_designer">Ikon designer</string>
+    <string name="Prefix">Prefikset</string>
+    <string name="Translations">Oversettelse</string>
+    <string name="Translations_summary">Oversettet til Norsk av Jørgen Bele(Jbele)</string>
+    <string name="Empty">Tomt</string>
+    <string name="Press_once_again_to_exit">Trykk en gang til for å avslutte</string>
+    
+    
+    <string name="View_in_DiskUsage">Vis i DiskUsage</string>
+    <string name="Retry">Prøv på nytt</string>
+    <string name="Portrait">Stående modus</string>
+    <string name="Landscape">Liggende modus</string>
+    <string name="Customize_list">Tilpass listen</string>
+    <string name="Customize_list_summary">Juster størrelsen på ikoner og tekst i fillisten</string>
+    <string name="Preview">Forhåndsvisning</string>
+    <string name="Icon_size_pixels" formatted="false">Ikon størrelse(max: % x %)</string>
+    <string name="Label_size">Etikettstørrelse</string>
+    <string name="Subtext_size">Underteksten størrelse</string>
+    <string name="Label_size_points">Tekst størrelse (max 35pt)</string>
+    <string name="Columns">Kolonner</string>
+    <string name="No_computers_found">Ingen datamarskin funnet</string>
+    <string name="Local_directory">Lokal mappe</string>
+    <string name="Default_panel">Standardpanelet</string>
+    <string name="Destination_type">Måltype</string>
+    <string name="DiskUsage_not_installed">Ser ut som at Disk Usage er ikke installert. Denne app viser minnebruken i en svært avansert og brukervennlig måte. Ønsker du å installere det nå?</string>
+    <string name="Text_copied_to_clipboard">Tekst kopiert til utklippstavlen</string>
+    <string name="Force_english">Krev Engelsk Språk</string>
+    <string name="Force_english_summary">Sjekk om du foretrekker engelsk som hovedspråk. Trer i kraft etter omstart.</string>
+    <string name="Encoding">Enkoding</string>
+    <string name="Network_thumbnails">Nettverk miniatyrbilder</string>
+    <string name="Network_thumbnails_summary">Når valgt vil miniatyrbilder bli lastet når du bruker mobil datatilkobling.</string>
+    <string name="Copy_to">Kopier til</string>
+    <string name="Move_to">Flytt til</string>
+    <string name="Shortcut">Snarvei</string>
+    <string name="Two_panels_in_landscape_summary">Vise to paneler på én gang i liggende retning</string>
+    <string name="Two_panels_in_landscape">To paneler i liggendemodus</string>
+    <string name="Restart_prompt">Programmet må startes på nytt for å bruke endringene. Fortsette?</string>
+    <string name="Custom_color_scheme">Egendefinert fargevalg</string>
+    <string name="Custom_color_scheme_summary">Tilpasse generelle fargevalget. Vil drastisk senke programstart.</string>
+    <string name="Color_scheme">Fargevalg</string>
+    <string name="Color_scheme_summary">Endre fargetone og metning av dagens fargevalget</string>
+    <string name="Change_color_scheme">Endre fargetone</string>
+    <string name="Hue">Nyanse</string>
+    <string name="Saturation">Fargemetning</string>
+    <string name="SolidExplorer_is_running">Solid Explorer kjører</string>
+    <string name="Notification_shortcut">Statuslinje snarvei</string>
+    <string name="Notification_shortcut_summary">Sett snarveien på statuslinjen når programmet kjører i bakgrunnen</string>
+    <string name="Please_wait">Vennligst vent</string>
+
+</resources>

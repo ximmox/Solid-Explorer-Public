@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Mappen eksisterer ikke</string>
+    
+    <string name="Unable_to_read_the_file">Kan ikke lese filen</string>
+    <string name="Illegal_operation">Operasjon ikke tillat</string>
+    
+    
+    <string name="Cannot_update_the_database">Kan ikke opdatere databasen</string>
+    <string name="Error">Feil</string>
+    
+    <string name="Invalid_password_for_user_x">Ugyldig passord for brukeren \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Ugyldig hovedpassord</string>
+    <string name="Unable_to_execute_shell_command">Kan ikke utføre shell kommando</string>
+    <string name="No_root_access_available">Ingen Root tilgang</string>
+    <string name="Unable_to_read_root_directory">Kan ikke lese root mappen</string>
+    
+    <string name="Operation_has_failed">Operasjon feilet</string>
+    <string name="Invalid_file_path">Ugyldig filbane</string>
+    
+    
+    <string name="Cannot_browse_to_x">Kan ikke navigere \&quot;%\&quot;. En ukjent feil har oppstått.</string>
+    <string name="Cannot_write_to_the_system">Kan ikke skrive til filsystem. Montering som lese/skrive(r/w) feilet.</string>
+    <string name="Requested_file_x_has_not_been_found">Forespurt fil \&quot;%\&quot; var ikke funnet.</string>
+    <string name="Unknown_read_write_exception">Ukjent lese/skrive feil.</string>
+    <string name="Invalid_url_x">Ugyldig URL: %</string>
+    <string name="An_error_occured_while_accessing_master_password">En ukjent feil oppstod ved tilgang til hoved passord.</string>
+    <string name="Operation_not_allowed">Operasjon ikke tillat.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Kan ikke koble til \&quot;%x\&quot; på port %y.</string>
+    <string name="Unable_to_resolve_host_x">Klarer ikke å løse vertsnavn \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Serveren returnerte en ikke tillat respons.</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Det oppstod en feil ved overføring av data fra serveren.</string>
+    <string name="Invalid_username_or_password">Ugyldig brukernavn eller passord.</string>
+    <string name="Internal_server_error">Intern server error.</string>
+    <string name="Server_response_x">Server response: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Kan ikke åpne filen for lesing</string>
+    <string name="Unable_to_write_the_file_to_x">Kan ikke skrive filen til \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Kan ikke koble til %x.</string>
+    <string name="Unknown_error">Ukjent feil</string>
+    <string name="Cannot_create_directory_X">Kan ikke opprette mappe \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Kan ikke starte tjenesten på port %</string>
+    
+</resources>

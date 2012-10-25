@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    
+    
+    <!-- bottom toolbar -->
+    <string name="New">新規</string>
+    <string name="Jump">ジャンプ</string>
+    <string name="Filter">フィルター</string>
+    <string name="Menu">メニュー</string>
+    <string name="Actions">操作</string>
+    
+    <!-- "New" popup -->
+    <string name="New_folder">フォルダー</string>
+    <string name="New_file">ファイル</string>
+    <string name="New_FTP_connection">FTP接続</string>
+    <string name="New_SFTP_connection">SFTP接続</string>
+    <string name="New_SMB_connection">SMB接続</string>
+    <string name="New_cloud_connection">クラウド接続</string>
+    
+    <!-- "Actions" popup -->
+    
+    <string name="Copy">コピー</string>
+    <string name="Cut">切り取り</string>
+    <string name="Paste">貼り付け</string>
+    <string name="Delete">削除</string>
+    <string name="Properties">プロパティ</string>
+    <string name="Select_all">すべて選択</string>
+    <string name="Select">選択</string>
+    
+    <!-- "Jump" popup -->
+    
+    <string name="Device">デバイス</string>
+    <string name="Photos">フォト</string>
+    <string name="Downloads">ダウンロード</string>
+    <string name="Network">ネットワーク</string>
+    <string name="Bookmarks">ブックマーク</string>
+    <string name="No_bookmarks">ブックマークなし</string>
+    
+    <!-- "Menu" popup -->
+    <string name="View">表示</string>
+    <string name="Sort">並べ替え</string>
+    <string name="Search">検索</string>
+    <string name="Operations">オペレーション</string>
+    <string name="Manage_bookmarks">ブックマーク管理</string>
+    <string name="File_sharing">ファイル共有</string>
+    <string name="Settings">設定</string>
+    <string name="Exit">終了</string>
+    
+    <!-- "Network" popup -->
+    <string name="Cloud_storage">クラウドストレージ</string>
+    
+    <!-- "Device" popup -->
+     <string name="System_root">システムルート</string>
+    <string name="SD_card">SDカード</string>
+    <string name="Internal_memory">内部ストレージ</string>
+    <string name="USB_drive_x">USBドライブ %x</string>
+    
+    <!-- "View" popup -->
+    <string name="View_mode">表示方法</string>
+    <string name="List">一覧</string>
+    <string name="Detailed_list">一覧 (詳細)</string>
+    <string name="Grid">並べて表示</string>
+    <string name="Detailed_grid">並べて表示 (詳細)</string>
+    
+    <!-- "Sort" popup -->
+    <string name="Sort_files_by">並べ替え</string>
+    <string name="File_name">ファイル名</string>
+    <string name="File_size">ファイルサイズ</string>
+    <string name="File_type">ファイルの種類</string>
+    <string name="Modified_date">更新日時</string>
+    <string name="Ascending">昇順</string>
+    <string name="Descending">降順</string>
+    <string name="In_order">順番</string>
+    
+    <!-- Browser switch popup -->
+    <string name="Active_browser">ブラウズ中</string>
+    <string name="Close_all">すべて閉じる</string>
+    <string name="In_background">バックグラウンド</string>
+    
+    
+    
+    <!-- Context menu -->
+    <string name="Open_with">開く...</string>
+    <string name="Open_in_bg">横のﾊﾟﾈﾙで開く</string>
+    <string name="Send">送信</string>
+    <string name="Bookmark">ブックマーク</string>
+    <string name="Rename">名前の変更</string>
+    <string name="Extract">展開</string>
+    <string name="Extract_to">展開先</string>
+    <string name="Archive">アーカイブ</string>
+    <string name="Paste_to_x">\&quot;%\&quot; へ貼り付け</string>
+    
+    
+    <!-- Dialogs -->
+    <string name="OK">OK</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="Yes">はい</string>
+    <string name="No">いいえ</string>
+    
+	    <!-- New folder/file dialog -->
+	    <string name="Enter_the_name">名前を入力</string>
+	    
+	    <!-- New connection Dialog -->
+	    <string name="Display_name">表示名</string>
+	    <string name="May_be_empty">空白可</string>
+    	<string name="Remote_path">リモートパス</string>
+    	<string name="Port">ポート</string>
+    	<string name="User_name">ユーザー名</string>
+    	<string name="Password">パスワード</string>
+    	<string name="Repeat_the_password">パスワード(確認)</string>
+    	<string name="Authentication_method">認証方法</string>
+    	<string name="Server">サーバー</string>
+    	<string name="Connection_type">接続の種類</string>
+    	<string name="Scan">スキャン</string>
+    	<string name="Computer_name_or_IP_adress">コンピューター名またはIPアドレス</string>
+    	<string name="Looking_for_computers">コンピューターを探索中</string>
+    	<string name="Share">SMB共有</string>
+    	
+    		<!-- Auth methods -->
+    		<string name="Ask_for_password_each_time">パスワードを毎回確認する</string>
+        	<string name="Store_encrypted_password">パスワードを暗号化して保存</string>
+        	<string name="No_password_required">パスワードの必要なし</string>
+        	<string name="Anonymous">アノニマス</string>
+        	<string name="Log_in_as_a_guest">ゲストとしてログイン</string>
+        	
+        	<!-- FTP types -->
+        	<string name="FTP_no_encryption">FTP (暗号化なし)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (implicitモード)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (explicitモード)</string>
+        
+    <!-- Search activity -->	
+    <string name="Manual_search">手動検索</string>
+    <string name="Results_from">検索対象:</string>
+    <string name="No_results">検索結果なし</string>
+    <string name="Matches">一致</string>
+    <string name="Selected">選択</string>
+    <string name="Match_mode">検索モード</string>
+    <string name="Match_start">～で始まる</string>
+    <string name="Match_any">～を含む</string>
+    <string name="Match_end">～で終わる</string>
+    
+    <!-- Operations activity -->
+    <string name="History_is_empty">履歴は空です</string>
+    <string name="Current_operation">現在のオペレーション</string>
+    <string name="No_pending_operation">待機中のオペレーションはありません</string>
+    <string name="History">履歴</string>
+    <string name="Count">数</string>
+    <string name="Date">日付</string>
+    <string name="Source">場所</string>
+    <string name="Destination">転送先</string>
+    
+    	<!-- Operation info -->
+    	<string name="Operation">オペレーション</string>
+    	<string name="From">転送元</string>
+    	<string name="To">転送先</string>
+    	<string name="Size">サイズ</string>
+    	<string name="Speed">速度</string>
+    	<string name="ETA">残り時間</string>
+    	<string name="NA">N/A</string>
+    	<string name="Current">現在</string>
+    	
+    	<!-- Operation descriptions -->
+    	<string name="File_copy">ファイルのコピー</string>
+    	<string name="File_move">ファイルの移動</string>
+    	<string name="File_delete">ファイルの削除</string>
+    	<string name="Temporary_download">一時ファイルのダウンロード</string>
+   	 	<string name="Creating_archive">% アーカイブを作成中</string>
+    	<string name="Extracting_archive"> % アーカイブを展開中</string>
+    	<string name="X_has_been_completed">% が完了しました。</string>
+    	<string name="X_has_failed">% に失敗しました。</string>
+    	<string name="Tap_to_show_details">タップして詳細を表示</string>
+    	<string name="Pending_cancel_request">待機中のオペレーションの取り消しリクエスト</string>
+    	<string name="File_operation">ファイルオペレーション</string>
+    
+    <!-- Bookmark manager -->
+    <string name="Bookmark_manager">ブックマークマネージャ</string>
+    <string name="Edit">編集</string>
+    <string name="Disconnect">切断</string>
+    <string name="Delete_all">すべて削除</string>
+    <string name="Wifi_toggle">WiFiを切り替え</string>
+    <string name="Wifi_settings">WiFi設定</string>
+    <string name="Disconnect_all">すべて切断</string>
+    <string name="Connected">接続済み</string> 
+    <string name="Not_connected">接続していません</string>
+    <string name="on">有効</string>
+    <string name="Local_bookmarks">ローカルブックマーク</string>
+    <string name="FTP_bookmarks">FTPブックマーク</string>
+    <string name="SFTP_bookmarks">SFTPブックマーク</string>
+    <string name="SMB_bookmarks">SMBブックマーク</string>
+    <string name="Cloud_bookmarks">クラウドブックマーク</string>
+    <string name="Edit_bookmark">ブックマークを編集</string>
+    <string name="Name">名前</string>
+    <string name="Path">パス</string>
+    
+    <!-- Dir picker -->
+    <string name="Pick_a_directory">ディレクトリを選択</string>
+    
+    <!-- Cloud storage dialog -->
+    <string name="Cloud_storage_services">クラウドストレージサービス</string>
+    <string name="Cloud_services_description">使用するクラウドストレージサービスを選択します</string>
+    
+    <!-- File sharing -->
+    <string name="File_sharing_active">ファイル共有が有効です</string>
+    <string name="ftp_server_hint">接続するには、Windows エクスプローラーやFTPクライアントにサーバーのアドレスを入力します。</string>
+    <string name="You_cannot_share_root_directory">ルートディレクトリは共有できません</string>
+    <string name="File_sharing_stopped">ファイル共有は停止中です</string>
+    <string name="None">なし</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">LANに接続する必要があります</string>
+    <string name="Active">アクティブ</string>
+    <string name="Inactive">非アクティブ</string>
+    <string name="FTP_Server">FTPサーバー</string>
+    <string name="Shared_directory">共有ディレクトリ</string>
+    <string name="Type_to_change">変更するには入力してください</string>
+    <string name="No_password_set">パスワードが設定されていません</string>
+    <string name="Status">ステータス</string>
+    <string name="Server_address">サーバーのアドレス</string>
+    <string name="Start">開始</string>
+    <string name="Stop">停止</string>
+    
+    
+    <!-- Archive dialog -->
+    <string name="Create_archive_dialog_title">アーカイブを作成</string>
+    <string name="Archive_name">アーカイブ名</string>
+    <string name="Compression">圧縮</string>
+    <string name="Format">フォーマット</string>
+    <string name="Use_password_protection">パスワードを設定</string>
+    <string name="Fast">速い</string>
+    <string name="Normal">標準</string>
+    <string name="Good">良い</string>
+    <string name="Best">ベスト</string>
+    
+    <!-- File properties -->
+    <string name="Content_summary">コンテンツの概要</string>
+    <string name="File_types">ファイルの種類</string>
+    <string name="Top_10_files">上位10ファイル</string>
+    <string name="Location">場所</string>
+    <string name="Type">種類</string>
+    <string name="Parent_path">親パス</string>
+    <string name="Last_modified">更新日時</string>
+    <string name="Directory">ディレクトリ</string>
+    <string name="Unknown">不明</string>
+    <string name="Symbolic_link">シンボリックリンク</string>
+    <string name="Link_target">リンク先</string>
+    <string name="Open">開く</string>
+    <string name="Open_directory">ディレクトリを開く</string>
+    <string name="MD5">MD5</string>
+    <string name="Calculate">計算</string>
+    <string name="Compare">比較</string>
+    <string name="Paste_to_compare">貼り付けて比較</string>
+    <string name="Files">ファイル</string>
+    <string name="Folders">フォルダー</string>
+    <string name="Calculation_error">計算エラー</string>
+    <string name="Content">コンテンツ</string>
+    <string name="Other_used">その他</string>
+    <string name="Free_space">空き</string>
+    <string name="Usage">使用状況</string>
+    <string name="Attributes">属性</string>
+    <string name="Read">読み</string>
+    <string name="Write">書き</string>
+    <string name="Hidden">隠し</string>
+    <string name="Additional_info">詳細情報</string>
+    <string name="Percent">割合</string>
+    <string name="Music">音楽</string>
+    <string name="Pictures">画像</string>
+    <string name="Videos">動画</string>
+    <string name="Archives">アーカイブ</string>
+    <string name="Documents">文書</string>
+    <string name="Change">変更</string>
+    <string name="Execute">実行</string>
+    <string name="Owner">所有者</string>
+    <string name="Group">グループ</string>
+    <string name="Others">その他</string>
+    <string name="Owners">所有者</string>
+    <string name="Permissions">パーミッション</string>
+    <string name="Set">設定</string>
+    <string name="Used_space">使用領域</string>
+    <string name="Free_space">空き領域</string>
+    <string name="Total_size">合計サイズ</string>
+    <string name="Artist">アーティスト</string>
+    <string name="Title">タイトル</string>
+    <string name="Duration">長さ</string>
+    <string name="Resolution">大きさ</string>
+    <string name="Recorded">録画日時</string>
+    <string name="Width">幅</string>
+    <string name="Height">高さ</string>
+    <string name="Manufacturer">カメラの製造元</string>
+    <string name="Camera_model">カメラのモデル</string>
+    <string name="Software">プログラム名</string>
+    <string name="Orientation">写真の向き</string>
+    <string name="Exposure_time">露出時間</string>
+    <string name="Exposure_bias">露出補正</string>
+    <string name="White_balance">ホワイトバランス</string>
+    <string name="Focal_length">焦点距離</string>
+    <string name="Aperture_size">Apertureサイズ</string>
+    <string name="Flash">フラッシュ</string>
+    
+    <!-- Dialogs again -->
+    	<!-- File exists dialog -->
+    	<!-- <string name="This_file_already_exists">このファイルは既に存在します。どうしますか？</string>
+    	<string name="This_folder_already_exists">このフォルダーは既に存在します。どうしますか？</string> -->
+    	<string name="File_exists">ファイルが存在します</string>
+    	<string name="Skip">スキップ</string>
+    	<string name="Overwrite">上書き</string>
+    	<string name="Merge">マージ</string>
+    	<string name="Keep_both">両方を保持</string>
+    	<string name="Remember_action">選択を記憶</string>
+    	<string name="Keep_the_old_file">古いファイルを保持</string>
+    	<string name="The_new_file_will_have_its_name_changed">新しいファイルの名前を変更</string>
+    	<string name="Replace_the_file_with_this">このファイルで置き換える</string>
+    	<string name="Create_master_password">マスターパスワードを作成</string>
+    	
+    	<string name="Choose_an_activity_to_open_the_file">アプリを選択</string>
+    	<string name="Always_use_this_application">常にこのアプリを使用する</string>
+    	<string name="Send_the_file_using">アプリを選択</string>
+    	<string name="Progress">進捗状況</string>
+    	<string name="Minimize">最小化</string>
+    	<string name="Pause">一時停止</string>
+    	<string name="Resume">再開</string>
+    	<string name="Dismiss">閉じる</string>
+    	
+    	<string name="Abort_operation">オペレーションが中止されました</string>
+    	<string name="There_is_already_an_operation_running">他のオペレーションが進行中です。完了するまでお待ちください。</string>
+    
+    	<!-- Question dialogs -->
+    	<string name="Are_you_sure_you_want_to_clear_the_history">本当に履歴を削除しますか？</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">本当にサムネイルキャッシュを削除しますか？</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">本当に一時ファイルを削除しますか？</string>
+    	<string name="It_is_time_for_sheduled_indexing">スケジュールされたインデックスの作成時刻になりました。今すぐ実行しますか？</string>
+    	<string name="Folder_exists_descr">ディレクトリには既に同じ名前のフォルダーが存在します。どうしますか？</string>
+    	<string name="File_exists_descr">ディレクトリには既に同じ名前のファイルが存在します。どうしますか？</string>
+    	<string name="Are_you_sure_you_want_to_delete">本当に \&quot;%\&quot; を削除しますか？</string>
+    	<string name="Are_you_sure_to_abort_current_operation">本当に現在のオペレーションを中止しますか？</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">本当にすべてのブックマークを削除しますか？</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">本当にブックマーク \&quot;%\&quot; を削除しますか？</string>
+    	<string name="Reindex_prompt">手動でインデックスを作成します。これには数分かかることがあります。続行しますか？</string>
+    	<string name="Clear_index_prompt">本当にすべてのインデックスデータを削除しますか？この作業は元に戻せません。</string>
+    	<string name="Are_you_sure_to_stop_indexing">本当にインデックスの作成を停止しますか？</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">本当にファイルの関連付けを削除しますか？</string>
+    	<string name="Changes_have_been_made_to_the_file">ファイル &quot;%&quot; は変更されています。保存しますか？</string>
+    	<string name="Chown_confirm">本当にこのファイルの所有者を変更しますか？</string>
+    	<string name="Busybox_request">システムにBusyBoxがインストールされていないようです。このままではルート権限を必要とする機能は使用できません。今すぐBusyBoxをインストールしますか？</string>
+    	
+    	
+    	<!-- Information dialogs -->
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDriveは \&quot;%\&quot; ファイルをサポートしていません。オペレーションは中止されました。</string>
+    	<string name="Operation_not_supported">オペレーションがサポートされていません。</string>
+    	<string name="You_have_to_provide_a_password">パスワードが必要です</string>
+    	<string name="Insufficient_space" formatted="false">オペレーションを完了するための空き容量が十分にありません。サイズ: % / 空き: %</string>
+    	<string name="Command_executed_successfully">コマンドが正常に実行されました</string>
+    	<string name="Deleting_data">データを削除中</string>
+    	<string name="Done">完了</string>
+    	<string name="Preparing_for_operation">オペレーションの準備中...</string>
+    	<string name="Connecting">接続中</string>
+    	<string name="Connecting_to_x">\&quot;%\&quot; に接続中</string>
+    	<string name="File_is_too_big">ファイルが大きすぎます。編集できるファイルのサイズは最大で75kBです。より大きなファイルの編集はまもなくサポートする予定です。</string>
+    	<string name="Operation_history_has_been_cleared">オペレーション履歴が削除されました</string>
+    	<string name="Encrypted_archive">暗号化されたアーカイブ</string>
+    	<string name="Enter_the_password">パスワードを入力</string>
+    	<string name="Confirmation">確認</string>
+    	<string name="Input_request">入力リクエスト</string>
+    	<string name="Message">メッセージ</string>
+    	<string name="Warning">警告！</string>
+    	<string name="You_did_not_specify_a_password">パスワードが入力されていません</string>
+    	<string name="Reading_archive">アーカイブを読み込み中</string>
+    	<string name="Reading_archive_x">アーカイブ \&quot;%\&quot; を読み込み中</string>
+    	<string name="Storage_not_available">ストレージが利用できません</string>
+    	<string name="The_password_given_is_incorrect">パスワードが正しくありません</string>
+    	<string name="You_did_not_specify_a_server_name">サーバー名が入力されていません</string>
+    	<string name="You_did_not_specify_a_computer_name">コンピューター名が入力されていません</string>
+    	<string name="You_did_not_specify_a_port_number">ポート番号が入力されていません</string>
+    	<string name="You_did_not_specify_user_name">ユーザー名が入力されていません</string>
+    	<string name="Indexing">インデックスの作成</string>
+    	<string name="Indexing_in_progress">インデックスの作成中</string>
+    	<string name="Indexing_paused">インデックスの作成は一時停止中</string>
+    	<string name="Indexing_has_been_completed">インデックスの作成が完了しました</string>
+    	<string name="Indexing_has_been_aborted">インデックスの作成が中止されました</string>
+    	<string name="Tap_to_dismiss">タップして閉じる</string>
+    	<string name="Tap_top_open">タップして開く</string>
+    	<string name="File_is_ready_to_open">ファイルを開く準備が完了しています</string>
+    	
+    	<string name="Operation_aborted_by_user">オペレーションがユーザーにより中止されました</string>
+    	<string name="You_cant_delete_this_item">このアイテムは削除できません</string>
+    	<string name="Indexing_service">インデックスサービス</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">ローカルのファイルのみをアーカイブ内に追加することができます</string>
+    	<string name="Bookmark_already_exists">ブックマークが既に存在します</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; をブックマークに追加しました</string>
+    	<string name="Rename_a_file">ファイル名を変更</string>
+    	<string name="Input_was_left_blank">入力が空のままです</string>
+    	<string name="File_named_already_exists">\&quot;%\&quot; と同じ名前のファイルが既に存在します</string>
+    	<string name="Confirm_delete">削除の確認</string>
+    	<string name="You_cant_create_an_archive_here">ここにはアーカイブを作成できません。</string>
+    	<string name="Cannot_connect_to">\&quot;%\&quot; へ接続できません</string>
+    	<string name="You_are_not_logged_in">ログインしていません</string>
+		<string name="Can_not_create_the_directory">ディレクトリを作成できません</string>
+    	<string name="Beta_expired">ベータ版の有効期限切れ</string>
+    	<string name="Can_not_create_the_file">ファイルを作成できません</string>
+    	<string name="Uknown_file_type">不明なファイルの種類</string>
+    	<string name="No_activity_found_to_open_this_file">このファイルを開けるアプリが見つかりませんでした</string>
+    	<string name="You_cant_send_a_folder">フォルダーは送信できません</string>
+    	<string name="Indexing_has_been_unscheduled">インデックスの作成がスケジュールされていません</string>
+    	<string name="Scheduled_indexing">インデックスの作成がスケジュールされています</string>
+    	<string name="Tap_to_start">タップして開始</string>
+    	
+    	
+    	<string name="Are_you_sure_you_want_to_delete_items">本当に % 個のアイテムを削除しますか？</string>
+    	<string name="X_files_deleted">% 個のファイルを削除しました。</string>
+    	<string name="X_files_copied">% 個のファイルをコピーしました。</string>
+    	<string name="X_files_moved">% 個のファイルを移動しました。</string>
+    	<string name="X_items">% 個のアイテム</string>
+    	<string name="Deleting_X_files">% 個のファイルを削除中</string>
+    	<string name="Copying_X_files">% 個のファイルをコピー中</string>
+    	<string name="Moving_X_files">% 個のファイルを移動中</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">インデックスの作成は %y 日毎 %x にスケジュールされています</string>
+    	<!-- Explanation of above
+    	
+    		 	In english things are simple because we have 1 file and multiple files.
+    		 	1 file, 2 files, 3 files and so on...
+    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+    			
+    			But let's take polish for example. File means 'Plik'. We have:
+    			0 plikow
+    			1 plik
+    			2, 3, 4 pliki
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plikow
+    			but.. 22, 23 pliki
+    			and 26, 27 plikow
+    			Complicated, huh?
+    			The pattern for polish is following: {0:ow|1:|2-4:i|1_:ow|_2-4:i|__:ow}
+    			
+    			If you have problems creating this pattern for your language, contact me.
+    			
+    			Quick reference:
+    			'{' - starts the pattern
+    			'}' - ends the pattern
+    			'|' - rule divider
+    			':' - separates range from the associated suffix
+    			'_' - any digit
+    			'-' - range
+    			
+    			Examples:
+    			1:s 	= for single 1 give 's' suffix
+    			3:		= for single 3 give no suffix
+    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    			__:s	= give 's' for any number
+    			
+    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    			there should be always the __:something pattern at the end.
+    	
+    	-->
+    
+
+    
+    <!-- Open as dialog -->
+    <string name="Open_as">開く...</string>
+    <string name="Choose_a_preferred_type">ファイルの種類を選択</string>
+    <string name="Text_file">テキストファイル</string>
+    <string name="Image_file">画像ファイル</string>
+    <string name="Music_file">音楽ファイル</string>
+    <string name="Video_file">動画ファイル</string>
+    <string name="ZIP_archive">ZIPアーカイブ</string>
+    
+    
+    <!-- File picker -->
+    
+    <string name="Create_shortcut">ショートカットの作成</string>
+    <string name="Shortcut_tip">フォルダーのショートカットを作成するには、コンテキストメニューから \&quot;ショートカットの作成\&quot; を選択します。</string>
+    
+
+    
+	<!-- Text editor -->
+    <string name="Wrap_lines">幅を調整</string>
+    <string name="Font_size">文字サイズ</string>
+    <string name="Font">フォント</string>
+    <string name="App_default">アプリの初期値</string>
+    <string name="System_default">システムの初期値</string>
+    <string name="Serif">セリフ体</string>
+    <string name="Monospace">等幅</string>
+    <string name="File_saved_successfully">ファイルが保存されました</string>
+    
+    
+    <!-- Preferences -->
+	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
+	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
+    <string name="Appearance">外観</string>
+	<string name="Theme">テーマ</string>
+    <string name="Choose_between_preinstalled_themes">プリインストールされている中からテーマを選択します</string>
+    <string name="Light">Light</string>
+    <string name="Dark">Dark</string>
+    
+    <string name="Toggle_visibility_of_hidden_files">隠しファイルの表示を切り替えます</string>
+    <string name="Show_hidden_files">隠しファイルを表示</string>
+    
+    <string name="Show_file_permissions">パーミッションを表示</string>
+    <string name="Show_file_permissions_summary">更新日時の代わりに、UNIXスタイルのファイルパーミッションを表示します (アクセスにルート権限が必要なファイルのみ)</string>
+    
+    <string name="Date_format">日付書式</string>
+    <string name="Customize_date_format">日付書式をカスタマイズします</string>
+    
+    <string name="Time_format">時刻書式</string>
+	<string name="Customize_time_format">時刻書式をカスタマイズします</string>
+	
+	<string name="Show_fast_scroll_thumb_in_file_list">ファイル一覧で高速にスクロールできるようにツマミを表示します</string>
+    <string name="Use_fast_scroll">高速スクロールを使用</string>
+    
+    <string name="Low_quality_thumbnails">低品質サムネイル</string>
+    <string name="Low_quality_thumbnails_summary">サムネイルの画質を抑えてメモリを節約します</string>
+    
+    <string name="Portrait_fullscreen">縦画面でフルスクリーン</string>
+    <string name="Portrait_fullscreen_summary">画面が縦向きの時にAndroidの通知バーを非表示にします</string>
+    
+    <string name="Landscape_fullscreen">横画面でフルスクリーン</string>
+    <string name="Landscape_fullscreen_summary">画面が横向きの時にAndroidの通知バーを非表示にします</string>
+    
+    <string name="File_list_size">縦画面時の一覧サイズ</string>
+    <string name="Adjust_size_of_the_file_list">画面が縦向きの時の一覧の大きさを調整します</string>
+    
+    <string name="Landscape_file_list_size">横画面時の一覧サイズ</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">画面が横向きの時の一覧の大きさを調整します</string>
+    
+    <string name="Small">小さい</string>
+    <string name="Normal">標準</string>
+    <string name="Big">大きい</string>
+    <string name="Large">より大きい</string>
+    <string name="Extra_small">より小さい</string>
+    
+    <string name="Hide_exit_button">終了ボタンを非表示</string>
+    <string name="Hide_exit_button_summary">デバイスの戻るキーを長押しすることでアプリを終了できます</string>
+    
+    <string name="Startup">起動</string>
+    
+    <string name="Remember_last_folder">終了時のフォルダーを記憶</string>
+    <string name="Will_start_with_recently_viewed_directories">アプリ起動時に前回終了時のディレクトリを表示します</string>
+    
+    
+    <string name="First_panel_default_dir">パネル1ディレクトリ</string>
+    <string name="Second_panel_default_dir">パネル2ディレクトリ</string>
+    
+    <string name="Change_pictures_directory">フォトディレクトリを変更</string>
+    <string name="Change_downloads_directory">ダウンロードディレクトリを変更</string>
+    
+    <string name="Drag_and_drop">ドラッグ＆ドロップ</string>
+    <string name="Action_for_drop_inside_the_panel">同じパネル内での動作</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">同じパネルに表示されているフォルダーへドロップした時の動作を設定します</string>
+    <string name="Action_for_drop_to_the_second_panel">異なるパネル間での動作</string>
+    <string name="Dropping_an_item_to_the_second_panel">パネルをまたいでドロップした時の動作を設定します</string>
+    <string name="Move">移動</string>
+    
+    <string name="Security">セキュリティ</string>
+    <string name="Master_password_prompt">Solid Explorerはすべてのログイン情報をマスターパスワードで暗号化します。セキュリティをより強固にしたい方におすすめです。あなたはアプリを起動する毎に一度だけ、マスターパスワードの入力を求められます。マスターパスワードを有効にしない場合、パスワード無しの標準の暗号化が使用されます。この機能を有効にしますか？</string>
+    <string name="Disable_master_password_warning">マスターパスワードを無効にすると、標準のパスワードへ自動的に切り替わりますが、パスワードの入力を求められることはありません。ログイン情報は暗号化されたまま保持されます。本当に続行しますか？</string>
+    <string name="Enable_master_password_warning">もし標準のパスワードで暗号化されたブックマークが存在する場合、それらは削除されます。続行しますか？</string>
+    <string name="Enable_master_password">マスターパスワードを有効化</string>
+	<string name="Too_weak_password">パスワードは6～16文字で設定します</string>
+    <string name="Enter_the_master_password">マスターパスワードを入力</string>
+    <string name="Enter_a_new_master_password">新しいマスターパスワードを入力</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">すべてのログイン情報がマスターパスワードで暗号化されます</string>
+    <string name="Set_master_password">マスターパスワードを変更</string>
+    <string name="All_passwords_will_be_reencrypted">すべてのパスワードが再び暗号化されます</string>
+    
+    <string name="I_dont_remember_my_old_password">パスワードを思い出せない</string>
+    <string name="Reset_password_warning">警告！新しいパスワードを設定すると、古いパスワードで暗号化されたすべてのブックマークが削除されます。</string>
+    <string name="Old_password">古いパスワード</string>
+    <string name="New_password">新しいパスワード</string>
+    <string name="Master_password_has_been_disabled">マスターパスワードが無効化されました</string>
+    <string name="Passwords_do_not_match">パスワードが正しくありません</string>
+    <string name="Password_is_too_short">パスワードが短すぎます</string>
+    
+    
+    
+    <string name="Search_interface">検索インターフェース</string>
+    <string name="Search_key_starts_filtering">検索キーでフィルター開始</string>
+    <string name="Search_key_starts_filtering_summary">検索アプリを起動する代わりに、アプリ内でフィルターを開始します</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">フィルター使用時に前方一致したアイテムのみを表示します</string>
+    <string name="Filter_words_from_the_beginning">前方一致フィルター</string>
+    <string name="Customize_indexing_engine_behaviour">インデックスエンジンをカスタマイズします</string>
+    <string name="Indexing_engine">インデックスエンジン</string>
+    	<string name="Reindex_now">今すぐインデックスを作成</string>
+    	<string name="Refresh_index_database">インデックスのデータベースを再構築しますが、プロセスがアクティブな時は効果はありません</string>
+    	<string name="Clear_index_data">インデックスデータをクリア</string>
+    	<string name="Delete_all_index_data">すべてのインデックスデータを削除します</string>
+    	<string name="Reindex_on_media_mount">マウント時に再作成</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">外部ストレージがマウントされた時に、インデックスを再作成します (推奨)</string>
+    	<string name="Shedule_indexing">作成をスケジューリング</string>
+    	<string name="Perform_reindex_every_given_period">一定の周期でインデックスを再作成します</string>
+    	<string name="Set_time_and_period">時刻と周期を設定</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">インデックスを作成する時刻を設定します</string>
+    	<string name="Maximum_index_age">インデックスを保持する期間</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">ファイルが削除された場合に、そのデータをインデックスに残しておく期間を設定します</string>
+    	<string name="one_day">1日</string>
+    	<string name="two_days">2日</string>
+    	<string name="five_days">5日</string>
+    	<string name="One_week">1週間</string>
+    	<string name="Choose_interval">間隔を選択</string>
+    	<string name="three_days">3日</string>
+    	<string name="How_often_indexing_will_be_performed">インデックスの作成頻度を設定します</string>
+    	<string name="Set_period">周期を設定</string>
+    	<string name="Set_time">時刻を設定</string>
+    	<string name="Show_notifications">通知を表示</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">インデックスの作成が完了または中止された時に通知を表示します</string>
+    
+    
+    <string name="Other">その他</string>
+    	
+    <string name="Clear_persistent_data">データをクリア</string>
+    <string name="Clear_persistent_data_summary">サムネイルキャッシュや一時ファイル、オペレーション履歴等を削除します</string>
+    <string name="Clear_thumbnail_cache">サムネイルキャッシュをクリア</string>
+    <string name="Clear_temporary_files">一時ファイルをクリア</string>
+    <string name="Clear_operation_history">オペレーション履歴をクリア</string>
+    <string name="Delete_all_image_previews">すべての画像プレビューを削除します</string>
+    <string name="Delete_all_temporary_files">すべての一時ファイルを削除します</string>
+    <string name="Delete_operation_history_entries">オペレーション履歴のエントリーを削除します</string>
+    <string name="Clear_file_type_associations">ファイルの関連付けをクリア</string>
+    <string name="Clear_file_type_associations_summary">ファイルに関連付けられた既定のアプリ設定を削除します</string>
+    <string name="Clear_temporary_files_on_exit">終了時に一時ファイルをクリア</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">アプリ終了時に一時ファイルを削除します</string>
+    
+    <string name="Quick_start_guide">クイックスタートガイド</string>
+    <string name="Learn_about_main_features">Solid Explorerの主な機能をご紹介します</string>
+    <string name="Help_make_Solid_Explorer_better">Solid Explorerをより良いものにするために、サポートをお願いします</string>
+    <string name="Report_a_bug">バグレポート</string>
+   
+    <string name="About">Solid Explorerについて</string>
+    <string name="Author_version_and_changelog">開発者の情報、バージョン情報、変更履歴</string>
+    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Glodowski</string>
+    <string name="Version">バージョン</string>
+    <string name="Changelog">変更履歴</string>
+    <string name="Whats_new">更新情報を表示します</string>
+    <string name="Author">開発者</string>
+    <string name="Functionality_for_future_releases">今後搭載する予定の機能を表示します</string>
+    <string name="Planned_features">搭載予定の機能</string>
+    
+    
+    
+    <!-- Other -->
+    <string name="Prefix">プレフィックス</string>
+    <string name="Expiration_message">Solid Explorer ベータ版をご利用いただきありがとうございます。このアプリを継続してお試しいただくには、Google Playから最新版のダウンロードをお願いします。</string>
+    <string name="Empty">空</string>
+	<string name="search_description">Solid Explorerでデバイスを検索</string>
+    <string name="search_hint">ファイル名を入力 </string>
+    <string name="Save_file">ファイルを保存</string>
+    <string name="Solid_explorer_indexing_service">Solid Explorer インデックスサービス</string>
+    
+    
+    
+    <!-- acra -->
+    <string name="crash_toast_text">おおっと！Solid Explorerがクラッシュしてしまいました。開発者へレポートを送信して彼がこのエラーを解決するためのサポートをお願いします。</string>
+    <string name="crash_notif_ticker_text">予期しないエラーが発生しました。レポートを送信してください...</string>
+    <string name="crash_notif_title">Solid Explorerがクラッシュ...</string>
+    <string name="crash_notif_text">問題解決をサポートするには、ここをタップしてください</string>
+    <string name="crash_dialog_title">Solid Explorerがクラッシュしました</string>
+    <string name="crash_dialog_text">予期しないエラーが発生したためアプリが強制停止しました。エラーレポートを送信してこの問題を解決する手助けをお願いします。</string>
+    <string name="crash_dialog_comment_prompt">下のフォームに発生した問題について詳しい情報をご記入ください。あなたのフィードバックが問題の解決をより迅速なものにします。</string>
+    <string name="crash_dialog_ok_toast">ありがとうございます！</string>
+    
+    <string name="Icon_designer">アイコンデザイナー</string>
+    <string name="Prefix">プレフィックス</string>
+    <string name="Translations">翻訳</string>
+    <string name="Translations_summary">有志による翻訳の加筆修正: Steven Schoen</string>
+    <string name="Empty">空</string>
+    <string name="Press_once_again_to_exit">もう一度戻るキーを押すと終了します</string>
+    
+    
+    <string name="View_in_DiskUsage">DiskUsageで見る</string>
+    <string name="Retry">再試行</string>
+    <string name="Portrait">縦画面</string>
+    <string name="Landscape">横画面</string>
+    <string name="Customize_list">一覧をカスタマイズ</string>
+    <string name="Customize_list_summary">ファイル一覧のアイコンやテキストの大きさを調整します</string>
+    <string name="Preview">プレビュー</string>
+    <string name="Icon_size_pixels" formatted="false">アイコンの大きさ (最大: % x %)</string>
+    <string name="Label_size">ラベルの大きさ</string>
+    <string name="Subtext_size">サブラベルの大きさ</string>
+    <string name="Label_size_points">テキストの大きさ (最大: 35pt)</string>
+    <string name="Columns">カラム</string>
+    <string name="No_computers_found">コンピューターが見つかりません</string>
+    <string name="Local_directory">ローカルディレクトリ</string>
+    <string name="Default_panel">デフォルトパネル</string>
+    <string name="Destination_type">場所の種類</string>
+    <string name="DiskUsage_not_installed">DiskUsageがインストールされていないようです。このアプリはディスクの使用状況を表示するとても洗練された使いやすいアプリです。今すぐインストールしますか？</string>
+    <string name="Text_copied_to_clipboard">テキストをクリップボードにコピーしました</string>
+    <string name="Force_english">英語を使用</string>
+    <string name="Force_english_summary">アプリの表示言語を英語にします。この設定はアプリの再起動後に有効になります。</string>
+    <string name="Encoding">エンコード</string>
+    <string name="Network_thumbnails">ネットワークサムネイル</string>
+    <string name="Network_thumbnails_summary">モバイルデータ接続時でも画像のサムネイルを読み込みます</string>
+    <string name="Copy_to">ﾊﾟﾈﾙへｺﾋﾟｰ</string>
+    <string name="Move_to">ﾊﾟﾈﾙへ移動</string>
+    <string name="Shortcut">ショートカット</string>
+    <string name="Two_panels_in_landscape_summary">画面が横向きの時に2つのパネルを一度に表示します</string>
+    <string name="Two_panels_in_landscape">横画面で2パネルを表示</string>
+    <string name="Restart_prompt">変更を反映するにはアプリを再起動する必要があります。今すぐ再起動しますか？</string>
+    <string name="Custom_color_scheme">カスタムカラースキーム</string>
+    <string name="Custom_color_scheme_summary">全体的なアプリの色をカスタマイズします。アプリの起動が遅くなることがあります。</string>
+    <string name="Color_scheme">カラースキーム</string>
+    <string name="Color_scheme_summary">現在のカラースキームの色合いと鮮やかさを調整します</string>
+    <string name="Change_color_scheme">カラースキームを変更</string>
+    <string name="Hue">色合い</string>
+    <string name="Saturation">鮮やかさ</string>
+    <string name="SolidExplorer_is_running">Solid Explorerは実行中です</string>
+    <string name="Notification_shortcut">通知を表示</string>
+    <string name="Notification_shortcut_summary">バックグラウンドでこのアプリを実行している場合に通知を表示します</string>
+    <string name="Please_wait">お待ちください</string>
+    
+    
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">本当にこのファイルを2つ目のパネルにコピーしますか？</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">本当にこのファイルを2つ目のパネルに移動しますか？</string>
+	<string name="Image_not_loaded">画像が読み込まれていません</string>
+	<string name="Target_SDK">ターゲットSDK</string>
+	<string name="Description">説明</string>
+	<string name="Data_dir">場所</string> <!-- short word please -->
+	<string name="Installed">インストールしました</string>
+	<string name="Updated">アップデートしました</string>
+	<string name="Install">インストール</string>
+	<string name="More">詳細</string>
+	<string name="Package_name">パッケージ名</string>
+	<string name="Map_view">地図</string>
+	<string name="Street_view">ストリートビュー</string>
+	<string name="Ask">質問</string>
+	<string name="Choose_an_action">操作を選択します</string>
+	<string name="Folders_first">フォルダーを先に表示</string>
+	<string name="Folders_first_summary">フォルダーを先に表示し、その後でファイルを表示します。</string>
+	<string name="FAQ">FAQ</string>
+	<string name="FAQ_summary">質問の前にFAQをよくお読みください</string>
+
+</resources>

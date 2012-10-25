@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">Solid Explorer har två oberoende paneler för filhantering. Som ett exempel så kan du hantera minneskortet i den ena panelen och din nätverkslagring i den andra. Filhanteringen blir väldigt smidig.</string>
+    <string name="page1_2">I porträttläge syns bara en panel i taget. För att växla mellan dem kan du svepa vänster eller höger. I liggande läge ser du båda panelerna samtidigt.</string>
+    <string name="page2_1">Du kan dra flera filer genom att hålla på ikonen och släppa dem i motsatt panel. Bara glid till kanten av skärmen så dyker den andra panelen upp. Enkelt och intuitivt.</string>
+    <string name="page2_2">Du kan släppa filerna i en katalog också. Håll filen över en katalog så öppnas den. Sedan släpper du filen i katalogen.</string>
+    <string name="page3_1">För att välja filer snabbt klickar du på ikonen. Markeringsläget hoppar upp med några användbara funktioner. Du kan aktivera fler \"kopiera\", \"klipp ut\" och \"dela\" -knappar i inställningarna.</string>
+    <string name="page3_2">Det enda undantaget där denna funktion inte fungerar, är ikonvyn. Du måste aktivera markeringsläget under Ordna-menyn.</string>
+    <string name="page4_1">Indexerad sökning ger snabb åtkomst till filer som finns var som helst på din enhet. Sökningen tar mindre än en sekund! Om din fil inte skulle hittas så kan du klicka på \'Manuell sökning\' för att leta igenom enheten fil för fil.</string>
+    <string name="page4_2">Du kan söka i din telefon genom Google Sök också. Gå till inställningarna i Google Sök och aktivera Solid Explorer-sökning.</string>
+    <string name="page5_1">Solid Explorer stöder FTP, SFTP och SMB-protokoll. När du loggar in någonstans lagras detta automatiskt som ett bokmärke. Du kan välja att kryptera lösenordet med ett övergripande lösenord som du måste ställa in.</string>
+    <string name="page5_2">Har du ett konto för lagring i molnet? I så fall kan du enkelt bläddra bland dina filer på Dropbox och Box.</string>
+    <string name="page6_1">Om du behöver skicka filer via e-post så kan du skapa filarkiv med eller utan lösenord. Format som stöds är ZIP och tar med GZIP- eller BZIP2-kompression.</string>
+    <string name="page6_2">Solid Explorer stöder ZIP, RAR och tar-arkiv för visning och extrahering. Du kan bläddra i arkiv som helt vanliga mappar.</string>
+    <string name="page7_1">Solid Explorer ger dig detaljerad information om filer och kataloger. Du kan undersöka vad som äter upp ditt minne eller se lite statistik.</string>
+    <string name="page8_1">Varje funktion har sin plats i de fina popup-menyerna. De har noga grupperats för att säkerställa bästa användarupplevelse.</string>
+    <string name="page8_2">När du har flera paneler i bakgrunden, kan du enkelt växla mellan dem.</string>
+    <string name="page9">Jag är glad att du beslutat att pröva Solid Explorer. Jag hoppas att du får nytta av alla funktioner som appen tillhandahåller. Om du glömmer något kan du hitta denna snabbstartsguide från inställningarna. Tack!</string>
+    <string name="Start_using_solid_explorer">Börja använda Solid Explorer</string>
+    <string name="page0_1">Välkommen till Solid Explorer - den mest intuitiva och iögonfallande filhanteraren för Android. Var god läs denna snabbstartsguide för att bekanta dig med alla funktioner i applikationen.</string>
+    <string name="Not_now">Inte nu</string>
+    <string name="page0_2">För att börja, svep till nästa skärm</string>
+    <string name="Welcome">Välkommen</string>
+    <string name="Two_panels">Två paneler</string>
+    <string name="Quick_selection">Snabbval</string>
+    <string name="Indexed_search">Indexerad sökning</string>
+    <string name="Archives">Arkiv</string>
+    <string name="Detailed_information">Detaljerad information</string>
+    <string name="Useful_popups">Användbara popuper</string>
+    <string name="Lets_start">Nu börjar vi</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Du kan läsa guiden senare. Gå bara till inställningarna och välj \&quot;Snabbstartsguide\&quot;.</string>
+    <string name="Thank_you">Tack!</string>
+    
+</resources>

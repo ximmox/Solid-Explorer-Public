@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Directory_does_not_exists">Папки не існує</string>
+  <string name="Unable_to_read_the_file">Неможиво прочитати файл</string>
+  <string name="Illegal_operation">Недопустима операція</string>
+  <string name="Cannot_update_the_database">Неможливо оновити базу даних</string>
+  <string name="Error">Помилка</string>
+  <string name="Invalid_password_for_user_x">Недійсний пароль для користувача \"%\"</string>
+  <string name="Invalid_master_password">Недійсний головний пароль</string>
+  <string name="Unable_to_execute_shell_command">Неможливо виконати команду shell</string>
+  <string name="No_root_access_available">Немає root-доступу</string>
+  <string name="Unable_to_read_root_directory">Неможливо прочитати кореневу папку</string>
+  <string name="Operation_has_failed">Невдала операція</string>
+  <string name="Invalid_file_path">Недійсний шлях</string>
+  <string name="Cannot_browse_to_x">Неможливо перейти \"%\". Сталась невідома помилка.</string>
+  <string name="Cannot_write_to_the_system">Неможливий запис в систему. Монтуваня на читання/запис невдале.</string>
+  <string name="Requested_file_x_has_not_been_found">Запитаний файл \"%\" не знайдено.</string>
+  <string name="Unknown_read_write_exception">Невідомі обмеження читання/запису.</string>
+  <string name="Invalid_url_x">Недійсна адреса URL: %</string>
+  <string name="An_error_occured_while_accessing_master_password">Виникла помилка в доступі.</string>
+  <string name="Operation_not_allowed">Недозволена операція.</string>
+  <string name="Cannot_connect_to_host_x_on_port_y">Неможливо з\'єднатись з \"%x\" через порт %y.</string>
+  <string name="Unable_to_resolve_host_x">Неможливо знайти ім\'я хосту \"%x\".</string>
+  <string name="Server_returned_illegal_response">Сервер повернув недійсну відповідь</string>
+  <string name="An_error_occured_while_transferring_data_from_the_server">Сталась помилка під час обміну інформацією з сервером.</string>
+  <string name="Invalid_username_or_password">Недійсне ім\'я користувача чи пароль.</string>
+  <string name="Internal_server_error">Внутрішня помилка сервера.</string>
+  <string name="Server_response_x">Відповідь сервера: %x</string>
+  <string name="Unable_to_open_the_file_for_reading">Неможливо відкрити файл для читання</string>
+  <string name="Unable_to_write_the_file_to_x">Неможливий запис до файлу \"%x\".</string>
+  <string name="Unable_to_connect_to_the_x">Неможливо з\'єднатись з %x.</string>
+  <string name="Unknown_error">Невідома помилка</string>
+  <string name="Cannot_create_directory_X">Неможливо створити папку \"%x\"</string>
+  <string name="Unable_to_start_the_service_on_port_x">Неможливо запустити службу на порті %</string>
+</resources>

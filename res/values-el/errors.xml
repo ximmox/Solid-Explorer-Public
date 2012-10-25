@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Ο κατάλογος δεν υπάρχει</string>
+    
+    <string name="Unable_to_read_the_file">Αδυναμία ανάγνωσης του αρχείου</string>
+    <string name="Illegal_operation">Μη έγκυρη λειτουργία</string>
+    
+    
+    <string name="Cannot_update_the_database">Αδυναμία ενημέρωσης βάσης δεδομένων</string>
+    <string name="Error">Σφάλμα</string>
+    
+    <string name="Invalid_password_for_user_x">Μη έγκυρος κωδικός για το χρήστη \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Μη έγκυρος κεντρικός κωδικός</string>
+    <string name="Unable_to_execute_shell_command">Αδυναμία εκτέλεσης εντολής κελύφους</string>
+    <string name="No_root_access_available">Η πρόσβαση υπερχρήστη δεν είναι διαθέσιμη</string>
+    <string name="Unable_to_read_root_directory">Αδυναμία ανάγνωσης του ριζικού καταλόγου</string>
+    
+    <string name="Operation_has_failed">Η λειτουργία απέτυχε</string>
+    <string name="Invalid_file_path">Μη έγκυρη διαδρομή αρχείου</string>
+    
+    
+    <string name="Cannot_browse_to_x">Αδυναμία πλοήγησης στο \&quot;%\&quot;. Παρουσιάστηκε άγνωστο σφάλμα.</string>
+    <string name="Cannot_write_to_the_system">Αδυναμία εγγραφής στο σύστημα. Η προσάρτησή του ως αναγνώσιμο/εγγράψιμο απέτυχε.</string>
+    <string name="Requested_file_x_has_not_been_found">Το ζητούμενο αρχείο \&quot;%\&quot; δε βρέθηκε.</string>
+    <string name="Unknown_read_write_exception">Άγνωστη εξαίρεση ανάγνωσης/εγγραφής.</string>
+    <string name="Invalid_url_x">Μη έγκυρη URL: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Παρουσιάστηκε σφάλμα κατά την πρόσβαση στον κεντρικό κωδικό.</string>
+    <string name="Operation_not_allowed">Η λειτουργία δεν επιτρέπεται.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Αδυναμία σύνδεσης στο \&quot;%x\&quot; στη θύρα %y.</string>
+    <string name="Unable_to_resolve_host_x">Αδυναμία επίλυσης ονόματος διακομιστή \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Ο διακομιστής επέστρεψε μη έγκυρη απάντηση</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Παρουσιάστηκε σφάλμα κατά τη μεταφορά δεδομένων από το διακομιστή.</string>
+    <string name="Invalid_username_or_password">Μη έγκυρο όνομα χρήστη ή κωδικός.</string>
+    <string name="Internal_server_error">Εσωτερικό σφάλμα διακομιστή.</string>
+    <string name="Server_response_x">Απάντηση διακομιστή: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Αδυναμία ανοίγματος του αρχείου για ανάγνωση</string>
+    <string name="Unable_to_write_the_file_to_x">Αδυναμία εγγραφής του αρχείου στο \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Αδυναμία σύνδεσης στο %x.</string>
+    <string name="Unknown_error">Άγνωστο σφάλμα</string>
+    <string name="Cannot_create_directory_X">Αδυναμία δημιουργίας καταλόγου \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Αδυναμία έναρξης της υπηρεσίας στη θύρα %</string>    
+</resources>

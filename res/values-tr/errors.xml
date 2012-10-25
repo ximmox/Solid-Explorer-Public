@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Dizin bulunmadı</string>
+    
+    <string name="Unable_to_read_the_file">Dosya okunamadı</string>
+    <string name="Illegal_operation">Geçersiz işlem</string>
+    
+    
+    <string name="Cannot_update_the_database">Veritabanı güncellenemedi</string>
+    <string name="Error">Hata</string>
+    
+    <string name="Invalid_password_for_user_x">\&quot;%\&quot; kullanıcısı için geçersiz parola</string>
+    <string name="Invalid_master_password">Geçersiz yönetici parolası</string>
+    <string name="Unable_to_execute_shell_command">Kabuk komutu çalıştırılamadı</string>
+    <string name="No_root_access_available">Kök erişimi mevcut değil</string>
+    <string name="Unable_to_read_root_directory">Kök dizin okunamıyor</string>
+    
+    <string name="Operation_has_failed">İşlem Başarısız</string>
+    <string name="Invalid_file_path">Geçersiz dosya yolu</string>
+    
+    
+    <string name="Cannot_browse_to_x">\&quot;%\&quot; dizinine göz atılamıyor. Bilinmeyen bir hata oluştu.</string>
+    <string name="Cannot_write_to_the_system">Dosya sistemine yazılamıyor. Okuma/yazma moduna geçme işlemi başarısız.</string>
+    <string name="Requested_file_x_has_not_been_found">İstenen dosya \&quot;%\&quot; bulunamadı.</string>
+    <string name="Unknown_read_write_exception">Bilinmeyen okuma/yazma hatası.</string>
+    <string name="Invalid_url_x">Geçersiz Bağlantı: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Yönetici parolasına erişilirken bir hata oluştu.</string>
+    <string name="Operation_not_allowed">İşleme izin verilmiyor.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">\&quot;%x\&quot; üzerindeki %y portuna sahip adrese bağlanılamıyor.</string>
+    <string name="Unable_to_resolve_host_x">Sunucu adı çözümlenemedi \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Sunucu geçersiz bir cevap iletti</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Veri sunucudan aktarılırken bilinmeyen bir hata oluştu.</string>
+    <string name="Invalid_username_or_password">Geçersiz kullanıcı adı ya da parola.</string>
+    <string name="Internal_server_error">İç Sunucu Hatası.</string>
+    <string name="Server_response_x">Sunucu yanıtı: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Dosya okuma için açılamıyor</string>
+    <string name="Unable_to_write_the_file_to_x">Dosya \&quot;%x\&quot; konumuna yazılamıyor.</string>
+    <string name="Unable_to_connect_to_the_x">%x konumuna bağlanılamıyor.</string>
+    <string name="Unknown_error">Bilinmeyen hata</string>
+    <string name="Cannot_create_directory_X">Dizin yaratılamadı \&quot;%x\&quot;</string>
+	<string name="Unable_to_start_the_service_on_port_x">\&quot;%\&quot; portu üzerinde servis yaratılamıyor.</string>
+    
+</resources>

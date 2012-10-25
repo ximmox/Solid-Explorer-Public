@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">O Solid Explorer tem dois painéis de navegação de ficheiros independentes. Por exemplo, pode ver o cartão SD num painel e as partilhas do seu PC noutro. Pode assim, gerir ficheiros com facilidade.</string>
+    <string name="page1_2">No modo retrato há apenas um painel visível. Para alternar entre painéis, basta deslizar para a esquerda ou direita. No modo paisagem verá dois painéis de uma só vez.</string>
+    <string name="page2_1">Pode arrastar vários ficheiros segurando o ícone e largando-os no painel oposto. Basta deslizar para a extremidade da tela e o segundo painel vai aparecer. Fácil e intuitivo.</string>
+    <string name="page2_2">Também pode soltar os ficheiros numa pasta. Segure-os apenas por meio segundo e a pasta abrirá. Depois é só soltá-los.</string>
+    <string name="page3_1">Para selecionar os ficheiros rapidamente, toque no ícone. A barra de seleção irá aparecer com algumas funções úteis. Pode ativar botões \&quot;Copiar\&quot;, \&quot;Mover\&quot; e \&quot;Enviar\&quot; adicionais nas Preferências.</string>
+    <string name="page3_2">A única exceção, onde este recurso não funciona, é na exibição em grelha. Tem que ativar modo de seleção no menu Organizar.</string>
+    <string name="page4_1">A pesquisa indexada oferece acesso rápido a ficheiros localizados em qualquer parte do telefone. Receberá resultados de pesquisa em menos de um segundo! Esqueça o ficar à espera. No entanto, se o ficheiro não foi encontrado, toque na opção \'Pesquisa Manual\' para procurar ficheiro por ficheiro no telefone.</string>
+    <string name="page4_2">Também pode pesquisar no telefone através do Google Search. Tudo que tem de fazer é ir às configurações e permitir a interface de pesquisa do Solid Explorer.</string>
+    <string name="page5_1">O Solid Explorer suporta os protocolos FTP, SFTP e SMB. Quando inicia uma sessão algures, esta é automaticamente armazenada como um marcador. Pode optar por criptografar a senha com a senha metra que terá que definir.</string>
+    <string name="page5_2">Possui uma conta de armazenamento na Cloud? Se assim for, pode navegar pelos seus ficheiros nos serviços Dropbox e Box com facilidade.</string>
+    <string name="page6_1">Precisa enviar alguns ficheiros por email? Crie ficheiros ZIP e TAR, protegidos por senha, com compressão GZIP ou BZIP2.</string>
+    <string name="page6_2">O Solid Explorer suporta visualização e extração de ficheiros ZIP, RAR e TAR. Pode navegar dentro do ficheiro como num sistema de ficheiros real.</string>
+    <string name="page7_1">O Solid Explorer dá-lhe informações detalhadas sobre ficheiros e pastas. Agora já pode verificar o que consome a memória ou consultar algumas estatísticas.</string>
+    <string name="page8_1">Cada função tem o seu lugar nos seus simpáticos popups. Eles foram cuidadosamente agrupados para garantir a melhor experiência de utilizador.</string>
+    <string name="page8_2">Quando tem vários painéis em 2º plano, pode alternar entre eles.</string>
+    <string name="page9">Fico feliz que tenha decidido experimentar o Solid Explorer. Espero que aproveite todos os recursos que a aplicação disponibiliza. Se se esquecer de alguma coisa, poderá ver este Guia Rápido nas Configurações. Obrigado!</string>
+    <string name="Start_using_solid_explorer">Start using Solid Explorer</string>
+    <string name="page0_1">Bem-vindo ao Solid Explorer - o gestor de ficheiros mais intuitivo e atraente para Android. Por favor, leia este Guia Rápido para se familiarizar com tudo o que esta aplicação lhe disponibiliza.</string>
+    <string name="Not_now">Não agora</string>
+    <string name="page0_2">Para começar, passe para o próximo ecrã</string>
+    <string name="Welcome">Bem-vindo</string>
+    <string name="Two_panels">Dois painéis</string>
+    <string name="Quick_selection">Seleção rápida</string>
+    <string name="Indexed_search">Pesquisa indexada</string>
+    <string name="Archives">Ficheiros</string>
+    <string name="Detailed_information">Informação detalhada</string>
+    <string name="Useful_popups">Popups úteis</string>
+    <string name="Lets_start">Vamos começar!</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Pode ler o guia mais tarde. Basta ir às configurações e selecionar a opção \&quot;Guia Rápido\&quot;.</string>
+    <string name="Thank_you">Obrigado!</string>
+    
+</resources>

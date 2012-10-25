@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    
+    
+    <!-- bottom toolbar -->
+    <string name="New">Нов</string>
+    <string name="Jump">Скок</string>
+    <string name="Filter">Филтър</string>
+    <string name="Menu">Меню</string>
+    <string name="Actions">Действия</string>
+    
+    <!-- "New" popup -->
+    <string name="New_folder">Папка</string>
+    <string name="New_file">Файл</string>
+    <string name="New_FTP_connection">FTP връзка</string>
+    <string name="New_SFTP_connection">SFTP връзка</string>
+    <string name="New_SMB_connection">SMB връзка</string>
+    <string name="New_cloud_connection">Облачна връзка</string>
+    
+    <!-- "Actions" popup -->
+    
+    <string name="Copy">Копирай</string>
+    <string name="Cut">Изрежи</string>
+    <string name="Paste">Постави</string>
+    <string name="Delete">Изтрий</string>
+    <string name="Properties">Свойства</string>
+    <string name="Select_all">Избери всички</string>
+    <string name="Select">Избери</string>
+    
+    <!-- "Jump" popup -->
+    
+    <string name="Device">Устройство</string>
+    <string name="Photos">Снимки</string>
+    <string name="Downloads">Изтегляния</string>
+    <string name="Network">Мрежа</string>
+    <string name="Bookmarks">Отметки</string>
+    <string name="No_bookmarks">Няма отметки</string>
+    
+    <!-- "Menu" popup -->
+    <string name="View">Преглед</string>
+    <string name="Sort">Сортирай</string>
+    <string name="Search">Търси</string>
+    <string name="Operations">Операции</string>
+    <string name="Manage_bookmarks">Управление отметки</string>
+    <string name="File_sharing">Файлово споделяне</string>
+    <string name="Settings">Настройки</string>
+    <string name="Exit">Изход</string>
+    
+    <!-- "Network" popup -->
+    <string name="Cloud_storage">Облачно съхранение</string>
+    
+    <!-- "Device" popup -->
+     <string name="System_root">Системен дял</string>
+    <string name="SD_card">SD карта</string>
+    <string name="Internal_memory">Вътрешна памет</string>
+    <string name="USB_drive_x">USB устройство %x</string>
+    
+    <!-- "View" popup -->
+    <string name="View_mode">Изглед</string>
+    <string name="List">Списък</string>
+    <string name="Detailed_list">Подробен списък</string>
+    <string name="Grid">Мрежа</string>
+    <string name="Detailed_grid">Подробна мрежа</string>
+    
+    <!-- "Sort" popup -->
+    <string name="Sort_files_by">Сортирай файлове по</string>
+    <string name="File_name">Име</string>
+    <string name="File_size">Размер</string>
+    <string name="File_type">Тип</string>
+    <string name="Modified_date">Дата на промяна</string>
+    <string name="Ascending">Възходящ</string>
+    <string name="Descending">Низходящ</string>
+    <string name="In_order">В ред</string>
+    
+    <!-- Browser switch popup -->
+    <string name="Active_browser">Активен браузър</string>
+    <string name="Close_all">Затвори всички</string>
+    <string name="In_background">На заден план</string>
+    
+    
+    
+    <!-- Context menu -->
+    <string name="Open_with">Отвори с...</string>
+    <string name="Open_in_bg">Отвори на зп</string>
+    <string name="Send">Изпрати</string>
+    <string name="Bookmark">Отметка</string>
+    <string name="Rename">Преименувай</string>
+    <string name="Extract">Извлечи</string>
+    <string name="Extract_to">Извлечи в</string>
+    <string name="Archive">Архивирай</string>
+    <string name="Paste_to_x">Постави в \&quot;%\&quot;</string>
+    
+    
+    <!-- Dialogs -->
+    <string name="OK">OK</string>
+    <string name="Cancel">Отказ</string>
+    <string name="Yes">Да</string>
+    <string name="No">Не</string>
+    
+	    <!-- New folder/file dialog -->
+	    <string name="Enter_the_name">Въведете име</string>
+	    
+	    <!-- New connection Dialog -->
+	    <string name="Display_name">Показвано име</string>
+	    <string name="May_be_empty">Може да е празно</string>
+    	<string name="Remote_path">Дистанционен път</string>
+    	<string name="Port">Порт</string>
+    	<string name="User_name">Потребителско име</string>
+    	<string name="Password">Парола</string>
+    	<string name="Repeat_the_password">Потвърдете парола</string>
+    	<string name="Authentication_method">Метод на удостоверяване</string>
+    	<string name="Server">Сървър</string>
+    	<string name="Connection_type">Тип на връзката</string>
+    	<string name="Scan">Сканирай</string>
+    	<string name="Computer_name_or_IP_adress">Компютърно име или IP адрес</string>
+    	<string name="Looking_for_computers">Търсене за компютри</string>
+    	<string name="Share">SMB споделяне</string>
+    	
+    		<!-- Auth methods -->
+    		<string name="Ask_for_password_each_time">Питай за парола всеки път</string>
+        	<string name="Store_encrypted_password">Пази криптирана парола</string>
+        	<string name="No_password_required">Не се изисква парола</string>
+        	<string name="Anonymous">Анонимен</string>
+        	<string name="Log_in_as_a_guest">Вход като гост</string>
+        	
+        	<!-- FTP types -->
+        	<string name="FTP_no_encryption">FTP (няма криптиране)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (косвено криптиране)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (пълно криптиране)</string>
+        
+    <!-- Search activity -->	
+    <string name="Manual_search">Ръчно търсене</string>
+    <string name="Results_from">Резултати от:</string>
+    <string name="No_results">Няма резултати</string>
+    <string name="Matches">Съвпадения</string>
+    <string name="Selected">Избрани</string>
+    <string name="Match_mode">Режим съвпадение</string>
+    <string name="Match_start">Съвпада начало</string>
+    <string name="Match_any">Всичко съвпада</string>
+    <string name="Match_end">Съвпада край</string>
+    
+    <!-- Operations activity -->
+    <string name="History_is_empty">Историята е празна</string>
+    <string name="Current_operation">Текуща операция</string>
+    <string name="No_pending_operation">Няма чакащи операции</string>
+    <string name="History">История</string>
+    <string name="Count">Брой</string>
+    <string name="Date">Дата</string>
+    <string name="Source">Източник</string>
+    <string name="Destination">Местоположение</string>
+    
+    	<!-- Operation info -->
+    	<string name="Operation">Операция</string>
+    	<string name="From">От</string>
+    	<string name="To">До</string>
+    	<string name="Size">Размер</string>
+    	<string name="Speed">Скорост</string>
+    	<string name="ETA">ETA</string>
+    	<string name="NA">Няма</string>
+    	<string name="Current">Текуща</string>
+    	
+    	<!-- Operation descriptions -->
+    	<string name="File_copy">Копиране на файл</string>
+    	<string name="File_move">Местене на файл</string>
+    	<string name="File_delete">Изтриване на файл</string>
+    	<string name="Temporary_download">Временно изтегляне</string>
+   	 	<string name="Creating_archive">Създаване на % архив</string>
+    	<string name="Extracting_archive">Извличане на % архив</string>
+    	<string name="X_has_been_completed">% е завършена.</string>
+    	<string name="X_has_failed">% е неуспешна.</string>
+    	<string name="Tap_to_show_details">Докоснете за детайли</string>
+    	<string name="Pending_cancel_request">Заявка за изчакващ отказ</string>
+    	<string name="File_operation">Файлова операция</string>
+    
+    <!-- Bookmark manager -->
+    <string name="Bookmark_manager">Управление отметки</string>
+    <string name="Edit">Редакция</string>
+    <string name="Disconnect">Прекъсни</string>
+    <string name="Delete_all">Изтрий всички</string>
+    <string name="Wifi_toggle">Превключи Wi-Fi</string>
+    <string name="Wifi_settings">Wi-Fi настройки</string>
+    <string name="Disconnect_all">Прекъсни всички</string>
+    <string name="Connected">Свързан</string> 
+    <string name="Not_connected">Не е свързан</string>
+    <string name="on">вкл</string>
+    <string name="Local_bookmarks">Местни отметки</string>
+    <string name="FTP_bookmarks">FTP отметки</string>
+    <string name="SFTP_bookmarks">SFTP отметки</string>
+    <string name="SMB_bookmarks">SMB отметки</string>
+    <string name="Cloud_bookmarks">Облачни отметки</string>
+    <string name="Edit_bookmark">Редактирай отметка</string>
+    <string name="Name">Име</string>
+    <string name="Path">Път</string>
+    
+    <!-- Dir picker -->
+    <string name="Pick_a_directory">Избор на директория</string>
+    
+    <!-- Cloud storage dialog -->
+    <string name="Cloud_storage_services">Услуги за облачно съхранение</string>
+    <string name="Cloud_services_description">Изберете вашата услуга за облачно съхранение</string>
+    
+    <!-- File sharing -->
+    <string name="File_sharing_active">Файлово споделяне активирано</string>
+    <string name="ftp_server_hint">За да се свържете, напишете адреса на сървъра в адресната лента на Windows Explorer или изполвайте някой FTP клиент.</string>
+    <string name="You_cannot_share_root_directory">Не можете да споделите системната директория</string>
+    <string name="File_sharing_stopped">Файлово споделяне спряно</string>
+    <string name="None">Няма</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Трябва да сте свързан към локална мрежа</string>
+    <string name="Active">Активно</string>
+    <string name="Inactive">Неактивно</string>
+    <string name="FTP_Server">FTP сървър</string>
+    <string name="Shared_directory">Споделена директория</string>
+    <string name="Type_to_change">Пишете за смяна</string>
+    <string name="No_password_set">Няма зададена парола</string>
+    <string name="Status">Състояние</string>
+    <string name="Server_address">Адрес на сървъра</string>
+    <string name="Start">Старт</string>
+    <string name="Stop">Стоп</string>
+    
+    
+    <!-- Archive dialog -->
+    <string name="Create_archive_dialog_title">Създаване на архив</string>
+    <string name="Archive_name">Има на архив</string>
+    <string name="Compression">Компресия</string>
+    <string name="Format">Формат</string>
+    <string name="Use_password_protection">Използвайте защита с парола</string>
+    <string name="Fast">Бърза</string>
+    <string name="Normal">Нормална</string>
+    <string name="Good">Добра</string>
+    <string name="Best">Най-добра</string>
+    
+    <!-- File properties -->
+    <string name="Content_summary">Детайлна информация</string>
+    <string name="File_types">Файлови типове</string>
+    <string name="Top_10_files">Топ 10 файла</string>
+    <string name="Location">Място</string>
+    <string name="Type">Тип</string>
+    <string name="Parent_path">Главен път</string>
+    <string name="Last_modified">Последна промяна</string>
+    <string name="Directory">Директория</string>
+    <string name="Unknown">Неизвестен</string>
+    <string name="Symbolic_link">Символна връзка</string>
+    <string name="Link_target">Цел на връзка</string>
+    <string name="Open">Отвори</string>
+    <string name="Open_directory">Отвори директория</string>
+    <string name="MD5">MD5</string>
+    <string name="Calculate">Изчисли</string>
+    <string name="Compare">Сравни</string>
+    <string name="Paste_to_compare">Постави за сравнение</string>
+    <string name="Files">Файлове</string>
+    <string name="Folders">Папки</string>
+    <string name="Calculation_error">Грешка при изчисление</string>
+    <string name="Content">Съдържание</string>
+    <string name="Other_used">Други</string>
+    <string name="Free_space">Свободна</string>
+    <string name="Usage">Употреба</string>
+    <string name="Attributes">Атрибути</string>
+    <string name="Read">Четене</string>
+    <string name="Write">Запис</string>
+    <string name="Hidden">Скрит</string>
+    <string name="Additional_info">Дъполнителна информация</string>
+    <string name="Percent">Процент</string>
+    <string name="Music">Музика</string>
+    <string name="Pictures">Снимки</string>
+    <string name="Videos">Клипове</string>
+    <string name="Archives">Архиви</string>
+    <string name="Documents">Документи</string>
+    <string name="Change">Промени</string>
+    <string name="Execute">Изпълнение</string>
+    <string name="Owner">Собственик</string>
+    <string name="Group">Група</string>
+    <string name="Others">Други</string>
+    <string name="Owners">Собственици</string>
+    <string name="Permissions">Разрешения</string>
+    <string name="Set">Задай</string>
+    <string name="Used_space">Използвано място</string>
+    <string name="Free_space">Свободно място</string>
+    <string name="Total_size">Общ размер</string>
+    <string name="Artist">Изпълнител</string>
+    <string name="Title">Заглавие</string>
+    <string name="Duration">Времетраене</string>
+    <string name="Resolution">Резолюция</string>
+    <string name="Recorded">Записан</string>
+    <string name="Width">Ширина</string>
+    <string name="Height">Височина</string>
+    <string name="Manufacturer">Производител</string>
+    <string name="Camera_model">Модел камера</string>
+    <string name="Software">Софтуер</string>
+    <string name="Orientation">Ориентация</string>
+    <string name="Exposure_time">Време на експозиция</string>
+    <string name="Exposure_bias">Отклонение на експозиция</string>
+    <string name="White_balance">Баланс на бяло</string>
+    <string name="Focal_length">Фокусно разстояние</string>
+    <string name="Aperture_size">Размер апертура</string>
+    <string name="Flash">Светкавица</string>
+    
+    <!-- Dialogs again -->
+    	<!-- File exists dialog -->
+    	<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
+    	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+    	<string name="File_exists">Файла съществува</string>
+    	<string name="Skip">Пропусни</string>
+    	<string name="Overwrite">Презапиши</string>
+    	<string name="Merge">Обедини</string>
+    	<string name="Keep_both">Запази двата</string>
+    	<string name="Remember_action">Запомни това действие</string>
+    	<string name="Keep_the_old_file">Запази стария файл</string>
+    	<string name="The_new_file_will_have_its_name_changed">Промени името на новия файл</string>
+    	<string name="Replace_the_file_with_this">Заменя съществуващия файл</string>
+    	<string name="Create_master_password">Създай главна парола</string>
+    	
+    	<string name="Choose_an_activity_to_open_the_file">Изберете дейност за отваряне на файла</string>
+    	<string name="Always_use_this_application">Винаги използвай това приложение</string>
+    	<string name="Send_the_file_using">Изпрати файла използвайки</string>
+    	<string name="Progress">Напредък</string>
+    	<string name="Minimize">Минимизирай</string>
+    	<string name="Pause">Пауза</string>
+    	<string name="Resume">Поднови</string>
+    	<string name="Dismiss">Отхвърли</string>
+    	
+    	<string name="Abort_operation">Прекъсни операцията</string>
+    	<string name="There_is_already_an_operation_running">В момента се изпълнява операция. Моля изчакайте докато завърши.</string>
+    
+    	<!-- Question dialogs -->
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Сигурни ли сте че искате да изчистите историята?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Сигурни ли сте че искате да изчистите кеша с миниатюри?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Сигурни ли сте че искате да изтриете временните файлове?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Време е за пранирано индексиране. Искате ли да изпълните индексиране сега?</string>
+    	<string name="Folder_exists_descr">Вече има папка със същото име в тази директория. Какво искате да направите?</string>
+    	<string name="File_exists_descr">Вече има файл със същото име в тази директория. Какво искате да направите?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Сигурни ли сте че искате да изтриете \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Сигурни ли сте че искате да прекъснете текущата операция?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Сигурни ли сте че искате да изтриете всички отметки?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Сигурни ли сте че искате да изтриете отметка \&quot;%\&quot; ?</string>
+    	<string name="Reindex_prompt">Изпълнение на индексиране. Това може да отнеме няколко минути. Продължаване?</string>
+    	<string name="Clear_index_prompt">Сигурни ли сте че искате да изчистите всички данни за индексиране? Тази операция не може да се отмени.</string>
+    	<string name="Are_you_sure_to_stop_indexing">Сигурни ли сте че искате да спрете индексирането?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Сигурни ли сте че искате да изчистите файловите асоциации?</string>
+    	<string name="Changes_have_been_made_to_the_file">Направени са промени на &quot;%&quot;. Искате ли да ги запазите?</string>
+    	<string name="Chown_confirm">Сигурни ли сте че искате да промените притежателя на този файл?</string>
+    	<string name="Busybox_request">Изглежда че BusyBox не е инсталиран на вашето устройство. Той се изисква за разглеждане на основната директория на файловата система. Искате ли да го инсталирате сега?</string>
+    	
+    	
+    	<!-- Information dialogs -->
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive не поддържа \&quot;%\&quot; файлове. Операцията е прекратена.</string>
+    	<string name="Operation_not_supported">Операцията не се поддържа</string>
+    	<string name="You_have_to_provide_a_password">Трябва да осигурите парола</string>
+    	<string name="Insufficient_space" formatted="false">Няма достатъчно място за завършване на операцията. Размер: %, свободни: %.</string>
+    	<string name="Command_executed_successfully">Командата е изпълнена успешно</string>
+    	<string name="Deleting_data">Изтриване на данните</string>
+    	<string name="Done">Готово</string>
+    	<string name="Preparing_for_operation">Подготовка за операция...</string>
+    	<string name="Connecting">Свързване</string>
+    	<string name="Connecting_to_x">Свързване към \&quot;%\&quot;</string>
+    	<string name="File_is_too_big">Този файл е твърде голям. Само файлове до 75kB се поддържат за редактиране. По-големи файлове ще се поддържат скоро.</string>
+    	<string name="Operation_history_has_been_cleared">Историята на операциите е изчистена</string>
+    	<string name="Encrypted_archive">Криптиран архив</string>
+    	<string name="Enter_the_password">Въведете парола</string>
+    	<string name="Confirmation">Потвърждение</string>
+    	<string name="Input_request">Заявка за вход</string>
+    	<string name="Message">Съобщение</string>
+    	<string name="Warning">Предупреждение!</string>
+    	<string name="You_did_not_specify_a_password">Не сте уточнили парола</string>
+    	<string name="Reading_archive">Четене на архив</string>
+    	<string name="Reading_archive_x">Четене на архив \&quot;%\&quot;</string>
+    	<string name="Storage_not_available">Не е налично хранилище</string>
+    	<string name="The_password_given_is_incorrect">Дадената парола е грешна</string>
+    	<string name="You_did_not_specify_a_server_name">Не сте уточнили името на сървъра</string>
+    	<string name="You_did_not_specify_a_computer_name">Не сте уточнили името на компютъра</string>
+    	<string name="You_did_not_specify_a_port_number">Не сте уточнили номер на порт</string>
+    	<string name="You_did_not_specify_user_name">Не сте уточнили потребителско име</string>
+    	<string name="Indexing">Индексиране</string>
+    	<string name="Indexing_in_progress">Изпълнява се индексиране</string>
+    	<string name="Indexing_paused">Индексиране на пауза</string>
+    	<string name="Indexing_has_been_completed">Индексирането завърши</string>
+    	<string name="Indexing_has_been_aborted">Индексирането беше прекъснато</string>
+    	<string name="Tap_to_dismiss">Докоснете за отхвърляне</string>
+    	<string name="Tap_top_open">Докоснете за отваряне</string>
+    	<string name="File_is_ready_to_open">Файла вече е отворен</string>
+    	
+    	<string name="Operation_aborted_by_user">Операцията е прекъсната от потребителя</string>
+    	<string name="You_cant_delete_this_item">Този елемент не може да бъде изтрит</string>
+    	<string name="Indexing_service">Индексираща услуга</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">Само локално съхранен файл може да бъде добавен към архив</string>
+    	<string name="Bookmark_already_exists">Отметката вече съществува</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; добавена към отметки</string>
+    	<string name="Rename_a_file">Преименуване на файл</string>
+    	<string name="Input_was_left_blank">Името е оставено празно</string>
+    	<string name="File_named_already_exists">Вече съществува файл \&quot;%\&quot;</string>
+    	<string name="Confirm_delete">Потвърди изтриване</string>
+    	<string name="You_cant_create_an_archive_here">Тук не могат да бъдат създадени архиви</string>
+    	<string name="Cannot_connect_to">Не мога да се свържа към \&quot;%\&quot;</string>
+    	<string name="You_are_not_logged_in">Не сте влезли</string>
+		<string name="Can_not_create_the_directory">Не мога да създам директория</string>
+    	<string name="Beta_expired">Бетата изтече</string>
+    	<string name="Can_not_create_the_file">Не мога да създам файла</string>
+    	<string name="Uknown_file_type">Неизвестен тип файл</string>
+    	<string name="No_activity_found_to_open_this_file">Не е намерена дейност способна да отвори този файл</string>
+    	<string name="You_cant_send_a_folder">Папките не могат да се изпращат</string>
+    	<string name="Indexing_has_been_unscheduled">Не е планирано индексиране</string>
+    	<string name="Scheduled_indexing">Планирано индексиране</string>
+    	<string name="Tap_to_start">Докоснете за стартиране</string>
+    	
+    	
+    	<string name="Are_you_sure_you_want_to_delete_items">Сигурни ли сте че искате да изтриете % елемент{1:|__:а}?</string>
+    	<string name="X_files_deleted">% файл{1:|__:а} изтрит{1:|__:и}.</string>
+    	<string name="X_files_copied">% файл{1:|__:а} копиран{1:|__:и}.</string>
+    	<string name="X_files_moved">% файл{1:|__:а} преместен{1:|__:и}.</string>
+    	<string name="X_items">% елемент{1:|__:а}</string>
+    	<string name="Deleting_X_files">Изтриване на % файл{1:|__:а}</string>
+    	<string name="Copying_X_files">Копиране на % файл{1:|__:а}</string>
+    	<string name="Moving_X_files">Преместване на % файл{1:|__:а}</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Планирано индексиране на %x всеки %y ден{1:|__:дни}</string>
+    	<!-- Explanation of above
+    	
+    		 	In english things are simple because we have 1 file and multiple files.
+    		 	1 file, 2 files, 3 files and so on...
+    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+    			
+    			But let's take polish for example. File means 'Plik'. We have:
+    			0 plików
+    			1 plik
+    			2, 3, 4 pliki
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    			but.. 22, 23 pliki
+    			and 26, 27 plików
+    			Complicated, huh?
+    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+    			
+    			If you have problems creating this pattern for your language, contact me.
+    			
+    			Quick reference:
+    			'{' - starts the pattern
+    			'}' - ends the pattern
+    			'|' - rule divider
+    			':' - separates range from the associated suffix
+    			'_' - any digit
+    			'-' - range
+    			
+    			Examples:
+    			1:s 	= for single 1 give 's' suffix
+    			3:		= for single 3 give no suffix
+    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    			__:s	= give 's' for any number
+    			
+    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    			there should be always the __:something pattern at the end.
+    	
+    	-->
+    
+	
+	
+
+    
+    <!-- Open as dialog -->
+    <string name="Open_as">Отвори като...</string>
+    <string name="Choose_a_preferred_type">Изберете предпочитан тип</string>
+    <string name="Text_file">Текст</string>
+    <string name="Image_file">Изображение</string>
+    <string name="Music_file">Музика</string>
+    <string name="Video_file">Видео</string>
+    <string name="ZIP_archive">ZIP архив</string>
+    
+    
+    <!-- File picker -->
+    
+    <string name="Create_shortcut">Създай пряк път</string>
+    <string name="Shortcut_tip">За да създадете пряк път за папка, изберете \&quot;Създай пряк път\&quot; от контекстното меню.</string>
+    
+
+    
+	<!-- Text editor -->
+    <string name="Wrap_lines">Пренос редове</string>
+    <string name="Font_size">Размер на шрифт</string>
+    <string name="Font">Шрифт</string>
+    <string name="App_default">По подразбиране за прил</string>
+    <string name="System_default">По подразбиране системно</string>
+    <string name="Serif">Serif</string>
+    <string name="Monospace">Monospace</string>
+    <string name="File_saved_successfully">Успешно запазен файл</string>
+    
+    
+    <!-- Preferences -->
+	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
+	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
+    <string name="Appearance">Външен вид</string>
+	<string name="Theme">Тема</string>
+    <string name="Choose_between_preinstalled_themes">Избор от предварително инсталирани теми</string>
+    <string name="Light">Светла</string>
+    <string name="Dark">Тъмна</string>
+    
+    <string name="Toggle_visibility_of_hidden_files">Превключва видимостта на скритите файлове</string>
+    <string name="Show_hidden_files">Покажи скрити файлове</string>
+    
+    <string name="Show_file_permissions">Покажи файлови разрешения</string>
+    <string name="Show_file_permissions_summary">Показва разрешенията в Unix стил вместо последната дата на промяна (само за системни файлове).</string>
+    
+    <string name="Date_format">Формат на дата</string>
+    <string name="Customize_date_format">Персонализиране формата на датата</string>
+    
+    <string name="Time_format">Формат на час</string>
+	<string name="Customize_time_format">Персонализиране формата на часа</string>
+	
+	<string name="Show_fast_scroll_thumb_in_file_list">Показва палец за бързо превъртане в списъка с файлове</string>
+    <string name="Use_fast_scroll">Използвай бързо превъртане</string>
+    
+    <string name="Low_quality_thumbnails">Ниско качество миниатюри</string>
+    <string name="Low_quality_thumbnails_summary">Подходящо за по-малко използване на памет</string>
+    
+    <string name="Portrait_fullscreen">Портрет на цял екран</string>
+    <string name="Portrait_fullscreen_summary">Скрива системната лента на състояние в портретен режим</string>
+    
+    <string name="Landscape_fullscreen">Пейзаж на цял екран</string>
+    <string name="Landscape_fullscreen_summary">Скрива системната лента на състояние в пейзажен режим</string>
+    
+    <string name="File_list_size">Размер на списък в портрет</string>
+    <string name="Adjust_size_of_the_file_list">Нагласява размера на списъка с файлове в портретен режим</string>
+    
+    <string name="Landscape_file_list_size">Размер на списък в пейзаж</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Нагласява размера на списъка с файлове в пейзажен режим</string>
+    
+    <string name="Small">Малък</string>
+    <string name="Normal">Нормален</string>
+    <string name="Big">Голям</string>
+    <string name="Large">Много голям</string>
+    <string name="Extra_small">Много малък</string>
+    
+    <string name="Hide_exit_button">Скрий бутон изход</string>
+    <string name="Hide_exit_button_summary">Можете да излезете от приложението с дълго натискане на бутон назад</string>
+    
+    <string name="Startup">Стартиране</string>
+    
+    <string name="Remember_last_folder">Запомни последната папка</string>
+    <string name="Will_start_with_recently_viewed_directories">Приложението ще стартира с последно разглежданите директории</string>
+    
+    
+    <string name="First_panel_default_dir">Директория на първи панел</string>
+    <string name="Second_panel_default_dir">Директория на втори панел</string>
+    
+    <string name="Change_pictures_directory">Промени директория със снимки</string>
+    <string name="Change_downloads_directory">Промени директория с изтегляния</string>
+    
+    <string name="Drag_and_drop">Влачене и пускане</string>
+    <string name="Action_for_drop_inside_the_panel">Действие за същия панел</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Пускане на елемент в папка в същия панел</string>
+    <string name="Action_for_drop_to_the_second_panel">Действие за втория панел</string>
+    <string name="Dropping_an_item_to_the_second_panel">Пускане на елемент във втория панел</string>
+    <string name="Move">Премести</string>
+    
+    <string name="Security">Защита</string>
+    <string name="Master_password_prompt">Solid Explorer използва главна парола за да криптира цялата инфрмация за вписване. Ако ви е грижа за сигурността е препоръчително да използвате тази функция. Ще бъдете подканени за главна парола само веднъж, освен ако рестартирате приложението. В противен случай се използва криптиране по подразбиранеO без парола. Искате ли да използвате тази функция?</string>
+    <string name="Disable_master_password_warning">Изключването на главната парола ще доведе до превключване на паролата по подразбиране. Никога няма да бъдете попитани за нея. Информацията за вписване все още ще е криптирана. Искате ли да продължите?</string>
+    <string name="Enable_master_password_warning">Ако имате предишни отметки криптирани с паролата по подразбиране, те ще бъдат премахнати. Продължаване?</string>
+    <string name="Enable_master_password">Включи главна парола</string>
+	<string name="Too_weak_password">Паролата трябва да е поне 6 символа, но не поввече от 16 символа</string>
+    <string name="Enter_the_master_password">Въведете главна парола</string>
+    <string name="Enter_a_new_master_password">Въведете нова главна парола.</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Криптира цялата информация за вписване с главна парола</string>
+    <string name="Set_master_password">Промени главната парола</string>
+    <string name="All_passwords_will_be_reencrypted">Всички пароли ще бъдат криптирани наново</string>
+    
+    <string name="I_dont_remember_my_old_password">Не помня старата ми парола</string>
+    <string name="Reset_password_warning">Предупреждение! Ако зададете нова парола сега, всички отметки криптирани със старата парола ще бъдат премахнати.</string>
+    <string name="Old_password">Стара парола</string>
+    <string name="New_password">Нова парола</string>
+    <string name="Master_password_has_been_disabled">Главната парола е изключена</string>
+    <string name="Passwords_do_not_match">Паролите не съвпадат</string>
+    <string name="Password_is_too_short">Паролата е твърде кратка</string>
+    
+    
+    
+    <string name="Search_interface">Интерфейс за търсене</string>
+    <string name="Search_key_starts_filtering">Бутон търсене стартира филтриране</string>
+    <string name="Search_key_starts_filtering_summary">Стартира списък с филтриране вместо да стартира дейността за търсене</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Съвпада само началото на дума при филтриране на списък</string>
+    <string name="Filter_words_from_the_beginning">Филтриране от началото</string>
+    <string name="Customize_indexing_engine_behaviour">Потребителско поведение на индексираща машина</string>
+    <string name="Indexing_engine">Индексираща машина</string>
+    	<string name="Reindex_now">Реиндексирай сега</string>
+    	<string name="Refresh_index_database">Обновява базата данни на индекса. Няма ефект, когато процеса е активен.</string>
+    	<string name="Clear_index_data">Изчисти индекс данни</string>
+    	<string name="Delete_all_index_data">Изтрий всички индекс данни</string>
+    	<string name="Reindex_on_media_mount">Реиндексирай при монтиране на медия</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">Реиндексира устройството за съхранение когато се монтира (препоръчително)</string>
+    	<string name="Shedule_indexing">Планирано индексиране</string>
+    	<string name="Perform_reindex_every_given_period">Извършва реиндексиране на зададен период</string>
+    	<string name="Set_time_and_period">Задай час и период</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Времето когато индексирането ще се задейства</string>
+    	<string name="Maximum_index_age">Максимална възраст на индекс</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Колко време индекса трябва да остане в базата данни, когато неговия файл не съществува</string>
+    	<string name="one_day">1 ден</string>
+    	<string name="two_days">2 дни</string>
+    	<string name="five_days">5 дни</string>
+    	<string name="One_week">Една седмица</string>
+    	<string name="Choose_interval">Избери интервал</string>
+    	<string name="three_days">3 дни</string>
+    	<string name="How_often_indexing_will_be_performed">Колко често ще се извършва индексиране</string>
+    	<string name="Set_period">Задай период</string>
+    	<string name="Set_time">Задай време</string>
+    	<string name="Show_notifications">Показвай известия</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Показва известия, когато индексирането е завършено или е прекъснато</string>
+    
+    
+    <string name="Other">Други</string>
+    	
+    <string name="Clear_persistent_data">Изчисти постоянни данни</string>
+    <string name="Clear_persistent_data_summary">Изтрива данни като кеш на миниатюри, временни файлове, история на операции и др.</string>
+    <string name="Clear_thumbnail_cache">Изчисти кеш на миниатюри</string>
+    <string name="Clear_temporary_files">Изчисти временни файлове</string>
+    <string name="Clear_operation_history">Изчисти история на операции</string>
+    <string name="Delete_all_image_previews">Изтрий всички прегледи на снимки</string>
+    <string name="Delete_all_temporary_files">Изтрий всички временни файлове</string>
+    <string name="Delete_operation_history_entries">Изтрий записите на историята на операциите</string>
+    <string name="Clear_file_type_associations">Изчисти асоциациите на файловете</string>
+    <string name="Clear_file_type_associations_summary">Изтрий информацията относно използваните приложения за отваряне на определени файлови типове</string>
+    <string name="Clear_temporary_files_on_exit">Изчисти временни при изход</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Временните файлове ще бъдат премахнати при изход от приложението</string>
+    
+    <string name="Quick_start_guide">Ръководство за бърз старт</string>
+    <string name="Learn_about_main_features">Научете за главните функции на Solid Explorer</string>
+    <string name="Help_make_Solid_Explorer_better">Помогнете да направя Solid Explorer по-добър</string>
+    <string name="Report_a_bug">Докладвайте грешка</string>
+   
+    <string name="About">Относно</string>
+    <string name="Author_version_and_changelog">Автор, версия и списък с промени</string>
+    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Version">Версия</string>
+    <string name="Changelog">Списък с промени</string>
+    <string name="Whats_new">Какво ново</string>
+    <string name="Author">Автор</string>
+    <string name="Functionality_for_future_releases">Функционалност за бъдещи версии</string>
+    <string name="Planned_features">Планирани функции</string>
+    
+    
+    
+    <!-- Other -->
+    <string name="Prefix">Префикс</string>
+    <string name="Expiration_message">Благодаря че използвате бетата на Solid Explorer. За да продължите да тествате приложението, изтеглете последната версия от Google Play.</string>
+    <string name="Empty">Празно</string>
+	<string name="search_description">Търсете във вашето устройство със Solid Explorer</string>
+    <string name="search_hint">Пишете име на файл</string>
+    <string name="Save_file">Запиши файл</string>
+    <string name="Solid_explorer_indexing_service">Индексираща услуга на Solid Explorer</string>
+    
+    
+    
+    <!-- acra -->
+    <string name="crash_toast_text">Упс! Solid Explorer спря да работи. Моля изпратете доклад до разработчика за да му помогнете до поправи проблема!</string>
+    <string name="crash_notif_ticker_text">Неочаквана грешка, моля изпратете доклад...</string>
+    <string name="crash_notif_title">Solid Explorer спря да работи...</string>
+    <string name="crash_notif_text">Моля щракнете тук за да помогнете за поправяне на проблема.</string>
+    <string name="crash_dialog_title">Solid Explorer спря да работи</string>
+    <string name="crash_dialog_text">Възникна неочаквана грешка принуждавайки приложението да спре. Моля помогнете ми да поправя това като ми изпратите данни за грешката.</string>
+    <string name="crash_dialog_comment_prompt">Моля, по долу осигурете детайлна информация относно проблема. В повечето случаи е невъзможно да се възпроизведе проблема без вашата помощ.</string>
+    <string name="crash_dialog_ok_toast">Благодаря ви!</string>
+    
+    <string name="Icon_designer">Дизайнер на икона</string>
+    <string name="Prefix">Префикс</string>
+    <string name="Translations">Превод</string>
+    <string name="Translations_summary">Корекция на езика с любезното съдействие на Steven Schoen</string>
+    <string name="Empty">Празно</string>
+    <string name="Press_once_again_to_exit">Натиснете още веднъж за изход</string>
+    
+	
+    <string name="View_in_DiskUsage">Преглед в DiskUsage</string>
+    <string name="Retry">Повторен опит</string>
+    <string name="Portrait">Портрет</string>
+    <string name="Landscape">Пейзаж</string>
+    <string name="Customize_list">Потребителски изглед</string>
+    <string name="Customize_list_summary">Нагласяне на размера на иконите и текста в панелите при различни изгледи</string>
+    <string name="Preview">Преглед</string>
+    <string name="Icon_size_pixels" formatted="false">Размер икони (макс: % x %)</string>
+    <string name="Label_size">Размер етикет</string>
+    <string name="Subtext_size">Размер подтекст</string>
+    <string name="Label_size_points">Размер текст (макс: 35pt)</string>
+    <string name="Columns">Колони</string>
+    <string name="No_computers_found">Няма намерени компютри</string>
+    <string name="Local_directory">Локална директроия</string>
+    <string name="Default_panel">Панел по подразбиране</string>
+    <string name="Destination_type">Тип местоназначение</string>
+    <string name="DiskUsage_not_installed">Изглежда че DiskUsage не е нсталиран. Това приложение показва използването на паметта по много приятен и удобен за потребителя начин. Искате ли да го инсталирате сега?</string>
+    <string name="Text_copied_to_clipboard">Текста е копиран в клипборда</string>
+    <string name="Force_english">Принуди Английски език</string>
+    <string name="Force_english_summary">Отметнете ако предпочитате Английски като основен език. Влиза в сила след рестартиране.</string>
+    <string name="Encoding">Кодиране</string>
+    <string name="Network_thumbnails">Мрежови миниатюри</string>
+    <string name="Network_thumbnails_summary">Когато е отметнато, ще бъдат зареждани миниатюри на изображенията при използване на мобилна връзка за данни.</string>
+    <string name="Copy_to">Копирай в</string>
+    <string name="Move_to">Премести в</string>
+    <string name="Shortcut">Пряк път</string>
+    <string name="Two_panels_in_landscape_summary">Показва два панела наведнъж при пейзажна ориентация</string>
+    <string name="Two_panels_in_landscape">Два панела при пейзаж</string>
+    <string name="Restart_prompt">Приложението трябва да се рестартира за да се приложат промените. Продължаване?</string>
+    <string name="Custom_color_scheme">Потребителски цвят</string>
+    <string name="Custom_color_scheme_summary">Персонализиране на общата цветова схема. Драстично ще забави стартирането на приложението.</string>
+    <string name="Color_scheme">Цветова схема</string>
+    <string name="Color_scheme_summary">Промяна на оттенъка и насищането на текущата цветова схема</string>
+    <string name="Change_color_scheme">Промяна на цветовата схема</string>
+    <string name="Hue">Оттенък</string>
+    <string name="Saturation">Насищане</string>
+    <string name="SolidExplorer_is_running">Solid Explorer работи</string>
+    <string name="Notification_shortcut">Пряк път в известия</string>
+    <string name="Notification_shortcut_summary">Поставя пряк път в лентата на състоянието, когато приложението работи на заден план</string>
+    <string name="Please_wait">Моля, изчакайте</string>
+    
+    
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Сигурни ли сте, че искате да копирате това във втория панел?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Сигурни ли сте, че искате да преместите това във втория панел?</string>
+	<string name="Image_not_loaded">Снимката не е заредена</string>
+	<string name="Target_SDK">Целева SDK</string>
+	<string name="Description">Описание</string>
+	<string name="Data_dir">Дир данни</string> <!-- short word please -->
+	<string name="Installed">Инсталирано</string>
+	<string name="Updated">Обновено</string>
+	<string name="Install">Инсталирай</string>
+	<string name="More">Още</string>
+	<string name="Package_name">Име на пакет</string>
+	<string name="Map_view">Преглед в карта</string>
+	<string name="Street_view">Градски изглед</string>
+	<string name="Ask">Питай</string>
+	<string name="Choose_an_action">Избор на действие</string>
+	<string name="Folders_first">Първо папките</string>
+	<string name="Folders_first_summary">Първо се показват папките, след това файловете.</string>
+	<string name="FAQ">ЧЗВ</string>
+	<string name="FAQ_summary">Моля, прочетете ЧЗВ преди за задавате въпроси</string>
+	
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">Бърза настройка</string> <!-- short word please -->
+	
+	<!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
+    	<string name="X_folders_and_Y_files_deleted">%x папк{1:а|__:и} и %y файл{1:|__:а} изтрити.</string>
+    	<string name="X_folders_and_Y_files_copied">%x папк{1:а|__:и} и %y файл{1:|__:а} копирани.</string>
+    	<string name="X_folders_and_Y_files_moved">%x папк{1:а|__:и} и %y файл{1:|__:а} преместени.</string>
+    	<string name="Deleting_X_folders_and_Y_files">Изтриване на %x папк{1:а|__:и} и %y файл{1:|__:а}</string>
+    	<string name="Copying_X_folders_and_Y_files">Копиране на %x папк{1:а|__:и} и %y файл{1:|__:а}</string>
+    	<string name="Moving_X_folders_and_Y_files">Преместване на %x папк{1:а|__:и} и %y файл{1:|__:а}</string>
+    	
+    	<string name="X_folders_moved">% папк{1:а|__:и} преместен{1:а|__:и}.</string>
+    	<string name="Moving_X_folders">Преместване на % папк{1:а|__:и}</string>
+    	
+    	<string name="X_folders">% папк{1:а|__:и}</string>
+    	<string name="X_files">% файл{1:|__:а}</string>
+    	
+    	<string name="Show_status_summary">Показва информация в главния прозорец за съдържанието на директориите и използваното място</string>
+    	<string name="Show_status">Покажи статус</string>
+
+</resources>

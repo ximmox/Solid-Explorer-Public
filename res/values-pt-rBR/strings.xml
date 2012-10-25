@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    
+    
+    <!-- bottom toolbar -->
+    <string name="New">Novo</string>
+    <string name="Jump">Ir para</string>
+    <string name="Filter">Filtro</string>
+    <string name="Menu">Menu</string>
+    <string name="Actions">Ações</string>
+    
+    <!-- "New" popup -->
+    <string name="New_folder">Pasta</string>
+    <string name="New_file">Arquivo</string>
+    <string name="New_FTP_connection">Conexão FTP</string>
+    <string name="New_SFTP_connection">Conexão SFTP</string>
+    <string name="New_SMB_connection">Conexão SMB</string>
+    <string name="New_cloud_connection">Conexão Online</string>
+    
+    <!-- "Actions" popup -->
+    
+    <string name="Copy">Copiar</string>
+    <string name="Cut">Mover</string>
+    <string name="Paste">Colar</string>
+    <string name="Delete">Apagar</string>
+    <string name="Properties">Propriedades</string>
+    <string name="Select_all">Selecionar todos</string>
+    <string name="Select">Selecionar</string>
+    
+    <!-- "Jump" popup -->
+    
+    <string name="Device">Dispositivo</string>
+    <string name="Photos">Fotos</string>
+    <string name="Downloads">Downloads</string>
+    <string name="Network">Rede</string>
+    <string name="Bookmarks">Favoritos</string>
+    <string name="No_bookmarks">Sem favoritos</string>
+    
+    <!-- "Menu" popup -->
+    <string name="View">Ver</string>
+    <string name="Sort">Ordenar</string>
+    <string name="Search">Procurar</string>
+    <string name="Operations">Operações</string>
+    <string name="Manage_bookmarks">Gerenciar Favoritos</string>
+    <string name="File_sharing">Compartilhar</string>
+    <string name="Settings">Configurações</string>
+    <string name="Exit">Sair</string>
+    
+    <!-- "Network" popup -->
+    <string name="Cloud_storage">Armazenamento Online</string>
+    
+    <!-- "Device" popup -->
+     <string name="System_root">Raiz do Sistema</string>
+    <string name="SD_card">Cartão SD</string>
+    <string name="Internal_memory">Memória Interna</string>
+    <string name="USB_drive_x">Drive USB %x</string>
+    
+    <!-- "View" popup -->
+    <string name="View_mode">Modo de visão</string>
+    <string name="List">Lista</string>
+    <string name="Detailed_list">Lista detalhada</string>
+    <string name="Grid">Tabela</string>
+    <string name="Detailed_grid">Tabela detalhada</string>
+    
+    <!-- "Sort" popup -->
+    <string name="Sort_files_by">Ordenar por</string>
+    <string name="File_name">Nome</string>
+    <string name="File_size">Tamanho</string>
+    <string name="File_type">Tipo</string>
+    <string name="Modified_date">Última modificação</string>
+    <string name="Ascending">Ascendente</string>
+    <string name="Descending">Descendente</string>
+    <string name="In_order">Em ordem</string>
+    
+    <!-- Browser switch popup -->
+    <string name="Active_browser">Navegador ativo</string>
+    <string name="Close_all">Fechar tudo</string>
+    <string name="In_background">2º plano</string>
+    
+    
+    
+    <!-- Context menu -->
+    <string name="Open_with">Abrir com...</string>
+    <string name="Open_in_bg">Abrir em 2º plano</string>
+    <string name="Send">Enviar</string>
+    <string name="Bookmark">Favorito</string>
+    <string name="Rename">Renomear</string>
+    <string name="Extract">Extrair</string>
+    <string name="Extract_to">Extrair para</string>
+    <string name="Archive">Compactar</string>
+    <string name="Paste_to_x">Colar em \&quot;%\&quot;</string>
+    
+    
+    <!-- Dialogs -->
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="Yes">Sim</string>
+    <string name="No">Não</string>
+    
+	    <!-- New folder/file dialog -->
+	    <string name="Enter_the_name">Nome da pasta</string>
+	    
+	    <!-- New connection Dialog -->
+	    <string name="Display_name">Mostrar nome</string>
+	    <string name="May_be_empty">Pode estar vazio</string>
+    	<string name="Remote_path">Caminho remoto</string>
+    	<string name="Port">Porta</string>
+    	<string name="User_name">Usuário</string>
+    	<string name="Password">Senha</string>
+    	<string name="Repeat_the_password">Repetir senha</string>
+    	<string name="Authentication_method">Método de autenticação</string>
+    	<string name="Server">Servidor</string>
+    	<string name="Connection_type">Tipo de conexão</string>
+    	<string name="Scan">Verificar</string>
+    	<string name="Computer_name_or_IP_adress">Nome ou IP do computador</string>
+    	<string name="Looking_for_computers">Procurando computadores</string>
+    	<string name="Share">Compartilhamento SMB</string>
+    	
+    		<!-- Auth methods -->
+    		<string name="Ask_for_password_each_time">Sempre pedir a senha</string>
+        	<string name="Store_encrypted_password">Armazenar senha criptografada</string>
+        	<string name="No_password_required">Sem senha</string>
+        	<string name="Anonymous">Anônimo</string>
+        	<string name="Log_in_as_a_guest">Entrar como convidado</string>
+        	
+        	<!-- FTP types -->
+        	<string name="FTP_no_encryption">FTP (sem criptografia)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (criptografia implícita)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (criptografia explícita)</string>
+        
+    <!-- Search activity -->	
+    <string name="Manual_search">Pesquisa manual</string>
+    <string name="Results_from">Resultados de:</string>
+    <string name="No_results">Nenhum resultado</string>
+    <string name="Matches">Encontrados</string>
+    <string name="Selected">Selecionados</string>
+    <string name="Match_mode">Modo de pesquisa</string>
+    <string name="Match_start">No início</string>
+    <string name="Match_any">Qualquer posição</string>
+    <string name="Match_end">No fim</string>
+    
+    <!-- Operations activity -->
+    <string name="History_is_empty">Histórico vazio</string>
+    <string name="Current_operation">Operação atual</string>
+    <string name="No_pending_operation">Nenhuma operação pendente</string>
+    <string name="History">Histórico</string>
+    <string name="Count">Operações</string>
+    <string name="Date">Data</string>
+    <string name="Source">Origem</string>
+    <string name="Destination">Destino</string>
+    
+    	<!-- Operation info -->
+    	<string name="Operation">Operação</string>
+    	<string name="From">De</string>
+    	<string name="To">Para</string>
+    	<string name="Size">Tamanho</string>
+    	<string name="Speed">Velocidade</string>
+    	<string name="ETA">Estimativa</string>
+    	<string name="NA">N/D</string>
+    	<string name="Current">Atual</string>
+    	
+    	<!-- Operation descriptions -->
+    	<string name="File_copy">Copiar arquivo</string>
+    	<string name="File_move">Mover arquivo</string>
+    	<string name="File_delete">Apagar arquivo</string>
+    	<string name="Temporary_download">Download temporário</string>
+   	 	<string name="Creating_archive">Criando arquivo %</string>
+    	<string name="Extracting_archive">Extraindo arquivo %</string>
+    	<string name="X_has_been_completed">% concluído.</string>
+    	<string name="X_has_failed">% falhou.</string>
+    	<string name="Tap_to_show_details">Toque para detalhes</string>
+    	<string name="Pending_cancel_request">Pedido de cancelamento pendente</string>
+    	<string name="File_operation">Operação de arquivos</string>
+    
+    <!-- Bookmark manager -->
+    <string name="Bookmark_manager">Gerenciar favoritos</string>
+    <string name="Edit">Editar</string>
+    <string name="Disconnect">Desconectar</string>
+    <string name="Delete_all">Apagar todos</string>
+    <string name="Wifi_toggle">Alternar Wi-Fi</string>
+    <string name="Wifi_settings">Configurações da Wi-Fi</string>
+    <string name="Disconnect_all">Desconectar todos</string>
+    <string name="Connected">Conectado</string> 
+    <string name="Not_connected">Desconectado</string>
+    <string name="on">on</string>
+    <string name="Local_bookmarks">Favoritos locais</string>
+    <string name="FTP_bookmarks">Favoritos FTP</string>
+    <string name="SFTP_bookmarks">Favoritos SFTP</string>
+    <string name="SMB_bookmarks">Favoritos SMB</string>
+    <string name="Cloud_bookmarks">Favoritos Online</string>
+    <string name="Edit_bookmark">Editar favoritos</string>
+    <string name="Name">Nome</string>
+    <string name="Path">Caminho</string>
+    
+    <!-- Dir picker -->
+    <string name="Pick_a_directory">Escolher pasta</string>
+    
+    <!-- Cloud storage dialog -->
+    <string name="Cloud_storage_services">Armazenamento Online</string>
+    <string name="Cloud_services_description">Escolha um serviço de armazenamento Online</string>
+    
+    <!-- File sharing -->
+    <string name="File_sharing_active">Compartilhamento de arquivos ativo</string>
+    <string name="ftp_server_hint">Para se conectar, digite o endereço IP do servidor no Explorador de Arquivos ou utilize um cliente de FTP.</string>
+    <string name="You_cannot_share_root_directory">Não é possível compartilhar a pasta raiz</string>
+    <string name="File_sharing_stopped">Compartilhamento interrompido</string>
+    <string name="None">Nenhum</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">É necessário estar conectado à rede local (LAN)</string>
+    <string name="Active">Ativa</string>
+    <string name="Inactive">Inativa</string>
+    <string name="FTP_Server">Servidor FTP</string>
+    <string name="Shared_directory">Pasta compartilhada</string>
+    <string name="Type_to_change">Digite para mudar</string>
+    <string name="No_password_set">Nenhuma senha definida</string>
+    <string name="Status">Status</string>
+    <string name="Server_address">Endereço do servidor</string>
+    <string name="Start">Iniciar</string>
+    <string name="Stop">Parar</string>
+    
+    
+    <!-- Archive dialog -->
+    <string name="Create_archive_dialog_title">Criar arquivo</string>
+    <string name="Archive_name">Nome do arquivo</string>
+    <string name="Compression">Compressão</string>
+    <string name="Format">Formato</string>
+    <string name="Use_password_protection">Proteger com senha</string>
+    <string name="Fast">Rápido</string>
+    <string name="Normal">Normal</string>
+    <string name="Good">Bom</string>
+    <string name="Best">Melhor</string>
+    
+    <!-- File properties -->
+    <string name="Content_summary">Resumo do conteúdo</string>
+    <string name="File_types">Categorias</string>
+    <string name="Top_10_files">Top 10</string>
+    <string name="Location">Localização</string>
+    <string name="Type">Tipo</string>
+    <string name="Parent_path">Caminho</string>
+    <string name="Last_modified">Última modificação</string>
+    <string name="Directory">Pasta</string>
+    <string name="Unknown">Desconhecido</string>
+    <string name="Symbolic_link">Link simbólico</string>
+    <string name="Link_target">Destino do link</string>
+    <string name="Open">Abrir</string>
+    <string name="Open_directory">Abrir pasta</string>
+    <string name="MD5">MD5</string>
+    <string name="Calculate">Calcular</string>
+    <string name="Compare">Comparar</string>
+    <string name="Paste_to_compare">Colar para comparar</string>
+    <string name="Files">Arquivos</string>
+    <string name="Folders">Pastas</string>
+    <string name="Calculation_error">Erro de cálculo</string>
+    <string name="Content">Conteúdo</string>
+    <string name="Other_used">Outros</string>
+    <string name="Free_space">Espaço livre</string>
+    <string name="Usage">Utilização</string>
+    <string name="Attributes">Atributos</string>
+    <string name="Read">Leitura</string>
+    <string name="Write">Gravação</string>
+    <string name="Hidden">Oculto</string>
+    <string name="Additional_info">Informação adicional</string>
+    <string name="Percent">Percentagem</string>
+    <string name="Music">Música</string>
+    <string name="Pictures">Imagens</string>
+    <string name="Videos">Vídeos</string>
+    <string name="Archives">Compactados</string>
+    <string name="Documents">Documentos</string>
+    <string name="Change">Mudar</string>
+    <string name="Execute">Executar</string>
+    <string name="Owner">Proprietário</string>
+    <string name="Group">Grupo</string>
+    <string name="Others">Outros</string>
+    <string name="Owners">Proprietários</string>
+    <string name="Permissions">Permissões</string>
+    <string name="Set">Definir</string>
+    <string name="Used_space">Espaço utilizado</string>
+    <string name="Free_space">Espaço livre</string>
+    <string name="Total_size">Tamanho total</string>
+    <string name="Artist">Artista</string>
+    <string name="Title">Título</string>
+    <string name="Duration">Duração</string>
+    <string name="Resolution">Resolução</string>
+    <string name="Recorded">Gravado</string>
+    <string name="Width">Largura</string>
+    <string name="Height">Altura</string>
+    <string name="Manufacturer">Fabricante</string>
+    <string name="Camera_model">Modelo da câmera</string>
+    <string name="Software">Software</string>
+    <string name="Orientation">Orientação</string>
+    <string name="Exposure_time">Tempo de exposição</string>
+    <string name="Exposure_bias">Compensação de exposição</string>
+    <string name="White_balance">Equilíbrio de brancos</string>
+    <string name="Focal_length">Distância focal</string>
+    <string name="Aperture_size">Abertura</string>
+    <string name="Flash">Flash</string>
+    
+    <!-- Dialogs again -->
+    	<!-- File exists dialog -->
+    	<!-- <string name="This_file_already_exists">Este ficheiro já existe. O que pretende fazer?</string>
+    	<string name="This_folder_already_exists">Esta pasta já existe. O que você quer fazer??</string> -->
+    	<string name="File_exists">Arquivo já existe</string>
+    	<string name="Skip">Ignorar</string>
+    	<string name="Overwrite">Substituir</string>
+    	<string name="Merge">Fundir</string>
+    	<string name="Keep_both">Manter ambos</string>
+    	<string name="Remember_action">Lembrar ação</string>
+    	<string name="Keep_the_old_file">Manter arquivo antigo</string>
+    	<string name="The_new_file_will_have_its_name_changed">O novo arquivo terá o nome alterado</string>
+    	<string name="Replace_the_file_with_this">Substituir o arquivo com este</string>
+    	<string name="Create_master_password">Criar senha mestre</string>
+    	
+    	<string name="Choose_an_activity_to_open_the_file">Escolha uma aplicação para abrir o arquivo</string>
+    	<string name="Always_use_this_application">Utilizar sempre esta aplicação</string>
+    	<string name="Send_the_file_using">Enviar o arquivo usando</string>
+    	<string name="Progress">Progresso</string>
+    	<string name="Minimize">Minimizar</string>
+    	<string name="Pause">Pausar</string>
+    	<string name="Resume">Continuar</string>
+    	<string name="Dismiss">Fechar</string>
+    	
+    	<string name="Abort_operation">Abortar operação</string>
+    	<string name="There_is_already_an_operation_running">Já existe uma operação em execução. Você deve esperar até que ela termine.</string>
+    
+    	<!-- Question dialogs -->
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Tem a certeza que deseja limpar o histórico?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Tem a certeza que deseja limpar o cache de miniaturas?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Tem a certeza de que deseja apagar os arquivos temporários?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Indexação agendada. Pretende realizá-la agora?</string>
+    	<string name="Folder_exists_descr">Esta pasta já existe. O que pretende fazer?</string>
+    	<string name="File_exists_descr">Este arquivo já existe. O que pretende fazer?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Tem certeza que deseja apagar \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Tem certeza que deseja abortar a operação atual?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Tem certeza que deseja apagar todos os favoritos?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Tem certeza que deseja apagar o favorito \&quot;%\&quot; ?</string>
+    	<string name="Reindex_prompt">Está prestes a iniciar a indexação manualmente. Isto poderá demorar algum tempo. Continuar?</string>
+    	<string name="Clear_index_prompt">Tem certeza que deseja apagar todos os dados de indexação? Esta operação não pode ser desfeita.</string>
+    	<string name="Are_you_sure_to_stop_indexing">Tem certeza que deseja parar a indexação?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Tem certeza que deseja limpar as associações de tipo de arquivos?</string>
+    	<string name="Changes_have_been_made_to_the_file">Foram feitas alterações em &quot;%&quot;. Deseja salvar?</string>
+    	<string name="Chown_confirm">Tem certeza que deseja alterar os proprietários deste arquivo?</string>
+    	<string name="Busybox_request">Aparentemente a aplicação BusyBox não está presente no sistema. Ela é necessária para as funções que requerem acesso administrativo (root). Gostaria de instalar agora?</string>
+    	
+    	
+    	<!-- Information dialogs -->
+    	<string name="SkyDrive_doesnt_support_x_files">O SkyDrive não suporta arquivos \&quot;%\&quot;. A operação foi abortada.</string>
+    	<string name="Operation_not_supported">Operação não suportada.</string>
+    	<string name="You_have_to_provide_a_password">É necessário fornecer uma senha.</string>
+    	<string name="Insufficient_space" formatted="false">Não há espaço suficiente para concluir a operação. Tamanho: %, disponível: %.</string>
+    	<string name="Command_executed_successfully">Comando executado com sucesso.</string>
+    	<string name="Deleting_data">Apagando dados</string>
+    	<string name="Done">Concluído.</string>
+    	<string name="Preparing_for_operation">Preparando operação...</string>
+    	<string name="Connecting">Conectando</string>
+    	<string name="Connecting_to_x">Conectando à \&quot;%\&quot;</string>
+    	<string name="File_is_too_big">Arquivo muito grande. Apenas arquivos até 75KB podem ser editados. Arquivos maiores serão suportados em breve.</string>
+    	<string name="Operation_history_has_been_cleared">O histórico de operações foi eliminado.</string>
+    	<string name="Encrypted_archive">Arquivo criptografado</string>
+    	<string name="Enter_the_password">Entre com a senha</string>
+    	<string name="Confirmation">Confirmação</string>
+    	<string name="Input_request">Inserir pedido</string>
+    	<string name="Message">Mensagem</string>
+    	<string name="Warning">Aviso!</string>
+    	<string name="You_did_not_specify_a_password">Você não especificou uma senha</string>
+    	<string name="Reading_archive">Lendo arquivo compactado</string>
+    	<string name="Reading_archive_x">Lendo arquivo \&quot;%\&quot;</string>
+    	<string name="Storage_not_available">Armazenamento indisponível</string>
+    	<string name="The_password_given_is_incorrect">Senha incorreta</string>
+    	<string name="You_did_not_specify_a_server_name">Você não especificou um nome de servidor</string>
+    	<string name="You_did_not_specify_a_computer_name">Você não especificou um nome de computador</string>
+    	<string name="You_did_not_specify_a_port_number">Você não especificou um número de porta</string>
+    	<string name="You_did_not_specify_user_name">Você não especificou um nome de usuário</string>
+    	<string name="Indexing">Indexando</string>
+    	<string name="Indexing_in_progress">Indexação em progresso</string>
+    	<string name="Indexing_paused">Indexação em pausa</string>
+    	<string name="Indexing_has_been_completed">A indexação foi concluída</string>
+    	<string name="Indexing_has_been_aborted">A indexação foi abortada</string>
+    	<string name="Tap_to_dismiss">Toque para terminar</string>
+    	<string name="Tap_top_open">Toque para abrir</string>
+    	<string name="File_is_ready_to_open">Arquivo pronto para ser aberto</string>
+    	
+    	<string name="Operation_aborted_by_user">Operação abortada pelo usuário</string>
+    	<string name="You_cant_delete_this_item">Você não pode apagar este item</string>
+    	<string name="Indexing_service">Indexando serviço</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">Apenas arquivos locais podem ser adicionados</string>
+    	<string name="Bookmark_already_exists">Favorito já existe</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; adicionado aos Favoritos</string>
+    	<string name="Rename_a_file">Renomear arquivo</string>
+    	<string name="Input_was_left_blank">Existem campos obrigatórios para preencher</string>
+    	<string name="File_named_already_exists">O arquivo \&quot;%\&quot; já existe</string>
+    	<string name="Confirm_delete">Confirmar apagar</string>
+    	<string name="You_cant_create_an_archive_here">você não pode criar um arquivo aqui</string>
+    	<string name="Cannot_connect_to">Impossível conectar à \&quot;%\&quot;</string>
+    	<string name="You_are_not_logged_in">Você não iniciou uma sessão</string>
+	<string name="Can_not_create_the_directory">Impossível criar pasta</string>
+    	<string name="Beta_expired">Versão Beta expirada</string>
+    	<string name="Can_not_create_the_file">Impossível criar arquivo</string>
+    	<string name="Uknown_file_type">Tipo de arquivo desconhecido</string>
+    	<string name="No_activity_found_to_open_this_file">Nenhuma aplicação encontrada para abrir este arquivo</string>
+    	<string name="You_cant_send_a_folder">Você não pode enviar uma pasta</string>
+    	<string name="Indexing_has_been_unscheduled">A indexação foi desmarcada</string>
+    	<string name="Scheduled_indexing">Indexação agendada</string>
+    	<string name="Tap_to_start">Toque para iniciar</string>
+    	
+    	
+    	<string name="Are_you_sure_you_want_to_delete_items">Tem certeza que deseja apagar % ite{1:m|__:ns}?</string>
+    	<string name="X_files_deleted">% arquivo{1:|__:s} apagado(s)</string>
+    	<string name="X_files_copied">% arquivo{1:|__:s} copiado(s)</string>
+    	<string name="X_files_moved">% arquivo{1:|__:s} movido(s)</string>
+    	<string name="X_items">% ite{1:m|__:ns}</string>
+    	<string name="Deleting_X_files">Apagando % arquivo{1:|__:s}</string>
+    	<string name="Copying_X_files">Copiando % arquivo{1:|__:s}</string>
+    	<string name="Moving_X_files">Movendo % arquivo{1:|__:s}</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Indexação agendada para %x a cada %y dia{1:|__:s}</string>
+    	<!-- Explanation of above
+    	
+    		 	In english things are simple because we have 1 file and multiple files.
+    		 	1 file, 2 files, 3 files and so on...
+    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+    			
+    			But let's take polish for example. File means 'Plik'. We have:
+    			0 plików
+    			1 plik
+    			2, 3, 4 pliki
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    			but.. 22, 23 pliki
+    			and 26, 27 plików
+    			Complicated, huh?
+    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+    			
+    			If you have problems creating this pattern for your language, contact me.
+    			
+    			Quick reference:
+    			'{' - starts the pattern
+    			'}' - ends the pattern
+    			'|' - rule divider
+    			':' - separates range from the associated suffix
+    			'_' - any digit
+    			'-' - range
+    			
+    			Examples:
+    			1:s 	= for single 1 give 's' suffix
+    			3:		= for single 3 give no suffix
+    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    			__:s	= give 's' for any number
+    			
+    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    			there should be always the __:something pattern at the end.
+    	
+    	-->
+    
+
+    
+    <!-- Open as dialog -->
+    <string name="Open_as">Abrir como...</string>
+    <string name="Choose_a_preferred_type">Escolher categoria preferida</string>
+    <string name="Text_file">Texto</string>
+    <string name="Image_file">Imagem</string>
+    <string name="Music_file">Música</string>
+    <string name="Video_file">Vídeo</string>
+    <string name="ZIP_archive">Arquivo compactado</string>
+    
+    
+    <!-- File picker -->
+    
+    <string name="Create_shortcut">Criar atalho</string>
+    <string name="Shortcut_tip">Para criar atalhos escolha \&quot;Criar atalho\&quot; no menu de contexto.</string>
+    
+
+    
+    <!-- Text editor -->
+    <string name="Wrap_lines">Quebrar linhas</string>
+    <string name="Font_size">Tamanho da fonte</string>
+    <string name="Font">Fonte</string>
+    <string name="App_default">Aplicação padrão</string>
+    <string name="System_default">Padrão do Sistema</string>
+    <string name="Serif">Serif</string>
+    <string name="Monospace">Monospace</string>
+    <string name="File_saved_successfully">Arquivo salvo com sucesso</string>
+    
+    
+    <!-- Preferences -->
+    <string name="Appearance">Aparência</string>
+    <string name="Theme">Tema</string>
+    <string name="Choose_between_preinstalled_themes">Escolher entre temas pré-instalados</string>
+    <string name="Light">Claro</string>
+    <string name="Dark">Escuro</string>
+    
+    <string name="Toggle_visibility_of_hidden_files">Alternar visibilidade dos arquivos ocultos</string>
+    <string name="Show_hidden_files">Mostrar arquivos ocultos</string>
+    
+    <string name="Show_file_permissions">Mostrar permissões de arquivos</string>
+    <string name="Show_file_permissions_summary">Mostrar permissões ao estilo Unix, em vez de data da última modificação (apenas arquivos do sistema).</string>
+    
+    <string name="Date_format">Formato da data</string>
+    <string name="Customize_date_format">Personalizar formato da data</string>
+    
+    <string name="Time_format">Formato da hora</string>
+    <string name="Customize_time_format">Personalizar formato da hora</string>
+	
+    <string name="Show_fast_scroll_thumb_in_file_list">Mostrar miniatura de rolagem rápida na lista de arquivos</string>
+    <string name="Use_fast_scroll">Rolagem rápida</string>
+    
+    <string name="Low_quality_thumbnails">Miniaturas em baixa qualidade</string>
+    <string name="Low_quality_thumbnails_summary">Usa menos memória</string>
+    
+    <string name="Portrait_fullscreen">Modo retrato em tela cheia</string>
+    <string name="Portrait_fullscreen_summary">Oculta a barra do sistema no modo retrato (vertical)</string>
+    
+    <string name="Landscape_fullscreen">Modo paisagem em tela cheia</string>
+    <string name="Landscape_fullscreen_summary">Oculta a barra do sistema no modo paisagem (horizontal)</string>
+    
+    <string name="File_list_size">Lista em modo retrato</string>
+    <string name="Adjust_size_of_the_file_list">Tamanho da lista de arquivos em modo retrato</string>
+    
+    <string name="Landscape_file_list_size">Lista em modo paisagem</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Tamanho da lista de arquivos em modo paisagem</string>
+    
+    <string name="Small">Pequeno</string>
+    <string name="Normal">Normal</string>
+    <string name="Big">Grande</string>
+    <string name="Large">Enorme</string>
+    <string name="Extra_small">Minúsculo</string>
+    
+    <string name="Hide_exit_button">Ocultar botão Sair</string>
+    <string name="Hide_exit_button_summary">Você também pode sair do aplicativo mantendo o botão de retorno pressionado</string>
+    
+    <string name="Startup">Início</string>
+    
+    <string name="Remember_last_folder">Lembrar última pasta</string>
+    <string name="Will_start_with_recently_viewed_directories">A aplicação se lembrará em que pastas você estava</string>
+    
+    
+    <string name="First_panel_default_dir">Pasta padrão do primeiro painel</string>
+    <string name="Second_panel_default_dir">Pasta padrão do segundo painel</string>
+    
+    <string name="Change_pictures_directory">Mudar pasta de imagens</string>
+    <string name="Change_downloads_directory">Mudar pasta de downloads</string>
+    
+    <string name="Drag_and_drop">Arrastar e soltar</string>
+    <string name="Action_for_drop_inside_the_panel">Ação para o mesmo painel</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Soltar um item em uma pasta no mesmo painel</string>
+    <string name="Action_for_drop_to_the_second_panel">Ação para o segundo painel</string>
+    <string name="Dropping_an_item_to_the_second_panel">Soltar um item no segundo painel</string>
+    <string name="Move">Mover</string>
+    
+    <string name="Security">Segurança</string>
+    <string name="Master_password_prompt">O Solid Explorer utiliza uma senha mestre para criptografar todas as credenciais de sessão (login). Se você se preocupa com segurança, recomenda-se utilizar este recurso. A senha mestre será solicitada apenas uma vez, sempre que reinicie a aplicação. Caso contrário, será utilizada criptografia padrão sem senha. Pretende utilizar este recurso?</string>
+    <string name="Disable_master_password_warning">Desativar a senha mestre irá mudar a senha para o padrão. Ela nunca será pedida para você. As credenciais de sessão ainda serão criptografadas. Pretende continuar?</string>
+    <string name="Enable_master_password_warning">Se você tiver favoritos criptografados anteriormente com a senha padrão, eles serão removidos. Continuar?</string>
+    <string name="Enable_master_password">Ativar senha mestre</string>
+    <string name="Too_weak_password">A senha deve ter pelo menos 6 caracteres e não mais do que 16 caracteres</string>
+    <string name="Enter_the_master_password">Entre com a senha mestre</string>
+    <string name="Enter_a_new_master_password">Entre com a nova senha mestre</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Criptografar todas as credenciais de sessão com uma senha mestre</string>
+    <string name="Set_master_password">Mudar senha mestre</string>
+    <string name="All_passwords_will_be_reencrypted">Todas as senhas serão criptografadas novamente</string>
+    
+    <string name="I_dont_remember_my_old_password">Não lembro minha antiga senha</string>
+    <string name="Reset_password_warning">Atenção! Se redefinir a senha agora, todos os favoritos cujas senhas estejam criptografadas com a antiga, serão removidos.</string>
+    <string name="Old_password">Senha antiga</string>
+    <string name="New_password">Senha nova</string>
+    <string name="Master_password_has_been_disabled">A senha mestre foi desativada</string>
+    <string name="Passwords_do_not_match">Senhas não coincidem</string>
+    <string name="Password_is_too_short">Senha muito curta</string>
+    
+    
+    
+    <string name="Search_interface">Procurar interface</string>
+    <string name="Search_key_starts_filtering">Tecla de pesquisa inicia filtragem</string>
+    <string name="Search_key_starts_filtering_summary">Iniciar filtragem de lista em vez de pesquisa</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Encontrar apenas no início da palavra quando filtrando a lista</string>
+    <string name="Filter_words_from_the_beginning">Filtrar do início</string>
+    <string name="Customize_indexing_engine_behaviour">Personalizar mecanismo de indexação</string>
+    <string name="Indexing_engine">Mecanismo de indexação</string>
+    	<string name="Reindex_now">Reindexar agora</string>
+    	<string name="Refresh_index_database">Atualizar índice da base de dados. Não tem efeito quando o processo está ativo.</string>
+    	<string name="Clear_index_data">Limpar registros de indexação</string>
+    	<string name="Delete_all_index_data">Apagar todos os registros de indexação</string>
+    	<string name="Reindex_on_media_mount">Reindexar na montagem do dispositivo de armazenamento</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">Reindexar armazenamento na montagem (recomendado)</string>
+    	<string name="Shedule_indexing">Agendar indexação</string>
+    	<string name="Perform_reindex_every_given_period">Reindexar em períodos definidos</string>
+    	<string name="Set_time_and_period">Definir hora e período</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Quando a indexação será iniciada</string>
+    	<string name="Maximum_index_age">Quando os registros de indexação expiram</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Quanto tempo o índice deve permanecer na base de dados quando o arquivo não existe mais</string>
+    	<string name="one_day">1 dia</string>
+    	<string name="two_days">2 dias</string>
+    	<string name="five_days">5 dias</string>
+    	<string name="One_week">Uma semana</string>
+    	<string name="Choose_interval">Definir intervalo</string>
+    	<string name="three_days">3 dias</string>
+    	<string name="How_often_indexing_will_be_performed">Frequência com que a indexação será efetuada</string>
+    	<string name="Set_period">Definir período</string>
+    	<string name="Set_time">Definir tempo</string>
+    	<string name="Show_notifications">Mostrar notificações</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Mostrar notificações quando indexação for concluída ou abortada</string>
+    
+    
+    <string name="Other">Outro</string>
+    	
+    <string name="Clear_persistent_data">Limpar dados persistentes</string>
+    <string name="Clear_persistent_data_summary">Eliminar dados como cache de miniaturas, arquivos temporários, histórico de operações, etc.</string>
+    <string name="Clear_thumbnail_cache">Limpar cache de miniaturas</string>
+    <string name="Clear_temporary_files">Limpar arquivos temporários</string>
+    <string name="Clear_operation_history">Limpar histórico de operações</string>
+    <string name="Delete_all_image_previews">Apagar todas as miniaturas</string>
+    <string name="Delete_all_temporary_files">Apagar todos os arquivos temporários</string>
+    <string name="Delete_operation_history_entries">Apagar todo o histórico de operações</string>
+    <string name="Clear_file_type_associations">Limpar associações de arquivos</string>
+    <string name="Clear_file_type_associations_summary">Apagar informações sobre aplicações utilizadas para abrir determinados tipos de arquivos</string>
+    <string name="Clear_temporary_files_on_exit">Limpar arquivos temporários ao sair</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Os arquivos temporários serão apagados ao sair da aplicação</string>
+    
+    <string name="Quick_start_guide">Guia Rápido de Início</string>
+    <string name="Learn_about_main_features">Saiba mais sobre os principais recursos do Solid Explorer</string>
+    <string name="Help_make_Solid_Explorer_better">Ajude a melhorar o Solid Explorer</string>
+    <string name="Report_a_bug">Reportar um erro</string>
+   
+    <string name="About">Sobre</string>
+    <string name="Author_version_and_changelog">Autor, versão e changelog</string>
+    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Version">Versão</string>
+    <string name="Changelog">Changelog</string>
+    <string name="Whats_new">O que há de novo</string>
+    <string name="Author">Autor</string>
+    <string name="Functionality_for_future_releases">Funcionalidades para versões futuras</string>
+    <string name="Planned_features">Recursos planejados</string>
+    
+    
+    
+    <!-- Other -->
+    <string name="Prefix">Prefixo</string>
+    <string name="Expiration_message">Obrigado por utilizar o Solid Explorer Beta. Para continuar a testar esta aplicação, faça o download da última versão no Google Play.</string>
+    <string name="Empty">Vazio</string>
+	<string name="search_description">Procure em seu dispositivo através do Solid Explorer</string>
+    <string name="search_hint">Digite um nome de arquivo</string>
+    <string name="Save_file">Salvar arquivo</string>
+    <string name="Solid_explorer_indexing_service">Serviço de indexação do Solid Explorer</string>
+    
+    
+    
+    <!-- acra -->
+    <string name="crash_toast_text">Ooooops! O Solid Explorer encontrou um erro! Por favor, envie o relatório para ajudar a corrigir o problema!</string>
+    <string name="crash_notif_ticker_text">Erro inesperado, por favor envie um relatório...</string>
+    <string name="crash_notif_title">O Solid Explorer encontrou um erro...</string>
+    <string name="crash_notif_text">Por favor, toque aqui para ajudar a corrigir o problema.</string>
+    <string name="crash_dialog_title">Solid Explorer Encontrou um Erro</string>
+    <string name="crash_dialog_text">Um erro inesperado forçou o encerramento da aplicação. Por favor, ajude à corrigir o problema enviando os dados do erro.</string>
+    <string name="crash_dialog_comment_prompt">Por favor, insira abaixo informações detalhadas sobre o problema. Na maioria dos casos é impossível reproduzir o problema sem o seu feedback.</string>
+    <string name="crash_dialog_ok_toast">Obrigado!</string>
+    
+    <string name="Icon_designer">Designer do ícone</string>
+    <string name="Prefix">Prefixo</string>
+    <string name="Translations">Tradução</string>
+    <string name="Translations_summary">Tradução para o Português do Brasil por Allan Brazute Alves (EthraZa)</string>
+    <string name="Empty">Vazio</string>
+    <string name="Press_once_again_to_exit">Pressione novamente para sair</string>
+
+    
+    <string name="View_in_DiskUsage">Uso do disco com DiskUsage</string>
+    <string name="Retry">Tentar novamente</string>
+    <string name="Portrait">Retrato</string>
+    <string name="Landscape">Paisagem</string>
+    <string name="Customize_list">Customizar lista</string>
+    <string name="Customize_list_summary">Ajusta o tamanho dos ícones e textos na lista de arquivos</string>
+    <string name="Preview">Pré-Visualização</string>
+    <string name="Icon_size_pixels" formatted="false">Tamanho do ícone (max: % x %)</string>
+    <string name="Label_size">Tamanho da rótulo</string>
+    <string name="Subtext_size">Tamanho do sub-texto</string>
+    <string name="Label_size_points">Tamanho do texto (max 35pt)</string>
+    <string name="Columns">Colunas</string>
+    <string name="No_computers_found">Nenhum computador encontrado</string>
+    <string name="Local_directory">Diretório local</string>
+    <string name="Default_panel">Painel padrão</string>
+    <string name="Destination_type">Tipo do destino</string>
+    <string name="DiskUsage_not_installed">O DiskUsage não está instalado. Este aplicativo exibe o uso do disco de uma maneira sofisticada e amigável. Quer instala-lo agora?</string>
+    <string name="Text_copied_to_clipboard">Texto copiado para a área de Transferência</string>
+    <string name="Force_english">Forçar linguagem em Inglês</string>
+    <string name="Force_english_summary">Selecione se você prefere o Inglês como lingua primária. É preciso reiniciar.</string>
+    <string name="Encoding">Codificação</string>
+    <string name="Network_thumbnails">Miniaturas de Rede</string>
+    <string name="Network_thumbnails_summary">Se selecionado, as miniaturas de armazenamentos em rede serão carregadas quando em conexões de dados (3G/4G).</string>
+    <string name="Copy_to">Copiar para</string>
+    <string name="Move_to">Mover para</string>
+    <string name="Shortcut">Atalho</string>
+    <string name="Two_panels_in_landscape_summary">Mostra os dois panéis simultaneamente quando estiver no modo paisagem</string>
+    <string name="Two_panels_in_landscape">Dois painéis em paisagem</string>
+    <string name="Restart_prompt">O aplicativo precisa ser reiniciado para aplicar as novas configurações. Continuar?</string>
+    <string name="Custom_color_scheme">Paleta de cores customizada</string>
+    <string name="Custom_color_scheme_summary">Customiza a paleta de cores do aplicativo. Diminui drasticamente o início do aplicativo.</string>
+    <string name="Color_scheme">Paleta de cores</string>
+    <string name="Color_scheme_summary">Altera Matiz e Saturações da paleta de cores atual</string>
+    <string name="Change_color_scheme">Alterar paleta de cores</string>
+    <string name="Hue">Matiz</string>
+    <string name="Saturation">Saturação</string>
+    <string name="SolidExplorer_is_running">Solid Explorer está rodando</string>
+    <string name="Notification_shortcut">Atalho de Notificação</string>
+    <string name="Notification_shortcut_summary">Coloca um atalho na barra de notificações quando o app está rodando em segundo plano</string>
+    <string name="Please_wait">Aguarde</string>
+    
+    
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Tem certeza que deseja copiar para o segundo painel?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Tem certeza que deseja mover para o segundo painel?</string>
+	<string name="Image_not_loaded">Imagem não carregada</string>
+	<string name="Target_SDK">SDK alvo</string>
+	<string name="Description">Descrição</string>
+	<string name="Data_dir">Diretório de dados</string> <!-- short word please -->
+	<string name="Installed">Instalado</string>
+	<string name="Updated">Atualizado</string>
+	<string name="Install">Instalar</string>
+	<string name="More">Mais</string>
+	<string name="Package_name">Nome do pacote</string>
+	<string name="Map_view">Ver mapa</string>
+	<string name="Street_view">Ver rua</string>
+	<string name="Ask">Perguntar</string>
+	<string name="Choose_an_action">Escolha uma ação</string>
+	<string name="Folders_first">Pastas primeiro</string>
+	<string name="Folders_first_summary">Mostra as pastas primeiro, depois os arquivos.</string>
+	<string name="FAQ">Perguntas Frequentes</string>
+	<string name="FAQ_summary">Por favor lei as Perguntas Frequentes antes de fazer qualquer pergunta</string>
+	
+</resources>

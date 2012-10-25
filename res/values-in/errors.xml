@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Direktori tidak ditemukan</string>
+    
+    <string name="Unable_to_read_the_file">Tidak dapat membaca file yang diminta</string>
+    <string name="Illegal_operation">Operasi tidak sah</string>
+    
+    
+    <string name="Cannot_update_the_database">Tidak dapat memutakhirkan database</string>
+    <string name="Error">Kesalahan</string>
+    
+    <string name="Invalid_password_for_user_x">Kata sandi untuk pengguna \&quot;%\&quot; salah</string>
+    <string name="Invalid_master_password">Kata sandi utama salah</string>
+    <string name="Unable_to_execute_shell_command">Tidak dapat mengeksekusi perintah shell</string>
+    <string name="No_root_access_available">Tidak ada akses root</string>
+    <string name="Unable_to_read_root_directory">Tidak dapat membaca direktori root</string>
+    
+    <string name="Operation_has_failed">Operasi telah gagal</string>
+    <string name="Invalid_file_path">Alamat file salah</string>
+    
+    
+    <string name="Cannot_browse_to_x">Tidak dapat menjelajah ke \&quot;%\&quot;. Terjadi kesalahan tidak dikenal.</string>
+    <string name="Cannot_write_to_the_system">Tidak dapat menulis ke sistem. Gagal mount sebagai baca/tulis.</string>
+    <string name="Requested_file_x_has_not_been_found">File \&quot;%\&quot; yang diminta tidak dapat ditemukan.</string>
+    <string name="Unknown_read_write_exception">Kesalahan fatal pada baca/tulis.</string>
+    <string name="Invalid_url_x">URL yang salah : %</string>
+    <string name="An_error_occured_while_accessing_master_password">Kesalahan terjadi saat mengakses password utama.</string>
+    <string name="Operation_not_allowed">Operasi tidak diizinkan.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Tidak dapat terhubung ke \&quot;%x\&quot; pada port %y.</string>
+    <string name="Unable_to_resolve_host_x">Tidak dapat menterjemahkan nama \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Server mengembalikan respon yang tidak terduga</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Kesalahan terjadi saat mengirim data dari server.</string>
+    <string name="Invalid_username_or_password">Nama pengguna atau kata sandi salah.</string>
+    <string name="Internal_server_error">Kesalahan internal pada server.</string>
+    <string name="Server_response_x">Respon server : %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Tidak dapat membuka file untuk dibaca</string>
+    <string name="Unable_to_write_the_file_to_x">Tidak dapat menulis file \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Tidak dapat terhubung ke %x.</string>
+    <string name="Unknown_error">Kesalahan tidak diketahui</string>
+    <string name="Cannot_create_directory_X">Tidak dapat membuat direktori \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Tidak dapat menjalankan servis pada port no %</string>
+    
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">SSolid Explorer har to uavhengige paneler for fillesing. Som et eksempel kan du bla SD-kortet mappe i ett panel og nettverkslagring i den andre. Filbehandling er en drøm.</string>
+    <string name="page1_2">I stående (oppreist) modus, er en panel synlig på en gang. Hvis du vil bytte mellom dem, bare dra til venstre eller høyre. I liggende modus vil to paneler er synlige.</string>
+    <string name="page2_1">Du kan dra en fil ved å holde nede på ikonet og slippe den et sted på den andre panelet. Bare skyv til kanten av skjermen, og den andre panelet vil dukke opp.</string>
+    <string name="page2_2">Du kan slippe filer til mapper også. Hold filen over en mappe en liten stund, og mappen vil åpne seg. Deretter kan du bare slippe filen i..</string>
+    <string name="page3_1">For å velge filer raskt, hold på ikonene. Og valglinjen vil dukke opp med noen nyttige funksjoner. Du kan aktivere ekstra \&quot;copy\&quot;, \&quot;cut\&quot; og \&quot;send\&quot; buttons in Settings.</string>
+    <string name="page3_2">Denne funksjonen er ikke tilgjengelig i Rutenettvisning. Du må velge den valgte handlingen under Handlinger.</string>
+    <string name="page4_1">Indeksert søk gir rask tilgang til filer som er plassert hvor som helst på enheten. Søk tar mindre enn ett sekund! Men hvis filen ikke er funnet, kan du fortsatt bruke \'Manual Search\' muligheten til å se gjennom enheten fil etter fil.</string>
+    <string name="page4_2">Du kan søke enheten fra Google Søk app også. Gå til Google Søk i Innstillinger og aktiverer Solid Explorer.</string>
+    <string name="page5_1">Solid Explorer støtter FTP, SFTP og SMB-protokoller. Når du logger deg på med en av disse, er innstillingene automatisk lagret som et bokmerke. Du kan velge å kryptere passordet med en global passord, som du bør sette.</string>
+    <string name="page5_2">Hvis du har en sky lagring konto (for eksempel Dropbox eller boks), kan du bla gjennom filene på nettet akkurat som du blar gjennom filer på enheten.</string>
+    <string name="page6_1">Hvis du trenger å sende filer via e-post, kan du opprette en fil arkiv. Disse kan være passordbeskyttet ZIP-filer og TAR-filer med GZIP eller bzip2 komprimering. </string>
+    <string name="page6_2">Solid Explorer støtter ZIP, RAR og TAR arkiver for visning og utpakking. Du kan bla gjennom disse arkivene akkurat som du blar gjennom mapper.</string>
+    <string name="page7_1">Solid Explorer gir deg detaljert informasjon om filer og kataloger. Du kan undersøke hva bruker opp minnet eller se statistikken.</string>
+    <string name="page8_1">Hver funksjon har sin plass under de flotte popup vinduene. De har blitt nøye gruppert for å sikre en bra opplevelse.</string>
+    <string name="page8_2">Når du har flere paneler i bakgrunnen kan du enkelt veksle mellom dem.</string>
+    <string name="page9">Jeg er for at du prøver Solid Explorer. Jeg håper du vil nyte alle funksjonene programmet gir. Hvis du glemmer noe, kan du sjekke denne hurtigstartveiledningen igjen fra Innstillinger-menyen.</string>
+    <string name="Start_using_solid_explorer">Begynn å bruke Solid Explorer</string>
+    <string name="page0_1">Velkommen til Solid Explorer - den mest iøynefallende filbehandler for Android. Vennligst les denne hurtigstartveiledningen å bli kjent med alle de funksjonene i dette programmet.</string>
+    <string name="Not_now">Ikke nå</string>
+    <string name="page0_2">For å starte, dra til neste skjermbilde</string>
+    <string name="Welcome">Velkommen</string>
+    <string name="Two_panels">To paneler</string>
+    <string name="Quick_selection">Hurtigvalg</string>
+    <string name="Indexed_search">Indeksert søk</string>
+    <string name="Archives">Arkiver</string>
+    <string name="Detailed_information">Detaljert informasjon</string>
+    <string name="Useful_popups">nyttige popup vinduer</string>
+    <string name="Lets_start">La oss starte</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Du kan lese denne guiden når du vil. Bare gå til Innstillinger-menyen og velg Hurtigstartveiledning alternativet.</string>
+    <string name="Thank_you">Tusen takk!</string>
+    
+</resources>

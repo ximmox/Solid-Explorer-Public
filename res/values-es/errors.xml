@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">El directorio no existe</string>
+    
+    <string name="Unable_to_read_the_file">No se puede leer el archivo</string>
+    <string name="Illegal_operation">Operación ilegal</string>
+    
+    
+    <string name="Cannot_update_the_database">No se puede actualizar la base de datos</string>
+    <string name="Error">Error</string>
+    
+    <string name="Invalid_password_for_user_x">Contraseña inválida para el usuario \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Contraseña maestra inválida</string>
+    <string name="Unable_to_execute_shell_command">No se puede ejecutar el comando de shell</string>
+    <string name="No_root_access_available">No hay acceso root disponible</string>
+    <string name="Unable_to_read_root_directory">No se puede leer el directorio root</string>
+    
+    <string name="Operation_has_failed">Error en la operación</string>
+    <string name="Invalid_file_path">Ruta de archivo inválida</string>
+    
+    
+    <string name="Cannot_browse_to_x">No se puede acceder a \&quot;%\&quot;. Ha ocurrido un error desconocido.</string>
+    <string name="Cannot_write_to_the_system">No se puede escribir en el sistema. Montar como lectura/escritura ha fallado.</string>
+    <string name="Requested_file_x_has_not_been_found">El archivo solicitado \&quot;%\&quot; no ha sido encontrado.</string>
+    <string name="Unknown_read_write_exception">Excepción de lectura/escritura desconocida.</string>
+    <string name="Invalid_url_x">URL: % inválida</string>
+    <string name="An_error_occured_while_accessing_master_password">A ocurrido un error al ingresar la contraseña maestra.</string>
+    <string name="Operation_not_allowed">Operación no permitida.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">No se puede conectar a \&quot;%x\&quot; en el puerto %y.</string>
+    <string name="Unable_to_resolve_host_x">No se puede resolver el nombre del host \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">El servidor ha devuelto una respuesta ilegal</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Ha ocurrido un error durante la transferencia de datos desde el servidor.</string>
+    <string name="Invalid_username_or_password">Nombre de usuario o contraseña no válidos.</string>
+    <string name="Internal_server_error">Error interno del servidor.</string>
+    <string name="Server_response_x">Respuesta del servidor: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">No se puede abrir el archivo para la lectura</string>
+    <string name="Unable_to_write_the_file_to_x">No se puede escribir en el archivo en \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">No se puede conectar a la %x.</string>
+    <string name="Unknown_error">Error desconocido</string>
+    <string name="Cannot_create_directory_X">No se puede crear el directorio \&quot;%x\&quot;</string>
+	<string name="Unable_to_start_the_service_on_port_x">No se puede iniciar el servicio en el puerto %</string>
+    
+</resources>

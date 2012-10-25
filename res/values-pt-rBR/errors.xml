@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">A pasta não existe</string>
+    
+    <string name="Unable_to_read_the_file">Impossível ler o arquivo</string>
+    <string name="Illegal_operation">Operação ilegal</string>
+    
+    
+    <string name="Cannot_update_the_database">Impossível atualizar a base de dados</string>
+    <string name="Error">Erro</string>
+    
+    <string name="Invalid_password_for_user_x">Senha inválida do usuário \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Senha mestre inválida</string>
+    <string name="Unable_to_execute_shell_command">Impossível executar linha de comando</string>
+    <string name="No_root_access_available">Sem acesso root disponível</string>
+    <string name="Unable_to_read_root_directory">Impossível ler pasta raiz</string>
+    
+    <string name="Operation_has_failed">A operação falhou</string>
+    <string name="Invalid_file_path">Caminho inválido</string>
+    
+    
+    <string name="Cannot_browse_to_x">Impossível ir para \&quot;%\&quot;. Erro desconhecido.</string>
+    <string name="Cannot_write_to_the_system">Impossível gravar no sistema. Montar como leitura/escrita falhou.</string>
+    <string name="Requested_file_x_has_not_been_found">O arquivo \&quot;%\&quot;, não foi encontrado.</string>
+    <string name="Unknown_read_write_exception">Exceção de leitura/escrita desconhecida.</string>
+    <string name="Invalid_url_x">URL inválida: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Houve um erro durante o acesso à senha mestre.</string>
+    <string name="Operation_not_allowed">Operação não permitida.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Impossível conectar à \&quot;%x\&quot; na porta %y.</string>
+    <string name="Unable_to_resolve_host_x">Impossível resolver nome do servidor \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">O servidor devolveu uma resposta ilegal.</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Houve um erro durante a transferência de dados do servidor.</string>
+    <string name="Invalid_username_or_password">Usuário ou senha inválidos.</string>
+    <string name="Internal_server_error">Erro interno do servidor.</string>
+    <string name="Server_response_x">Resposta do servidor: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Impossível abrir o arquivo para leitura</string>
+    <string name="Unable_to_write_the_file_to_x">Impossível gravar arquivo em \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Impossível conectar à %x.</string>
+    <string name="Unknown_error">Erro desconhecido</string>
+    <string name="Cannot_create_directory_X">Impossível criar pasta \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Impossível iniciar o serviço na porta %</string>
+
+</resources>

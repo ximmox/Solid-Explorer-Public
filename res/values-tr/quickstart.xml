@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">Solid Explorer\'ın gezinme için birbirinden bağımsız iki bölmesi vardır. Örnek olarak bir bölmede SD kart dizinini gezinirken diğer bölmede ağ üzerindeki dosyalarınızı görüntüleyebilirsiniz. Bu sayede dosya yönetimini adeta bir esinti haline gelir.</string>
+    <string name="page1_2">Portre (dikey) modunda aynı anda sadece bir bölmeyi görebilirsiniz. Birbirleri arasında gezmek için sadece ekranı sağa ya da sola sürüklemeniz yeterlidir. Manzara (yatay) modunda iki bölme de aynı anda görünür.</string>
+    <string name="page2_1">Bir dosyayı simgesinden tutup diğer bölmede herhangi bir yere bırakabilirsiniz. Sadece ekranın ekranın köşesine doğru sürükleyin. Diğer bölme kendiliğinden görünecektir.</string>
+	<string name="page2_2">Dosyalarınızı bir dizine de bırakabilirsiniz. Bir dosyayı bir klasöre sürükleyip az bir süre bekledikten sonra klasör açılacaktır. Sonrasında dosyayı bırakabilirsiniz.</string>
+    <string name="page3_1">Dosyaları hızlıca seçmek için simgelerinin üzerine dokunun. İşe yarar özelliklerle dolu seçim çubuğu açılacaktır. Ayarlar menüsünden \&quot;kes\&quot;, \&quot;kopyala\&quot; and \&quot;gönder\&quot; gibi düğmeleri de aktifleştirebilirsiniz.</string>
+    <string name="page3_2">Fakat bu özellik ızgara görünümü içerisinde mümkün değildir. Eylemler menüsü altından Seç eylemini seçmek zorundasınız.</string>
+    <string name="page4_1">Dizinlenmiş arama cihazınızdaki herhangi bir dosyaya hızlı erişim olanağı sağlar. Aramalar bir saniyeden daha kısa bir süre alır! Eğer aradığınız dosyayı bulamazsanız Manuel Arama özelliğini kullanarak cihazdaki dosyaları tek tek aratabilirsiniz.</string>
+    <string name="page4_2">Cihazınızı Google Arama uygulamasından da aratabilirsiniz. Google Arama uygulamasının Ayarlar menüsüne gidin ve Solid Explorer\'ı aktifleştirin.</string>
+    <string name="page5_1">Solid Explorer FTP, SFTP ve SMB protokollerini destekler. Bunlardan biriyle giriş yaptığınızda ayarlar otomatik olarak yer imlerine kaydedilir. Parolalarınızı global bir parola ile şifreleyebilirsiniz.</string>
+    <string name="page5_2">Eğer bir bulut depolama hesabınız varsa (Dropbox ya da Box gibi) çevirimiçi dosyalarınızı da cihazınızdaki dosyaları görüntüler gibi görüntüleyebilirsiniz.</string>
+    <string name="page6_1">Eğer dosyalarınızı e-posta ile gönderme ihtiyacı duyuyorsanız bir dosya arşivi yaratabilirsiniz. Dosyalarınız parola korumalı ZIP, TAR, GZIP, BZIP2 sıkıştırma arşivleri olabilir.</string>
+    <string name="page6_2">Solid Explorer ZIP, RAR ve TAR arşivlerini görüntülemeyi ve ayrıştırmayı destekler. Bu arşivlerde tıpkı dizinlerde gezinir gibi gezinebilirsiniz.</string>
+    <string name="page7_1">Solid Explorer size dosyalar ve dizinler hakkında detaylı bilgi sunar. Cihazınızın hafızasını neyin harcadığını sorgulayabilir ya da istatistikler görüntüleyebilirsiniz.</string>
+    <string name="page8_1">Her fonksiyon açılır kutuların altında bir yere sahiptir. Kararlı bir tecrübe sunmak için dikkatlice gruplandırılmıştır.</string>
+    <string name="page8_2">Arkaplanda birden fazla bölme olduğunda ikisi arasında kolayca gezinebilirsiniz.</string>
+    <string name="page9">Solid Explorer\'ı denemeye karar verdiğiniz için mutluyum. Umarım bu uygulamanın sağladığı bütün özellikleri beğenirsiniz. Eğer birşey unutursanız bu hızlı başlangıç rehberine Ayarlar menüsünden tekrar göz atabilirsiniz. Teşekkürler!</string>
+    <string name="Start_using_solid_explorer">Solid Explorer\'ı Kullanmaya Başla</string>
+    <string name="page0_1">Solid Explorer\'a hoş geldiniz! - Android için en güzel görünen ve en anlaşılır dosya yöneticisi. Lütfen bu hızlı başlangıç rehberini okuyarak bu uygulamanın sunduğu bütün özelliklere aşina olun.</string>
+    <string name="Not_now">Şimdi Değil</string>
+    <string name="page0_2">Başlamak için sürükleyin</string>
+    <string name="Welcome">Merhaba</string>
+    <string name="Two_panels">İki Bölme</string>
+    <string name="Quick_selection">Hızlı Seçim</string>
+    <string name="Indexed_search">Dizinlenmiş Arama</string>
+    <string name="Archives">Arşivler</string>
+    <string name="Detailed_information">Detaylı Bilgi</string>
+    <string name="Useful_popups">Yararlı Açılır Pencereler</string>
+    <string name="Lets_start">Başayalım</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Bu rehberi ne zaman isterseniz okuyabilirsiniz. Ayarlar menüsüne gitmeniz ve \&quot;Hızlı Başlangıç Rehberi\&quot; simgesine dokunmanız yeterlidir.</string>
+    <string name="Thank_you">Teşekkürler!</string>
+	
+</resources>
