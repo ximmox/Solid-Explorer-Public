@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">Solid Explorer has two independent panels for file browsing. As an example, you browse the SD card directory in one panel and your network storage in the second. File management is a breeze.</string>
+    <string name="page1_2">In portrait (upright) mode, one panel is visible at a time. To switch between them, just swipe left or right. In landscape mode, two panels are visible.</string>
+    <string name="page2_1">You can drag a file by holding down on its icon and dropping it somewhere on the opposite panel. Just slide to the edge of the screen and the second panel will show up.</string>
+    <string name="page2_2">You can drop files into a directory as well. Hold the file over a folder for a bit, and the folder will open. Then, just drop the file in..</string>
+    <string name="page3_1">To select files quickly, tap on their icons. The selection bar will pop up with some useful functions. You can enable additional \&quot;copy\&quot;, \&quot;cut\&quot; and \&quot;send\&quot; buttons in Settings.</string>
+    <string name="page3_2">This feature is not available in Grid view. You must choose the Select action under Actions.</string>
+    <string name="page4_1">Indexed search provides fast access to files located anywhere on your device. Searches take less than one second! However, if your file isn\'t not found, you can still use the \'Manual Search\' option to look through the device file-by-file.</string>
+    <string name="page4_2">You can search your device from the Google Search app as well. Go to Google Search\'s Settings menu and enable Solid Explorer.</string>
+    <string name="page5_1">Solid Explorer supports the FTP, SFTP and SMB protocols. When you log in with one of these, the settings are automatically stored as a bookmark. You may choose to encrypt your password with a global password, which you should set.</string>
+    <string name="page5_2">If you own a cloud storage account (such as Dropbox or Box), you can browse your files online just like you browse files on your device.</string>
+    <string name="page6_1">If you need to send files via email, you can create a file archive. These can be password protected ZIPs and TARs with GZIP or BZIP2 compression. </string>
+    <string name="page6_2">Solid Explorer supports ZIP, RAR and TAR archives for viewing and extracting. You can browse these archives just like you browse folders.</string>
+    <string name="page7_1">Solid Explorer gives you detailed info about files and directories. You can examine what eats up your memory or see some statistics.</string>
+    <string name="page8_1">Every function has its place under those fancy popups. They have been carefully grouped to ensure a consistent experience.</string>
+    <string name="page8_2">When you have multiple panels in the background, you can switch between them easily.</string>
+    <string name="page9">I\'m glad you\'ve decided to try Solid Explorer. I hope you will enjoy all the features the application provides. If you forget something, you can check this quick start guide again from the Settings menu. Cheers!</string>
+    <string name="Start_using_solid_explorer">Start using Solid Explorer</string>
+    <string name="page0_1">Welcome to Solid Explorer - the most intuitive and eye-catching file manager for Android. Please read this quick start guide to get familiar with all of the features that this application provides.</string>
+    <string name="Not_now">Not now</string>
+    <string name="page0_2">To start, swipe to the next screen</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Two_panels">Two panels</string>
+    <string name="Quick_selection">Quick selection</string>
+    <string name="Indexed_search">Indexed search</string>
+    <string name="Archives">Archives</string>
+    <string name="Detailed_information">Detailed information</string>
+    <string name="Useful_popups">Useful popups</string>
+    <string name="Lets_start">Let\'s start</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">You can read this guide whenever you want. Just go to the Settings menu and select the \&quot;Quick start guide\&quot; option.</string>
+    <string name="Thank_you">Thank you!</string>
+    
+</resources>
