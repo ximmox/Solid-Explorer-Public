@@ -454,7 +454,9 @@
     
 
     
-    <!-- Open as dialog -->
+	
+	
+	    <!-- Open as dialog -->
     <string name="Open_as">Buka sebagai...</string>
     <string name="Choose_a_preferred_type">Pilih jenis yang diinginkan</string>
     <string name="Text_file">File teks</string>
@@ -625,7 +627,7 @@
    
     <string name="About">Tentang Kami</string>
     <string name="Author_version_and_changelog">Pengembang, versi, dan uraian perubahan</string>
-    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Glodowski</string>
     <string name="Version">Versi</string>
     <string name="Changelog">Uraian Perubahan</string>
     <string name="Whats_new">Melihat perubahan terbaru</string>
@@ -725,5 +727,30 @@
 	<string name="Folders_first_summary">Tampilkan direktori terlebih dahulu baru file-file</string>
 	<string name="FAQ">FAQ</string>
 	<string name="FAQ_summary">Mari membaca FAQ sebelum bertanya</string>
+	
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">Konfig Cepat</string> <!-- short word please -->
+	
+	<!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
+    	<string name="X_folders_and_Y_files_deleted">%x direktori{__:} dan %y file{__:} dihapus.</string>
+    	<string name="X_folders_and_Y_files_copied">%x direktori{__:} dan %y file{__:} disalin.</string>
+    	<string name="X_folders_and_Y_files_moved">%x direktori{__:} dan %y file{__:} dipindahkan.</string>
+    	<string name="Deleting_X_folders_and_Y_files">Menghapus %x direktori{__:} dan %y file{__:}</string>
+    	<string name="Copying_X_folders_and_Y_files">Menyalin %x direktori{__:} dan %y file{__:}</string>
+    	<string name="Moving_X_folders_and_Y_files">Memindahkan %x direktori{__:} dan %y file{__:}</string>
+    	
+    	<string name="X_folders_moved">% direktori{__:} dipindahkan.</string>
+    	<string name="Moving_X_folders">Memindahkan % direktori{__:}</string>
+    	
+    	<string name="X_folders">% direktori{__:}</string>
+    	<string name="X_files">% file{__:}</string>
+    	
+    	<string name="Show_status_summary">Tampilkan informasi mengenai isi direktori dan tempat yang dipakai pada window penjelajah</string>
+    	<string name="Show_status">Tampilkan status</string>
+    	<string name="Mount_rw">Mount r/w</string>
+    	<string name="System_mounted_as_read_write">Partisi system ter-mount baca/tulis</string>
+    	<string name="System_mounted_as_read_only">Partisi system ter-mount baca-saja</string>
+	
 	
 </resources>
