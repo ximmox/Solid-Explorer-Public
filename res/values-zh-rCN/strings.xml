@@ -729,4 +729,28 @@
     <string name="FAQ">FAQ</string>
     <string name="FAQ_summary">在提交问题之前请先阅读FAQ</string>
 
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">快速设置</string> <!-- short word please -->
+
+	<!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
+   	<string name="X_folders_and_Y_files_deleted">%x 文件夹{1:|__:s} 和 %y 文件{1:|__:s} 已删除.</string>
+   	<string name="X_folders_and_Y_files_copied">%x 文件夹{1:|__:s} 和 %y 文件{1:|__:s} 已复制.</string>
+   	<string name="X_folders_and_Y_files_moved">%x 文件夹{1:|__:s} 和 %y 文件{1:|__:s} 已移动.</string>
+   	<string name="Deleting_X_folders_and_Y_files">正在删除 %x 文件夹{1:|__:s} 和 %y 文件{1:|__:s}</string>
+   	<string name="Copying_X_folders_and_Y_files">正在复制 %x 文件夹{1:|__:s} 和 %y 文件{1:|__:s}</string>
+   	<string name="Moving_X_folders_and_Y_files">正在移动 %x 文件夹{1:|__:s} 和 %y 文件{1:|__:s}</string>
+    	
+   	<string name="X_folders_moved">% 文件夹{1:|__:s} 已移动.</string>
+   	<string name="Moving_X_folders">正在移动 % 文件夹{1:|__:s}</string>
+    	
+   	<string name="X_folders">% 文件夹{1:|__:s}</string>
+   	<string name="X_files">% 文件{1:|__:s}</string>
+    	
+   	<string name="Show_status_summary">在浏览窗口中显示目录的内容占用空间</string>
+   	<string name="Show_status">显示状态</string>
+   	<string name="Mount_rw">挂载 读/写</string>
+   	<string name="System_mounted_as_read_write">系统挂载为 读/写</string>
+   	<string name="System_mounted_as_read_only">系统挂载为 只读</string>
+
 </resources>
