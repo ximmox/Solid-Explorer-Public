@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="page1_1">Solid Explorer tiene dos paneles independientes para la exploración de archivos. Por ejemplo, puedes tener el directorio de la tarjeta SD en un panel y los archivos compartidos de tu PC en otro. Entonces, puedes administrar los archivos con facilidad.</string>
-    <string name="page1_2">En el modo de retrato hay sólo un panel visible a la vez. Para cambiar entre ellos simplemente puede deslizar a izquierda o derecha. En modo horizontal se ven dos paneles a la vez.</string>
-    <string name="page2_1">Puede arrastrar múltiples archivos sosteniendo el icono y arrastrándolos al interior del panel opuesto. Simplemente arrástrelos hasta el borde de la pantalla y el segundo panel se mostrará. Fácil e intuitivo.</string>
-    <string name="page2_2">También puedes mover los archivos a un directorio. Sólo tienes que mantenerlo seleccionado por medio segundo sobre el directorio y este se abrirá. A continucación, sólo debes soltar tu selección.</string>
-    <string name="page3_1">Para seleccionar archivos de forma rápida, toque en el icono. La barra de selección emergente aparecerá con algunas funciones útiles. Puede habilitar botones adicionales para \&quot;copiar\&quot;, \&quot;cortar\&quot; y \&quot;enviar\&quot; en las preferencias.</string>
-    <string name="page3_2">La única excepción, donde esta característica no funciona, es la vista de cuadrícula. Tienes que habilitar el modo de selección en el menú Organizar.</string>
-    <string name="page4_1">La búsqueda indexada proporciona un acceso rápido a los archivos ubicados en cualquier lugar del teléfono. Recibirás los resultados de búsqueda en menos de un segundo! Olvídate de esperar para siempre. Sin embargo, si el archivo no fue encontrado, haz click en \'Búsqueda manual\' para buscar en el teléfono archivo por archivo.</string>
-    <string name="page4_2">También puedes buscar en teléfono utilizando la búsqueda de Google. Todo lo que tienes que hacer es ir a la configuración y habilitar la interfaz de búsqueda de Solid Explorer.</string>
-    <string name="page5_1">Solid Explorer soporta los protocolos FTP, SFTP y SMB. Al iniciar sesión en algún lugar, este se almacena automáticamente como un marcador. Podrás elegir encriptar la contraseña con la contraseña global que trendrás que definir.</string>
-    <string name="page5_2">¿Tienes una cuenta de almacenamiento en la nube? Si es así, podrás navegar por los archivos de Dropbox y Box con facilidad.</string>
+    <string name="page1_1">Solid Explorer tiene dos paneles independientes para la exploración de archivos. Por ejemplo, puedes tener el directorio de la tarjeta SD en un panel y una carpeta compartida de tu red en otro. Permite administrar los archivos con facilidad.</string>
+    <string name="page1_2">En el modo vertical sólo hay sólo un panel visible a la vez. Para cambiar entre ellos simplemente desliza a izquierda o derecha. En modo horizontal se ven los dos paneles a la vez.</string>
+    <string name="page2_1">Puede arrastrar un archivo pulsando su icono y moviéndolo a algún lugar del panel opuesto. Simplemente arrástrelo hasta el borde de la pantalla y el segundo panel se mostrará. Fácil e intuitivo.</string>
+    <string name="page2_2">También puedes mover los archivos a un directorio. Mantén el archivo seleccionado un instante sobre el directorio y este se abrirá. A continuación, sólo debes soltar tu selección.</string>
+    <string name="page3_1">Para seleccionar archivos de forma rápida, pulse en sus iconos. La barra de selección emergente aparecerá con algunas funciones útiles. Puede habilitar botones adicionales para \&quot;copiar\&quot;, \&quot;cortar\&quot; y \&quot;enviar\&quot; en la configuración.</string>
+    <string name="page3_2">Esta funcionalidad no está activa en la vista de cuadrícula. Tienes que pulsar en Seleccionar en el menú Acciones.</string>
+    <string name="page4_1">La búsqueda indexada proporciona un acceso rápido a los archivos ubicados en cualquier lugar del teléfono. ¡Recibirás los resultados de búsqueda en menos de un segundo! Olvídate de esperar para siempre. Sin embargo, si el archivo no se encuentra, haz click en \'Búsqueda manual\' para buscar en el teléfono archivo por archivo.</string>
+    <string name="page4_2">También puedes buscar en el teléfono utilizando la Búsqueda de Google. Todo lo que tienes que hacer es ir a la configuración de Búsqueda de Google y habilitar la búsqueda en Solid Explorer.</string>
+    <string name="page5_1">Solid Explorer soporta los protocolos FTP, SFTP y SMB. Al iniciar sesión en algún lugar, este se almacena automáticamente como un marcador. Podrás elegir encriptar la contraseña con una contraseña global que trendrás que definir.</string>
+    <string name="page5_2">Si tienes una cuenta de almacenamiento en la nube (como Dropbox o Box) puedes explorar los archivos en línea como si navegaras por archivos de tu teléfono.</string>
     <string name="page6_1">¿Necesitas enviar algunos archivos por correo electrónico? Crea archivos ZIP, ZIP protegidos por contraseña y archivos TAR con compresión GZIP o BZIP2. </string>
-    <string name="page6_2">Solid Explorer soporta archivos ZIP, RAR y TAR para ver y extraer. Podrás explorer el archivo como un sistema de archivos real.</string>
+    <string name="page6_2">Solid Explorer soporta archivos ZIP, RAR y TAR para ver y extraer. Podrás explorar el archivo como si exploraras carpetas.</string>
     <string name="page7_1">Solid Explorer entrega información detallada sobre los archivos y directorios. Ahora podrás examinar lo que se come la memoria o ver algunas estadísticas.</string>
-    <string name="page8_1">Cada función tiene su lugar bajo los popups de lujo. Ellos han sido cuidadosamente agrupados para asegurar la mejor experiencia de usuario.</string>
-    <string name="page8_2">Cuando tienes múltiples paneles en el fondo, podrás cambiar entre ellos de igual manera.</string>
-    <string name="page9">Me alegro de que hayas decidido a probar Solid Explorer. Espero que disfrutes de todas las opciones que proporciona esta aplicación. Si olvidas algo, podrás ver esta guía de inicio rápido en la configuración. Saludos!</string>
+    <string name="page8_1">Cada función tiene su lugar en los elegantes popups. Han sido cuidadosamente agrupadas para asegurar la mejor experiencia de usuario.</string>
+    <string name="page8_2">Cuando tienes múltiples paneles en segundo plano, podrás cambiar entre ellos fácilmente.</string>
+    <string name="page9">Me alegro de que hayas decidido probar Solid Explorer. Espero que disfrutes de todas las opciones que proporciona esta aplicación. Si olvidas algo, podrás ver esta guía de inicio rápido en la configuración. ¡Saludos!</string>
     <string name="Start_using_solid_explorer">Empezar a usar Solid Explorer</string>
-    <string name="page0_1">Bienvenido a la aplicación Solid Explorer - el más intuitivo y atractivo administrador de archivos para Android. Por favor lea esta guía de inicio rápido para familiarizarse con todas los beneficios que esta aplicación proporciona.</string>
-    <string name="Not_now">No ahora</string>
+    <string name="page0_1">Bienvenido a la aplicación Solid Explorer - el más intuitivo y atractivo administrador de archivos para Android. Por favor lee esta guía de inicio rápido para familiarizarte con todas las funcionalidades que esta aplicación proporciona.</string>
+    <string name="Not_now">Ahora no</string>
     <string name="page0_2">Para empezar, deslice a la siguiente pantalla</string>
     <string name="Welcome">Bienvenido</string>
     <string name="Two_panels">Dos paneles</string>
     <string name="Quick_selection">Selección rápida</string>
-    <string name="Indexed_search">Búsqueda indexadas</string>
+    <string name="Indexed_search">Búsqueda indexada</string>
     <string name="Archives">Archivos</string>
     <string name="Detailed_information">Información detallada</string>
     <string name="Useful_popups">Útiles popups</string>
     <string name="Lets_start">Vamos a empezar</string>
     <string name="You_can_read_the_guide_later_in_the_settings">Puedes leer la guía más tarde. Sólo tienes que ir a la configuración y seleccionar la opción \&quot;Guía de inicio rápido\&quot;.</string>
-    <string name="Thank_you">Gracias!</string>
+    <string name="Thank_you">¡Gracias!</string>
     
 </resources>
