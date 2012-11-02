@@ -404,15 +404,15 @@
     	<string name="Tap_to_start">Érintse meg a kezdéshez</string>
     	
     	
-    	<string name="Are_you_sure_you_want_to_delete_items">Biztos törli mind a(z) % elemet?</string>
-    	<string name="X_files_deleted">% fájl törölve.</string>
-    	<string name="X_files_copied">% fájl másolva.</string>
-    	<string name="X_files_moved">% fájl áthelyezve.</string>
-    	<string name="X_items">% elem</string>
-    	<string name="Deleting_X_files">% fájl törlése</string>
-    	<string name="Copying_X_files">% fájl másolása</string>
-    	<string name="Moving_X_files">% fájl áthelyezése</string>
-    	<string name="Indexing_scheduled_at_X_every_Y">Indexelés ütemezése minden %y nap %s-kor</string>
+    	<string name="Are_you_sure_you_want_to_delete_items">Biztos törli mind a(z) % elemet{__:}?</string>
+    	<string name="X_files_deleted">% fájl{__:} törölve.</string>
+    	<string name="X_files_copied">% fájl{__:} másolva.</string>
+    	<string name="X_files_moved">% fájl{__:} áthelyezve.</string>
+    	<string name="X_items">% elem{__:}</string>
+    	<string name="Deleting_X_files">% fájl{__:} törlése</string>
+    	<string name="Copying_X_files">% fájl{__:} másolása</string>
+    	<string name="Moving_X_files">% fájl{__:} áthelyezése</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Indexelés ütemezése minden %y nap{__:} %s-kor</string>
     	<!-- Explanation of above
     	
     		 	In english things are simple because we have 1 file and multiple files.
@@ -733,18 +733,18 @@
 	
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
-    	<string name="X_folders_and_Y_files_deleted">%x mappa és %y fájl törölve.</string>
-    	<string name="X_folders_and_Y_files_copied">%x mappa és %y fájl másolva.</string>
-    	<string name="X_folders_and_Y_files_moved">%x mappa és %y fájl áthelyezve.</string>
-    	<string name="Deleting_X_folders_and_Y_files">%x mappa és %y fájl törlése.</string>
-    	<string name="Copying_X_folders_and_Y_files">%x mappa és %y fájl másolása.</string>
-    	<string name="Moving_X_folders_and_Y_files">%x mappa és %y fájl áthelyezése.</string>
+	   	<string name="X_folders_and_Y_files_deleted">%x mappa{__:} és %y fájl{__:} törölve.</string>
+    	<string name="X_folders_and_Y_files_copied">%x mappa{__:} és %y fájl{__:} másolva.</string>
+    	<string name="X_folders_and_Y_files_moved">%x mappa{__:} és %y fájl{__:} áthelyezve.</string>
+    	<string name="Deleting_X_folders_and_Y_files">%x mappa{__:} és %y fájl{__:} törlése.</string>
+    	<string name="Copying_X_folders_and_Y_files">%x mappa{__:} és %y fájl{__:} másolása.</string>
+    	<string name="Moving_X_folders_and_Y_files">%x mappa{__:} és %y fájl{__:} áthelyezése.</string>
     	
-    	<string name="X_folders_moved">% mappa áthelyezve.</string>
-    	<string name="Moving_X_folders">% mappa áthelyezése.</string>
+    	<string name="X_folders_moved">% mappa{__:} áthelyezve.</string>
+    	<string name="Moving_X_folders">% mappa{__:} áthelyezése.</string>
     	
-    	<string name="X_folders">% mappa</string>
-    	<string name="X_files">% fájl</string>
+    	<string name="X_folders">% mappa{__:}</string>
+    	<string name="X_files">% fájl{__:}</string>
     	
     	<string name="Show_status_summary">Mutassa a mappa tartalmának és a használt tárhely információit az ablakban</string>
     	<string name="Show_status">Információ mutatása</string>
