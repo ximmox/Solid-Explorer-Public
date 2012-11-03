@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    
+    
+    <!-- bottom toolbar -->
+    <string name="New">Új</string>
+    <string name="Jump">Ugrás</string>
+    <string name="Filter">Szűrő</string>
+    <string name="Menu">Menü</string>
+    <string name="Actions">Műveletek</string>
+    
+    <!-- "New" popup -->
+    <string name="New_folder">Mappa</string>
+    <string name="New_file">Fájl</string>
+    <string name="New_FTP_connection">FTP kapcsolat</string>
+    <string name="New_SFTP_connection">SFTP kapcsolat</string>
+    <string name="New_SMB_connection">SMB kapcsolat</string>
+    <string name="New_cloud_connection">Felhő kapcsolat</string>
+    
+    <!-- "Actions" popup -->
+    
+    <string name="Copy">Másolás</string>
+    <string name="Cut">Kivágás</string>
+    <string name="Paste">Beillesztés</string>
+    <string name="Delete">Törlés</string>
+    <string name="Properties">Tulajdonságok</string>
+    <string name="Select_all">Mindent kijelöl</string>
+    <string name="Select">Kijelölés</string>
+    
+    <!-- "Jump" popup -->
+    
+    <string name="Device">Eszköz</string>
+    <string name="Photos">Képek</string>
+    <string name="Downloads">Letöltések</string>
+    <string name="Network">Hálózat</string>
+    <string name="Bookmarks">Könyvjelzők</string>
+    <string name="No_bookmarks">Nincs könyvjelző</string>
+    
+    <!-- "Menu" popup -->
+    <string name="View">Nézet</string>
+    <string name="Sort">Rendezés</string>
+    <string name="Search">Keresés</string>
+    <string name="Operations">Műveletek</string>
+    <string name="Manage_bookmarks">Könyvjelzők kezelése</string>
+    <string name="File_sharing">Fájlmegosztás</string>
+    <string name="Settings">Beállítások</string>
+    <string name="Exit">Kilépés</string>
+    
+    <!-- "Network" popup -->
+    <string name="Cloud_storage">Felhő tárhely</string>
+    
+    <!-- "Device" popup -->
+     <string name="System_root">Rendszer</string>
+    <string name="SD_card">SD kártya</string>
+    <string name="Internal_memory">Belső memória</string>
+    <string name="USB_drive_x">USB meghajtó %x</string>
+    
+    <!-- "View" popup -->
+    <string name="View_mode">Nézet mód</string>
+    <string name="List">Lista</string>
+    <string name="Detailed_list">Részletes lista</string>
+    <string name="Grid">Rács</string>
+    <string name="Detailed_grid">Részletes rács</string>
+    
+    <!-- "Sort" popup -->
+    <string name="Sort_files_by">Fájlok rendezése</string>
+    <string name="File_name">Fájlnév</string>
+    <string name="File_size">Méret</string>
+    <string name="File_type">Fájltípus</string>
+    <string name="Modified_date">Módosítás dátuma</string>
+    <string name="Ascending">Növekvő</string>
+    <string name="Descending">Csökkenő</string>
+    <string name="In_order">Sorrend</string>
+    
+    <!-- Browser switch popup -->
+    <string name="Active_browser">Aktív ablak</string>
+    <string name="Close_all">Mind bezárása</string>
+    <string name="In_background">Háttérben</string>
+    
+    
+    
+    <!-- Context menu -->
+    <string name="Open_with">Megnyitás ezzel...</string>
+    <string name="Open_in_bg">Megnyitás a háttérben</string>
+    <string name="Send">Küldés</string>
+    <string name="Bookmark">Könyvjelző</string>
+    <string name="Rename">Átnevezés</string>
+    <string name="Extract">Kibontás</string>
+    <string name="Extract_to">Kibontás ide: </string>
+    <string name="Archive">Archiválás</string>
+    <string name="Paste_to_x">Beillesztés ide: \&quot;%\&quot;</string>
+    
+    
+    <!-- Dialogs -->
+    <string name="OK">OK</string>
+    <string name="Cancel">Mégsem</string>
+    <string name="Yes">Igen</string>
+    <string name="No">Nem</string>
+    
+	    <!-- New folder/file dialog -->
+	    <string name="Enter_the_name">Név megadása</string>
+	    
+	    <!-- New connection Dialog -->
+	    <string name="Display_name">Megjelenítendő név</string>
+	    <string name="May_be_empty">Üres is maradhat</string>
+    	<string name="Remote_path">Távoli elérési útvonal</string>
+    	<string name="Port">Port</string>
+    	<string name="User_name">Felhasználónév</string>
+    	<string name="Password">Jelszó</string>
+    	<string name="Repeat_the_password">Jelszó megerősítése</string>
+    	<string name="Authentication_method">Hitelesítés típusa</string>
+    	<string name="Server">Kiszolgáló</string>
+    	<string name="Connection_type">Kapcsolat típusa</string>
+    	<string name="Scan">Keresés</string>
+    	<string name="Computer_name_or_IP_adress">Számítógép neve vagy IP címe</string>
+    	<string name="Looking_for_computers">Számítógépek keresése</string>
+    	<string name="Share">SMB megosztás</string>
+    	
+    		<!-- Auth methods -->
+    		<string name="Ask_for_password_each_time">Mindig kérje a jelszót</string>
+        	<string name="Store_encrypted_password">Titkosítva tárolja a jelszót</string>
+        	<string name="No_password_required">Ne kérjen jelszót</string>
+        	<string name="Anonymous">Névtelen</string>
+        	<string name="Log_in_as_a_guest">Bejelentkezés vendégként</string>
+        	
+        	<!-- FTP types -->
+        	<string name="FTP_no_encryption">FTP (nincs titkosítás)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (implicit titkosítás)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (explicit titkosítás)</string>
+        
+    <!-- Search activity -->	
+    <string name="Manual_search">Kézi keresés</string>
+    <string name="Results_from">Eredmények itt:</string>
+    <string name="No_results">Nincs eredmény</string>
+    <string name="Matches">Egyezések</string>
+    <string name="Selected">Kijelölt</string>
+    <string name="Match_mode">Egyezés módja</string>
+    <string name="Match_start">Ezzel kezdőik</string>
+    <string name="Match_any">Bármilyen egyezés</string>
+    <string name="Match_end">Ezzel végződik</string>
+    
+    <!-- Operations activity -->
+    <string name="History_is_empty">Nincs előzmény</string>
+    <string name="Current_operation">Jelenlegi művelet</string>
+    <string name="No_pending_operation">Nincs folyamatban lévő művelet</string>
+    <string name="History">Előzmények</string>
+    <string name="Count">Számláló</string>
+    <string name="Date">Dátum</string>
+    <string name="Source">Forrás</string>
+    <string name="Destination">Cél</string>
+    
+    	<!-- Operation info -->
+    	<string name="Operation">Művelet</string>
+    	<string name="From">Innen</string>
+    	<string name="To">Ide</string>
+    	<string name="Size">Méret</string>
+    	<string name="Speed">Sebesség</string>
+    	<string name="ETA">Becsült</string>
+    	<string name="NA">N/A</string>
+    	<string name="Current">Jelenleg</string>
+    	
+    	<!-- Operation descriptions -->
+    	<string name="File_copy">Fájl másolás</string>
+    	<string name="File_move">Fájl áthelyezés</string>
+    	<string name="File_delete">File törlés</string>
+    	<string name="Temporary_download">Ideiglenes letöltés</string>
+   	 	<string name="Creating_archive">% archívum létrehozása</string>
+    	<string name="Extracting_archive">% archívum kibontása</string>
+    	<string name="X_has_been_completed">% elkészült.</string>
+    	<string name="X_has_failed">% nem sikerült.</string>
+    	<string name="Tap_to_show_details">Érintse meg a részletekért</string>
+    	<string name="Pending_cancel_request">Folyamatban lévő törlési kérelem</string>
+    	<string name="File_operation">Fájlművelet</string>
+    
+    <!-- Bookmark manager -->
+    <string name="Bookmark_manager">Könyvjelző kezelő</string>
+    <string name="Edit">Szerkesztés</string>
+    <string name="Disconnect">Szétkapcsol</string>
+    <string name="Delete_all">Összes törlése</string>
+    <string name="Wifi_toggle">Wi-Fi kapcsolása</string>
+    <string name="Wifi_settings">Wi-Fi beállítások</string>
+    <string name="Disconnect_all">Összes szétkapcsolása</string>
+    <string name="Connected">Csatlakozva</string> 
+    <string name="Not_connected">Nincs csatlakozva</string>
+    <string name="on">be</string>
+    <string name="Local_bookmarks">Helyi könyvjelzők</string>
+    <string name="FTP_bookmarks">FTP könyvjelzők</string>
+    <string name="SFTP_bookmarks">SFTP könyvjelzők</string>
+    <string name="SMB_bookmarks">SMB könyvjelzők</string>
+    <string name="Cloud_bookmarks">Felhő könyvjelzők</string>
+    <string name="Edit_bookmark">Könyvjelző szerkesztése</string>
+    <string name="Name">Név</string>
+    <string name="Path">Elérési út</string>
+    
+    <!-- Dir picker -->
+    <string name="Pick_a_directory">Mappa kiválasztása</string>
+    
+    <!-- Cloud storage dialog -->
+    <string name="Cloud_storage_services">Felhőtárhely szolgáltatások</string>
+    <string name="Cloud_services_description">Válassza ki a felhőtárhely szolgáltatást</string>
+    
+    <!-- File sharing -->
+    <string name="File_sharing_active">Fájlmegosztás aktív</string>
+    <string name="ftp_server_hint">A csatlakozáshoz írja be a kiszolgáló címét a Windows Intézőbe vagy használjon bármilyen FTP klienst.</string>
+    <string name="You_cannot_share_root_directory">A gyökérkönyvtárat nem lehet megosztani</string>
+    <string name="File_sharing_stopped">Fájlmegosztás leállítva</string>
+    <string name="None">Nincs</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Csatlakoznia kell egy helyi hálózathoz.</string>
+    <string name="Active">Aktív</string>
+    <string name="Inactive">Inaktív</string>
+    <string name="FTP_Server">FTP kiszolgáló</string>
+    <string name="Shared_directory">Megosztott mappa</string>
+    <string name="Type_to_change">Írjon be a változtatáshoz</string>
+    <string name="No_password_set">Nincs jelszó beállítva</string>
+    <string name="Status">Állapot</string>
+    <string name="Server_address">Kiszolgáló címe</string>
+    <string name="Start">Indít</string>
+    <string name="Stop">Leállít</string>
+    
+    
+    <!-- Archive dialog -->
+    <string name="Create_archive_dialog_title">Archívum létrehozása</string>
+    <string name="Archive_name">Archívum neve</string>
+    <string name="Compression">Tömörítés</string>
+    <string name="Format">Formátum</string>
+    <string name="Use_password_protection">Jelszavas védelem használata</string>
+    <string name="Fast">Gyors</string>
+    <string name="Normal">Normál</string>
+    <string name="Good">Jó</string>
+    <string name="Best">Legjobb</string>
+    
+    <!-- File properties -->
+    <string name="Content_summary">Tartalom áttekintése</string>
+    <string name="File_types">Fájltípusok</string>
+    <string name="Top_10_files">Top 10 fájl</string>
+    <string name="Location">Hely</string>
+    <string name="Type">Típus</string>
+    <string name="Parent_path">Elérési út</string>
+    <string name="Last_modified">Utoljára módosítva</string>
+    <string name="Directory">Mappa</string>
+    <string name="Unknown">Ismeretlen</string>
+    <string name="Symbolic_link">Symbolic link</string>
+    <string name="Link_target">Link célja</string>
+    <string name="Open">Megnyitás</string>
+    <string name="Open_directory">Mappa megnyitása</string>
+    <string name="MD5">MD5</string>
+    <string name="Calculate">Kiszámol</string>
+    <string name="Compare">Összehasonlít</string>
+    <string name="Paste_to_compare">Összehasonlításhoz illessze be</string>
+    <string name="Files">Fájlok</string>
+    <string name="Folders">Mappák</string>
+    <string name="Calculation_error">Számítási hiba</string>
+    <string name="Content">Tartalom</string>
+    <string name="Other_used">Egyéb</string>
+    <string name="Free_space">Szabad</string>
+    <string name="Usage">Használat</string>
+    <string name="Attributes">Attribútumok</string>
+    <string name="Read">Olvasás</string>
+    <string name="Write">Írás</string>
+    <string name="Hidden">Rejtett</string>
+    <string name="Additional_info">További információ</string>
+    <string name="Percent">Százalék</string>
+    <string name="Music">Zene</string>
+    <string name="Pictures">Kép</string>
+    <string name="Videos">Videó</string>
+    <string name="Archives">Archívum</string>
+    <string name="Documents">Dokumentum</string>
+    <string name="Change">Változtat</string>
+    <string name="Execute">Futtat</string>
+    <string name="Owner">Tulajdonos</string>
+    <string name="Group">Csoport</string>
+    <string name="Others">Mások</string>
+    <string name="Owners">Tulajdonosok</string>
+    <string name="Permissions">Jogosultságok</string>
+    <string name="Set">Beállít</string>
+    <string name="Used_space">Használt hely</string>
+    <string name="Free_space">Szabad hely</string>
+    <string name="Total_size">Teljes méret</string>
+    <string name="Artist">Előadó</string>
+    <string name="Title">Cím</string>
+    <string name="Duration">Hossz</string>
+    <string name="Resolution">Felbontás</string>
+    <string name="Recorded">Rögzítve</string>
+    <string name="Width">Szélesség</string>
+    <string name="Height">Magasság</string>
+    <string name="Manufacturer">Gyártó</string>
+    <string name="Camera_model">Kamera típusa</string>
+    <string name="Software">Szoftver</string>
+    <string name="Orientation">Tájolás</string>
+    <string name="Exposure_time">Expozíciós idő</string>
+    <string name="Exposure_bias">Expozíciós eltolás</string>
+    <string name="White_balance">Fehéregyensúly</string>
+    <string name="Focal_length">Fókusztávolság</string>
+    <string name="Aperture_size">Rekeszméret</string>
+    <string name="Flash">Vaku</string>
+    
+    <!-- Dialogs again -->
+    	<!-- File exists dialog -->
+    	<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
+    	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+    	<string name="File_exists">A fájl létezik</string>
+    	<string name="Skip">Kihagy</string>
+    	<string name="Overwrite">Felülír</string>
+    	<string name="Merge">Egyesít</string>
+    	<string name="Keep_both">Mindkettőt megtartja</string>
+    	<string name="Remember_action">Emlékezzen a műveletre</string>
+    	<string name="Keep_the_old_file">A régebbit megtartja</string>
+    	<string name="The_new_file_will_have_its_name_changed">Megváltoztatja az új fájl nevét</string>
+    	<string name="Replace_the_file_with_this">Felülírja a meglévő fájlt</string>
+    	<string name="Create_master_password">Mesterjelszó létrehozása</string>
+    	
+    	<string name="Choose_an_activity_to_open_the_file">Válasszon egy tevékenységet a fájl megnyitásához</string>
+    	<string name="Always_use_this_application">Mindig ezt az alkalmazást használja</string>
+    	<string name="Send_the_file_using">Fájl küldése a következővel:</string>
+    	<string name="Progress">Folyamat</string>
+    	<string name="Minimize">Minimalizál</string>
+    	<string name="Pause">Szünet</string>
+    	<string name="Resume">Folytatás</string>
+    	<string name="Dismiss">Elvetés</string>
+    	
+    	<string name="Abort_operation">Művelet megszakítása</string>
+    	<string name="There_is_already_an_operation_running">Jelenelg egy művelet van folyamatban. Kérem várjon amíg befejeződik.</string>
+    
+    	<!-- Question dialogs -->
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Biztos törli az előzményeket?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Biztos törli a bélyegkép gyorsítótárat?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Biztos törli az ideiglenes fájlokat?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Itt az ideje az ütemezett indexelésnek. Szeretné most elindítani az indexelést?</string>
+    	<string name="Folder_exists_descr">Ebben a könyvtárban már van egy ugyanilyan nevű mappa. Mit szeretne tenni?</string>
+    	<string name="File_exists_descr">Ebben a mappában már van egy ugyanilyan nevű fájl. Mit szeretne tenni?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Biztos törli: \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Biztos megszakítja a jelenlegi műveletet?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Biztos törli az összes könyvjelzőt?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Biztos törli a \&quot;%\&quot; könyvjelzőt?</string>
+    	<string name="Reindex_prompt">Indexelés végrehajtása. Ez néhány percig is eltarthat. Folytatja?</string>
+    	<string name="Clear_index_prompt">Biztos törli az összes indexelt adatot? Ez a művelet nem vonható vissza.</string>
+    	<string name="Are_you_sure_to_stop_indexing">Biztos leállítja az indexelést?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Biztos törli a fájltípus társításokat?</string>
+    	<string name="Changes_have_been_made_to_the_file">A &quot;%&quot; változtatások elkészültek. Szeretné elmenteni?</string>
+    	<string name="Chown_confirm">Biztos megváltoztatja a fájl tulajdonosát?</string>
+    	<string name="Busybox_request">Úgy tűnik, hogy nincs telepítve BusyBox vagy túl régi a verzió. Erre szükség van a gyökér fájlrendszer tallózásához. Szeretné most telepíteni?</string>
+    	
+    	
+    	<!-- Information dialogs -->
+    	<string name="SkyDrive_doesnt_support_x_files">A SkyDrive nem támogatja a \&quot;%\&quot; fájlokat. A művelet megszakítva.</string>
+    	<string name="Operation_not_supported">Nem támogatott művelet</string>
+    	<string name="You_have_to_provide_a_password">Meg kell adni egy jelszót</string>
+    	<string name="Insufficient_space" formatted="false">Nincs elég hely a művelet végrehajtásához. Méret: %, elérhető: %.</string>
+    	<string name="Command_executed_successfully">A parancs sikeresen végrehajtva</string>
+    	<string name="Deleting_data">Adatok törlése</string>
+    	<string name="Done">Kész</string>
+    	<string name="Preparing_for_operation">Felkészülés a műveletre...</string>
+    	<string name="Connecting">Kapcsolódás</string>
+    	<string name="Connecting_to_x">Kapcsolódás ide: \&quot;%\&quot;</string>
+    	<string name="File_is_too_big">Ez a fájl túl nagy. Csak 75kB-nál kisebb fájlok szerkesztése támogatott. Nagyobb fájlok támogatása hamarosan.</string>
+    	<string name="Operation_history_has_been_cleared">A műveleti előzmények törölve</string>
+    	<string name="Encrypted_archive">Titkosított archívum</string>
+    	<string name="Enter_the_password">Adja meg a jelszót</string>
+    	<string name="Confirmation">Megerősítés</string>
+    	<string name="Input_request">Beviteli kérelem</string>
+    	<string name="Message">Üzenet</string>
+    	<string name="Warning">Figyelem!</string>
+    	<string name="You_did_not_specify_a_password">Nem adott meg jelszót.</string>
+    	<string name="Reading_archive">Archívum olvasása</string>
+    	<string name="Reading_archive_x">\&quot;%\&quot; archívum olvasása</string>
+    	<string name="Storage_not_available">Tároló nem elérhető</string>
+    	<string name="The_password_given_is_incorrect">A megadott jelszó helytelen</string>
+    	<string name="You_did_not_specify_a_server_name">Nem adott meg kiszolgálónevet</string>
+    	<string name="You_did_not_specify_a_computer_name">Nem adott meg számítógépnevet</string>
+    	<string name="You_did_not_specify_a_port_number">Nem adott meg portszámot</string>
+    	<string name="You_did_not_specify_user_name">Nem adott meg felhasználónevet</string>
+    	<string name="Indexing">Indexelés</string>
+    	<string name="Indexing_in_progress">Indexelés folyamatban</string>
+    	<string name="Indexing_paused">Indexelész szünetelve</string>
+    	<string name="Indexing_has_been_completed">Indexelés befejezve</string>
+    	<string name="Indexing_has_been_aborted">Indexelés megszakítva</string>
+    	<string name="Tap_to_dismiss">Elvetéshez érintse meg</string>
+    	<string name="Tap_top_open">Megnyitáshoz érintse meg</string>
+    	<string name="File_is_ready_to_open">A fájl megnyitásra kész</string>
+    	
+    	<string name="Operation_aborted_by_user">A művelet a felhasználó által megszakítva</string>
+    	<string name="You_cant_delete_this_item">Ez az elem nem törölhető</string>
+    	<string name="Indexing_service">Indexelés szolgáltatás</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">Csak egy helyben tárolt fájl adható az archívumhoz</string>
+    	<string name="Bookmark_already_exists">A könyvjelző már létezik</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; hozzáadva a könyvjelzőkhöz</string>
+    	<string name="Rename_a_file">Fájl átnevezése</string>
+    	<string name="Input_was_left_blank">A bevitel üres maradt</string>
+    	<string name="File_named_already_exists">\&quot;%\&quot; nevű fájl már létezik</string>
+    	<string name="Confirm_delete">Törlés megerősítése</string>
+    	<string name="You_cant_create_an_archive_here">Itt nem hozható létre archívum</string>
+    	<string name="Cannot_connect_to">A kapcsolódás sikertelen: \&quot;%\&quot;</string>
+    	<string name="You_are_not_logged_in">Nincs bejelentkezve</string>
+		<string name="Can_not_create_the_directory">A könyvtár nem hozható létre</string>
+    	<string name="Beta_expired">Béta lejárt</string>
+    	<string name="Can_not_create_the_file">A fájl nem hozható létre</string>
+    	<string name="Uknown_file_type">Ismeretlen fájltípus</string>
+    	<string name="No_activity_found_to_open_this_file">A fájl megnyitásához nincs tevékenység</string>
+    	<string name="You_cant_send_a_folder">Mappákat nem lehet küldeni</string>
+    	<string name="Indexing_has_been_unscheduled">Az indexelés ütemezése törölve</string>
+    	<string name="Scheduled_indexing">Ütemezett indexelés</string>
+    	<string name="Tap_to_start">Érintse meg a kezdéshez</string>
+    	
+    	
+    	<string name="Are_you_sure_you_want_to_delete_items">Biztos törli mind a(z) % elemet{__:}?</string>
+    	<string name="X_files_deleted">% fájl{__:} törölve.</string>
+    	<string name="X_files_copied">% fájl{__:} másolva.</string>
+    	<string name="X_files_moved">% fájl{__:} áthelyezve.</string>
+    	<string name="X_items">% elem{__:}</string>
+    	<string name="Deleting_X_files">% fájl{__:} törlése</string>
+    	<string name="Copying_X_files">% fájl{__:} másolása</string>
+    	<string name="Moving_X_files">% fájl{__:} áthelyezése</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Indexelés ütemezése minden %y nap{__:} %s-kor</string>
+    	<!-- Explanation of above
+    	
+    		 	In english things are simple because we have 1 file and multiple files.
+    		 	1 file, 2 files, 3 files and so on...
+    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+    			
+    			But let's take polish for example. File means 'Plik'. We have:
+    			0 plikĂłw
+    			1 plik
+    			2, 3, 4 pliki
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    			but.. 22, 23 pliki
+    			and 26, 27 plików
+    			Complicated, huh?
+    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+    			
+    			If you have problems creating this pattern for your language, contact me.
+    			
+    			Quick reference:
+    			'{' - starts the pattern
+    			'}' - ends the pattern
+    			'|' - rule divider
+    			':' - separates range from the associated suffix
+    			'_' - any digit
+    			'-' - range
+    			
+    			Examples:
+    			1:s 	= for single 1 give 's' suffix
+    			3:		= for single 3 give no suffix
+    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    			__:s	= give 's' for any number
+    			
+    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    			there should be always the __:something pattern at the end.
+    	
+    	-->
+    
+    	
+    
+
+    
+    <!-- Open as dialog -->
+    <string name="Open_as">Megnyitás mint...</string>
+    <string name="Choose_a_preferred_type">Válasszon egy típust</string>
+    <string name="Text_file">Szöveg fájl</string>
+    <string name="Image_file">Kép fájl</string>
+    <string name="Music_file">Zene fájl</string>
+    <string name="Video_file">Videó file</string>
+    <string name="ZIP_archive">ZIP archívum</string>
+    
+    
+    <!-- File picker -->
+    
+    <string name="Create_shortcut">Parancsikon készítése</string>
+    <string name="Shortcut_tip">A mappa parancsikon készítéséhez válassza a  \&quot;Parancsikon készítése\&quot; pontot a menüből.</string>
+    
+
+    
+	<!-- Text editor -->
+    <string name="Wrap_lines">Sortörés</string>
+    <string name="Font_size">Betűméret</string>
+    <string name="Font">Betűtípus</string>
+    <string name="App_default">Alapértelmezett az alkalmazásban</string>
+    <string name="System_default">Rendszer alapértelmezett</string>
+    <string name="Serif">Serif</string>
+    <string name="Monospace">Monospace</string>
+    <string name="File_saved_successfully">A fájl sikeresen elmentve</string>
+    
+    
+    <!-- Preferences -->
+	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
+	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
+    <string name="Appearance">Megjelenés</string>
+	<string name="Theme">Téma</string>
+    <string name="Choose_between_preinstalled_themes">Válasszon az előre telepített témák közül</string>
+    <string name="Light">Világos</string>
+    <string name="Dark">Sötét</string>
+    
+    <string name="Toggle_visibility_of_hidden_files">Rejtett fájlok láthatósága</string>
+    <string name="Show_hidden_files">Mutassa a rejtett fájlokat</string>
+    
+    <string name="Show_file_permissions">Mutassa a fájl jogosultságokat</string>
+    <string name="Show_file_permissions_summary">Mutassa a Unix típusú fájl jogosultságokat az utoljára módosítás dátuma helyett (csak rendszerfájloknál).</string>
+    
+    <string name="Date_format">Dátum formátuma</string>
+    <string name="Customize_date_format">Dátumformátum testreszabása</string>
+    
+    <string name="Time_format">Idő formátuma</string>
+	<string name="Customize_time_format">Időformátum testreszabása</string>
+	
+	<string name="Show_fast_scroll_thumb_in_file_list">Mutassa a gyorsgörgetés ikonját a fájlistában</string>
+    <string name="Use_fast_scroll">Gyorsgörgetés használata</string>
+    
+    <string name="Low_quality_thumbnails">Alacsony minőségű bélyegképek</string>
+    <string name="Low_quality_thumbnails_summary">Alacsony memóriahasználathoz</string>
+    
+    <string name="Portrait_fullscreen">Teljes képernyő álló módban</string>
+    <string name="Portrait_fullscreen_summary">Elrejti a rendszer értesítősávját álló módban</string>
+    
+    <string name="Landscape_fullscreen">Teljes képernyő fekvő módban</string>
+    <string name="Landscape_fullscreen_summary">Elrejti a rendszer értesítősávját fekvő módban</string>
+    
+    <string name="File_list_size">List mérete álló módban</string>
+    <string name="Adjust_size_of_the_file_list">Fájllista méretének beállítása álló módban</string>
+    
+    <string name="Landscape_file_list_size">Lista mérete fekvő módban</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Fájllista méretének beállítása fekvő módban</string>
+    
+    <string name="Small">Kicsi</string>
+    <string name="Normal">Normál</string>
+    <string name="Big">Nagy</string>
+    <string name="Large">Hatalmas</string>
+    <string name="Extra_small">Apró</string>
+    
+    <string name="Hide_exit_button">Kilépés gomb elrejtése</string>
+    <string name="Hide_exit_button_summary">A vissza gomb hosszú nyomásával is kiléphet az alkalmazásból</string>
+    
+    <string name="Startup">Indítás</string>
+    
+    <string name="Remember_last_folder">Emlékezzen a legutóbbi mappára</string>
+    <string name="Will_start_with_recently_viewed_directories">Az alkalmazás a legutóbb megtekintett mappákkal indul</string>
+    
+    
+    <string name="First_panel_default_dir">Első panel mappa</string>
+    <string name="Second_panel_default_dir">Második panel mappa</string>
+    
+    <string name="Change_pictures_directory">Képek mappa módosítása</string>
+    <string name="Change_downloads_directory">Letöltések mappa módosítása</string>
+    
+    <string name="Drag_and_drop">Fogd és vidd</string>
+    <string name="Action_for_drop_inside_the_panel">Művelet ugyanazon a panelen belül</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Egy elem elengedése egy mappába ugyanazon panelen belül</string>
+    <string name="Action_for_drop_to_the_second_panel">Művelet a másik panelhez</string>
+    <string name="Dropping_an_item_to_the_second_panel">Egy elem elengedése a másik panelen</string>
+    <string name="Move">Áthelyezés</string>
+    
+    <string name="Security">Biztonság</string>
+    <string name="Master_password_prompt">A Solid Explorer egy mesterjelszót használ a bejelentkezési adatok titkosításához. Ha érdekli a biztonság, akkor javasolt ennek a funkciónak a használata. A mesterjelszót az alkalmazás újraindításonként egyszer fogja kérni. Egyéb esetben a jelszó nélküli alapértelmezett titkosítás van használva. Szeretné használni ezt a funkciót?</string>
+    <string name="Disable_master_password_warning">A mesterjelszó letiltása az alapértelmezett jelszóra váltást eredményezi. Ezt a jelszót soha nem kéri az alkalmazás. A bejelentkezési adatok továbbra is titkosítva maradnak. Folytatja?</string>
+    <string name="Enable_master_password_warning">Ha a korábbi könyvjelzői az alapértelmezett jelszóval voltak titkosítva, akkor azok el lesznek távolítva. Folytatja?</string>
+    <string name="Enable_master_password">Mesterjelsző engedélyezése</string>
+	<string name="Too_weak_password">A jelszó legyen legalább 6, de ne több, mint 16 karakter</string>
+    <string name="Enter_the_master_password">Mesterjelszó megadása</string>
+    <string name="Enter_a_new_master_password">Új mesterjelszó megadása.</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Összes bejelentkezési adat titkosítása mesterjelszóval</string>
+    <string name="Set_master_password">Mesterjelszó módosítása</string>
+    <string name="All_passwords_will_be_reencrypted">Az összes jelszó újra lesz titkosítva</string>
+    
+    <string name="I_dont_remember_my_old_password">Nem emlékszem a régi jelszóra</string>
+    <string name="Reset_password_warning">Figyelem! Ha most új jelszót állít be, akkor az összes régi jelszóval titkosított könyvjelző, jelszó el lesz távolítva.</string>
+    <string name="Old_password">Régi jelszó</string>
+    <string name="New_password">Új jelszó</string>
+    <string name="Master_password_has_been_disabled">A mesterjelszó letiltva</string>
+    <string name="Passwords_do_not_match">A jelszavak nem egyeznek</string>
+    <string name="Password_is_too_short">A jelszó túl rövid</string>
+    
+    
+    
+    <string name="Search_interface">Keresés felület</string>
+    <string name="Search_key_starts_filtering">Keresendő kifejezés elindítja a szűrést</string>
+    <string name="Search_key_starts_filtering_summary">Szűrőlista indítása a keresés tevékenység indítása helyett</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Listában való szűréskor találat csak a szó elején lévő egyezéskor</string>
+    <string name="Filter_words_from_the_beginning">Szűrés az elejétől</string>
+    <string name="Customize_indexing_engine_behaviour">Indexelő motor viselkedésének testreszabása</string>
+    <string name="Indexing_engine">Indexelő motor</string>
+    	<string name="Reindex_now">Újraindexelés most</string>
+    	<string name="Refresh_index_database">Index adatbázis frissítése. Nincs hatással az aktív folyamatra.</string>
+    	<string name="Clear_index_data">Index adatok törlése</string>
+    	<string name="Delete_all_index_data">Minden index adat törlése</string>
+    	<string name="Reindex_on_media_mount">Újraindexelés média csatolásakor</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">Tárolóeszköz újraindexelése csatoláskor (ajánlott)</string>
+    	<string name="Shedule_indexing">Indexelés ütemezése</string>
+    	<string name="Perform_reindex_every_given_period">Indexelés végrehajtása adott időszakonként</string>
+    	<string name="Set_time_and_period">Időpont és időszak beállítása</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Az időpont, amikor az indexelés elinduljon</string>
+    	<string name="Maximum_index_age">Index maximális kora</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Meddig maradjon az index az adatbázisban, amikor a fájl már nem létezik</string>
+    	<string name="one_day">1 nap</string>
+    	<string name="two_days">2 nap</string>
+    	<string name="five_days">5 nap</string>
+    	<string name="One_week">Egy hét</string>
+    	<string name="Choose_interval">Időtartam kiválasztása</string>
+    	<string name="three_days">3 nap</string>
+    	<string name="How_often_indexing_will_be_performed">Milyen gyakran legyen az indexelés végrehajtva</string>
+    	<string name="Set_period">Időszak beállítása</string>
+    	<string name="Set_time">Időpont beállítása</string>
+    	<string name="Show_notifications">Értesítések mutatása</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Értesítések mutatása, ha az indexelés kész vagy meg lett szakítva</string>
+    
+    
+    <string name="Other">Egyéb</string>
+    	
+    <string name="Clear_persistent_data">Állandó adatok törlése</string>
+    <string name="Clear_persistent_data_summary">Adatok törlése, úgy mint bélyegkép gyorsítótár, ideiglenes fájlok, művelet előzmények, stb.</string>
+    <string name="Clear_thumbnail_cache">Bélyegkép gyorsítótár törlése</string>
+    <string name="Clear_temporary_files">Ideiglenes fájlok törlése</string>
+    <string name="Clear_operation_history">Művelet előzmények törlése</string>
+    <string name="Delete_all_image_previews">Összes előnézeti kép törlése</string>
+    <string name="Delete_all_temporary_files">Összes ideiglenes fájl törlése</string>
+    <string name="Delete_operation_history_entries">Művelet előzmények törlése</string>
+    <string name="Clear_file_type_associations">Fájltársítások törlése</string>
+    <string name="Clear_file_type_associations_summary">Egyes fájltípusok megnyitásához használt alkalmazások információinak törlése</string>
+    <string name="Clear_temporary_files_on_exit">Ideiglenes fájlok törlése kilépéskor</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Kilépéskor az ideiglenes fájlok törölve lesznek</string>
+    
+    <string name="Quick_start_guide">Gyors útmutató</string>
+    <string name="Learn_about_main_features">Tudjon meg többet a Solid Explorer főbb funkcióiról</string>
+    <string name="Help_make_Solid_Explorer_better">Segítsen jobbá tenni a Solid Explorert</string>
+    <string name="Report_a_bug">Hibajelentés</string>
+   
+    <string name="About">A progamról</string>
+    <string name="Author_version_and_changelog">Szerző, verzió és változások</string>
+    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Version">Verzió</string>
+    <string name="Changelog">Változások</string>
+    <string name="Whats_new">Újdonságok</string>
+    <string name="Author">Szerző</string>
+    <string name="Functionality_for_future_releases">Következő verziók funkciói</string>
+    <string name="Planned_features">Tervezett funkciók</string>
+    
+    
+    
+    <!-- Other -->
+    <string name="Prefix">Előtag</string>
+    <string name="Expiration_message">Köszönöm, hogy a Solid Explorer Beta verziót használja. Az alkalmazás tesztelésének folytatásához töltse le a legújabb verziót a Google Play Áruházból.</string>
+    <string name="Empty">Üres</string>
+	<string name="search_description">Keresés az eszközön a Solid Explorer használatával</string>
+    <string name="search_hint">Írjon be egy fájlnevet </string>
+    <string name="Save_file">Fájl mentése</string>
+    <string name="Solid_explorer_indexing_service">Solid Explorer indexelő szolgáltatás</string>
+    
+    
+    
+    <!-- acra -->
+    <string name="crash_toast_text">Hoppá! A Solid Explorer összeomlott. Kérem küldjön egy jelentést a fejlesztőnek, hogy segítsen a hiba kijavításában!</string>
+    <string name="crash_notif_ticker_text">Váratlan hiba, kérem küldjön egy jelentést...</string>
+    <string name="crash_notif_title">A Solid Explorer összeomlott...</string>
+    <string name="crash_notif_text">Kérem kattintson ide, hogy segítsen a hiba kijavításában.</string>
+    <string name="crash_dialog_title">A Solid Explorer összeomlott</string>
+    <string name="crash_dialog_text">Egy váratlan hiba az alkalmazást leállásra kényszerítette. Kérem segítsen a kijavításban azzal, hogy elküldi a hibaadatokat.</string>
+    <string name="crash_dialog_comment_prompt">Kérem adjon részletes információt a problémáról. A legtöbb esetben a visszajelzése nélkül lehetetlen a hibát reprodukálni.</string>
+    <string name="crash_dialog_ok_toast">Köszönöm!</string>
+    
+    <string name="Icon_designer">Ikontervező</string>
+    <string name="Prefix">Előtag</string>
+    <string name="Translations">Fordítás</string>
+    <string name="Translations_summary">Appel</string>
+    <string name="Empty">Üres</string>
+    <string name="Press_once_again_to_exit">Nyomja meg még egyszer a kilépéshez</string>
+    
+    
+    <string name="View_in_DiskUsage">Megtekintés a DiskUsage-ban</string>
+    <string name="Retry">Újra</string>
+    <string name="Portrait">Álló mód</string>
+    <string name="Landscape">Fekvő mód</string>
+    <string name="Customize_list">Lista testreszabása</string>
+    <string name="Customize_list_summary">Ikonok és szöveg méretének testreszabása a fájllistában</string>
+    <string name="Preview">Előnézet</string>
+    <string name="Icon_size_pixels" formatted="false">Ikon mérete (max: % x %)</string>
+    <string name="Label_size">Címke mérete</string>
+    <string name="Subtext_size">Alsó szöveg mérete</string>
+    <string name="Label_size_points">Szöveg mérete (max 35pt)</string>
+    <string name="Columns">Oszlopok</string>
+    <string name="No_computers_found">Nem található számítógép</string>
+    <string name="Local_directory">Helyi mappa</string>
+    <string name="Default_panel">Alapértelmezett panel</string>
+    <string name="Destination_type">Cél típusa</string>
+    <string name="DiskUsage_not_installed">Úgy tűnik, hogy a DiskUsage nincs telepítve. Ez az alkalmazás nagyon kifinomultan és felhasználóbarát módon mutatja a memóriahasználatot. Szeretné most telepíteni?</string>
+    <string name="Text_copied_to_clipboard">A szöveg a vágólapra másolva</string>
+    <string name="Force_english">Angol nyelv kényszerítése</string>
+    <string name="Force_english_summary">Jelölje be, ha elsődlegesként az angol nyelvet részesíti előnyben. Újraindítás után lép érvénybe.</string>
+    <string name="Encoding">Kódolás</string>
+    <string name="Network_thumbnails">Hálózati bélyegképek</string>
+    <string name="Network_thumbnails_summary">Ha be van jelölve, akkor a képek bélyegképei mobiladat használatkor is be lesznek töltve.</string>
+    <string name="Copy_to">Másolás ide</string>
+    <string name="Move_to">Áthelyezés ide</string>
+    <string name="Shortcut">Parancsikon</string>
+    <string name="Two_panels_in_landscape_summary">Mindkét panelt mutassa egyszerre fekvő módban</string>
+    <string name="Two_panels_in_landscape">Két panel fekvő módban</string>
+    <string name="Restart_prompt">Az alkalmazást újra kell indítani a változások alkalmazásához. Folytatja?</string>
+    <string name="Custom_color_scheme">Egyéni színséma</string>
+    <string name="Custom_color_scheme_summary">Teljes színséma testreszabása. Jelentősen lelassítja az alkalmazás indítását.</string>
+    <string name="Color_scheme">Színséma</string>
+    <string name="Color_scheme_summary">Jelenlegi színséma színárnyalatának és telítettségének testreszabása</string>
+    <string name="Change_color_scheme">Színséma módosítása</string>
+    <string name="Hue">Színárnyalat</string>
+    <string name="Saturation">Telítettség</string>
+    <string name="SolidExplorer_is_running">A Solid Explorer jelenleg fut</string>
+    <string name="Notification_shortcut">Értesítési parancsikon</string>
+    <string name="Notification_shortcut_summary">Parancsikon elhelyezése az értesítési sávon, amikor az alkalmazás a háttérben fut</string>
+    <string name="Please_wait">Kérem várjon</string>
+    
+    
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Biztos átmásolja a szemközti panelre?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Biztos áthelyezi a szemközti panelre?</string>
+	<string name="Image_not_loaded">Kép nincs betöltve</string>
+	<string name="Target_SDK">Cél SDK</string>
+	<string name="Description">Leírás</string>
+	<string name="Data_dir">Adatmappa</string> <!-- short word please -->
+	<string name="Installed">Telepítve</string>
+	<string name="Updated">Frissítve</string>
+	<string name="Install">Telepítés</string>
+	<string name="More">Több</string>
+	<string name="Package_name">Csomag neve</string>
+	<string name="Map_view">Térképnézet</string>
+	<string name="Street_view">Utcanézet</string>
+	<string name="Ask">Kérdez</string>
+	<string name="Choose_an_action">Válasszon műveletet</string>
+	<string name="Folders_first">Mappák elöl</string>
+	<string name="Folders_first_summary">Először a mappákat, majd a fájlokat mutatja.</string>
+	<string name="FAQ">GYIK</string>
+	<string name="FAQ_summary">Kérem olvassa el a GYIK-t mielőtt bármit kérdezne</string>
+	
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">Gyorsbeállítások</string> <!-- short word please -->
+	
+	<!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
+	   	<string name="X_folders_and_Y_files_deleted">%x mappa{__:} és %y fájl{__:} törölve.</string>
+    	<string name="X_folders_and_Y_files_copied">%x mappa{__:} és %y fájl{__:} másolva.</string>
+    	<string name="X_folders_and_Y_files_moved">%x mappa{__:} és %y fájl{__:} áthelyezve.</string>
+    	<string name="Deleting_X_folders_and_Y_files">%x mappa{__:} és %y fájl{__:} törlése.</string>
+    	<string name="Copying_X_folders_and_Y_files">%x mappa{__:} és %y fájl{__:} másolása.</string>
+    	<string name="Moving_X_folders_and_Y_files">%x mappa{__:} és %y fájl{__:} áthelyezése.</string>
+    	
+    	<string name="X_folders_moved">% mappa{__:} áthelyezve.</string>
+    	<string name="Moving_X_folders">% mappa{__:} áthelyezése.</string>
+    	
+    	<string name="X_folders">% mappa{__:}</string>
+    	<string name="X_files">% fájl{__:}</string>
+    	
+    	<string name="Show_status_summary">Mutassa a mappa tartalmának és a használt tárhely információit az ablakban</string>
+    	<string name="Show_status">Információ mutatása</string>
+    	<string name="Mount_rw">r/w csatolás</string>
+    	<string name="System_mounted_as_read_write">A rendszer írható/olvashatóként csatolva</string>
+    	<string name="System_mounted_as_read_only">A rendszer csak olvashatóként csatolva</string>
+    	
+	
+</resources>

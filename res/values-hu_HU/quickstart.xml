@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">A Solid Explorer két független panellel rendelkezik a fájlok tallózásához. Például az egyik panelen böngészheted az SD kártya könyvtárait, a másikon pedig hálózati tárolót. A fájlkezelés egyszerű.</string>
+    <string name="page1_2">Álló módban csak egy panel látható. A panelek közti váltáshoz csak csúsztass jobbra vagy balra. Fekvő módban mindkét panel egyszerre látható.</string>
+    <string name="page2_1">Egy fájl ikonján tartva az ujjad megfoghatod, és átdobhatod valahova a másik panelen. Csak csúsztasd a képernyő széléhez és akkor megjelenik a másik panel.</string>
+    <string name="page2_2">A fájlokat akár egy könyvtárba is bedobhatod. Tartsd egy kicsit a fájlt egy könyvtár felett, és a könyvtár meg fog nyílni. Ezután csak engedd el a fájlt..</string>
+    <string name="page3_1">A fájlok gyors kijelöléséhez érintsd meg az ikonjaikat. Egy sáv fog felugrani néhány hasznos funkcióval. A beállításokban további \&quot;másol\&quot;, \&quot;kivág\&quot; és \&quot;küldés\&quot; gombokat engedélyezhet.</string>
+    <string name="page3_2">Ez a funkció rács nézetben nem elérhető. Ki kell választanod a kijelölést a műveletek közül.</string>
+    <string name="page4_1">Az indexelt keresés gyors hozzáférést biztosít az eszközön található bármelyik fájlhoz. A keresések kevesebb, mint egy másodpercig tartanak! Mindamellett, ha a fájl nem található, akkor továbbra is használhatod a \'Kézi keresés\' opciót, hogy fájlról-fájlra átnézd az eszközt.</string>
+    <string name="page4_2">A Google Keresés alkalmazással is kereshetsz az eszközön. Menj a Google Keresés beállítások menüjébe és engedélyezd a Solid Explorert.</string>
+    <string name="page5_1">A Solid Explorer támogatja az FTP, SFTP és SMB protokollokat. Amikor ezek közül valamelyikkel bejelentkezel, a beállítások automatikusan egy könyvjelzőként tárolódnak. Választhatod a jelszavak titkosítását egy mesterjelszóval, amit te állíthatsz be.</string>
+    <string name="page5_2">Ha van egy felhő tárhely fiókod (például Dropbox vagy Box), akkor úgy tallózhatod online a fájlokat, mintha csak a saját eszközödön lévő fájlokat böngésznéd.</string>
+    <string name="page6_1">Ha emailen keresztül akarsz fájlokat küldeni, akkor készíthetsz egy tömörített fájlt. Ez lehet jelszóval védett ZIP és TAR, GZIP vagy BZIP2 tömörítéssel. </string>
+    <string name="page6_2">A Solid Explorer támogatja a ZIP, RAR és TAR archívumok megtekintését és kitömörítését. Úgy tallózhatod ezeket az archívumokat, mintha csak a könyvtáraid között böngésznél.</string>
+    <string name="page7_1">A Solid Explorer részletes információt ad a fájlokról és könyvtárakról. Megvizsgálhatod mi zabálja fel a memóriát vagy nézz néhány statisztikát.</string>
+    <string name="page8_1">Minden funkciónak megvan a helye a tetszetős felugró menük alatt. Gondosan lettek csoportosítva, hogy kiegyensúlyozott élményt biztosítsanak.</string>
+    <string name="page8_2">Amikor több panel van a háttérben, akkor egyszerűen válthatsz közöttük.</string>
+    <string name="page9">Örülök, hogy a Solid Explorer kipróbálása mellett döntöttél. Remélem élvezni fogod az alkalmazás által nyújtott összes funkciót. Ha elefelejtettél valamit, akkor bármikor megnézheted ezt a gyors útmutatót a beállítások menüből. Üdv!</string>
+    <string name="Start_using_solid_explorer">Solid Explorer indítása</string>
+    <string name="page0_1">Üdvözöllek a Solid Explorerben - a legintuitívabb és leginkább szemet gyönyörködtető Androidos fájlkezelőben. Kérlek olvasd el ezt a gyors útmutatót, hogy megismerkedj az alkalmazás által nyújtott funkciókkal.</string>
+    <string name="Not_now">Most nem</string>
+    <string name="page0_2">A kezdéshez csúsztass a következő képernyőre</string>
+    <string name="Welcome">Üdvözöllek</string>
+    <string name="Two_panels">Két panel</string>
+    <string name="Quick_selection">Gyors kijelölés</string>
+    <string name="Indexed_search">Indexelt keresés</string>
+    <string name="Archives">Archívumok</string>
+    <string name="Detailed_information">Részletes információk</string>
+    <string name="Useful_popups">Hasznos felugrók</string>
+    <string name="Lets_start">Kezdjük</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Ezt az útmutatót bármikor elolvashatod. Csak menj a beállítások menübe és válaszd a \&quot;Gyors útmutató\&quot; opciót.</string>
+    <string name="Thank_you">Köszönöm!</string>
+    
+</resources>

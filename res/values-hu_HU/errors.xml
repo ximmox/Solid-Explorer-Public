@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">A könyvtár nem létezik</string>
+    
+    <string name="Unable_to_read_the_file">A fájl olvasása sikertelen</string>
+    <string name="Illegal_operation">Érvénytelen művelet</string>
+    
+    
+    <string name="Cannot_update_the_database">Az adatbázis frissítése sikertelen</string>
+    <string name="Error">Hiba</string>
+    
+    <string name="Invalid_password_for_user_x">A(z) \&quot;%\&quot; felhasználó jelszava érvénytelen</string>
+    <string name="Invalid_master_password">Érvénytelen mesterjelszó</string>
+    <string name="Unable_to_execute_shell_command">A shell parancs futtatása sikertelen</string>
+    <string name="No_root_access_available">Nincs root hozzáférés</string>
+    <string name="Unable_to_read_root_directory">A gyökérkönyvtár olvasása sikertelen</string>
+    
+    <string name="Operation_has_failed">Sikertelen művelet</string>
+    <string name="Invalid_file_path">Érvénytelen fájl elérési út</string>
+    
+    
+    <string name="Cannot_browse_to_x">A \&quot;%\&quot; tallózása sikertelen. Ismeretlen hiba történt.</string>
+    <string name="Cannot_write_to_the_system">A fájlrendszer nem írható. Az írható/olvasható-ként csatolás sikertelen.</string>
+    <string name="Requested_file_x_has_not_been_found">A keresett \&quot;%\&quot; fájl nem található.</string>
+    <string name="Unknown_read_write_exception">Ismeretlen írás/olvasás hiba.</string>
+    <string name="Invalid_url_x">Érvénytelen URL: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Hiba történt a mesterjelszó hozzáférésekor.</string>
+    <string name="Operation_not_allowed">Nem engdélyezett művelet.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">A kapcsolódás sikertelen: \&quot;%x\&quot; port %y.</string>
+    <string name="Unable_to_resolve_host_x">A \&quot;%x\&quot; név feloldása sikertelen.</string>
+    <string name="Server_returned_illegal_response">A kiszolgáló érvénytelen választ adott.</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Hiba történt az adatok fogadása közben.</string>
+    <string name="Invalid_username_or_password">Érvénytelen felhasználónév vagy jelszó.</string>
+    <string name="Internal_server_error">Belső kiszolgáló hiba.</string>
+    <string name="Server_response_x">A kiszolgáló válasza: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Nem sikerült a fájlt olvasásra megnyitni.</string>
+    <string name="Unable_to_write_the_file_to_x">A következő fájl írása sikertelen: \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Nem sikerült csatlakozni: %x.</string>
+    <string name="Unknown_error">Ismeretlen hiba</string>
+    <string name="Cannot_create_directory_X">A \&quot;%x\&quot; mappa létrehozása sikertelen.</string>
+    <string name="Unable_to_start_the_service_on_port_x">Nem sikerült a szolgáltatást elindítani a(z) % porton</string>
+    
+    <string name="Invalid_position">Érvénytelen pozíció</string>
+    <string name="Unable_to_delete_file_x">A % fájl törlése sikertelen</string>
+    <string name="Unable_to_mount_the_system_as_read_write">A system olvasható/írhatóként csatolása sikertelen</string>
+    <string name="Unable_to_mount_the_system_as_read_only">A system csak olvashatóként csatolása sikertelen</string>
+	
+</resources>
