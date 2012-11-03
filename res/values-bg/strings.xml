@@ -748,5 +748,9 @@
     	
     	<string name="Show_status_summary">Показва информация в главния прозорец за съдържанието на директориите и използваното място</string>
     	<string name="Show_status">Покажи статус</string>
+	<string name="Mount_rw">Монтирай ч/з</string>
+    	<string name="System_mounted_as_read_write">Системата монтирана за четене/запис</string>
+     	<string name="System_mounted_as_read_only">Системата монтирана само за четене</string>
+
 
 </resources>
