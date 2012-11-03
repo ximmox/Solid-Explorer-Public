@@ -27,3 +27,6 @@ Current languages list
 * Norwegian
 * Russian
 * Slovakian
+* Hungarian
+
+Supported locales: http://stackoverflow.com/questions/7973023/what-is-the-list-of-supported-languages-locales-on-android
