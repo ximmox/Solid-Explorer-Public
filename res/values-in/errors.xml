@@ -40,4 +40,9 @@
     <string name="Cannot_create_directory_X">Tidak dapat membuat direktori \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">Tidak dapat menjalankan servis pada port no %</string>
     
+    <string name="Invalid_position">Posisi tidak sah</string>
+    <string name="Unable_to_delete_file_x">Tidak dapat menghapus file %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Tidak dapat meng-mount partisi system sebagai baca/tulis</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Tidak dapat meng-mount partisi system sebagai baca-saja</string>
+    
 </resources>
