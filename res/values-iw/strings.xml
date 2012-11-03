@@ -35,6 +35,8 @@
   <string name="Unknown_error">שגיאה לא ידועה</string>
   <string name="Cannot_create_directory_X">לא יכול ליצור את התיקייה \"%x\"</string>
   <string name="Unable_to_start_the_service_on_port_x">לא ניתן להתחיל את השירות בפורט %</string>
+  <string name="Invalid_position">מיקום לא חוקי</string>
+  <!--New Tag-->
   <string name="page1_1">ל Explorer Solid יש שני פאנלים עבור דפדוף בקבצים. לדוגמה, אתה יכול לשים את הכרטיס SD בפאנל אחד והשיתוף מהמחשב שלך בפאנל השני. ככה אתה יכול לנהל את הקבצים בקלות.</string>
   <string name="page1_2">שהמסך לאורך יש פאנל אחד נראה. כדי להחליף בינהם את יכול פשוט להחליק לימין או שמאל. שהמסך לרוחב את תראה את שני הפאנלים בבת אחת.</string>
   <string name="page2_1">אתה יכול לגרור כמה קבצים על ידי לחיצה על האייקון שלהם ולגרור אותם לפאנל השני. פשוט תחליק לקצה המסך והפאנל השני יופיע. קל ופשוט.</string>
@@ -246,12 +248,11 @@
   <string name="Directory">תיקייה</string>
   <string name="Unknown">לא ידוע</string>
   <string name="Symbolic_link">קישור סמלי</string>
-  <!--Tag no change/no translated-->
   <string name="Link_target">יעד קישור</string>
   <string name="Open">פתח</string>
   <string name="Open_directory">פתח תיקייה</string>
-  <string name="MD5">MD5</string>
   <!--Tag no change/no translated-->
+  <string name="MD5">MD5</string>
   <string name="Calculate">חשב</string>
   <string name="Compare">השווה</string>
   <string name="Paste_to_compare">הדבק כדי להשוות</string>
@@ -352,7 +353,6 @@
   <string name="Enter_the_password">הכנס סיסמא</string>
   <string name="Confirmation">אישור</string>
   <string name="Input_request">בקשת קלט</string>
-  <!--Tag no change/no translated-->
   <string name="Message">הודעה</string>
   <string name="Warning">אזהרה!</string>
   <string name="You_did_not_specify_a_password">לא ציינת סיסמא</string>
@@ -394,7 +394,7 @@
   <string name="Indexing_has_been_unscheduled">יצירת אינדקס לא מתוזמנת</string>
   <string name="Scheduled_indexing">יצירת אינדקס מתוזמן</string>
   <string name="Tap_to_start">לחץ כדי להתחיל</string>
-  <string name="Are_you_sure_you_want_to_delete_items">אתה בטוח שאתה רוצה למחוק % פריט(ים)){__:}?</string>
+  <string name="Are_you_sure_you_want_to_delete_items">אתה בטוח שאתה רוצה למחוק % פריט(ים){__:}?</string>
   <string name="X_files_deleted">% קבצים{__:} נמחקו.</string>
   <string name="X_files_copied">% קבצים{__:} הועתקו.</string>
   <string name="X_files_moved">% קבצים{__:} הועברו.</string>
@@ -417,10 +417,10 @@
   <string name="Font">גופן</string>
   <string name="App_default">ברירת מחדל של היישום</string>
   <string name="System_default">ברירת מחדל של המערכת</string>
+  <!--Tag no change/no translated-->
   <string name="Serif">Serif</string>
   <!--Tag no change/no translated-->
   <string name="Monospace">Monospace</string>
-  <!--Tag no change/no translated-->
   <string name="File_saved_successfully">הקובץ נשמר בהצלחה</string>
   <string name="Appearance">מראה</string>
   <string name="Theme">ערכת נושא</string>
@@ -555,7 +555,7 @@
   <string name="crash_dialog_text">שגיאה בלתח צפויה שהתרחשה אילצה את היישום להפסיק לעבוד. בבקשה עזור לי לתקן את זה על ידי שליחת נתוני השגיאה.</string>
   <string name="crash_dialog_comment_prompt">אנא ספק פרטים מפורטים אודות הבעיה. ברוב המקרים זה לא אפשרי לזהות את הבעיה ללא המשוב שלך!(כתוב באנגלית!).</string>
   <string name="crash_dialog_ok_toast">תודה רבה!</string>
-  <string name="Icon_designer">סמל מעצב</string>
+  <string name="Icon_designer">מעצב סמל</string>
   <string name="Translations">תרגום</string>
   <string name="Translations_summary">תרגום לעברית על ידי אלישיב סבח\nמצאת טעות? שלח לי אימייל!\n eliashiv1994@gmail.com</string>
   <string name="Press_once_again_to_exit">לחץ על לחצן חזור שוב כדי לצאת</string>
@@ -596,49 +596,52 @@
   <string name="Hue">גוון</string>
   <string name="Saturation">רוויה</string>
   <string name="SolidExplorer_is_running">Solid Explorer פועל</string>
-  <!--New Tag-->
   <string name="Notification_shortcut">קיצור דרך בהתראות</string>
-  <!--New Tag-->
   <string name="Notification_shortcut_summary">הצג קיצור דרך בהתראות כאשר היישום רץ ברקע</string>
-  <!--New Tag-->
   <string name="Please_wait">אנא המתן</string>
-  <!--New Tag-->
   <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">אתה בטוח שאתה רוצה להעתיק את זה לפאנל השני?</string>
-  <!--New Tag-->
   <string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">אתה בטוח שאתה רוצה להעביר את זה לפאנל השני?</string>
-  <!--New Tag-->
   <string name="Image_not_loaded">התמונה לא נטענה</string>
-  <!--New Tag-->
   <string name="Target_SDK">גרסא דרושה</string>
-  <!--New Tag-->
   <string name="Description">תיאור</string>
-  <!--New Tag-->
   <string name="Data_dir">מיקום נתונים</string>
-  <!--New Tag-->
   <string name="Installed">הותקן</string>
-  <!--New Tag-->
   <string name="Updated">התעדכן</string>
-  <!--New Tag-->
   <string name="Install">התקן</string>
-  <!--New Tag-->
   <string name="More">עוד</string>
-  <!--New Tag-->
   <string name="Package_name">שם חבילה</string>
-  <!--New Tag-->
   <string name="Map_view">הצג במפה</string>
-  <!--New Tag-->
   <string name="Street_view">תצוגת רחוב</string>
-  <!--New Tag-->
   <string name="Ask">שאל</string>
-  <!--New Tag-->
   <string name="Choose_an_action">בחר פעולה</string>
-  <!--New Tag-->
   <string name="Folders_first">תיקיות ראשונות</string>
-  <!--New Tag-->
   <string name="Folders_first_summary">הצג קודם תיקיות ואז קבצים.</string>
-  <!--New Tag-->
   <string name="FAQ">שו\"ת</string>
-  <!--New Tag-->
   <string name="FAQ_summary">אנא קרא את השו\"ת לפני שאתה שואל שאלה.</string>
+  <string name="Quick_config">הגדרה מהירה</string>
+  <!--New Tag-->
+  <string name="X_folders_and_Y_files_deleted" formatted="false">%x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים} נמחקו.</string>
+  <!--New Tag-->
+  <string name="X_folders_and_Y_files_copied" formatted="false">%x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים} הועתקו.</string>
+  <!--New Tag-->
+  <string name="X_folders_and_Y_files_moved" formatted="false">%x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים} הועברו.</string>
+  <!--New Tag-->
+  <string name="Deleting_X_folders_and_Y_files" formatted="false">מוחק %x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים}</string>
+  <!--New Tag-->
+  <string name="Copying_X_folders_and_Y_files" formatted="false">מעתיק %x תיקיה{1:|__:s} ו %y קובץ{1:|__:קבצים}</string>
+  <!--New Tag-->
+  <string name="Moving_X_folders_and_Y_files" formatted="false">מעביר %x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים}</string>
+  <!--New Tag-->
+  <string name="X_folders_moved">% תיקיה{1:|__:תיקיות} הועברו.</string>
+  <!--New Tag-->
+  <string name="Moving_X_folders">מעביר % תיקיה{1:|__:תיקיות}</string>
+  <!--New Tag-->
+  <string name="X_folders">% תיקיה{1:|__:תיקיות}</string>
+  <!--New Tag-->
+  <string name="X_files">% קובץ{1:|__:קבצים}</string>
+  <!--New Tag-->
+  <string name="Show_status_summary">הצג מידע אודות תוכן התיקיה והשטח שבשימוש בחלון הראשי</string>
+  <!--New Tag-->
+  <string name="Show_status">הצג מצב</string>
   <!--New Tag-->
 </resources>
