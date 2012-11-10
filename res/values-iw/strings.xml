@@ -394,7 +394,7 @@
   <string name="Indexing_has_been_unscheduled">יצירת אינדקס לא מתוזמנת</string>
   <string name="Scheduled_indexing">יצירת אינדקס מתוזמן</string>
   <string name="Tap_to_start">לחץ כדי להתחיל</string>
-  <string name="Are_you_sure_you_want_to_delete_items">אתה בטוח שאתה רוצה למחוק % פריט(ים){__:}?</string>
+  <string name="Are_you_sure_you_want_to_delete_items">אתה בטוח שאתה רוצה למחוק % פריט/ים{__:}?</string>
   <string name="X_files_deleted">% קבצים{__:} נמחקו.</string>
   <string name="X_files_copied">% קבצים{__:} הועתקו.</string>
   <string name="X_files_moved">% קבצים{__:} הועברו.</string>
