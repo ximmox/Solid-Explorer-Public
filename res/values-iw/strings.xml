@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--The fit for this new .xml created by XmL by Dolev Alfi-->
 <resources>
   <string name="app_name">Solid Explorer</string>
@@ -620,25 +620,25 @@
   <string name="FAQ_summary">אנא קרא את השו\"ת לפני שאתה שואל שאלה.</string>
   <string name="Quick_config">הגדרה מהירה</string>
   <!--New Tag-->
-  <string name="X_folders_and_Y_files_deleted" formatted="false">%x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים} נמחקו.</string>
+  <string name="X_folders_and_Y_files_deleted" formatted="false">%x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים} נמחקו.</string>
   <!--New Tag-->
-  <string name="X_folders_and_Y_files_copied" formatted="false">%x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים} הועתקו.</string>
+  <string name="X_folders_and_Y_files_copied" formatted="false">%x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים} הועתקו.</string>
   <!--New Tag-->
-  <string name="X_folders_and_Y_files_moved" formatted="false">%x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים} הועברו.</string>
+  <string name="X_folders_and_Y_files_moved" formatted="false">%x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים} הועברו.</string>
   <!--New Tag-->
-  <string name="Deleting_X_folders_and_Y_files" formatted="false">מוחק %x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים}</string>
+  <string name="Deleting_X_folders_and_Y_files" formatted="false">מוחק %x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים}</string>
   <!--New Tag-->
-  <string name="Copying_X_folders_and_Y_files" formatted="false">מעתיק %x תיקיה{1:|__:s} ו %y קובץ{1:|__:קבצים}</string>
+  <string name="Copying_X_folders_and_Y_files" formatted="false">מעתיק %x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים}</string>
   <!--New Tag-->
-  <string name="Moving_X_folders_and_Y_files" formatted="false">מעביר %x תיקיה{1:|__:תיקיות} ו %y קובץ{1:|__:קבצים}</string>
+  <string name="Moving_X_folders_and_Y_files" formatted="false">מעביר %x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים}</string>
   <!--New Tag-->
-  <string name="X_folders_moved">% תיקיה{1:|__:תיקיות} הועברו.</string>
+  <string name="X_folders_moved">% תיקיה{1:|__:/יות} הועברו.</string>
   <!--New Tag-->
-  <string name="Moving_X_folders">מעביר % תיקיה{1:|__:תיקיות}</string>
+  <string name="Moving_X_folders">מעביר % תיקיה{1:|__:/יות}</string>
   <!--New Tag-->
-  <string name="X_folders">% תיקיה{1:|__:תיקיות}</string>
+  <string name="X_folders">% תיקיה{1:|__:/יות}</string>
   <!--New Tag-->
-  <string name="X_files">% קובץ{1:|__:קבצים}</string>
+  <string name="X_files">% קובץ{1:|__:/ים}</string>
   <!--New Tag-->
   <string name="Show_status_summary">הצג מידע אודות תוכן התיקיה והשטח שבשימוש בחלון הראשי</string>
   <!--New Tag-->
