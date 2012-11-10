@@ -644,4 +644,7 @@
   <!--New Tag-->
   <string name="Show_status">הצג מצב</string>
   <!--New Tag-->
+  <string name="Mount_rw">Mount r/w</string>
+  <string name="System_mounted_as_read_write">המערכת שונתה לקריאה וכתיבה</string>
+  <string name="System_mounted_as_read_only">המערכת שונתה לקריאה בלבד</string>
 </resources>
