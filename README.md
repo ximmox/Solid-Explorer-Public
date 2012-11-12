@@ -32,3 +32,4 @@ Current languages list
 * Hungarian - values-hu
 
             - test
+            test
