@@ -405,14 +405,14 @@
     	
     	
     	<string name="Are_you_sure_you_want_to_delete_items">¿Estás seguro de eliminar % elemento{1:|__:s}?</string>
-    	<string name="X_files_deleted">% archivo{1:|__:s} eliminado.</string>
-    	<string name="X_files_copied">% archivo{1:|__:s} copiado.</string>
-    	<string name="X_files_moved">% archivo{1:|__:s} movido.</string>
+    	<string name="X_files_deleted">% archivo{1:|__:s} eliminado{1:|__:s}.</string>
+    	<string name="X_files_copied">% archivo{1:|__:s} copiado{1:|__:s}.</string>
+    	<string name="X_files_moved">% archivo{1:|__:s} movido{1:|__:s}.</string>
     	<string name="X_items">% elemento{1:|__:s}</string>
     	<string name="Deleting_X_files">Eliminando % archivo{1:|__:s}</string>
     	<string name="Copying_X_files">Copiando % archivo{1:|__:s}</string>
     	<string name="Moving_X_files">Moviendo % archivo{1:|__:s}</string>
-    	<string name="Indexing_scheduled_at_X_every_Y">Indexación programada %x cada %y día{1:|__:s}</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Indexación programada a las %x cada %y día{1:|__:s}</string>
     	<!-- Explanation of above
     	
     		 	In english things are simple because we have 1 file and multiple files.
@@ -731,14 +731,14 @@
 
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
-    	<string name="X_folders_and_Y_files_deleted">%x carpeta{1:|__:s} y %y archivo{1:|__:s} eliminados.</string>
-    	<string name="X_folders_and_Y_files_copied">%x carpeta{1:|__:s} y %y archivo{1:|__:s} copiados.</string>
-    	<string name="X_folders_and_Y_files_moved">%x carpeta{1:|__:s} y %y archivo{1:|__:s} movidos.</string>
+    	<string name="X_folders_and_Y_files_deleted">%x carpeta{1:|__:s} y %y archivo{1:|__:s} eliminado{1:|__:s}.</string>
+    	<string name="X_folders_and_Y_files_copied">%x carpeta{1:|__:s} y %y archivo{1:|__:s} copiado{1:|__:s}.</string>
+    	<string name="X_folders_and_Y_files_moved">%x carpeta{1:|__:s} y %y archivo{1:|__:s} movido{1:|__:s}.</string>
     	<string name="Deleting_X_folders_and_Y_files">Eliminando %x carpeta{1:|__:s} y %y archivo{1:|__:s}</string>
     	<string name="Copying_X_folders_and_Y_files">Copiando %x carpeta{1:|__:s} y %y archivo{1:|__:s}</string>
     	<string name="Moving_X_folders_and_Y_files">Moviendo %x carpeta{1:|__:s} y %y archivo{1:|__:s}</string>
     	
-    	<string name="X_folders_moved">% carpeta{1:|__:s} movidas.</string>
+    	<string name="X_folders_moved">% carpeta{1:|__:s} movida{1:|__:s}.</string>
     	<string name="Moving_X_folders">Moviendo % carpeta{1:|__:s}</string>
     	
     	<string name="X_folders">% carpeta{1:|__:s}</string>
