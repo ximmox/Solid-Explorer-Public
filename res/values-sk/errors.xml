@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Adresár neexistuje</string>
+    
+    <string name="Unable_to_read_the_file">Súbor sa nedá prečítať</string>
+    <string name="Illegal_operation">Neplatná operácia</string>
+    
+    
+    <string name="Cannot_update_the_database">Nemožno aktualizovať databázu</string>
+    <string name="Error">Chyba</string>
+    
+    <string name="Invalid_password_for_user_x">Neplatné heslo používateľa \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Neplatné hlavné heslo</string>
+    <string name="Unable_to_execute_shell_command">Nemožno spustiť príkaz</string>
+    <string name="No_root_access_available">Root nie je k dispozícii</string>
+    <string name="Unable_to_read_root_directory">Nedá sa čítať z koreňového adresára</string>
+    
+    <string name="Operation_has_failed">Operácia zlyhala</string>
+    <string name="Invalid_file_path">Neplatná cesta k súboru</string>
+    
+    
+    <string name="Cannot_browse_to_x">Nemožno prechádzať \&quot;%\&quot;. Neznáma chyba.</string>
+    <string name="Cannot_write_to_the_system">Nemožno zapisovať do súborového systému. Pripojenie na čítanie/zápis zlyhalo.</string>
+    <string name="Requested_file_x_has_not_been_found">Požadovaný súbor \&quot;%\&quot; nebol nájdený.</string>
+    <string name="Unknown_read_write_exception">Neznáma výnimka pre čítanie/zápis.</string>
+    <string name="Invalid_url_x">Neplatná URL:%</string>
+    <string name="An_error_occured_while_accessing_master_password">Došlo k chybe pri prístupe hlavnému heslu..</string>
+    <string name="Operation_not_allowed">Operácia nie je povolená.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Nedá sa pripojiť k \&quot;%x\&quot; na porte %y.</string>
+    <string name="Unable_to_resolve_host_x">Nie je možné preložiť doménové názvy \&quot;%x\&quot;</string>
+    <string name="Server_returned_illegal_response">Server vrátil neplatnú odpoveď</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Chyba pri prenose dát zo servera.</string>
+    <string name="Invalid_username_or_password">Neplatné užívateľské meno alebo heslo.</string>
+    <string name="Internal_server_error">Vnútorná chyba servera.</string>
+    <string name="Server_response_x">Odpoveď servera: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Nemožno otvoriť súbor na čítanie</string>
+    <string name="Unable_to_write_the_file_to_x">Nemožno zapísať do súboru \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Nedá sa pripojiť k %x.</string>
+    <string name="Unknown_error">Neznáma chyba</string>
+    <string name="Cannot_create_directory_X">Neznáma chyba. Nemožno vytvoriť adresár \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Nedá sa spustiť služba na porte %</string>
+    
+    <string name="Invalid_position">Neplatná pozícia</string>
+    <string name="Unable_to_delete_file_x">Nedá sa odstrániť súbor  %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Nedá sa pripojiť systém ako zapisovateľný</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Nedá sa pripojiť systém iba na čítanie</string>
+    <string name="Access_denied">Prístup zamietnutý</string>
+    
+</resources>

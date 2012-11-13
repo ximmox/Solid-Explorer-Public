@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">Solid Explorer má dva nezávislé panely pre prehliadanie súborov. Na jednom môžete mať napríklad adresár z SD karty a na druhom internú pamäť. Vďaka tomu môžete s ľahkosťou spravovať všetky súbory.</string>
+    <string name="page1_2">V režime na výšku je viditeľný celý jeden panel. Ak chcete prepínať medzi panelmi, posuňte panel doľava alebo doprava. V režime na šírku vidíte oba panely naraz.</string>
+    <string name="page2_1">Môžete pretiahnuť niekoľko súborov a to tak, že podržíte ich ikonu a potom ju pretiahnete k okraju obrazovky. Týmto sa zobrazí druhý panel a na ňom potom uvoľnite ikony v mieste kam chcete súbory umiestniť. Jednoduché a intuitívne.</string>
+    <string name="page2_2">Rovnako môžete premiestniť súbory do adresárov. Stačí podržať ikonu na súbore, súbor pretiahnuť nad cieľový priečinok, ktorý sa otvorí a uvoľnením ikony sa súbor premiestni.</string>
+    <string name="page3_1">Ak chcete vybrať súbory, kliknite na ich ikonu. Zobrazí sa okno s ponukou funkcií, kde môžete povoliť \&quot;kopírovanie\&quot;, \&quot;úpravu\&quot; a \&quot;odoslanie\&quot; voľbou tlačidla v nastavení.</string>
+    <string name="page3_2">Jedinou výnimkou, kde táto funkcia nefunguje, je mriežka. Musíte zvoliť možnosť Vybrať v ponuke Akcia na spodnom paneli.</string>
+    <string name="page4_1">"Indexované vyhľadávanie poskytuje rýchly prístup k súborom, ktoré sa nachádzajú kdekoľvek v zariadení. Výsledky vyhľadávania získate za menej ako jednu sekundu! Zabudnite na dlhé čakanie. Ak však Váš súbor nebol nájdený, kliknite na 'Ručné vyhľadávanie' a môžete vyhľadávať v telefóne súbor po súbore."</string>
+    <string name="page4_2">Rovnako môžete hľadať v zariadení aj s aplikáciou Google Vyhľadávanie. Jediné, čo musíte urobiť, je ísť do nastavenia Google Vyhľadávania a povoliť Solid Explorer vo vyhľadávacom rozhraní.</string>
+    <string name="page5_1">Solid Explorer podporuje FTP, SFTP a SMB protokoly. Keď sa niekam prihlásite, pripojenie sa automaticky uloží ako záložka. Môžete si vybrať aj zašifrovanie hesla hlavným heslom, ktoré nájdete v nastavení.</string>
+    <string name="page5_2">Vlastníte účet pre vzdialené úložisko? Ak áno, môžete s ľahkosťou prechádzať súbory na Dropbox-e a Box-e.</string>
+    <string name="page6_1">Potrebujete poslať nejaké súbory e-mailom? Vytvorte ZIP, zaheslované ZIP a TAR archívy s GZIP alebo BZIP2 kompresiou.</string>
+    <string name="page6_2">Solid Explorer podporuje ZIP, RAR a TAR archívy pre prehliadanie a rozbalenie. Môžete prehliadať archívy rovnako ako v priečinkoch.</string>
+    <string name="page7_1">Solid Explorer poskytuje podrobné informácie o súboroch a adresároch. Teraz môžete zistiť, akú zaberajú pamäť a zobraziť si rôzne štatistiky.</string>
+    <string name="page8_1">Každá funkcia poskytuje podrobné informácie o súboroch a priečinkoch, ktoré sa zobrazia v elegantných vyskakovacích oknách. Tie sú starostlivo rozdelené, aby zabezpečili čo najlepší užívateľský komfort.</string>
+    <string name="page8_2">Ak máte viac panelov v pozadí, môžete medzi nimi jednoducho prepínať.</string>
+    <string name="page9">Som rád, že ste sa rozhodli pre Solid Explorer. Dúfam, že sa Vám budú páčiť všetky funkcie, ktoré aplikácia poskytuje. Ak ste niečo zabudli prečítajte si túto príručku v nastavení. Majte sa!</string>
+    <string name="Start_using_solid_explorer">Začať používať Solid Explorer</string>
+    <string name="page0_1">Vitajte v aplikácii Solid Explorer - najintuitívnejšom a prehľadnom  správcovi súborov pre Android. Prečítajte si prosím túto stručnú príručku, v ktorej sa zoznámite s funkciami, ktoré táto aplikácia ponúka.</string>
+    <string name="Not_now">Teraz nie</string>
+    <string name="page0_2">Ak chcete začať, prejdite na ďalšiu obrazovku</string>
+    <string name="Welcome">Vitajte</string>
+    <string name="Two_panels">Dva panely</string>
+    <string name="Quick_selection">Rýchly výber</string>
+    <string name="Indexed_search">Indexované vyhľadávanie</string>
+    <string name="Archives">Archívy</string>
+    <string name="Detailed_information">Podrobné informácie</string>
+    <string name="Useful_popups">Užitočné vysk. okná</string>
+    <string name="Lets_start">Začíname</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Sprievodcu si môžete prečítať neskôr. Stačí ísť do nastavenia a vybrať možnosť \&quot;Stručná príručka\&quot;.</string>
+    <string name="Thank_you">Ďakujem!</string>
+    
+</resources>
