@@ -45,4 +45,6 @@
     <string name="Unable_to_mount_the_system_as_read_write">Tidak dapat meng-mount partisi system sebagai baca/tulis</string>
     <string name="Unable_to_mount_the_system_as_read_only">Tidak dapat meng-mount partisi system sebagai baca-saja</string>
     
+    <string name="Access_denied">Akses ditolak</string>
+    
 </resources>
