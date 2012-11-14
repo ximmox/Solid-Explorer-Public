@@ -257,8 +257,8 @@
     <string name="Free_space">Libre</string>
     <string name="Usage">Utilisation</string>
     <string name="Attributes">Attributs</string>
-    <string name="Read">Lire</string>
-    <string name="Write">Ecrire</string>
+    <string name="Read">Lecture</string>
+    <string name="Write">Ecriture</string>
     <string name="Hidden">Caché</string>
     <string name="Additional_info">Informations supplémentaires</string>
     <string name="Percent">Pourcent</string>
@@ -269,10 +269,10 @@
     <string name="Documents">Documents</string>
     <string name="Change">Changer</string>
     <string name="Execute">Exécuter</string>
-    <string name="Owner">Proriétaire</string>
+    <string name="Owner">Propriétaire</string>
     <string name="Group">Groupe</string>
     <string name="Others">Autres</string>
-    <string name="Owners">Proriétaires</string>
+    <string name="Owners">Propriétaires</string>
     <string name="Permissions">Permissions</string>
     <string name="Set">Donner</string>
     <string name="Used_space">Espace utilisé</string>
@@ -305,16 +305,16 @@
     	<string name="Overwrite">Ecraser</string>
     	<string name="Merge">Fusionner</string>
     	<string name="Keep_both">Conserver les deux</string>
-    	<string name="Remember_action">Se souvenir</string>
+    	<string name="Remember_action">Mémoriser</string>
     	<string name="Keep_the_old_file">Conserver l\'ancien fichier</string>
     	<string name="The_new_file_will_have_its_name_changed">Le nouveau fichier sera renommé</string>
-    	<string name="Replace_the_file_with_this">Remplacer le fichier par ceci</string>
+    	<string name="Replace_the_file_with_this">Remplacer le fichier par celui ci</string>
     	<string name="Create_master_password">Créer un mot de passe Maître</string>
     	
     	<string name="Choose_an_activity_to_open_the_file">Choisir un programme pour ouvrir ce fichier</string>
     	<string name="Always_use_this_application">Toujours utiliser ce programme</string>
     	<string name="Send_the_file_using">Envoyer le fichier avec</string>
-    	<string name="Progress">Progrès</string>
+    	<string name="Progress">Progression</string>
     	<string name="Minimize">Réduire</string>
     	<string name="Pause">Pause</string>
     	<string name="Resume">Reprendre</string>
@@ -733,7 +733,8 @@
 	<string name="FAQ">FAQ</string>
 	<string name="FAQ_summary">Merci de lire la FAQ avant de poser une question</string>
 	
-	<!-- v 1.3.8 -->	<string name="Quick_config">Config rapide</string> <!-- short word please -->
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">Config rapide</string> <!-- short word please -->
 	
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
