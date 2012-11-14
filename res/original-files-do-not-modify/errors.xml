@@ -44,5 +44,6 @@
     <string name="Unable_to_delete_file_x">Unable to delete file %</string>
     <string name="Unable_to_mount_the_system_as_read_write">Unable to mount the system as read/write</string>
     <string name="Unable_to_mount_the_system_as_read_only">Unable to mount the system as read only</string>
+    <string name="Access_denied">Access denied</string>
     
 </resources>
