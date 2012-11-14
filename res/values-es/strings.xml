@@ -750,4 +750,12 @@
     	<string name="System_mounted_as_read_write">Sistema montado como lectura/escritura</string>
     	<string name="System_mounted_as_read_only">Sistema montado como sólo lectura</string>
 	
+    	<!--  v 1.3.9 -->	 
+	<string name="Device_labels">Etiquetas de dispositivos</string>
+	<string name="Device_labels_summary">Mostrar etiquetas legibles en lugar de nombres de directorios reales, ej. \&quot;Tarjeta SD\&quot; en lugar de \&quot;sdcard0\&quot;</string>
+	<string name="Swap_device_labels">Intercambiar etiquetas de dispositivos</string>
+	<string name="Swap_device_labels_summary">Intercambiar etiquetas de Memoria Interna con Tarjeta SD en caso de detección incorrecta.</string>
+	<string name="Panels">Paneles</string>
+	<string name="Devices">Dispositivos</string>
+
 </resources>
