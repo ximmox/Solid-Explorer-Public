@@ -654,4 +654,10 @@
   <string name="Swap_device_labels_summary">החלף את המילים זיכרון פנימי עם המילה כרטיס SD במקרה של זיהוי שגוי.</string>
   <string name="Panels">פאנלים</string>
   <string name="Devices">מכשירים</string>
+    <string name="Unable_to_start_the_service_on_port_x">לא ניתן להתחיל את השירות בפורט %</string>
+  <string name="Invalid_position">מיקום לא חוקי</string>
+  <string name="Unable_to_delete_file_x">לא ניתן למחוק את הקובץ %</string>
+  <string name="Unable_to_mount_the_system_as_read_write">לא ניתן להגדיר את המערכת כקריאה/כתיבה</string>
+  <string name="Unable_to_mount_the_system_as_read_only">לא ניתן להגדיר את המערכת לקריאה בלבד</string>
+  <string name="Access_denied">גישה נדחתה</string>
 </resources>
