@@ -42,7 +42,7 @@
     <string name="View">Vue</string>
     <string name="Sort">Trier</string>
     <string name="Search">Recherche</string>
-    <string name="Opérations">Opérations</string>
+    <string name="Operations">Opérations</string>
     <string name="Manage_bookmarks">Gérer les favoris</string>
     <string name="File_sharing">Partage de fichiers</string>
     <string name="Settings">Paramètres</string>
@@ -143,8 +143,8 @@
     
     <!-- Opérations activity -->
     <string name="History_is_empty">Historique vide</string>
-    <string name="Current_opération">Opération en cours</string>
-    <string name="No_pending_opération">Aucune opération en cours</string>
+    <string name="Current_operation">Opération en cours</string>
+    <string name="No_pending_operation">Aucune opération en cours</string>
     <string name="History">Historique</string>
     <string name="Count">Compteur</string>
     <string name="Date">Date</string>
@@ -152,7 +152,7 @@
     <string name="Destination">Destination</string>
     
     	<!-- Opération info -->
-    	<string name="Opération">Opération</string>
+    	<string name="Operation">Opération</string>
     	<string name="From">Depuis</string>
     	<string name="To">Vers</string>
     	<string name="Size">Taille</string>
@@ -172,7 +172,7 @@
     	<string name="X_has_failed">% a échoué.</string>
     	<string name="Tap_to_show_details">Appuyer pour afficher les détails</string>
     	<string name="Pending_cancel_request">Attente de demande d\'annulation</string>
-    	<string name="File_opération">Opération de fichier</string>
+    	<string name="File_operation">Opération de fichier</string>
     
     <!-- Bookmark manager -->
     <string name="Bookmark_manager">Gestionnaire de favoris</string>
@@ -320,8 +320,8 @@
     	<string name="Resume">Reprendre</string>
     	<string name="Dismiss">Abandonner</string>
     	
-    	<string name="Abort_opération">Interrompre l\'opération</string>
-    	<string name="There_is_already_an_opération_running">Une opération est déjà en cours. Vous devez attendre qu\'elle se termine.</string>
+    	<string name="Abort_operation">Interrompre l\'opération</string>
+    	<string name="There_is_already_an_operation_running">Une opération est déjà en cours. Vous devez attendre qu\'elle se termine.</string>
     
     	<!-- Question dialogs -->
     	<string name="Are_you_sure_you_want_to_clear_the_history">Voulez-vous vraiment effacer l\'historique ?</string>
@@ -331,7 +331,7 @@
     	<string name="Folder_exists_descr">Un dossier avec le même nom existe. Que voulez-vous faire ?</string>
     	<string name="File_exists_descr">Un fichier avec le même nom existe dans le dossier. Que voulez-vous faire ?</string>
     	<string name="Are_you_sure_you_want_to_delete">Voulez-vous vraiment supprimer \&quot;%\&quot;?</string>
-    	<string name="Are_you_sure_to_abort_current_opération">Voulez-vous vraiment abandonner l\'opération en cours ?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Voulez-vous vraiment abandonner l\'opération en cours ?</string>
     	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Voulez-vous vraiment supprimer tous les favoris ?</string>
     	<string name="Are_you_sure_you_want_to_delete_bookmark">Voulez-vous vraiment supprimer le favori \&quot;%\&quot; ?</string>
     	<string name="Reindex_prompt">Vous allez démarrer l\'indexation manuelle. Cette opération peut prendre plusieurs minutes, voulez-vous vraiment continuer ?</string>
@@ -345,17 +345,17 @@
     	
     	<!-- Information dialogs -->
     	<string name="SkyDrive_doesnt_support_x_files">SkyDrive ne supporte pas les fichiers \&quot;%\&quot;. Opération annulée.</string>
-    	<string name="Opération_not_supported">Opération non supportée</string>
+    	<string name="Operation_not_supported">Opération non supportée</string>
     	<string name="You_have_to_provide_a_password">Vous devez indiquer un mot de passe</string>
     	<string name="Insufficient_space" formatted="false">Place insuffisante pour terminer l\'opération. Taille : %, disponible : %.</string>
     	<string name="Command_executed_successfully">Commande exécutée avec succès</string>
     	<string name="Deleting_data">Suppression des données</string>
     	<string name="Done">Terminé</string>
-    	<string name="Preparing_for_opération">Préparation de l\'opération...</string>
+    	<string name="Preparing_for_operation">Préparation de l\'opération...</string>
     	<string name="Connecting">Connexion en cours</string>
     	<string name="Connecting_to_x">Connexion à \&quot;%\&quot;</string>
     	<string name="File_is_too_big">Le fichier est trop gros. Seuls les fichiers inférieurs à 75kB sont supportés par l\'édition. Les plus gros fichiers seront bientôt supportés.</string>
-    	<string name="Opération_history_has_been_cleared">L\'historique d\'opérations a été effacé</string>
+    	<string name="Operation_history_has_been_cleared">L\'historique d\'opérations a été effacé</string>
     	<string name="Encrypted_archive">Archive encryptée</string>
     	<string name="Enter_the_password">Entrer le mot de passe</string>
     	<string name="Confirmation">Confirmation</string>
@@ -380,7 +380,7 @@
     	<string name="Tap_top_open">Appuyer pour ouvrir</string>
     	<string name="File_is_ready_to_open">Le fichier est prêt pour ouverture</string>
     	
-    	<string name="Opération_aborted_by_user">Opération arrêtée par l\'utilisateur</string>
+    	<string name="Operation_aborted_by_user">Opération arrêtée par l\'utilisateur</string>
     	<string name="You_cant_delete_this_item">Vous ne pouvez pas supprimer cet objet</string>
     	<string name="Indexing_service">Service d\'indexation</string>
     	<string name="Only_local_file_can_be_added_to_the_archive">Seul un fichier local peut être ajouté à l\'archive</string>
@@ -611,10 +611,10 @@
     <string name="Clear_persistent_data_summary">Vider les données comme le cache de miniatures, fichiers temporaires, historique d\'opérations, etc.</string>
     <string name="Clear_thumbnail_cache">Vider le cache de miniatures</string>
     <string name="Clear_temporary_files">Vider les fichiers temporaires</string>
-    <string name="Clear_opération_history">Vider l\'historique des opérations</string>
+    <string name="Clear_operation_history">Vider l\'historique des opérations</string>
     <string name="Delete_all_image_previews">Effacer toutes les prévisualisations d\'image</string>
     <string name="Delete_all_temporary_files">Effacer tous les fichiers temporaires</string>
-    <string name="Delete_opération_history_entries">Effacer les entrées de l\'historique des opérations</string>
+    <string name="Delete_operation_history_entries">Effacer les entrées de l\'historique des opérations</string>
     <string name="Clear_file_type_associations">Supprimer les associations de fichier</string>
     <string name="Clear_file_type_associations_summary">Réinitialiser les liens entre applications et fichiers particuliers</string>
     <string name="Clear_temporary_files_on_exit">Effacer les fichiers temporaires en quittant</string>
