@@ -20,7 +20,7 @@
     
     
     <string name="Cannot_browse_to_x">Impossible d\'accéder à \&quot;%\&quot;. Erreur inconnue.</string>
-    <string name="Cannot_write_to_the_system">Impossible d\'écrire dans le System. La montée en lecture/écriture a échoué.</string>
+    <string name="Cannot_write_to_the_system">Impossible d\'écrire dans le système. La montée en lecture/écriture a échoué.</string>
     <string name="Requested_file_x_has_not_been_found">Le fichier \&quot;%\&quot; n\'a pas été trouvé.</string>
     <string name="Unknown_read_write_exception">Erreur de lecture/écriture inconnue.</string>
     <string name="Invalid_url_x">URL invalide: %</string>
