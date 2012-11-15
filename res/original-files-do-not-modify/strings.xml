@@ -759,6 +759,6 @@
     	<string name="Swap_device_labels_summary">Swap Internal Memory with SD Card labels in case of incorrect detection.</string>
     	<string name="Panels">Panels</string>
     	<string name="Devices">Devices</string>
-    	
+    	<string name="Bug_report_notice">Before reporting a bug please do the following:\n\n<b>1. Check whether the issue exists in other file manager apps.\n2. Read the FAQ.</b>\n\nDid you complete the steps above?</string>
 
 </resources>
