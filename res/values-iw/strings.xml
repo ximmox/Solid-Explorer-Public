@@ -394,7 +394,7 @@
   <string name="Indexing_has_been_unscheduled">יצירת אינדקס לא מתוזמנת</string>
   <string name="Scheduled_indexing">יצירת אינדקס מתוזמן</string>
   <string name="Tap_to_start">לחץ כדי להתחיל</string>
-  <string name="Are_you_sure_you_want_to_delete_items">אתה בטוח שאתה רוצה למחוק % פריט/ים{__:}?</string>
+  <string name="Are_you_sure_you_want_to_delete_items">אתה בטוח שאתה רוצה למחוק % פריט(ים){__:}?</string>
   <string name="X_files_deleted">% קבצים{__:} נמחקו.</string>
   <string name="X_files_copied">% קבצים{__:} הועתקו.</string>
   <string name="X_files_moved">% קבצים{__:} הועברו.</string>
@@ -620,31 +620,44 @@
   <string name="FAQ_summary">אנא קרא את השו\"ת לפני שאתה שואל שאלה.</string>
   <string name="Quick_config">הגדרה מהירה</string>
   <!--New Tag-->
-  <string name="X_folders_and_Y_files_deleted" formatted="false">%x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים} נמחקו.</string>
+  <string name="X_folders_and_Y_files_deleted" formatted="false">%x {1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים} נמחקו.</string>
   <!--New Tag-->
-  <string name="X_folders_and_Y_files_copied" formatted="false">%x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים} הועתקו.</string>
+  <string name="X_folders_and_Y_files_copied" formatted="false">%x {1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים} הועתקו.</string>
   <!--New Tag-->
-  <string name="X_folders_and_Y_files_moved" formatted="false">%x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים} הועברו.</string>
+  <string name="X_folders_and_Y_files_moved" formatted="false">%x {1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים} הועברו.</string>
   <!--New Tag-->
-  <string name="Deleting_X_folders_and_Y_files" formatted="false">מוחק %x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים}</string>
+  <string name="Deleting_X_folders_and_Y_files" formatted="false">מוחק %x ת{1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים}</string>
   <!--New Tag-->
-  <string name="Copying_X_folders_and_Y_files" formatted="false">מעתיק %x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים}</string>
+  <string name="Copying_X_folders_and_Y_files" formatted="false">מעתיק %x {1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים}</string>
   <!--New Tag-->
-  <string name="Moving_X_folders_and_Y_files" formatted="false">מעביר %x תיקיה{1:|__:/יות} ו %y קובץ{1:|__:/ים}</string>
+  <string name="Moving_X_folders_and_Y_files" formatted="false">מעביר %x {1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים}</string>
   <!--New Tag-->
-  <string name="X_folders_moved">% תיקיה{1:|__:/יות} הועברו.</string>
+  <string name="X_folders_moved">% {1:תיקיה|__:תיקיות} הועברו.</string>
   <!--New Tag-->
-  <string name="Moving_X_folders">מעביר % תיקיה{1:|__:/יות}</string>
+  <string name="Moving_X_folders">מעביר % {1:תיקיה|__:תיקיות}</string>
   <!--New Tag-->
-  <string name="X_folders">% תיקיה{1:|__:/יות}</string>
+  <string name="X_folders">% {1:תיקיה|__:תיקיות}</string>
   <!--New Tag-->
-  <string name="X_files">% קובץ{1:|__:/ים}</string>
+  <string name="X_files">% {1:קובץ|__:קבצים}</string>
   <!--New Tag-->
   <string name="Show_status_summary">הצג מידע אודות תוכן התיקיה והשטח שבשימוש בחלון הראשי</string>
   <!--New Tag-->
   <string name="Show_status">הצג מצב</string>
   <!--New Tag-->
-  <string name="Mount_rw">Mount r/w</string>
-  <string name="System_mounted_as_read_write">המערכת שונתה לקריאה וכתיבה</string>
-  <string name="System_mounted_as_read_only">המערכת שונתה לקריאה בלבד</string>
+  <string name="Mount_rw">הגדר r/w</string>
+  <string name="System_mounted_as_read_write">המערכת הוגדרה לקריאה וכתיבה</string>
+  <string name="System_mounted_as_read_only">המערכת הוגדרה לקריאה בלבד</string>
+  <!--  v 1.3.9 -->
+  <string name="Device_labels">תוויות מכשיר</string>
+  <string name="Device_labels_summary">הצג תוויות קריאות במקום השמות האמיתיים, לדוגמא. \"כרטיס SD\" במקום \"sdcard0\"</string>
+  <string name="Swap_device_labels">החלף שמות מכשיר</string>
+  <string name="Swap_device_labels_summary">החלף את המילים זיכרון פנימי עם המילה כרטיס SD במקרה של זיהוי שגוי.</string>
+  <string name="Panels">פאנלים</string>
+  <string name="Devices">מכשירים</string>
+    <string name="Unable_to_start_the_service_on_port_x">לא ניתן להתחיל את השירות בפורט %</string>
+  <string name="Invalid_position">מיקום לא חוקי</string>
+  <string name="Unable_to_delete_file_x">לא ניתן למחוק את הקובץ %</string>
+  <string name="Unable_to_mount_the_system_as_read_write">לא ניתן להגדיר את המערכת כקריאה/כתיבה</string>
+  <string name="Unable_to_mount_the_system_as_read_only">לא ניתן להגדיר את המערכת לקריאה בלבד</string>
+  <string name="Access_denied">גישה נדחתה</string>
 </resources>

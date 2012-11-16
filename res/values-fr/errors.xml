@@ -20,7 +20,7 @@
     
     
     <string name="Cannot_browse_to_x">Impossible d\'accéder à \&quot;%\&quot;. Erreur inconnue.</string>
-    <string name="Cannot_write_to_the_system">Impossible d\'écrire sur System. Monter en lecture/écriture a échoué.</string>
+    <string name="Cannot_write_to_the_system">Impossible d\'écrire dans le système. La montée en lecture/écriture a échoué.</string>
     <string name="Requested_file_x_has_not_been_found">Le fichier \&quot;%\&quot; n\'a pas été trouvé.</string>
     <string name="Unknown_read_write_exception">Erreur de lecture/écriture inconnue.</string>
     <string name="Invalid_url_x">URL invalide: %</string>
@@ -40,4 +40,10 @@
     <string name="Cannot_create_directory_X">Impossible de créer le dossier \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">Impossible de démarrer le service sur le port %</string>
     
+    <string name="Invalid_position">Position invalide</string>
+    <string name="Unable_to_delete_file_x">Impossible de supprimer le fichier %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Impossible de monter le système en lecture/écriture</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Impossible de monter le système en lecture seule</string>
+    <string name="Access_denied">Accès refusé</string>
+	
 </resources>

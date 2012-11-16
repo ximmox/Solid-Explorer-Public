@@ -44,5 +44,6 @@
     <string name="Unable_to_delete_file_x">Не мога да изтрия файл %</string>
     <string name="Unable_to_mount_the_system_as_read_write">Не мога да монтирам системата за четене/запис</string>
     <string name="Unable_to_mount_the_system_as_read_only">Не мога да монтирам системата само за четене</string>
+    <string name="Access_denied">Достъпа е отказан</string>
 
 </resources>

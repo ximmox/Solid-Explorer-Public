@@ -99,9 +99,9 @@
     <string name="Yes">Yes</string>
     <string name="No">No</string>
     
-	    <!-- New folder/file dialog -->
+      <!-- New folder/file dialog -->
 	    <string name="Enter_the_name">Enter the name</string>
-	    
+
 	    <!-- New connection Dialog -->
 	    <string name="Display_name">Display name</string>
 	    <string name="May_be_empty">May be empty</string>
@@ -504,7 +504,7 @@
     
     <string name="Time_format">Time format</string>
 	<string name="Customize_time_format">Customize time format</string>
-	
+
 	<string name="Show_fast_scroll_thumb_in_file_list">Show fast scroll thumb in the file list</string>
     <string name="Use_fast_scroll">Use fast scroll</string>
     
@@ -727,10 +727,10 @@
 	<string name="Folders_first_summary">Show folders first, then files.</string>
 	<string name="FAQ">FAQ</string>
 	<string name="FAQ_summary">Please read the FAQ before asking any question</string>
-	
+
 	<!-- v 1.3.8 -->
 	<string name="Quick_config">Quick config</string> <!-- short word please -->
-	
+
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
     	<string name="X_folders_and_Y_files_deleted">%x folder{1:|__:s} and %y file{1:|__:s} deleted.</string>
@@ -759,6 +759,6 @@
     	<string name="Swap_device_labels_summary">Swap Internal Memory with SD Card labels in case of incorrect detection.</string>
     	<string name="Panels">Panels</string>
     	<string name="Devices">Devices</string>
-    	
-	
+    	<string name="Bug_report_notice">Before reporting a bug please do the following:\n\n<b>1. Check whether the issue exists in other file manager apps.\n2. Read the FAQ.</b>\n\nDid you complete the steps above?</string>
+
 </resources>
