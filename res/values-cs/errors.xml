@@ -20,15 +20,15 @@
     
     
     <string name="Cannot_browse_to_x">Nelze procházet \&quot;%\&quot;. Neznámá chyba.</string>
-    <string name="Cannot_write_to_the_system">Nelze zapisovat do systému. Připojení pro čtení/zápis se nezdařilo.</string>
+    <string name="Cannot_write_to_the_system">Nelze zapisovat do souborového systému. Připojení pro čtení/zápis se nezdařilo.</string>
     <string name="Requested_file_x_has_not_been_found">Požadovaný soubor \&quot;%\&quot; nebyl nalezen.</string>
     <string name="Unknown_read_write_exception">Neznámá výjimka čtení/zápis.</string>
     <string name="Invalid_url_x">Neplatné URL: %</string>
     <string name="An_error_occured_while_accessing_master_password">Došlo k chybě při přístupu k hlavnímu heslu.</string>
     <string name="Operation_not_allowed">Operace není povolena.</string>
     <string name="Cannot_connect_to_host_x_on_port_y">Nelze se připojit k \&quot;%x\&quot; na portu %y.</string>
-    <string name="Unable_to_resolve_host_x">Nelze přeložit název hostitele \&quot;%x\&quot;.</string>
-    <string name="Server_returned_illegal_response">Server vrátil nelegální odpověď</string>
+    <string name="Unable_to_resolve_host_x">Nelze přeložit jméno hostitele \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Server vrátil nedovolenou odpověď</string>
     <string name="An_error_occured_while_transferring_data_from_the_server">Chyba při přenosu dat ze serveru.</string>
     <string name="Invalid_username_or_password">Neplatné uživatelské jméno nebo heslo.</string>
     <string name="Internal_server_error">Vnitřní chyba serveru.</string>
@@ -39,5 +39,11 @@
     <string name="Unknown_error">Neznámá chyba</string>
     <string name="Cannot_create_directory_X">Nelze vytvořit adresář \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">Nelze spustit službu na portu %</string>
+        
+    <string name="Invalid_position">Neplatná pozice</string>
+    <string name="Unable_to_delete_file_x">Nelze smazat soubor %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Nelze připojit system pro čtení/zápis</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Nelze připojit system pouze pro čtení</string>
+    <string name="Access_denied">Přístup odepřen</string>
     
 </resources>
