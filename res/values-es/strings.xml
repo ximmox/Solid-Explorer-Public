@@ -758,4 +758,6 @@
 	<string name="Panels">Paneles</string>
 	<string name="Devices">Dispositivos</string>
 
+	<string name="Bug_report_notice">Antes de comunicar un error haz lo siguiente:\n\n<b>1. Comprueba si el error existe en otros exploradores de archivos.\n2. Lee las FAQ.</b>\n\n¿Has completado los pasos anteriores?</string>
+ 
 </resources>
