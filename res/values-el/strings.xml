@@ -234,7 +234,7 @@
     <!-- File properties -->
     <string name="Content_summary">Σύνοψη περιεχομένου</string>
     <string name="File_types">Τύποι_αρχείων</string>
-    <string name="Top_10_files">Τα κορυφαία 10 αρχεία</string>
+    <string name="Top_files">Τα κορυφαία % αρχεία</string>
     <string name="Location">Τοποθεσία</string>
     <string name="Type">Τύπος</string>
     <string name="Parent_path">Γονική διαδρομή</string>

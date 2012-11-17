@@ -234,7 +234,7 @@
     <!-- File properties -->
     <string name="Content_summary">Inhaltsübersicht</string>
     <string name="File_types">Dateitypen</string>
-    <string name="Top_10_files">Top 10 Dateien</string>
+    <string name="Top_files">Top % Dateien</string>
     <string name="Location">Ort</string>
     <string name="Type">Typ</string>
     <string name="Parent_path">Übergeordn. Pfad</string>

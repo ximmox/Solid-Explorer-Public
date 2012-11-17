@@ -240,7 +240,7 @@
     <string name="Best">Лучшее</string>
     <string name="Content_summary">Содержание</string>
     <string name="File_types">File_types</string>
-    <string name="Top_10_files">Топ 10 файлов</string>
+    <string name="Top_files">Топ % файлов</string>
     <string name="Location">Расположение</string>
     <string name="Type">Тип</string>
     <string name="Parent_path">Родной путь</string>
