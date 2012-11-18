@@ -2,33 +2,33 @@
 <resources>
     <string name="page1_1">Solid Explorer possède deux panneaux indépendants pour la navigation. Par exemple, vous pouvez afficher la Carte SD dans un panneau et les partages réseau de votre PC sur le second. Vous pouvez ainsi gérer vos fichiers facilement.</string>
     <string name="page1_2">En mode portrait, vous affichez un seul panneau à la fois. Pour passer de l\'un à l\'autre, vous pouvez simplement glisser de gauche à droite. En mode paysage, Solid Explorer affiche les deux panneaux en même temps.</string>
-    <string name="page2_1">Vous pouvez glisser plusieurs fichier en maintenant l\'icône et en la déposant dans le panneau opposé. Déplacez vous simplement sur le bord de l\'écran et le deuxième panneau s\'affichera. Facile et intuitif.</string>
-    <string name="page2_2">Vous pouvez également déposer les fichiers dans un dossier. Gardez le fichier sur le dossier pendant une demi-seconde et il s\'ouvrira. Déposez ensuite votre sélection.</string>
-    <string name="page3_1">Pour sélectionner des fichiers rapidement, appuyez sur l\'icône. La barre de sélection apparaîtra avec des fonctions utiles. Vous pouvez activer des boutons \&quot;copier\&quot;, \&quot;couper\&quot; et \&quot;envoyer\&quot; supplémentaires dans les préférences.</string>
+    <string name="page2_1">Vous pouvez glisser un fichier en maintenant son icône et en le déposant dans le panneau opposé. Déplacez vous simplement sur le bord de l\'écran et le deuxième panneau s\'affichera. Facile et intuitif.</string>
+    <string name="page2_2">Vous pouvez également déposer des fichiers dans un dossier. Laissez les fichiers sur le dossier pendant une demi seconde et il s\'ouvrira. Déposez ensuite votre sélection.</string>
+    <string name="page3_1">Pour sélectionner des fichiers rapidement, appuyez sur les icônes. La barre de sélection s\'affichera avec des fonctions utiles. Vous pouvez activer des boutons \&quot;copier\&quot;, \&quot;couper\&quot; et \&quot;envoyer\&quot; supplémentaires dans les préférences.</string>
     <string name="page3_2">Seule exception, cette fonction n\'est pas accessible dans la vue "grille". Vous devez activer le mode sélection dans le menu "Organiser".</string>
-    <string name="page4_1">La recherche indexée permet un accès rapide aux fichiers situés n\'importe où sur le téléphone. Votre recherche de fichiers prend moins d\'une seconde ! Oubliez l\'attente interminable. Cependant, si votre fichier reste introuvable, cliquez sur l\'option \'Manual Search\' pour chercher dans le téléphone fichier par fichier.</string>
-    <string name="page4_2">Vous pouvez également rechercher via la Recherche Google. Il suffit d\'aller dans les paramètres et d\'activer l\'interface de recherche Solid Explorer.</string>
-    <string name="page5_1">Solid Explorer supporte les protocoles FTP, SFTP et SMB. Lorsque vous vous connectez quelque part, l\'emplacement est directement ajouté comme favori. Vous pouvez choisir d\'encrypter votre mot de passe avec le mot de passe Maître que vous définirez.</string>
-    <string name="page5_2">Possédez vous un compte de stockage sur le Cloud ? Si oui, vous pouvez naviguer dans vos fichiers Dropbox et Box facilement.</string>
-    <string name="page6_1">Vous devez envoyer des fichiers par email? Créez un ZIP, un ZIP protégé par mot de passe et des archives TAR avec la compression GZIP ou BZIP2.</string>
+    <string name="page4_1">La recherche indexée permet un accès rapide aux fichiers situés n\'importe où sur votre appareil. Votre recherche de fichiers prend moins d\'une seconde ! Oubliez l\'attente interminable. Cependant, si votre fichier reste introuvable, cliquez sur l\'option \'Recherche manuelle\' pour chercher fichier par fichier.</string>
+    <string name="page4_2">Vous pouvez également rechercher via l\'application de recherche Google. Il suffit d\'aller dans les paramètres et d\'activer l\'interface de recherche Solid Explorer.</string>
+    <string name="page5_1">Solid Explorer supporte les protocoles FTP, SFTP et SMB. Lorsque vous vous connectez quelque part, l\'emplacement est directement ajouté comme favori. Vous pouvez choisir d\'encrypter votre mot de passe avec un mot de passe Maître que vous définirez.</string>
+    <string name="page5_2">Vous possédez un compte de stockage sur le Cloud ? Vous pourrez alors naviguer dans vos fichiers Dropbox et Box facilement.</string>
+    <string name="page6_1">Vous devez envoyer des fichiers par email ? Créez une archive, un ZIP protégé par mot de passe et des archives TAR compressées en GZIP ou BZIP2.</string>
     <string name="page6_2">Solid Explorer supporte les archives ZIP, RAR et TAR en affichage et extraction. Vous pouvez naviguer dans l\'archive comme dans un dossier.</string>
-    <string name="page7_1">Solid Explorer vous donne des informations détaillées sur fichiers et dossiers. Maintenant vous pouvez voir ce qui prend de la place ou afficher des statistiques.</string>
+    <string name="page7_1">Solid Explorer vous donne des informations détaillées sur les fichiers et les dossiers. Maintenant vous pouvez voir ce qui prend de la place dans votre appareil ou encore afficher des statistiques.</string>
     <string name="page8_1">Chaque fonction est à sa place dans ces superbes popups. Elles ont été groupées avec soin pour assurer la meilleure expérience utilisateur.</string>
-    <string name="page8_2">Quand vous avez des panneaux multiples en arrière plan, vous pouvez passer des uns aux autres comme ceci.</string>
+    <string name="page8_2">Quand vous avez des panneaux multiples en arrière plan, vous pouvez passer des uns aux autres facilement.</string>
     <string name="page9">Je suis heureux que vous ayez décidé d\'essayer Solid Explorer. J\'espère que vous apprécierez toutes les fonctions offertes par cette application. Si vous oubliez quelque chose, vous pouvez afficher à nouveau ce tutoriel depuis les paramètres. Cheers !</string>
     <string name="Start_using_solid_explorer">Commencer à utiliser Solid Explorer</string>
     <string name="page0_1">Bienvenue dans l\'application Solid Explorer - le gestionnaire de fichier le plus agréable et intuitif pour Android. Merci de lire le tutoriel pour vous familiariser avec tous les avantages offerts par cette application !</string>
     <string name="Not_now">Pas maintenant</string>
-    <string name="page0_2">Pour commencer, glissez à l\'écran suivant</string>
+    <string name="page0_2">Pour commencer, glissez vers l\'écran suivant</string>
     <string name="Welcome">Bienvenue</string>
     <string name="Two_panels">Deux panneaux</string>
     <string name="Quick_selection">Sélection rapide</string>
     <string name="Indexed_search">Recherche indexée</string>
     <string name="Archives">Archives</string>
     <string name="Detailed_information">Informations détaillées</string>
-    <string name="Useful_popups">Popups utiles</string>
+    <string name="Useful_popups">Popups pratiques</string>
     <string name="Lets_start">C\'est parti</string>
-    <string name="You_can_read_the_guide_later_in_the_settings">Vous pouvez lire ce tutoriel plus tard. Allez simplement dans les paramètres et selectionnez \&quot;Tutoriel\&quot;.</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Vous pouvez lire ce tutoriel plus tard. Allez simplement dans les paramètres et selectionnez \&quot;Guide rapide\&quot;.</string>
     <string name="Thank_you">Merci !</string>
     
 </resources>

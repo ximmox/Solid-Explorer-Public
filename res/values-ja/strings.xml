@@ -234,7 +234,7 @@
     <!-- File properties -->
     <string name="Content_summary">コンテンツの概要</string>
     <string name="File_types">ファイルの種類</string>
-    <string name="Top_10_files">上位10ファイル</string>
+    <string name="Top_files">上位%ファイル</string>
     <string name="Location">場所</string>
     <string name="Type">種類</string>
     <string name="Parent_path">親パス</string>

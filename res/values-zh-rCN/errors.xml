@@ -40,4 +40,10 @@
     <string name="Cannot_create_directory_X">无法创建目录 \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">无法在 % 端口上开启服务</string>
     
+    <string name="Invalid_position">无效的位置</string>
+    <string name="Unable_to_delete_file_x">无法删除文件 %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">无法挂载系统目录为 读/写</string>
+    <string name="Unable_to_mount_the_system_as_read_only">无法挂载系统目录为 只读</string>
+    <string name="Access_denied">访问被拒绝</string>
+    
 </resources>
