@@ -234,7 +234,7 @@
     <!-- File properties -->
     <string name="Content_summary">İçerik Özeti</string>
     <string name="File_types">Dosya Türleri</string>
-    <string name="Top_files">İlk % Dosya</string>
+    <string name="Top_10_files">İlk 10 Dosya</string>
     <string name="Location">Konum</string>
     <string name="Type">Tip</string>
     <string name="Parent_path">Ebeyen Dizin</string>
@@ -724,4 +724,35 @@
 	<string name="FAQ">SSS</string>
 	<string name="FAQ_summary">Lütfen soru sormadan önce SSS bölümünü ziyaret edin.</string>
 
+
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">Hızlı Ayar</string> <!-- short word please -->
+
+	<string name="X_folders_and_Y_files_deleted">%x dizin ve %y dosya silindi.</string>
+	<string name="X_folders_and_Y_files_copied">%x dizin ve %y dosya kopyalandı.</string>
+	<string name="X_folders_and_Y_files_moved">%x dizin ve %y dosya taşındı.</string>
+	<string name="Deleting_X_folders_and_Y_files">%x dizin ve %y dosya siliniyor.</string>
+	<string name="Copying_X_folders_and_Y_files">%x dizin ve %y dosya kopyalanıyor.</string>
+	<string name="Moving_X_folders_and_Y_files">%x dizin ve %y dosya taşınıyor.</string>
+
+	<string name="X_folders_moved">% dizin taşındı.</string>
+	<string name="Moving_X_folders">% dizin taşınıyor.</string>
+
+	<string name="X_folders">% dizin.</string>
+	<string name="X_files">% dosya.</string>
+
+	<string name="Show_status_summary">Gezgin penceresinde dizin içeriği ve kullanılan alan hakkında bilgi göster.</string>
+	<string name="Show_status">Bilgi Göster</string>
+	<string name="Mount_rw">Okuma Yazma Yetkileri</string>
+	<string name="System_mounted_as_read_write">Sistem okuma yazma izinlerine sahip.</string>
+	<string name="System_mounted_as_read_only">Sistem okuma iznine sahip.</string>
+
+	<!-- v 1.3.9 -->
+	<string name="Device_labels">Aygıt Etiketleri</string>
+	<string name="Device_labels_summary">Gerçek dizin adları yerine daha okunabilir etiketler göster. (ör. \&quot;sdcard0\&quot; yerine \&quot;SD Card\&quot;)</string>
+	<string name="Swap_device_labels">Aygıt Etiketlerini Değiştir</string>
+	<string name="Swap_device_labels_summary">Yerel hafıza ve SD kart etiketlerini yanlış bir algılama durumuna karşı önlem olarak değiştir.</string>
+	<string name="Panels">Bölmeler</string>
+	<string name="Devices">Aygıtlar</string>
+	<string name="Bug_report_notice">Bir hata bildirmeden önce lütfen aşağıdakileri gerçekleştirin:\n\n<b>1. Aynı sorunun diğer dosya yöneticilerinde olup olmadığını kontrol edin.\n2. SSS bölümünü okuyun.</b>\n\nÜstteki adımları gerçekleştirdiniz mi?</string>
 </resources>
