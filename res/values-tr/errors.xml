@@ -38,6 +38,12 @@
     <string name="Unable_to_connect_to_the_x">%x konumuna bağlanılamıyor.</string>
     <string name="Unknown_error">Bilinmeyen hata</string>
     <string name="Cannot_create_directory_X">Dizin yaratılamadı \&quot;%x\&quot;</string>
-	<string name="Unable_to_start_the_service_on_port_x">\&quot;%\&quot; portu üzerinde servis yaratılamıyor.</string>
+    <string name="Unable_to_start_the_service_on_port_x">\&quot;%\&quot; portu üzerinde servis yaratılamıyor.</string>
+    
+    <string name="Invalid_position">Geçersiz pozisyon</string>
+    <string name="Unable_to_delete_file_x">% dosyası silinemiyor.</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Sistem üzerinde okuma ve yazma izinleri alınamadı.</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Sistem üzerinde okuma izni alınamadı.</string>
+    <string name="Access_denied">Erişim reddedildi</string>
     
 </resources>
