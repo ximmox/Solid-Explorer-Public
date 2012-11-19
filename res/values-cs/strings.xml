@@ -736,7 +736,7 @@ if more than one noun in a sentence is affected -->
      <string name="X_folders_moved">% slož{1:ka|2-4:ky|__:ek} přesunut{1:a|2-4:y|__:o}.</string>
      <string name="Moving_X_folders">Přesouvání % slož{1:ky|__:ek}</string>
     
-     <string name="X_folders">% {1:ka|2-4:ky|__:ek}</string>
+     <string name="X_folders">% slož{1:ka|2-4:ky|__:ek}</string>
      <string name="X_files">% soubor{1:|2-4:y|__:ů}</string>
     
      <string name="Show_status_summary">Zobrazí informace o obsahu složky a využitém místě v okně průzkumníka</string>
