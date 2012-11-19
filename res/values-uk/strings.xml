@@ -199,7 +199,7 @@
   <!-- File properties -->
   <string name="Content_summary">Загальне</string>
   <string name="File_types">Типи файлів</string>
-  <string name="Top_10_files">10 найбільших</string>
+  <string name="Top_files">% найбільших</string>
   <string name="Location">Розміщення</string>
   <string name="Type">Тип</string>
   <string name="Parent_path">Шлях</string>

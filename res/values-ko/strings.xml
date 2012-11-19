@@ -234,7 +234,7 @@
     <!-- File properties -->
     <string name="Content_summary">내용 요약</string>
     <string name="File_types">File_types</string>
-    <string name="Top_10_files">상위 10개의 파일</string>
+    <string name="Top_files">상위 %개의 파일</string>
     <string name="Location">경로</string>
     <string name="Type">형식</string>
     <string name="Parent_path">상위 경로</string>

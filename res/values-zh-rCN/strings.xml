@@ -234,7 +234,7 @@
     <!-- File properties -->
     <string name="Content_summary">内容摘要</string>
     <string name="File_types">文件类型</string>
-    <string name="Top_10_files">最大的10个文件</string>
+    <string name="Top_files">最大的%个文件</string>
     <string name="Location">位置</string>
     <string name="Type">类型</string>
     <string name="Parent_path">所在目录</string>
