@@ -717,9 +717,9 @@ Krzysztof Głodowski"</string>
     	<string name="Device_labels">Názvy zariadení</string>
     	<string name="Device_labels_summary">Zobraziť lepšie porozumiteľné názvy zariadení namiesto ich skutočných názvov , napr. \&quot;SD karta\&quot; namiesto \&quot;sdcard0\&quot;</string>
     	<string name="Swap_device_labels">Vymeniť názvy zariadení</string>
-    	<string name="Swap_device_labels_summary">Zameniť internú pamäť s názvom SD karty v prípade nesprávnej detekcie.</string>
+    	<string name="Swap_device_labels_summary">Vymeniť názov internej pamäte s názvom SD karty v prípade nesprávnej detekcie.</string>
     	<string name="Panels">Panely</string>
     	<string name="Devices">Zariadenia</string>
-    	
+    	<string name="Bug_report_notice">Pred nahlásením chyby najprv urobte nasledovné kroky:\n\n<b>1. Skontrolujte, či sa chyba prejavuje aj v iných aplikáciách na správu súborov.\n2. Prečítajte si Často kladené otázky.</b>\n\nUrobili ste vyššie uvedené kroky?</string>
 	
 </resources>
