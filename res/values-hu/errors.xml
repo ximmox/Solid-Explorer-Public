@@ -44,5 +44,6 @@
     <string name="Unable_to_delete_file_x">A % fájl törlése sikertelen</string>
     <string name="Unable_to_mount_the_system_as_read_write">A system olvasható/írhatóként csatolása sikertelen</string>
     <string name="Unable_to_mount_the_system_as_read_only">A system csak olvashatóként csatolása sikertelen</string>
+    <string name="Access_denied">Hozzáférés megtagadva</string>
 	
 </resources>
