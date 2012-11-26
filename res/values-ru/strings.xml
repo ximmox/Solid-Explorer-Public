@@ -300,7 +300,7 @@
     <string name="Aperture_size">Размер диафрагмы</string>
     <string name="Flash">Вспышка</string>
     <string name="File_exists">Файл существует</string>
-    <string name="Skip">Скрыть</string>
+    <string name="Skip">Отмена</string>
     <string name="Overwrite">Перезаписать</string>
     <string name="Merge">Слияние</string>
     <string name="Keep_both">Сохранить оба</string>
@@ -616,7 +616,7 @@ Krzysztof Głodowski"</string>
     <string name="Folders_first_summary">Показывать папки, а затем файлы</string>
     <string name="FAQ">ЧАВО</string>
     <string name="FAQ_summary">Пожалуйста, прочтите ЧАВО перед тем как задавать вопрос</string>
-	<string name="Quick_config">Быстрая конфигурация</string>
+    <string name="Quick_config">Быстрая конфигурация</string>
     <string name="X_folders_and_Y_files_deleted" formatted="false">%x папок и %y файлов удалено</string>
     <string name="X_folders_and_Y_files_copied" formatted="false">%x папок и %y файлов скопировано</string>
     <string name="X_folders_and_Y_files_moved" formatted="false">%x папок и %y файлов перемещено</string>
@@ -632,4 +632,16 @@ Krzysztof Głodowski"</string>
     <string name="Mount_rw">Монтировать r/w</string>
     <string name="System_mounted_as_read_write">Система смонтированна для чтения/записи</string>
     <string name="System_mounted_as_read_only">Система смонтированна только для чтения</string>
+    <string name="Device_labels">Метки устройства</string>
+    <string name="Device_labels_summary">Показать нормальные имена устройств и дисков, вместо реальных имен, например \"SD карта\" вместо \"sdcard0\"</string>
+    <string name="Swap_device_labels">Смена меток устройства</string>
+    <string name="Swap_device_labels_summary">Поменять местами встроенную память с SD картой, в случае неправильного обнаружения</string>
+    <string name="Panels">Панели</string>
+    <string name="Devices">Устройства</string>
+    <string name="Bug_report_notice">"Перед сообщением об ошибке, выполните следующие действия:
+
+"<b>"1. Убедитесь в том, что существует ли данная проблема и в другом файловом менеджере.
+2. Прочитайте FAQ."</b>"
+
+Вы выполнили описанные выше действия?"</string>
 </resources>
