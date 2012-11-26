@@ -726,7 +726,7 @@
 
 
 	<!-- v 1.3.8 -->
-	<string name="Quick_config">Hızlı Ayar</string> <!-- short word please -->
+	<string name="Quick_config">Hızlı Ayarlar</string> <!-- short word please -->
 
 	<string name="X_folders_and_Y_files_deleted">%x dizin ve %y dosya silindi.</string>
 	<string name="X_folders_and_Y_files_copied">%x dizin ve %y dosya kopyalandı.</string>
