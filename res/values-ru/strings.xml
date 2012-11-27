@@ -33,7 +33,7 @@
     <string name="Unknown_error">Неизвестная ошибка</string>
     <string name="Cannot_create_directory_X">Невозможно создать каталог \"%x\"</string>
     <string name="Unable_to_start_the_service_on_port_x">Не удалось запустить службу с портом %</string>
-	<string name="Invalid_position">Неверная позиция</string>
+    <string name="Invalid_position">Неверная позиция</string>
     <string name="Unable_to_delete_file_x">Не удается удалить файл %</string>
     <string name="Unable_to_mount_the_system_as_read_write">Не удается установить систему для чтения/записи</string>
     <string name="Unable_to_mount_the_system_as_read_only">Не удается установить систему только для чтения</string>
@@ -420,8 +420,8 @@
     <string name="Monospace">Monospace</string>
     <string name="File_saved_successfully">Файл успешно сохранен</string>
     <string name="Appearance">Внешний вид</string>
-    <string name="Theme">Тема</string>
-    <string name="Choose_between_preinstalled_themes">Выбор между предустановленными темами</string>
+    <string name="Theme">Темы</string>
+    <string name="Choose_between_preinstalled_themes">Выберите желаемую тему</string>
     <string name="Light">Светлая</string>
     <string name="Dark">Темная</string>
     <string name="Toggle_visibility_of_hidden_files">Переключить видимость скрытых файлов</string>
@@ -547,7 +547,7 @@ Krzysztof Głodowski"</string>
     <string name="Solid_explorer_indexing_service">Solid Explorer служба индексирования</string>
     <string name="crash_toast_text">Ooooops! Ошибка приложения Solid Explorer. Пожалуйста, отправьте отчет для разработчиков, чтобы помочь мне решить проблему!</string>
     <string name="crash_notif_ticker_text">Неожиданная ошибка, отправьте отчет...</string>
-    <string name="crash_notif_title">Solid Explorer вышел из строя...</string>
+    <string name="crash_notif_title">Ошибка Solid Explorer...</string>
     <string name="crash_notif_text">Пожалуйста, нажмите здесь, чтобы помочь решить проблему</string>
     <string name="crash_dialog_title">Solid Explorer вышел из сторя</string>
     <string name="crash_dialog_text">Произошла непредвиденная ошибка заставившая приложение остановиться. Пожалуйста, помогите мне исправить это, отправив данные о ошибке.</string>
@@ -644,4 +644,5 @@ Krzysztof Głodowski"</string>
 2. Прочитайте FAQ."</b>"
 
 Вы выполнили описанные выше действия?"</string>
+    <string name="Unable_to_move_the_file">Не удалось переместить файл %</string>
 </resources>
