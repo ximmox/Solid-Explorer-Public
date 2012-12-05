@@ -88,7 +88,7 @@
   <string name="User_name">Ім\'я користувача</string>
   <string name="Password">Пароль</string>
   <string name="Repeat_the_password">Повторіть пароль</string>
-  <string name="Authentication_method">Метод автентифікації</string>
+  <string name="Authentication_method">Метод авторизації</string>
   <string name="Server">Сервер</string>
   <string name="Connection_type">Тип з\'єднання</string>
   <string name="Scan">Сканувати</string>
@@ -109,14 +109,14 @@
   <string name="Manual_search">Ручний пошук</string>
   <string name="Results_from">Результати з:</string>
   <string name="No_results">Немає</string>
-  <string name="Matches">Співпадіння</string>
-  <string name="Selected">Вибрано</string>
+  <string name="Matches">Збіг</string>
+  <string name="Selected">Обрано</string>
   <string name="Match_mode">Режим відбору</string>
   <string name="Match_start">Старт відбору</string>
   <string name="Match_any">Підібрати будь-який</string>
   <string name="Match_end">Кінець відбору</string>
   <!-- Operations activity -->
-  <string name="History_is_empty">Історія пуста</string>
+  <string name="History_is_empty">Історія порожня</string>
   <string name="Current_operation">Поточні дії</string>
   <string name="No_pending_operation">Немає дій</string>
   <string name="History">Історія</string>
@@ -150,7 +150,7 @@
   <string name="Edit">Редагування</string>
   <string name="Disconnect">Роз\'єднати</string>
   <string name="Delete_all">Видалити усі</string>
-  <string name="Wifi_toggle">Перемкнути на WiFi</string>
+  <string name="Wifi_toggle">Переключити WiFi</string>
   <string name="Wifi_settings">Налаштування WiFi</string>
   <string name="Disconnect_all">Роз\'єднати</string>
   <string name="Connected">З\'єднано</string>
@@ -226,7 +226,7 @@
   <string name="Write">Запис</string>
   <string name="Hidden">Прихований</string>
   <string name="Additional_info">Додаткова інформація</string>
-  <string name="Percent">Процент</string>
+  <string name="Percent">Відсоток</string>
   <string name="Music">Аудіо</string>
   <string name="Pictures">Фото</string>
   <string name="Videos">Відео</string>
@@ -313,7 +313,7 @@
   <string name="Preparing_for_operation">Підготовка...</string>
   <string name="Connecting">З\'єднання</string>
   <string name="Connecting_to_x">Під\'єднання до \"%\"</string>
-  <string name="File_is_too_big">Файл завеликий. Підтримується редагування файлів до 75 кб. Підтримка більших буде скоро.</string>
+  <string name="File_is_too_big">Файл завеликий. Підтримується редагування файлів до 75 кб. Підтримка більших буде незабаром.</string>
   <string name="Operation_history_has_been_cleared">Історію дій очищено</string>
   <string name="Encrypted_archive">Зашифрований архів</string>
   <string name="Enter_the_password">Введіть пароль</string>
@@ -352,7 +352,7 @@
   <string name="Cannot_connect_to">Неможливо з\'єднатись з \"%\"</string>
   <string name="You_are_not_logged_in">Ви не увійшли</string>
   <string name="Can_not_create_the_directory">Неможливо створити каталог</string>
-  <string name="Beta_expired">Бета-версію прострочено</string>
+  <string name="Beta_expired">Бета-версія прострочена</string>
   <string name="Can_not_create_the_file">Неможливо створити файл</string>
   <string name="Uknown_file_type">Невідомий тип файлу</string>
   <string name="No_activity_found_to_open_this_file">Незнайдено додатку для відкриття</string>
@@ -368,7 +368,7 @@
   <string name="Deleting_X_files">Видалення % файл{1:|2-4:а|_2-4:а|__:ів}</string>
   <string name="Copying_X_files">Копіювання % файл{1:|2-4:а|_2-4:а|__:ів}</string>
   <string name="Moving_X_files">Переміщенння % файл{1:|2-4:а|_2-4:а|__:ів}</string>
-  <string name="Indexing_scheduled_at_X_every_Y">Індексацію призначено на %x кожен %y д{1:ень|__:ень}</string>
+  <string name="Indexing_scheduled_at_X_every_Y">Індексацію назначено на %x кожен %y д{1:ень|__:ень}</string>
   <!-- Explanation of above
     	
     		 	In english things are simple because we have 1 file and multiple files.
@@ -409,7 +409,7 @@
     	-->
   <!-- Open as dialog -->
   <string name="Open_as">Відкрити як...</string>
-  <string name="Choose_a_preferred_type">Обрати переважний тип</string>
+  <string name="Choose_a_preferred_type">Обрати бажаний тип</string>
   <string name="Text_file">Текст</string>
   <string name="Image_file">Зображення</string>
   <string name="Music_file">Аудіо</string>
@@ -417,7 +417,7 @@
   <string name="ZIP_archive">ZIP архів</string>
   <!-- File picker -->
   <string name="Create_shortcut">Створити ярлик</string>
-  <string name="Shortcut_tip">Щоб створити ярлик до папки виберіть \"Створити ярлик\" з контекстного меню.</string>
+  <string name="Shortcut_tip">Щоб створити ярлик до папки оберіть \"Створити ярлик\" з контекстного меню.</string>
   <!-- Text editor -->
   <string name="Wrap_lines">Згортати стрічки</string>
   <string name="Font_size">Розмір шрифту</string>
@@ -454,9 +454,9 @@
   <string name="Landscape_file_list_size">Розмір списку (альбом)</string>
   <string name="Adjust_size_of_the_file_list_in_landscape">Налаштувати розмір списку факйлів</string>
   <string name="Small">Малий</string>
-  <string name="Normal">Нормальний</string>
+  <string name="Normal">Середній</string>
   <string name="Big">Великий</string>
-  <string name="Large">Large</string>
+  <string name="Large">Дуже великий</string>
   <string name="Extra_small">Дуже малий</string>
   <string name="Hide_exit_button">Приховати кнопку виходу</string>
   <string name="Hide_exit_button_summary">Щоб вийти, утримуйте кнопку "назад"</string>
@@ -468,24 +468,24 @@
   <string name="Change_pictures_directory">Папка з фото</string>
   <string name="Change_downloads_directory">Папка завантажень</string>
   <string name="Drag_and_drop">Drag and Drop</string>
-  <string name="Action_for_drop_inside_the_panel">Дія у межах одної панелі</string>
-  <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетягування фаулу на папку у цій же панелі</string>
+  <string name="Action_for_drop_inside_the_panel">Дія у межах однієї панелі</string>
+  <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетягування файлу на папку у цій же панелі</string>
   <string name="Action_for_drop_to_the_second_panel">Дія в двох панелях</string>
-  <string name="Dropping_an_item_to_the_second_panel">Перетягування файлу в іншу панель</string>
+  <string name="Dropping_an_item_to_the_second_panel">Перетягування файлу на іншу панель</string>
   <string name="Move">Переміщення</string>
   <string name="Security">Безпека</string>
   <string name="Master_password_prompt">Solid Explorer використовує головний пароль для шифрування ваших логінів та паролів. Якщо ви турбуєтесь про безпеку, рекомендується використовувати цю опцію. Запит головного паролю відбуватиметься лише один раз на сеанс роботи. У іншому випадку використовується стандартне шифрування без паролю. Бажаєте увімкнути опцію?</string>
-  <string name="Disable_master_password_warning">Disabling master password will cause switching to the default password. You will never be asked for it. Login credentials will still be encrypted. Do you want to proceed?</string>
+  <string name="Disable_master_password_warning">Вимкнення головного паролю призведе до встановлення стандартного паролю. Запиту ніколи не буде. Дані авторизації залишаться зашифрованими. Бажаєте продовжувати?</string>
   <string name="Enable_master_password_warning">Якщо у вас є закладки шифровані за допомогою паролю за замовчуванням, їх буде вилучено. Продовжувати?</string>
   <string name="Enable_master_password">Увімкнення головного паролю</string>
-  <string name="Too_weak_password">Пароль повинен містити хоча б 6 знаків, але не більше ніж 16</string>
+  <string name="Too_weak_password">Пароль повинен містити хоча б 6 символів, але не більше ніж 16</string>
   <string name="Enter_the_master_password">Введіть головний пароль</string>
   <string name="Enter_a_new_master_password">Введіть новий головний пароль</string>
   <string name="Encrypt_all_login_ceredentials_with_a_master_password">Шифрувати усі реквізити за допомогою головного паролю</string>
   <string name="Set_master_password">Зміна головного паролю</string>
   <string name="All_passwords_will_be_reencrypted">Усі  паролі буде перешифровано</string>
   <string name="I_dont_remember_my_old_password">Я не пам\'ятаю мій старий пароль</string>
-  <string name="Reset_password_warning">Увага! Якщо встановите новий пароль зараз, тоді усі закладки створені з старим буде видалено.</string>
+  <string name="Reset_password_warning">Увага! Якщо встановите новий пароль зараз, тоді усі закладки створені зі старим буде видалено.</string>
   <string name="Old_password">Старий пароль</string>
   <string name="New_password">Новий пароль</string>
   <string name="Master_password_has_been_disabled">Головний пароль вимкнено</string>
@@ -567,7 +567,7 @@
   <string name="Icon_designer">Дизайн піктограми</string>
   <string name="Prefix">Префікс</string>
   <string name="Translations">Переклад</string>
-  <string name="Translations_summary">Переклад на українську мову -\n Ярослав Хлопась \n motorslvrz6@gmail.com</string>
+  <string name="Translations_summary">Переклад на українську мову -\n Ярослав Хлопась \n motorslvrz6@gmail.com \n Мартинчук Максим \n m.ksy@bk.ru</string>
   <string name="Empty">Пусто</string>
   <string name="Press_once_again_to_exit">Щоб вийти, натисніть ще раз.</string>
   <string name="View_in_DiskUsage">Переглянути у DiskUsage</string>
