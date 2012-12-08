@@ -33,7 +33,7 @@
     <string name="Unknown_error">Неизвестная ошибка</string>
     <string name="Cannot_create_directory_X">Невозможно создать каталог \"%x\"</string>
     <string name="Unable_to_start_the_service_on_port_x">Не удалось запустить службу с портом %</string>
-	<string name="Invalid_position">Неверная позиция</string>
+    <string name="Invalid_position">Неверная позиция</string>
     <string name="Unable_to_delete_file_x">Не удается удалить файл %</string>
     <string name="Unable_to_mount_the_system_as_read_write">Не удается установить систему для чтения/записи</string>
     <string name="Unable_to_mount_the_system_as_read_only">Не удается установить систему только для чтения</string>
@@ -300,7 +300,7 @@
     <string name="Aperture_size">Размер диафрагмы</string>
     <string name="Flash">Вспышка</string>
     <string name="File_exists">Файл существует</string>
-    <string name="Skip">Скрыть</string>
+    <string name="Skip">Отмена</string>
     <string name="Overwrite">Перезаписать</string>
     <string name="Merge">Слияние</string>
     <string name="Keep_both">Сохранить оба</string>
@@ -420,8 +420,8 @@
     <string name="Monospace">Monospace</string>
     <string name="File_saved_successfully">Файл успешно сохранен</string>
     <string name="Appearance">Внешний вид</string>
-    <string name="Theme">Тема</string>
-    <string name="Choose_between_preinstalled_themes">Выбор между предустановленными темами</string>
+    <string name="Theme">Темы</string>
+    <string name="Choose_between_preinstalled_themes">Выберите желаемую тему</string>
     <string name="Light">Светлая</string>
     <string name="Dark">Темная</string>
     <string name="Toggle_visibility_of_hidden_files">Переключить видимость скрытых файлов</string>
@@ -547,7 +547,7 @@ Krzysztof Głodowski"</string>
     <string name="Solid_explorer_indexing_service">Solid Explorer служба индексирования</string>
     <string name="crash_toast_text">Ooooops! Ошибка приложения Solid Explorer. Пожалуйста, отправьте отчет для разработчиков, чтобы помочь мне решить проблему!</string>
     <string name="crash_notif_ticker_text">Неожиданная ошибка, отправьте отчет...</string>
-    <string name="crash_notif_title">Solid Explorer вышел из строя...</string>
+    <string name="crash_notif_title">Ошибка Solid Explorer...</string>
     <string name="crash_notif_text">Пожалуйста, нажмите здесь, чтобы помочь решить проблему</string>
     <string name="crash_dialog_title">Solid Explorer вышел из сторя</string>
     <string name="crash_dialog_text">Произошла непредвиденная ошибка заставившая приложение остановиться. Пожалуйста, помогите мне исправить это, отправив данные о ошибке.</string>
@@ -616,7 +616,7 @@ Krzysztof Głodowski"</string>
     <string name="Folders_first_summary">Показывать папки, а затем файлы</string>
     <string name="FAQ">ЧАВО</string>
     <string name="FAQ_summary">Пожалуйста, прочтите ЧАВО перед тем как задавать вопрос</string>
-	<string name="Quick_config">Быстрая конфигурация</string>
+    <string name="Quick_config">Быстрая конфигурация</string>
     <string name="X_folders_and_Y_files_deleted" formatted="false">%x папок и %y файлов удалено</string>
     <string name="X_folders_and_Y_files_copied" formatted="false">%x папок и %y файлов скопировано</string>
     <string name="X_folders_and_Y_files_moved" formatted="false">%x папок и %y файлов перемещено</string>
@@ -632,4 +632,17 @@ Krzysztof Głodowski"</string>
     <string name="Mount_rw">Монтировать r/w</string>
     <string name="System_mounted_as_read_write">Система смонтированна для чтения/записи</string>
     <string name="System_mounted_as_read_only">Система смонтированна только для чтения</string>
+    <string name="Device_labels">Метки устройства</string>
+    <string name="Device_labels_summary">Показать нормальные имена устройств и дисков, вместо реальных имен, например \"SD карта\" вместо \"sdcard0\"</string>
+    <string name="Swap_device_labels">Смена меток устройства</string>
+    <string name="Swap_device_labels_summary">Поменять местами встроенную память с SD картой, в случае неправильного обнаружения</string>
+    <string name="Panels">Панели</string>
+    <string name="Devices">Устройства</string>
+    <string name="Bug_report_notice">"Перед сообщением об ошибке, выполните следующие действия:
+
+"<b>"1. Убедитесь в том, что существует ли данная проблема и в другом файловом менеджере.
+2. Прочитайте FAQ."</b>"
+
+Вы выполнили описанные выше действия?"</string>
+    <string name="Unable_to_move_the_file">Не удалось переместить файл %</string>
 </resources>
