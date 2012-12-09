@@ -660,4 +660,18 @@
   <string name="Unable_to_mount_the_system_as_read_write">לא ניתן להגדיר את המערכת כקריאה/כתיבה</string>
   <string name="Unable_to_mount_the_system_as_read_only">לא ניתן להגדיר את המערכת לקריאה בלבד</string>
   <string name="Access_denied">גישה נדחתה</string>
+  <string name="Compression_ratio">יחס דחיסה</string>
+  <string name="Compression_method">שיטת דחיסה</string>
+  <string name="Comment">הערה</string>
+  <string name="Standard">סטנדרטי</string>
+  <string name="No_compression">ללא דחיסה</string>
+  <string name="A_while_ago">לפני זמן מה</string>
+  <string name="X_hours_Y_minutes_ago">לפני %x {1:שעה|__:שעות} %y minute{1:דקה|__:דקות} </string>
+  <!-- Already exists, just changed the content -->
+  <string name="Expiration_message">תודה שהשתמשת ב Solid Explorer, תקופת הניסיון שלך נגמרה. כדי להמשיך להשתמש ביישום, תקנה לי בירה וירטואלית על ידי כך שתקנה את הגרסא המלאה ב Google Play. תעשה את זה רק שאתה ממש מרוצה מהיישום.</string>
+  <string name="Purchased_message">תודה רבה שקנית את הגרסא המלאה של Solid Explorer. אני מקווה שתהנה ממנה.</string>
+  <string name="Trial_expired">תקופת הניסיון נגמרה</string>
+  <string name="Purchase">קנה</string>
+  <string name="No_thanks">לא תודה</string>
+  <string name="Function_not_available">האפשרות הזאת לא זמינה בגרסת המערכת הנוכחית</string>
 </resources>
