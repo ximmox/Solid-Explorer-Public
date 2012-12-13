@@ -637,7 +637,6 @@
     
     <!-- Other -->
     <string name="Prefix">字首</string>
-    <string name="Expiration_message">感谢您使用 Solid Explorer Beta. 要继续测试本程序, 请到 Google Play 下载最新版本.</string>
     <string name="Empty">空</string>
 	<string name="search_description">用 Solid Explorer 搜索你的设备</string>
     <string name="search_hint">输入文件名</string>
@@ -760,4 +759,20 @@
     	<string name="Swap_device_labels_summary">交换内置存储和SD卡的标签，以防检测错误。</string>
     	<string name="Panels">面板</string>
     	<string name="Devices">设备</string>
+    	
+    <!-- v 1.4.0 -->
+    	<string name="Compression_ratio">压缩率</string>
+    	<string name="Compression_method">压缩方式</string>
+    	<string name="Comment">批注</string>
+    	<string name="Standard">标准</string>
+    	<string name="No_compression">无压缩</string>
+    	<string name="A_while_ago">一段时间之前</string>
+    	<string name="X_hours_Y_minutes_ago">%x 小时{1:|__:s} %y 分钏{1:|__:s} 之前</string>
+    	<!-- Already exists, just changed the content -->
+    	<string name="Expiration_message">感谢您使用 Solid Explorer, 试用到此为止. 如需继续使用, 请到 Google Play 购买解锁应用. 请确保您对该应用完全满意再付款.</string>
+    	<string name="Purchased_message">感谢您购买完整版的 Solid Explorer.祝您使用愉快!</string>
+    	<string name="Trial_expired">试用已过期</string>
+    	<string name="Purchase">支付</string>
+    	<string name="No_thanks">不了, 谢谢</string>
+    	<string name="Function_not_available">该功能在当前系统版本不可用</string>
 </resources>
