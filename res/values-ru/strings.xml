@@ -539,7 +539,7 @@ Krzysztof Głodowski"</string>
     <string name="Functionality_for_future_releases">Функциональность для будущих версий</string>
     <string name="Planned_features">Планируемые возможности</string>
     <string name="Prefix">Префикс</string>
-    <string name="Expiration_message">Спасибо за использование Solid Explorer Beta. Чтобы продолжить тестирование этого приложения, скачайте последнюю версию из Google Play.</string>
+    <string name="Expiration_message">Спасибо за использование Solid Explorer Beta. Ваша пробная версия закончилась. Чтобы продолжить работу с этим приложением, купите мне виртуальное пиво, посредством покупки ключа разблокировки с Google Play. Делайте это только тогда, когда вы полностью удовлетворены приложением.</string>
     <string name="Empty">Пусто</string>
     <string name="search_description">Поиск с помощью Solid Explorer</string>
     <string name="search_hint">Введите имя файла</string>
@@ -645,4 +645,16 @@ Krzysztof Głodowski"</string>
 
 Вы выполнили описанные выше действия?"</string>
     <string name="Unable_to_move_the_file">Не удалось переместить файл %</string>
+    <string name="Purchased_message">Благодарим Вас за покупку полной версии Solid Explorer. Я надеюсь, что Вам понравится.</string>
+    <string name="Trial_expired">Пробное время истекло</string>
+    <string name="Purchase">Купить</string>
+    <string name="No_thanks">Нет, спасибо</string>
+    <string name="Function_not_available">Эта функция недоступна в текущей версии системы</string>
+    <string name="Compression_ratio">Коэффициент сжатия</string>
+    <string name="Compression_method">Метод сжатия</string>
+    <string name="Comment">Комментарий</string>
+    <string name="Standard">Стандартный</string>
+    <string name="No_compression">Без сжатия</string>
+    <string name="A_while_ago">Только что</string>
+    <string name="X_hours_Y_minutes_ago">%x час(ов) %y минут(а) назад</string>
 </resources>
