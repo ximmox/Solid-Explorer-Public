@@ -100,7 +100,7 @@
     <string name="No">Non</string>
     
 	    <!-- New folder/file dialog -->
-	    <string name="Enter_the_name">Entrer le nom</string>
+	    <string name="Enter_the_name">Saisir un nom :</string>
 	    
 	    <!-- New connection Dialog -->
 	    <string name="Display_name">Nom affiché</string>
@@ -404,15 +404,15 @@
     	<string name="Tap_to_start">Appuyer pour démarrer</string>
     	
     	
-    	<string name="Are_you_sure_you_want_to_delete_items">Voulez-vous vraiment supprimer % élément{1:|__:s} ?</string>
-    	<string name="X_files_deleted">% fichier{1:|__:s} supprimé(s).</string>
-    	<string name="X_files_copied">% fichier{1:|__:s} copié(s).</string>
-    	<string name="X_files_moved">% fichier{1:|__:s} déplacé(s).</string>
-    	<string name="X_items">% élément{1:|__:s}</string>
-    	<string name="Deleting_X_files">Suppression de % fichier{1:|__:s}</string>
-    	<string name="Copying_X_files">Copie de % fichier{1:|__:s}</string>
-    	<string name="Moving_X_files">Déplacement de % fichier{1:|__:s}</string>
-    	<string name="Indexing_scheduled_at_X_every_Y">Indexation programmé à %x tous les %y jour{1:|__:s}</string>
+    	<string name="Are_you_sure_you_want_to_delete_items">Voulez-vous vraiment supprimer % élément{0-1:|__:s} ?</string>
+    	<string name="X_files_deleted">% fichier{0-1:|__:s} supprimé{0-1:|__:s}.</string>
+    	<string name="X_files_copied">% fichier{0-1:|__:s} copié{0-1:|__:s}.</string>
+    	<string name="X_files_moved">% fichier{0-1:|__:s} déplacé{0-1:|__:s}.</string>
+    	<string name="X_items">% élément{0-1:|__:s}</string>
+    	<string name="Deleting_X_files">Suppression de % fichier{0-1:|__:s}</string>
+    	<string name="Copying_X_files">Copie de % fichier{0-1:|__:s}</string>
+    	<string name="Moving_X_files">Déplacement de % fichier{0-1:|__:s}</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Indexation programmé à %x tous les %y jour{0-1:|__:s}</string>
     	<!-- Explanation of above
     	
     		 	In english things are simple because we have 1 file and multiple files.
@@ -534,7 +534,7 @@
     
     <string name="Startup">Démarrage</string>
     
-    <string name="Remember_last_folder">Mémorisation du dernier dossier</string>
+    <string name="Remember_last_folder">Mémoriser le dernier dossier</string>
     <string name="Will_start_with_recently_viewed_directories">L\'application démarrera avec les dossiers récemment ouverts</string>
     
     
@@ -733,22 +733,22 @@
 	
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
-    	<string name="X_folders_and_Y_files_deleted">%x dossier{1:|__:s} et %y fichier{1:|__:s} supprimé(s).</string>
-    	<string name="X_folders_and_Y_files_copied">%x dossier{1:|__:s} et %y fichier{1:|__:s} copié(s).</string>
-    	<string name="X_folders_and_Y_files_moved">%x dossier{1:|__:s} et %y fichier{1:|__:s} déplacé(s).</string>
-    	<string name="Deleting_X_folders_and_Y_files">Suppression de %x dossier{1:|__:s} et %y fichier{1:|__:s}</string>
-    	<string name="Copying_X_folders_and_Y_files">Copie de %x dossier{1:|__:s} et %y fichier{1:|__:s}</string>
-    	<string name="Moving_X_folders_and_Y_files">Déplacement de %x dossier{1:|__:s} et %y fichier{1:|__:s}</string>
+    	<string name="X_folders_and_Y_files_deleted">%x dossier{0-1:|__:s} et %y fichier{0-1:|__:s} supprimés.</string>
+    	<string name="X_folders_and_Y_files_copied">%x dossier{0-1:|__:s} et %y fichier{0-1:|__:s} copiés.</string>
+    	<string name="X_folders_and_Y_files_moved">%x dossier{0-1:|__:s} et %y fichier{0-1:|__:s} déplacés.</string>
+    	<string name="Deleting_X_folders_and_Y_files">Suppression de %x dossier{0-1:|__:s} et %y fichier{0-1:|__:s}</string>
+    	<string name="Copying_X_folders_and_Y_files">Copie de %x dossier{0-1:|__:s} et %y fichier{0-1:|__:s}</string>
+    	<string name="Moving_X_folders_and_Y_files">Déplacement de %x dossier{0-1:|__:s} et %y fichier{0-1:|__:s}</string>
     	
-    	<string name="X_folders_moved">% dossier{1:|__:s} déplacé(s).</string>
-    	<string name="Moving_X_folders">Déplacement de % dossier{1:|__:s}</string>
+    	<string name="X_folders_moved">% dossier{0-1:|__:s} déplacé{0-1:|__:s}.</string>
+    	<string name="Moving_X_folders">Déplacement de % dossier{0-1:|__:s}</string>
     	
-    	<string name="X_folders">% dossier{1:|__:s}</string>
-    	<string name="X_files">% fichier{1:|__:s}</string>
+    	<string name="X_folders">% dossier{0-1:|__:s}</string>
+    	<string name="X_files">% fichier{0-1:|__:s}</string>
     	
-    	<string name="Show_status_summary">Afficher sur le contenu des dossiers et l\'espace utilisé en bas de la liste de fichier</string>
+    	<string name="Show_status_summary">Afficher des informations en bas de la liste de fichier sur le contenu des dossiers et l\'espace utilisé</string>
     	<string name="Show_status">Barre d\'état</string>
-    	<string name="Mount_rw">Monté en r/w</string>
+    	<string name="Mount_rw">Monter en r/w</string>
     	<string name="System_mounted_as_read_write">Système monté en lecture/écriture</string>
     	<string name="System_mounted_as_read_only">Système monté en lecture seule</string>
     	
@@ -759,5 +759,6 @@
     	<string name="Swap_device_labels_summary">Inverser les libellés de la mémoire interne avec celle de la carte SD en cas de mauvaise détection.</string>
     	<string name="Panels">Panneaux</string>
     	<string name="Devices">Appareils</string>
+    	<string name="Bug_report_notice">Avant de rapporter un bug, faites ceci :\n\n<b>1. Vérifier que le problème n\'existe pas d\'autres gestionnaires de fichier.\n2. Lire la FAQ.</b>\n\nAvez-vous fait les étapes précédentes ?</string>
 		
 </resources>

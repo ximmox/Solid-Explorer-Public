@@ -99,9 +99,9 @@
     <string name="Yes">Yes</string>
     <string name="No">No</string>
     
-      <!-- New folder/file dialog -->
+	    <!-- New folder/file dialog -->
 	    <string name="Enter_the_name">Enter the name</string>
-
+	    
 	    <!-- New connection Dialog -->
 	    <string name="Display_name">Display name</string>
 	    <string name="May_be_empty">May be empty</string>
@@ -394,7 +394,7 @@
     	<string name="Cannot_connect_to">Cannot connect to \&quot;%\&quot;</string>
     	<string name="You_are_not_logged_in">You are not logged in</string>
 		<string name="Can_not_create_the_directory">Cannot create the directory</string>
-    	<string name="Beta_expired">Beta expired</string>
+
     	<string name="Can_not_create_the_file">Cannot create the file</string>
     	<string name="Uknown_file_type">Unknown file type</string>
     	<string name="No_activity_found_to_open_this_file">No activity capable of opening this file was found</string>
@@ -504,7 +504,7 @@
     
     <string name="Time_format">Time format</string>
 	<string name="Customize_time_format">Customize time format</string>
-
+	
 	<string name="Show_fast_scroll_thumb_in_file_list">Show fast scroll thumb in the file list</string>
     <string name="Use_fast_scroll">Use fast scroll</string>
     
@@ -554,12 +554,12 @@
     <string name="Security">Security</string>
     <string name="Master_password_prompt">Solid Explorer uses a master password to encrypt all login credentials. If you care about security it is recommended to use this feature. You will be prompted for the master password only once unless you restart the app. Otherwise default encryption without a password is used. Would you like to use this feature?</string>
     <string name="Disable_master_password_warning">Disabling master password will cause switching to the default password. You will never be asked for it. Login credentials will still be encrypted. Do you want to proceed?</string>
-    <string name="Enable_master_password_warning">If you have any previous bookmarks encypted with the default password, they will be removed. Continue?</string>
+    <string name="Enable_master_password_warning">If you have any previous bookmarks encrypted with the default password, they will be removed. Continue?</string>
     <string name="Enable_master_password">Enable master password</string>
 	<string name="Too_weak_password">Password must be at least 6 characters, no more than 16 characters</string>
     <string name="Enter_the_master_password">Enter the master password</string>
     <string name="Enter_a_new_master_password">Enter a new master password.</string> 
-    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Encrypt all login ceredentials with a master password</string>
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Encrypt all login credentials with a master password</string>
     <string name="Set_master_password">Change master password</string>
     <string name="All_passwords_will_be_reencrypted">All passwords will be re-encrypted</string>
     
@@ -639,7 +639,6 @@
     
     <!-- Other -->
     <string name="Prefix">Prefix</string>
-    <string name="Expiration_message">Thank you for using Solid Explorer Beta. To continue testing this app, download latest version from the Google Play.</string>
     <string name="Empty">Empty</string>
 	<string name="search_description">Search your device using Solid Explorer</string>
     <string name="search_hint">Type a file name </string>
@@ -727,10 +726,10 @@
 	<string name="Folders_first_summary">Show folders first, then files.</string>
 	<string name="FAQ">FAQ</string>
 	<string name="FAQ_summary">Please read the FAQ before asking any question</string>
-
+	
 	<!-- v 1.3.8 -->
 	<string name="Quick_config">Quick config</string> <!-- short word please -->
-
+	
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
     	<string name="X_folders_and_Y_files_deleted">%x folder{1:|__:s} and %y file{1:|__:s} deleted.</string>
@@ -760,5 +759,22 @@
     	<string name="Panels">Panels</string>
     	<string name="Devices">Devices</string>
     	<string name="Bug_report_notice">Before reporting a bug please do the following:\n\n<b>1. Check whether the issue exists in other file manager apps.\n2. Read the FAQ.</b>\n\nDid you complete the steps above?</string>
-
+    	<string name="Unable_to_move_the_file">Unable to move the file %</string>
+    
+    <!-- v 1.4.0 -->
+    	<string name="Compression_ratio">Compression ratio</string>
+    	<string name="Compression_method">Compression method</string>
+    	<string name="Comment">Comment</string>
+    	<string name="Standard">Standard</string>
+    	<string name="No_compression">No compression</string>
+    	<string name="A_while_ago">A while ago</string>
+    	<string name="X_hours_Y_minutes_ago">%x hour{1:|__:s} %y minute{1:|__:s} ago</string>
+    	<!-- Already exists, just changed the content -->
+    	<string name="Expiration_message">Thank you for using Solid Explorer, your trial is over now. To continue using this app, buy me a virtual beer by purchasing the unlocker from Google Play. Do it only when you are fully satisfied with the app.</string>
+    	<string name="Purchased_message">Thank you for purchasing the full version of Solid Explorer. I hope you will enjoy it.</string>
+    	<string name="Trial_expired">Trial expired</string>
+    	<string name="Purchase">Purchase</string>
+    	<string name="No_thanks">No, thanks</string>
+    	<string name="Function_not_available">This function is not available in current system version</string>
+	
 </resources>

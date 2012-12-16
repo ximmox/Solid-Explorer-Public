@@ -26,7 +26,7 @@
     <string name="Paste">Yapıştır</string>
     <string name="Delete">Sil</string>
     <string name="Properties">Özellikler</string>
-    <string name="Select_all">Hepsini Seç</string>
+    <string name="Select_all">Tümünü Seç</string>
     <string name="Select">Seç</string>
     
     <!-- "Jump" popup -->
@@ -52,7 +52,7 @@
     <string name="Cloud_storage">Bulut depolama</string>
     
     <!-- "Device" popup -->
-     <string name="System_root">Sistem kökü</string>
+     <string name="System_root">Sistem Kökü</string>
     <string name="SD_card">SD kartı</string>
     <string name="Internal_memory">Yerel Hafıza</string>
     <string name="USB_drive_x">USB Sürücüsü %x</string>
@@ -162,17 +162,17 @@
     	<string name="Current">Şu anki</string>
     	
     	<!-- Operation descriptions -->
-    	<string name="File_copy">Dosya Kopyalama</string>
-    	<string name="File_move">Dosya Taşıma</string>
-    	<string name="File_delete">Dosya Silme</string>
-    	<string name="Temporary_download">Geçici İndirme</string>
-	<string name="Creating_archive">% Arşivi Yaratıldı</string>
-    	<string name="Extracting_archive">% Arşivi Ayrıştırıldı</string>
-    	<string name="X_has_been_completed">% İşlemi Tamamlandı</string>
-    	<string name="X_has_failed">% İşlemi Başarısız Oldu</string>
-    	<string name="Tap_to_show_details">Detayları Görmek İçin Dokunun</string>
-    	<string name="Pending_cancel_request">İptal İsteği Bekleniyor</string>
-    	<string name="File_operation">Dosya Operasyonu</string>
+    	<string name="File_copy">Dosya kopyalama</string>
+    	<string name="File_move">Dosya taşıma</string>
+    	<string name="File_delete">Dosya silme</string>
+    	<string name="Temporary_download">Geçici indirme</string>
+	<string name="Creating_archive">% arşivi yaratıldı</string>
+    	<string name="Extracting_archive">% arşivi ayrıştırıldı</string>
+    	<string name="X_has_been_completed">% işlemi tamamlandı</string>
+    	<string name="X_has_failed">% işlemi başarısız bldu</string>
+    	<string name="Tap_to_show_details">Detayları görmek için dokunun</string>
+    	<string name="Pending_cancel_request">İptal isteği bekleniyor</string>
+    	<string name="File_operation">Dosya işlemi</string>
     
     <!-- Bookmark manager -->
     <string name="Bookmark_manager">Yer imi yöneticisi</string>
@@ -181,7 +181,7 @@
     <string name="Delete_all">Hepsini Sil</string>
     <string name="Wifi_toggle">Wi-Fi Aç/Kapat</string>
     <string name="Wifi_settings">Wi-Fi ayarları</string>
-    <string name="Disconnect_all">Bütün bağlantıları kopart</string>
+    <string name="Disconnect_all">Bütün bağlantıları sonlandır</string>
     <string name="Connected">Bağlandı</string> 
     <string name="Not_connected">Bağlı değil</string>
     <string name="on">açık</string>
@@ -203,15 +203,15 @@
     
     <!-- File sharing -->
     <string name="File_sharing_active">Dosya paylaşımı aktif</string> <!-- CURRENT -->
-    <string name="ftp_server_hint">Bağlanmak için kullandığınız işletim sisteminin gezgini üzerinde adres çubuğundaki adresi yazabilir ya da bir FTP istemcisi kullanabilirsiniz.</string>
+    <string name="ftp_server_hint">Bağlanmak için kullandığınız işletim sisteminin dosya tarayıcısına adres çubuğundaki adresi yazabilir ya da bir FTP istemcisi kullanabilirsiniz.</string>
     <string name="You_cannot_share_root_directory">Kök dizini paylaştıramazsınız</string>
     <string name="File_sharing_stopped">Dosya paylaşımı durdu</string>
     <string name="None">Hiçbiri</string>
-    <string name="You_have_to_be_connected_to_the_LAN_network">Yerel bir ağa bağlı olmak zorundasınız</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Yerel bir ağa bağlı değilsiniz.</string>
     <string name="Active">Çalışıyor</string>
     <string name="Inactive">Çalışmıyor</string>
     <string name="FTP_Server">FTP Sunucusu</string>
-    <string name="Shared_directory">Paylaşım Klasörü</string>
+    <string name="Shared_directory">Paylaşım Dizini</string>
     <string name="Type_to_change">Değiştirmek için yazın</string>
     <string name="No_password_set">Parola ayarlanmadı</string>
     <string name="Status">Durum</string>
@@ -237,7 +237,7 @@
     <string name="Top_files">İlk % Dosya</string>
     <string name="Location">Konum</string>
     <string name="Type">Tip</string>
-    <string name="Parent_path">Ebeyen Dizin</string>
+    <string name="Parent_path">Ebeveyn dizin</string>
     <string name="Last_modified">Son düzenlenme</string>
     <string name="Directory">Dizin</string>
     <string name="Unknown">Bilinmiyor</string>
@@ -248,7 +248,7 @@
     <string name="MD5">MD5</string>
     <string name="Calculate">Hesapla</string>
     <string name="Compare">Karşılaştır</string>
-    <string name="Paste_to_compare">Karşılaştırmak için yapıştır</string>
+    <string name="Paste_to_compare">Karşılaştırmak için değeri yapıştırın</string>
     <string name="Files">Dosyalar</string>
     <string name="Folders">Dizinler</string>
     <string name="Calculation_error">Hesaplama hatası</string>
@@ -280,11 +280,11 @@
     <string name="Total_size">Toplam alan</string>
     <string name="Artist">Sanatçı</string>
     <string name="Title">Başlık</string>
-    <string name="Duration">Uzunluk</string>
+    <string name="Duration">Süre</string>
     <string name="Resolution">Çözünürlük</string>
     <string name="Recorded">Kaydedildi</string>
-    <string name="Width">Genişlik</string>
-    <string name="Height">Yükseklik</string>
+    <string name="Width">En</string>
+    <string name="Height">Boy</string>
     <string name="Manufacturer">Üretici</string>
     <string name="Camera_model">Kamera Modeli</string>
     <string name="Software">Yazılım</string>
@@ -316,7 +316,7 @@
     	<string name="Send_the_file_using">Dosyayı bu uygulama ile gönder</string>
     	<string name="Progress">İlerleme</string>
     	<string name="Minimize">Küçült</string>
-    	<string name="Pause">Durdur</string>
+    	<string name="Pause">Duraklat</string>
     	<string name="Resume">Devam Et</string>
     	<string name="Dismiss">Sonlandır</string>
     	
@@ -466,7 +466,7 @@
     
     <!-- File picker -->
     
-    <string name="Create_shortcut">Kısayol yarak</string>
+    <string name="Create_shortcut">Kısayol yarat</string>
     <string name="Shortcut_tip">Kısayol yaratmak için açılır menüden \&quot;Kısayol yarat\&quot; öğesini seçiniz.</string>
     
 
@@ -724,4 +724,35 @@
 	<string name="FAQ">SSS</string>
 	<string name="FAQ_summary">Lütfen soru sormadan önce SSS bölümünü ziyaret edin.</string>
 
+
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">Hızlı Ayarlar</string> <!-- short word please -->
+
+	<string name="X_folders_and_Y_files_deleted">%x dizin ve %y dosya silindi.</string>
+	<string name="X_folders_and_Y_files_copied">%x dizin ve %y dosya kopyalandı.</string>
+	<string name="X_folders_and_Y_files_moved">%x dizin ve %y dosya taşındı.</string>
+	<string name="Deleting_X_folders_and_Y_files">%x dizin ve %y dosya siliniyor.</string>
+	<string name="Copying_X_folders_and_Y_files">%x dizin ve %y dosya kopyalanıyor.</string>
+	<string name="Moving_X_folders_and_Y_files">%x dizin ve %y dosya taşınıyor.</string>
+
+	<string name="X_folders_moved">% dizin taşındı.</string>
+	<string name="Moving_X_folders">% dizin taşınıyor.</string>
+
+	<string name="X_folders">% dizin.</string>
+	<string name="X_files">% dosya.</string>
+
+	<string name="Show_status_summary">Gezgin penceresinde dizin içeriği ve kullanılan alan hakkında bilgi göster.</string>
+	<string name="Show_status">Bilgi Göster</string>
+	<string name="Mount_rw">Okuma Yazma Yetkileri</string>
+	<string name="System_mounted_as_read_write">Sistem okuma yazma izinlerine sahip.</string>
+	<string name="System_mounted_as_read_only">Sistem okuma iznine sahip.</string>
+
+	<!-- v 1.3.9 -->
+	<string name="Device_labels">Aygıt Etiketleri</string>
+	<string name="Device_labels_summary">Gerçek dizin adları yerine daha okunabilir etiketler göster. (ör. \&quot;sdcard0\&quot; yerine \&quot;SD Kartı\&quot;)</string>
+	<string name="Swap_device_labels">Aygıt Etiketlerini Değiştir</string>
+	<string name="Swap_device_labels_summary">Yerel hafıza ve SD kart etiketlerini yanlış bir algılama durumuna karşı önlem olarak değiştir.</string>
+	<string name="Panels">Bölmeler</string>
+	<string name="Devices">Aygıtlar</string>
+	<string name="Bug_report_notice">Bir hata bildirmeden önce lütfen aşağıdakileri gerçekleştirin:\n\n<b>1. Aynı sorunun diğer dosya yöneticilerinde olup olmadığını kontrol edin.\n2. SSS bölümünü okuyun.</b>\n\nÜstteki adımları gerçekleştirdiniz mi?</string>
 </resources>

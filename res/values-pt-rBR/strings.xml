@@ -12,8 +12,8 @@
     <string name="Actions">Ações</string>
     
     <!-- "New" popup -->
-    <string name="New_folder">Pasta</string>
-    <string name="New_file">Arquivo</string>
+    <string name="New_folder">Nova Pasta</string>
+    <string name="New_file">Novo Arquivo</string>
     <string name="New_FTP_connection">Conexão FTP</string>
     <string name="New_SFTP_connection">Conexão SFTP</string>
     <string name="New_SMB_connection">Conexão SMB</string>
@@ -68,7 +68,7 @@
     <string name="Sort_files_by">Ordenar por</string>
     <string name="File_name">Nome</string>
     <string name="File_size">Tamanho</string>
-    <string name="File_type">Tipo</string>
+    <string name="File_type">Tipo de Arquivo</string>
     <string name="Modified_date">Última modificação</string>
     <string name="Ascending">Ascendente</string>
     <string name="Descending">Descendente</string>
@@ -170,7 +170,7 @@
     	<string name="Extracting_archive">Extraindo arquivo %</string>
     	<string name="X_has_been_completed">% concluído.</string>
     	<string name="X_has_failed">% falhou.</string>
-    	<string name="Tap_to_show_details">Toque para detalhes</string>
+    	<string name="Tap_to_show_details">Toque para mostrar detalhes</string>
     	<string name="Pending_cancel_request">Pedido de cancelamento pendente</string>
     	<string name="File_operation">Operação de arquivos</string>
     
@@ -180,7 +180,7 @@
     <string name="Disconnect">Desconectar</string>
     <string name="Delete_all">Apagar todos</string>
     <string name="Wifi_toggle">Alternar Wi-Fi</string>
-    <string name="Wifi_settings">Configurações da Wi-Fi</string>
+    <string name="Wifi_settings">Configurações do Wi-Fi</string>
     <string name="Disconnect_all">Desconectar todos</string>
     <string name="Connected">Conectado</string> 
     <string name="Not_connected">Desconectado</string>
@@ -293,7 +293,7 @@
     <string name="Exposure_bias">Compensação de exposição</string>
     <string name="White_balance">Equilíbrio de brancos</string>
     <string name="Focal_length">Distância focal</string>
-    <string name="Aperture_size">Abertura</string>
+    <string name="Aperture_size">Tamanho de  Abertura</string>
     <string name="Flash">Flash</string>
     
     <!-- Dialogs again -->
@@ -657,7 +657,7 @@
     <string name="Icon_designer">Designer do ícone</string>
     <string name="Prefix">Prefixo</string>
     <string name="Translations">Tradução</string>
-    <string name="Translations_summary">Tradução para o Português do Brasil por Allan Brazute Alves (EthraZa)</string>
+    <string name="Translations_summary">Tradução para o Português do Brasil por Allan Brazute Alves (EthraZa) e Luis Gustavo(whitexp) </string>
     <string name="Empty">Vazio</string>
     <string name="Press_once_again_to_exit">Pressione novamente para sair</string>
 
@@ -722,6 +722,6 @@
 	<string name="Folders_first">Pastas primeiro</string>
 	<string name="Folders_first_summary">Mostra as pastas primeiro, depois os arquivos.</string>
 	<string name="FAQ">Perguntas Frequentes</string>
-	<string name="FAQ_summary">Por favor lei as Perguntas Frequentes antes de fazer qualquer pergunta</string>
+	<string name="FAQ_summary">Por favor leia as Perguntas Frequentes antes de fazer qualquer pergunta</string>
 	
 </resources>

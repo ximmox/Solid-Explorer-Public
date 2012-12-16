@@ -704,7 +704,7 @@ Krzysztof Głodowski"</string>
     	<string name="X_folders_moved">Presunutie % priečin{0:kov|1:ka|2-9:kov|__:kov} bolo úspešné.</string>
     	<string name="Moving_X_folders">Prebieha presúvanie % priečin{0:kov|1:ka|2-9:kov|__:kov}</string>
     	
-    	<string name="X_folders">% priečin{0:kov|1:ok|2-4:ky|5-9:kov|__:ov}</string>
+    	<string name="X_folders">% priečin{0:kov|1:ok|2-4:ky|5-9:kov|__:kov}</string>
     	<string name="X_files">% súbor{0:ov|1:|2-4:y|5-9:ov|__:ov}</string>
     	
     	<string name="Show_status_summary">Zobraziť informácie o obsahu adresára a použitom mieste v okne prehliadača</string>
@@ -717,9 +717,9 @@ Krzysztof Głodowski"</string>
     	<string name="Device_labels">Názvy zariadení</string>
     	<string name="Device_labels_summary">Zobraziť lepšie porozumiteľné názvy zariadení namiesto ich skutočných názvov , napr. \&quot;SD karta\&quot; namiesto \&quot;sdcard0\&quot;</string>
     	<string name="Swap_device_labels">Vymeniť názvy zariadení</string>
-    	<string name="Swap_device_labels_summary">Zameniť internú pamäť s názvom SD karty v prípade nesprávnej detekcie.</string>
+    	<string name="Swap_device_labels_summary">Vymeniť názov internej pamäte s názvom SD karty v prípade nesprávnej detekcie.</string>
     	<string name="Panels">Panely</string>
     	<string name="Devices">Zariadenia</string>
-    	
+    	<string name="Bug_report_notice">Pred nahlásením chyby najprv urobte nasledovné kroky:\n\n<b>1. Skontrolujte, či sa chyba prejavuje aj v iných aplikáciách na správu súborov.\n2. Prečítajte si Často kladené otázky.</b>\n\nUrobili ste vyššie uvedené kroky?</string>
 	
 </resources>

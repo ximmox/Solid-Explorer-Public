@@ -751,6 +751,13 @@
     	<string name="Mount_rw">r/w csatolás</string>
     	<string name="System_mounted_as_read_write">A rendszer írható/olvashatóként csatolva</string>
     	<string name="System_mounted_as_read_only">A rendszer csak olvashatóként csatolva</string>
-    	
+   	<!-- v 1.3.9 -->
+	<string name="Device_labels">Eszköz címkék</string>
+	<string name="Device_labels_summary">Egyszerűen olvasható eszköz címkék mutatása a valódi könyvtárnevek helyett, pl. \&quot;SD kártya\&quot; a \&quot;sdcard0\&quot; helyett</string>
+	<string name="Swap_device_labels">Eszköz címkék felcserélése</string>
+	<string name="Swap_device_labels_summary">Belső memória és SD kártya címkéinek felcserélése téves detektálás esetén.</string>
+	<string name="Panels">Panelek</string>
+	<string name="Devices">Eszközök</string>
+	<string name="Bug_report_notice">Hibajelentés előtt tegye a következőt:\n\n<b>1. Ellenőrizze, hogy a hiba létezik-e más fájlkezelőknél is.\n2. Olvassa el a GYIK-t.</b>\n\nMegcsinálta a fenti lépéseket?</string>
 	
 </resources>
