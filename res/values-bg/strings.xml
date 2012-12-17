@@ -639,7 +639,6 @@
     
     <!-- Other -->
     <string name="Prefix">Префикс</string>
-    <string name="Expiration_message">Благодаря че използвате бетата на Solid Explorer. За да продължите да тествате приложението, изтеглете последната версия от Google Play.</string>
     <string name="Empty">Празно</string>
     <string name="search_description">Търсете във вашето устройство със Solid Explorer</string>
     <string name="search_hint">Пишете име на файл</string>
