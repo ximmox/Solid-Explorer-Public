@@ -394,7 +394,7 @@
     	<string name="Cannot_connect_to">No se puede conectar a \&quot;%\&quot;</string>
     	<string name="You_are_not_logged_in">No estás conectado</string>
 		<string name="Can_not_create_the_directory">No se puede crear el directorio</string>
-    	<string name="Beta_expired">La versión beta ha expirado</string>
+
     	<string name="Can_not_create_the_file">No se puede crear el archivo</string>
     	<string name="Uknown_file_type">Tipo de archivo desconocido</string>
     	<string name="No_activity_found_to_open_this_file">No se ha encontrado una aplicación para abrir este archivo</string>
@@ -637,7 +637,6 @@
     
     <!-- Other -->
     <string name="Prefix">Prefijo</string>
-    <string name="Expiration_message">Gracias por utilizar Solid Explorer. Para continuar probando esta aplicación, descargue la última versión desde Google Play.</string>
     <string name="Empty">Vacío</string>
 	<string name="search_description">Buscar en el dispositivo utilizando Solid Explorer</string>
     <string name="search_hint">Escribir un nombre de archivo</string>
@@ -759,5 +758,22 @@
 	<string name="Devices">Dispositivos</string>
 
 	<string name="Bug_report_notice">Antes de comunicar un error haz lo siguiente:\n\n<b>1. Comprueba si el error existe en otros exploradores de archivos.\n2. Lee las FAQ.</b>\n\n¿Has completado los pasos anteriores?</string>
- 
+    	<string name="Unable_to_move_the_file">No se puede mover el archivo %</string>
+    
+    <!-- v 1.4.0 -->
+    	<string name="Compression_ratio">Ratio de compresión</string>
+    	<string name="Compression_method">Método de compresión</string>
+    	<string name="Comment">Comentario</string>
+    	<string name="Standard">Estándar</string>
+    	<string name="No_compression">Sin compresión</string>
+    	<string name="A_while_ago">Hace un rato</string>
+    	<string name="X_hours_Y_minutes_ago">Hace %x hora{1:|__:s} %y minuto{1:|__:s}</string>
+    	<!-- Already exists, just changed the content -->
+    	<string name="Expiration_message">Gracias por utilizar Solid Explorer, tu periodo de prueba ha acabado. Para continuar usando esta aplicación, cómprame una cerveza virtual adquiriendo el unlocker desde el Google Play. Hazlo sólo cuando estés completamente satisfecho con la aplicación.</string>
+    	<string name="Purchased_message">Gracias por comprar la versión completa de Solid Explorer. Espero que la disfrutes.</string>
+    	<string name="Trial_expired">Periodo de prueba expirado</string>
+    	<string name="Purchase">Comprar</string>
+    	<string name="No_thanks">No, gracias</string>
+    	<string name="Function_not_available">Esta función no está disponible en la versión actual del sistema</string>
+
 </resources>
