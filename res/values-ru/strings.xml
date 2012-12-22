@@ -67,12 +67,12 @@
     <string name="Lets_start">Давайте начнем</string>
     <string name="You_can_read_the_guide_later_in_the_settings">Вы можете прочитать руководство позже. Просто зайдите в настройки и выбрать Краткое руководство \".</string>
     <string name="Thank_you">Спасибо!</string>
-    <string name="New">Новый</string>
-    <string name="Jump">Переход</string>
+    <string name="New">Создать</string>
+    <string name="Jump">Перейти</string>
     <string name="Filter">Фильтр</string>
     <string name="Menu">Меню</string>
     <string name="Actions">Действия</string>
-    <string name="New_folder">Новая папка</string>
+    <string name="New_folder">Новую папку</string>
     <string name="New_file">Файл</string>
     <string name="New_FTP_connection">FTP соединение</string>
     <string name="New_SFTP_connection">SFTP соединение</string>
@@ -116,11 +116,11 @@
     <string name="Modified_date">По дате изменения</string>
     <string name="Ascending">По возрастанию</string>
     <string name="Descending">По убыванию</string>
-    <string name="In_order">По порядку</string>
+    <string name="In_order">Порядок сортировки</string>
     <string name="Active_browser">Часто просматриваемое</string>
     <string name="Close_all">Закрыть все</string>
     <string name="In_background">В фоне</string>
-    <string name="Open_with">Открыть с помощью..</string>
+    <string name="Open_with">Открыть с помощью...</string>
     <string name="Open_in_bg">Открыть в фоне</string>
     <string name="Send">Послать</string>
     <string name="Bookmark">Закладка</string>
@@ -168,7 +168,7 @@
     <string name="History_is_empty">История пуста</string>
     <string name="Current_operation">Текущая операция</string>
     <string name="No_pending_operation">Нет ожидающих операций</string>
-    <string name="History">История</string>
+    <string name="History">История операций</string>
     <string name="Count">Количество</string>
     <string name="Date">Дата</string>
     <string name="Source">Источник</string>
@@ -239,7 +239,7 @@
     <string name="Good">Хорошее</string>
     <string name="Best">Лучшее</string>
     <string name="Content_summary">Содержание</string>
-    <string name="File_types">File_types</string>
+    <string name="File_types">Типы файлов</string>
     <string name="Top_files">Топ % файлов</string>
     <string name="Location">Расположение</string>
     <string name="Type">Тип</string>
@@ -255,12 +255,12 @@
     <string name="Calculate">Вычислить</string>
     <string name="Compare">Сравнить</string>
     <string name="Paste_to_compare">Вставить для сравнения</string>
-    <string name="Files">Файлы</string>
-    <string name="Folders">Папки</string>
+    <string name="Files">Файлов:</string>
+    <string name="Folders">Папок:</string>
     <string name="Calculation_error">Ошибка в расчете</string>
     <string name="Content">Содержание</string>
     <string name="Other_used">Другие</string>
-    <string name="Free_space">Свободное место</string>
+    <string name="Free_space">Свободно:</string>
     <string name="Usage">Занято</string>
     <string name="Attributes">Атрибуты</string>
     <string name="Read">Чтение</string>
@@ -300,7 +300,7 @@
     <string name="Aperture_size">Размер диафрагмы</string>
     <string name="Flash">Вспышка</string>
     <string name="File_exists">Файл существует</string>
-    <string name="Skip">Отмена</string>
+    <string name="Skip">Пропустить</string>
     <string name="Overwrite">Перезаписать</string>
     <string name="Merge">Слияние</string>
     <string name="Keep_both">Сохранить оба</string>
@@ -420,7 +420,7 @@
     <string name="Monospace">Monospace</string>
     <string name="File_saved_successfully">Файл успешно сохранен</string>
     <string name="Appearance">Внешний вид</string>
-    <string name="Theme">Темы</string>
+    <string name="Theme">Тема приложения</string>
     <string name="Choose_between_preinstalled_themes">Выберите желаемую тему</string>
     <string name="Light">Светлая</string>
     <string name="Dark">Темная</string>
@@ -512,7 +512,7 @@
     <string name="Show_notifications">Показывать уведомления</string>
     <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Показывать уведомления завершения или прерывай индексации</string>
     <string name="Other">Другие</string>
-    <string name="Clear_persistent_data">Очистить постоянные данные</string>
+    <string name="Clear_persistent_data">Очистка данных</string>
     <string name="Clear_persistent_data_summary">Удаление данных, таких как кэш миниатюр, временные файлы, истории операций и т.д.</string>
     <string name="Clear_thumbnail_cache">Очистить кэш миниатюр</string>
     <string name="Clear_temporary_files">Очистить временные файлы</string>
@@ -533,9 +533,9 @@
     <string name="Copyright_text">"Copyright 2011-2012 
 Krzysztof Głodowski"</string>
     <string name="Version">Версия</string>
-    <string name="Changelog">Изменения</string>
-    <string name="Whats_new">Что нового</string>
-    <string name="Author">Автор</string>
+    <string name="Changelog">Список изменений</string>
+    <string name="Whats_new">Список всех изменений</string>
+    <string name="Author">Разработчик</string>
     <string name="Functionality_for_future_releases">Функциональность для будущих версий</string>
     <string name="Planned_features">Планируемые возможности</string>
     <string name="Prefix">Префикс</string>
@@ -573,7 +573,7 @@ Krzysztof Głodowski"</string>
     <string name="Local_directory">Локальный каталог</string>
     <string name="Default_panel">Панель по умолчанию</string>
     <string name="Destination_type">Тип назначения</string>
-    <string name="DiskUsage_not_installed">Использование диска не установлено. Это приложение показывает использование памяти в очень сложных и удобным для пользователя способом. Вы хотите, установить его сейчас?</string>
+    <string name="DiskUsage_not_installed">Использование диска не установлено. Это приложение показывает использование памяти простым и удобным для пользователя способом. Вы хотите, установить его сейчас?</string>
     <string name="Text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
     <string name="Force_english">Английский язык</string>
     <string name="Force_english_summary">Выберите, если вы предпочитаете английский язык как основной язык. Вступает в силу после перезагрузки.</string>
@@ -614,7 +614,7 @@ Krzysztof Głodowski"</string>
     <string name="Choose_an_action">Выберите действие</string>
     <string name="Folders_first">Сначала папки</string>
     <string name="Folders_first_summary">Показывать папки, а затем файлы</string>
-    <string name="FAQ">ЧАВО</string>
+    <string name="FAQ">Справка</string>
     <string name="FAQ_summary">Пожалуйста, прочтите ЧАВО перед тем как задавать вопрос</string>
     <string name="Quick_config">Быстрая конфигурация</string>
     <string name="X_folders_and_Y_files_deleted" formatted="false">%x папок и %y файлов удалено</string>
