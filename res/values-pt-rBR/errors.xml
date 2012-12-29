@@ -40,4 +40,9 @@
     <string name="Cannot_create_directory_X">Impossível criar pasta \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">Impossível iniciar o serviço na porta %</string>
 
+    <string name="Invalid_position">Posição inválida</string>
+    <string name="Unable_to_delete_file_x">Impossível apagar arquivo %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Impossível montar o sistema como leitura/escrita</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Impossível montar o sistema como somente leitura</string>
+    <string name="Access_denied">Acesso negado</string>
 </resources>
