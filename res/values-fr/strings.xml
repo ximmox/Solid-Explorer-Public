@@ -770,7 +770,7 @@
      <string name="X_hours_Y_minutes_ago">Il y a %x heure{0-1:|__:s} %y minute{0-1:|__:s}</string>
      <!-- Already exists, just changed the content -->
      <string name="Expiration_message">Merci d\'avoir utilisé Solid Explorer, votre période d\'essai est maintenant terminée. Pour continuer à utiliser cette application, achetez le logiciel de déblocage sur Google Play Store. Faites-le uniquement lorsque vous êtes pleinement satisfait de l\'application.</string>
-     <string name="Purchased_message">Merci d\'avoir acheté la version complète de Solide Explorer. J\'espère que vous l\'apprécierez.</string>
+     <string name="Purchased_message">Merci d\'avoir acheté la version complète de Solid Explorer. J\'espère que vous l\'apprécierez.</string>
      <string name="Trial_expired">Période d\'essai terminée</string>
      <string name="Purchase">Acheter</string>
      <string name="No_thanks">Non, merci</string>
