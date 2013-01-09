@@ -146,7 +146,7 @@
     <string name="Connection_type">Тип подключения</string>
     <string name="Scan">Сканировать</string>
     <string name="Computer_name_or_IP_adress">Имя компьютера или IP-адрес</string>
-    <string name="Looking_for_computers">Поиск компьютеров</string>
+    <string name="Looking_for_computers">Обзор компьютеров</string>
     <string name="Share">Отправить</string>
     <string name="Ask_for_password_each_time">Спрашивать каждый раз</string>
     <string name="Store_encrypted_password">Хранить зашифрованный пароль</string>
