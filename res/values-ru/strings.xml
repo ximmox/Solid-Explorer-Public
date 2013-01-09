@@ -154,8 +154,8 @@
     <string name="Anonymous">Анонимный</string>
     <string name="Log_in_as_a_guest">Войти в качестве гостя</string>
     <string name="FTP_no_encryption">FTP (без шифрования)</string>
-    <string name="FTPS_implicit_encryption">FTPS (неявный шифрования)</string>
-    <string name="FTPES_explicit_encryption">FTPES (явные шифрования)</string>
+    <string name="FTPS_implicit_encryption">FTPS (без шифрования)</string>
+    <string name="FTPES_explicit_encryption">FTPES (с шифрованием)</string>
     <string name="Manual_search">Ручной поиск</string>
     <string name="Results_from">Результаты:</string>
     <string name="No_results">Нет результатов</string>
@@ -247,11 +247,11 @@
     <string name="Last_modified">Последние изменения</string>
     <string name="Directory">Директория</string>
     <string name="Unknown">Неизвестно</string>
-    <string name="Symbolic_link">Символическая ссылка</string>
-    <string name="Link_target">Целевая ссылка</string>
+    <string name="Symbolic_link">Символ. ссылка</string>
+    <string name="Link_target">Целевой объект</string>
     <string name="Open">Открыть</string>
     <string name="Open_directory">Открыть каталог</string>
-    <string name="MD5">MD5</string>
+    <string name="MD5">Сумма MD5</string>
     <string name="Calculate">Вычислить</string>
     <string name="Compare">Сравнить</string>
     <string name="Paste_to_compare">Вставить для сравнения</string>
