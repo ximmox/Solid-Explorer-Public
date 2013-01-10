@@ -3,7 +3,7 @@
     <string name="app_name">Solid Explorer</string>
     <string name="Directory_does_not_exists">Каталог не существует</string>
     <string name="Unable_to_read_the_file">Невозможно прочитать файл</string>
-    <string name="Illegal_operation">Незаконные операции</string>
+    <string name="Illegal_operation">Запрещенная операция</string>
     <string name="Cannot_update_the_database">Не удалось обновить базу данных</string>
     <string name="Error">Ошибка</string>
     <string name="Invalid_password_for_user_x">Неверный пароль пользователя \"%\"</string>
