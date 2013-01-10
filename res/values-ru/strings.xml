@@ -461,7 +461,7 @@
     <string name="Action_for_drop_inside_the_panel">Отпустить внутри панели</string>
     <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетаскивание папки, в той же панели</string>
     <string name="Action_for_drop_to_the_second_panel">Отпустить во второй панели</string>
-    <string name="Dropping_an_item_to_the_second_panel">Перетаскивание на второй панели</string>
+    <string name="Dropping_an_item_to_the_second_panel">Перетаскивание во второй панели</string>
     <string name="Move">Переместить</string>
     <string name="Security">Безопасность</string>
     <string name="Master_password_prompt">Solid Explorer использует мастер-пароль для шифрования всех учетных данных для входа. Если вы заботитесь о безопасности, рекомендуется использовать эту функцию. Вам будет предложен мастер-пароль только один раз, до перезапуска приложения. В противном случае используется шифрование по умолчанию, без пароля. Хотите использовать эту функцию?</string>
