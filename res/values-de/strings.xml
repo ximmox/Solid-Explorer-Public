@@ -699,49 +699,78 @@
     <string name="Change_color_scheme">Farbschema anpassen</string>
     <string name="Hue">Farbton</string>
     <string name="Saturation">Sättigung</string>
-   	<string name="SolidExplorer_is_running">Solid Explorer wird ausgeführt</string>
+    <string name="SolidExplorer_is_running">Solid Explorer wird ausgeführt</string>
     <string name="Notification_shortcut">Icon in der Statusleiste</string>
     <string name="Notification_shortcut_summary">Zeigt ein Icon in der Statusleiste an, wenn Solid Explorer im Hintergrund ausgeführt wird.</string>
     <string name="Please_wait">Bitte warten</string>
     
     
     <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Sicher, dass dies in die andere Spalte kopiert werden soll?</string>
-	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Sicher, dass dies in die andere Spalte verschoben werden soll?</string>
-	<string name="Image_not_loaded">Bild nicht geladen</string>
-	<string name="Target_SDK">Ziel-SDK</string>
-	<string name="Description">Beschreibung</string>
-	<string name="Data_dir">Datenverz.</string> <!-- short word please -->
-	<string name="Installed">Installiert</string>
-	<string name="Updated">Aktualisiert</string>
-	<string name="Install">Installieren</string>
-	<string name="More">Mehr</string>
-	<string name="Package_name">Paketname</string>
-	<string name="Map_view">Kartenansicht</string>
-	<string name="Street_view">Straßenansicht</string>
-	<string name="Ask">Nachfragen</string>
-	<string name="Choose_an_action">Wähle eine Aktion</string>
-	<string name="Folders_first">Ordner zuerst</string>
-	<string name="Folders_first_summary">Zeigt erst alle Ordner, dann Dateien</string>
-	<string name="FAQ">FAQ</string>
-	<string name="FAQ_summary">Vor dem Fragen bitte zuerst lesen!</string>
+    <string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Sicher, dass dies in die andere Spalte verschoben werden soll?</string>
+    <string name="Image_not_loaded">Bild nicht geladen</string>
+    <string name="Target_SDK">Ziel-SDK</string>
+    <string name="Description">Beschreibung</string>
+    <string name="Data_dir">Datenverz.</string> <!-- short word please -->
+    <string name="Installed">Installiert</string>
+    <string name="Updated">Aktualisiert</string>
+    <string name="Install">Installieren</string>
+    <string name="More">Mehr</string>
+    <string name="Package_name">Paketname</string>
+    <string name="Map_view">Kartenansicht</string>
+    <string name="Street_view">Straßenansicht</string>
+    <string name="Ask">Nachfragen</string>
+    <string name="Choose_an_action">Wähle eine Aktion</string>
+    <string name="Folders_first">Ordner zuerst</string>
+    <string name="Folders_first_summary">Zeigt erst alle Ordner, dann Dateien</string>
+    <string name="FAQ">FAQ</string>
+    <string name="FAQ_summary">Vor dem Fragen bitte zuerst lesen!</string>
 	
-		<!-- v 1.3.8 -->
-	<string name="Quick_config">Schnellkonfig.</string>
+	<!-- v 1.3.8 -->
+    <string name="Quick_config">Schnellkonfig.</string>
 	
-    	<string name="X_folders_and_Y_files_deleted">%x Ordner{__:} und %y Datei{1:|__:en} gelöscht</string>
-    	<string name="X_folders_and_Y_files_copied">%x Ordner{__:} und %y Datei{1:|__:en} kopiert</string>
-    	<string name="X_folders_and_Y_files_moved">%x Ordner{__:} und %y Datei{1:|__:en} verschoben</string>
-    	<string name="Deleting_X_folders_and_Y_files">Lösche %x Ordner{__:} und %y Datei{1:|__:en}</string>
-    	<string name="Copying_X_folders_and_Y_files">Kopiere %x Ordner{__:} und %y Datei{1:|__:en}</string>
-    	<string name="Moving_X_folders_and_Y_files">Verschiebe %x Ordner{__:} und %y Datei{1:|__:en}</string>
-    	
-    	<string name="X_folders_moved">% Ordner{__:} verschoben</string>
-    	<string name="Moving_X_folders">Verschiebe % Ordner{__:}</string>
-    	
-    	<string name="X_folders">% Ordner{__:}</string>
-    	<string name="X_files">% Datei{1:|__:en}</string>
-    	
-    	<string name="Show_status_summary">Zeigt Informationen zum Verzeichnis-Inhalt und verwendetem Speicherplatz im Explorer-Fenster an</string>
-    	<string name="Show_status">Status anzeigen</string>
+    <string name="X_folders_and_Y_files_deleted">%x Ordner{__:} und %y Datei{1:|__:en} gelöscht</string>
+    <string name="X_folders_and_Y_files_copied">%x Ordner{__:} und %y Datei{1:|__:en} kopiert</string>
+    <string name="X_folders_and_Y_files_moved">%x Ordner{__:} und %y Datei{1:|__:en} verschoben</string>
+    <string name="Deleting_X_folders_and_Y_files">Lösche %x Ordner{__:} und %y Datei{1:|__:en}</string>
+    <string name="Copying_X_folders_and_Y_files">Kopiere %x Ordner{__:} und %y Datei{1:|__:en}</string>
+    <string name="Moving_X_folders_and_Y_files">Verschiebe %x Ordner{__:} und %y Datei{1:|__:en}</string>
+    
+    <string name="X_folders_moved">% Ordner{__:} verschoben</string>
+    <string name="Moving_X_folders">Verschiebe % Ordner{__:}</string>
+    
+    <string name="X_folders">% Ordner{__:}</string>
+    <string name="X_files">% Datei{1:|__:en}</string>
+    
+    <string name="Show_status_summary">Zeigt Informationen zum Verzeichnis-Inhalt und verwendetem Speicherplatz im Explorer-Fenster an</string>
+    <string name="Show_status">Status anzeigen</string>
+    <string name="Mount_rw">Mount r/w</string>
+    <string name="System_mounted_as_read_write">Stammverzeichnis verbunden als \&quot;read/write\&quot;</string>
+    <string name="System_mounted_as_read_only">Stammverzeichnis verbunden als \&quot;read only\&quot;</string>
+    
+    <!-- v 1.3.9 -->
+    <string name="Device_labels">Gerätebezeichnung</string>
+    <string name="Device_labels_summary">Zeigt verständliche Gerätebezeichnung statt richtiger Ordnernamen, z.B. \&quot;SD-Karte\&quot; statt \&quot;sdcard0\&quot;</string>
+    <string name="Swap_device_labels">Tausche Gerätebezeichnungen</string>
+    <string name="Swap_device_labels_summary">Tauscht die Bezeichnungen Interner Speicher und SD-Karte, falls diese falsch erkannt werden</string>
+    <string name="Panels">Spalten</string>
+    <string name="Devices">Geräte</string>
+    <string name="Bug_report_notice">Bevor ein Fehler gemeldet wird, versuche bitte folgendes:\n\n<b>1. Prüfe, ob der Fehler in anderen Dateimanagern auftritt.\n2. Lies die FAQ.</b>\n\nBeide Schritte befolgt?</string>
+    <string name="Unable_to_move_the_file">Kann die Datei % nicht verschieben</string>
+    
+    <!-- v 1.4.0 -->
+    <string name="Compression_ratio">Kompressionsrate</string>
+    <string name="Compression_method">Kompressionsmethode</string>
+    <string name="Comment">Kommentar</string>
+    <string name="Standard">Standard</string>
+    <string name="No_compression">Keine Kompression</string>
+    <string name="A_while_ago">kürzlich</string>
+    <string name="X_hours_Y_minutes_ago">vor %x Stunde{0:n|1:|__:n} %y Minute{0:n|1:|__:n}</string>
+     <!-- Already exists, just changed the content -->
+    <string name="Expiration_message">Danke, dass du Solid Explorer getestet hast, deine Probezeit ist nun abgelaufen. Um diese App weiter zu nutzen, unterstütze meine Arbeit durch den Kauf des Unlockers bei Google Play.</string>
+    <string name="Purchased_message">Danke, dass du die Vollversion von Solid Explorer gekauft hast! Ich hoffe du hast viel Freude damit.</string>
+    <string name="Trial_expired">Trial abgelaufen</string>
+    <string name="Purchase">Kaufen</string>
+    <string name="No_thanks">Nein, danke</string>
+    <string name="Function_not_available">Diese Funktion ist nicht verfügbar in deiner aktuellen Systemversion</string>
 	
 </resources>
