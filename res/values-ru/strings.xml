@@ -100,7 +100,7 @@
     <string name="No">Нет</string>
     
             <!-- New folder/file dialog -->
-	    <string name="Enter_the_name">Введите имя</string>
+        <string name="Enter_the_name">Введите имя</string>
 	    
 	    <!-- New connection Dialog -->
 	    <string name="Display_name">Отображать имя</string>
