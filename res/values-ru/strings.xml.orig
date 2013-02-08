@@ -20,7 +20,7 @@
     <string name="Invalid_url_x">Неверный URL: %</string>
     <string name="An_error_occured_while_accessing_master_password">Ошибка при обращении к мастер-паролю</string>
     <string name="Operation_not_allowed">Действие не допустимо</string>
-    <string name="Cannot_connect_to_host_x_on_port_y">Не удается подключиться к \"%x\" на порт \"%y\"</string>
+    <string name="Cannot_connect_to_host_x_on_port_y" formatted="false">Не удается подключиться к \"%x\" на порт %y</string>
     <string name="Unable_to_resolve_host_x">Не могу определить имя хоста \"%x\"</string>
     <string name="Server_returned_illegal_response">Ответ сервера</string>
     <string name="An_error_occured_while_transferring_data_from_the_server">Произошла ошибка при передаче данных с сервера</string>
@@ -29,7 +29,7 @@
     <string name="Server_response_x">Ответ сервера: %x</string>
     <string name="Unable_to_open_the_file_for_reading">Невозможно открыть файл для чтения</string>
     <string name="Unable_to_write_the_file_to_x">Невозможно записать файл в \"%x\"</string>
-    <string name="Unable_to_connect_to_the_x">Не удается подключиться к \"%x\"</string>
+    <string name="Unable_to_connect_to_the_x">Не удается подключиться к %x</string>
     <string name="Unknown_error">Неизвестная ошибка</string>
     <string name="Cannot_create_directory_X">Невозможно создать каталог \"%x\"</string>
     <string name="Unable_to_start_the_service_on_port_x">Не удалось запустить службу с портом %</string>
@@ -37,19 +37,8 @@
     <string name="Unable_to_delete_file_x">Не удается удалить файл %</string>
     <string name="Unable_to_mount_the_system_as_read_write">Не удается установить систему для чтения/записи</string>
     <string name="Unable_to_mount_the_system_as_read_only">Не удается установить систему только для чтения</string>
-    <string name="Access_denied">Доступ запрещен</string>
 <<<<<<< HEAD
-    <string name="page1_1">Solid Explorer имеет две независимые панели для просмотра файлов. Например, Вы можете получить каталог SD-карты в одной панели и компьютера во второй. Теперь Вы можете управлять файлами с легкостью.</string>
-    <string name="page1_2">В портретном режиме видна одна панель. Чтобы переключаться между другими, можно просто сдвигать пальцем влево или вправо. В ландшафтном режиме Вы видите две панели одновременно.</string>
-    <string name="page2_1">Вы можете перетащить несколько файлов, удерживая иконки и поместить их в противоположную панель. Просто перейдите на край экрана и появлятся вторая панель. Просто и интуитивно понятно.</string>
-    <string name="page2_2">Вы можете бросать файлы в другую директорию. Просто держите их к половине второго каталога и папка будет открыта. Затем просто отпустите свой ​​выбор.</string>
-    <string name="page3_1">Чтобы выбрать файлы быстро, нажмите на иконку папки. Всплывет окно выбора операции, над объектом, с некоторыми полезными функциями. Вы можете включить дополнительные кнопки \"копировать\", \"вырезать\" и \"Отправить\" в настройках.</string>
-    <string name="page3_2">Единственное исключение, где эта функция не работает, это сетка. Вы должны включить режим выбора в меню \"Упорядочить\".</string>
-    <string name="page4_1">Индексированный поиск обеспечивает быстрый доступ к файлам в любом месте телефона. Вы получите результаты поиска менее чем за одну секунду! Теперь не будет долгих ожиданий. Однако, если ваш файл не найден, выберите опцию "Ручной поиск", чтобы ознакомиться с файлами телефона.</string>
-    <string name="page4_2">Вы можете также найти ваш телефон из поиска Google. Все, что Вам нужно сделать, это пойти в настройки и включить Solid Explorer поисковый интерфейс.</string>
-    <string name="page5_1">Solid Explorer поддерживает FTP, SFTP и SMB протоколы. Когда Вы вошли куда то, оно автоматически сохраняется в виде закладки. Вы можете выбрать для шифрования пароль с глобальным паролем, который нужно установить.</string>
-    <string name="page5_2">У Вас есть облочный аккаунт? Если это так, тогда Вы можете с легкостью просматривать файлы в Dropbox и Box.</string>
-=======
+    <string name="Access_denied">Доступ запрещен</string>
     <string name="page1_1">Solid Explorer имеет две независимые панели для просмотра файлов. Например, вы можете получить каталог SD карты в одной панели и компьютера во втором. Теперь вы можете управлять файлами с легкостью.</string>
     <string name="page1_2">В портретном режиме видна сразу одна панель. Чтобы переключаться между ними можно просто сдвигать пальцем влево или вправо. В ландшафтном режиме вы видите две панели одновременно.</string>
     <string name="page2_1">Вы можете перетащить несколько файлов, удерживая иконку и помещать их в противоположную панель. Просто перейдите на край экрана и вторая панель появлятся. Просто и интуитивно понятно.</string>
@@ -57,17 +46,25 @@
     <string name="page3_1">Чтобы выбрать файлы быстро, нажмите на значок. Панель выбора будет всплывающим окном, с некоторыми полезными функциями. Вы можете включить дополнительно \"копия\", \"вырезать\" и \"Отправить\" кнопки в настройках.</string>
     <string name="page3_2">Единственное исключение, где эта функция не работает, это сетка. Вы должны включить режим выбора в меню Упорядочить.</string>
     <string name="page4_1">Индексированный поиск обеспечивает быстрый доступ к файлам в любом месте по телефону. Вы получите результаты поиска менее чем за одну секунду! Забудьте о ждать вечно. Однако, если ваш файл не найден, выберите опцию Ручной поиск, чтобы ознакомиться с файл к файлу телефона.</string>
+=======
+    <string name="page1_1">Solid Explorer имеет две независимые панели для просмотра файлов. Например, вы можете получить каталог SD-карты в одной панели и компьютера во второй. Теперь вы можете управлять файлами с легкостью.</string>
+    <string name="page1_2">В портретном режиме видна сразу одна панель. Чтобы переключаться между ними, можно просто сдвигать пальцем влево или вправо. В ландшафтном режиме вы видите две панели одновременно.</string>
+    <string name="page2_1">Вы можете перетащить несколько файлов, удерживая иконку и помещать их в противоположную панель. Просто перейдите на край экрана и появится вторая панель. Просто и интуитивно понятно.</string>
+    <string name="page2_2">Вы можете бросать файлы в другую директорию. Просто держите их над вторым каталогом и папка будет открыта. Затем просто отпустите, на выбранном месте.</string>
+    <string name="page3_1">Чтобы выбрать файлы быстро, нажмите на значок папки. Всплывет окно выбора операции, над объектом, с некоторыми полезными функциями. Вы можете включить дополнительно \"копия\", \"вырезать\" и \"отправить\" кнопки в настройках.</string>
+    <string name="page3_2">Единственное исключение, где эта функция не работает, это сетка. Вы должны включить режим выбора в меню "Упорядочить".</string>
+    <string name="page4_1">Индексированный поиск обеспечивает быстрый доступ к файлам в любом месте телефона. Вы получите результаты поиска менее чем за одну секунду! Теперь не будет долгих ожиданий. Однако, если ваш файл не найден, выберите опцию "Ручной Поиск", чтобы ознакомиться с файлами телефона.</string>
+>>>>>>> G3-SCORPIO/patch-1
     <string name="page4_2">Вы можете также найти ваш телефон из поиска Google. Все, что вам нужно сделать, это пойти в настройки и включить Solid Explorer поисковый интерфейс.</string>
     <string name="page5_1">Solid Explorer поддерживает FTP, SFTP и SMB протоколы. Когда вы вошли куда то, оно автоматически сохраняется в виде закладки. Вы можете выбрать для шифрования пароль с глобальным паролем, который нужно установить.</string>
-    <string name="page5_2">У вас есть облочный аккаунт? Если это так, вы можете просматривать файлы в Dropbox и Box с легкостью.</string>
->>>>>>> 013dd88b9535b432078169462717afcd8858eb3a
-    <string name="page6_1">Вам необходимо отправить несколько файлов по электронной почте? Создание ZIP, защищенных паролем ZIP и TAR архивы GZIP и BZIP2 компрессией.</string>
-    <string name="page6_2">Solid Explorer поддерживает ZIP, RAR и TAR архивы для просмотра и извлечения. Вы можете просмотреть архив, как настоящую файловую систему.</string>
-    <string name="page7_1">Solid Explorer дает подробную информацию о файлах и каталогах. Теперь Вы можете изучить то, что занимает память или увидеть некоторую статистику.</string>
+    <string name="page5_2">У вас есть облочный аккаунт? Если это так, вы можете просматривать файлы в Dropbox и прочих, с легкостью.</string>
+    <string name="page6_1">Вам необходимо отправить несколько файлов по электронной почте? Создание ZIP, защищенных паролем ZIP и TAR архивы GZIP и BZIP2 с компрессией.</string>
+    <string name="page6_2">Solid Explorer поддерживает ZIP, RAR и TAR архивы для просмотра и извлечения. Вы можете просмотреть архив, в структуре файловой системы.</string>
+    <string name="page7_1">Solid Explorer дает подробную информацию о файлах и каталогах. Теперь вы можете изучить то, что занимает память или увидеть некоторую статистику.</string>
     <string name="page8_1">Каждая функция имеет свое место под этими модными всплывающими окнами. Они были тщательно сгруппированы, для лучшего удобства.</string>
-    <string name="page8_2">Если у Вас есть несколько панелей в фоновом режиме, Вы можете переключаться между ними, таким образом</string>
-    <string name="page9">Я рад, что Вы решили попробовать Solid Explorer. Надеюсь, Вы будете наслаждаться всеми возможностями, которые дает Вам его применение. Если Вы забыли что-то, то можете посмотреть это краткое руководство из настроек. Всего хорошего!</string>
-    <string name="Start_using_solid_explorer">Открыть</string>
+    <string name="page8_2">Если у вас есть несколько панелей в фоновом режиме, вы можете переключаться между ними, таким образом</string>
+    <string name="page9">Я рад, что вы решили попробовать Solid Explorer. Надеюсь, вы будете наслаждаться всеми возможностями, которые дает вам его применение. Если вы забыли что-то, вы можете посмотреть это краткое руководство из настроек. Всего хорошего!</string>
+    <string name="Start_using_solid_explorer">Открыть Solid Explorer</string>
     <string name="page0_1">Добро пожаловать в Solid Explorer - самый интуитивный и удобный файловый менеджер для Android. Пожалуйста, прочитайте это краткое руководство, чтобы ознакомиться со всеми функциями, которые это приложение обеспечивает.</string>
     <string name="Not_now">Не сейчас</string>
     <string name="page0_2">Ознакомление, листайте влево</string>
@@ -79,14 +76,14 @@
     <string name="Detailed_information">Подробная информация</string>
     <string name="Useful_popups">Полезные вспл. окна</string>
     <string name="Lets_start">Давайте начнем</string>
-    <string name="You_can_read_the_guide_later_in_the_settings">Вы можете прочитать руководство позже. Просто зайдите в настройки и выберите \"Краткое руководство\".</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Вы можете прочитать руководство позже. Просто зайдите в настройки и выберите Краткое руководство \".</string>
     <string name="Thank_you">Спасибо!</string>
     <string name="New">Создать</string>
     <string name="Jump">Перейти</string>
     <string name="Filter">Фильтр</string>
     <string name="Menu">Меню</string>
     <string name="Actions">Действия</string>
-    <string name="New_folder">Новую папку</string>
+    <string name="New_folder">Новая папка</string>
     <string name="New_file">Файл</string>
     <string name="New_FTP_connection">FTP соединение</string>
     <string name="New_SFTP_connection">SFTP соединение</string>
@@ -115,7 +112,7 @@
     <string name="Exit">Выход</string>
     <string name="Cloud_storage">Облачное хранилище</string>
     <string name="System_root">Корневая система</string>
-    <string name="SD_card">SD-карта</string>
+    <string name="SD_card">SD-Карта</string>
     <string name="Internal_memory">Внутренняя память</string>
     <string name="USB_drive_x">USB-диск %x</string>
     <string name="View_mode">Режим просмотра</string>
@@ -169,12 +166,12 @@
     <string name="Log_in_as_a_guest">Войти в качестве гостя</string>
     <string name="FTP_no_encryption">FTP (без шифрования)</string>
 <<<<<<< HEAD
-    <string name="FTPS_implicit_encryption">FTPS (слабое шифрование)</string>
-    <string name="FTPES_explicit_encryption">FTPES (сложное шифрование)</string>
-=======
     <string name="FTPS_implicit_encryption">FTPS (без шифрования)</string>
     <string name="FTPES_explicit_encryption">FTPES (с шифрованием)</string>
->>>>>>> 013dd88b9535b432078169462717afcd8858eb3a
+=======
+    <string name="FTPS_implicit_encryption">FTPS (слабое шифрование)</string>
+    <string name="FTPES_explicit_encryption">FTPES (сложное шифрование)</string>
+>>>>>>> G3-SCORPIO/patch-1
     <string name="Manual_search">Ручной поиск</string>
     <string name="Results_from">Результаты:</string>
     <string name="No_results">Нет результатов</string>
@@ -208,7 +205,7 @@
     <string name="Extracting_archive">Извлечение архива %</string>
     <string name="X_has_been_completed">% было завершено</string>
     <string name="X_has_failed">% не удалось</string>
-    <string name="Tap_to_show_details">Доп. информация</string>
+    <string name="Tap_to_show_details">Нажмите, для подробностей</string>
     <string name="Pending_cancel_request">В ожидании отмены запроса</string>
     <string name="File_operation">Операция с файлом</string>
     <string name="Bookmark_manager">Менеджер закладок</string>
@@ -267,12 +264,12 @@
     <string name="Directory">Директория</string>
     <string name="Unknown">Неизвестно</string>
 <<<<<<< HEAD
-    <string name="Symbolic_link">Симлинк</string>
- 	<string name="Link_target">Объект симлинка</string>
-=======
     <string name="Symbolic_link">Символ. ссылка</string>
     <string name="Link_target">Целевой объект</string>
->>>>>>> 013dd88b9535b432078169462717afcd8858eb3a
+=======
+    <string name="Symbolic_link">Симлинк</string>
+    <string name="Link_target">Объект симлинка</string>
+>>>>>>> G3-SCORPIO/patch-1
     <string name="Open">Открыть</string>
     <string name="Open_directory">Открыть каталог</string>
     <string name="MD5">Сумма MD5</string>
@@ -280,7 +277,7 @@
     <string name="Compare">Сравнить</string>
     <string name="Paste_to_compare">Вставить для сравнения</string>
     <string name="Files">Файлы</string>
-    <string name="Folders">Папок:</string>
+    <string name="Folders">Папки</string>
     <string name="Calculation_error">Ошибка в расчете</string>
     <string name="Content">Содержание</string>
     <string name="Other_used">Другие</string>
@@ -308,7 +305,7 @@
     <string name="Total_size">Общий размер:</string>
     <string name="Artist">Исполнитель</string>
     <string name="Title">Название</string>
-    <string name="Duration">Продолжительность</string>
+    <string name="Duration">Продолж-сть</string>
     <string name="Resolution">Разрешение</string>
     <string name="Recorded">Записан</string>
     <string name="Width">Ширина</string>
@@ -342,35 +339,35 @@
     <string name="Resume">Возобновить</string>
     <string name="Dismiss">Отклонить</string>
     <string name="Abort_operation">Прервать операцию</string>
-    <string name="There_is_already_an_operation_running">Уже запущена одна операция. Пожалуйста, дождитесь ее завершения.</string>
+    <string name="There_is_already_an_operation_running">Уже запущена одна операция. Дождитесь ее завершения.</string>
     <string name="Are_you_sure_you_want_to_clear_the_history">Вы уверены, что хотите очистить историю?</string>
     <string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Вы уверены, что хотите очистить кэш миниатюр?</string>
     <string name="Are_you_sure_you_want_to_delete_temporary_files">Вы уверены, что хотите удалить временные файлы?</string>
-    <string name="It_is_time_for_sheduled_indexing">Настало время для запланированной индексации. Выполнить ее сейчас?</string>
-    <string name="Folder_exists_descr">В этой директории уже существует такая папка. Что Вы хотите сделать?</string>
-    <string name="File_exists_descr">В этой директории уже существует такой файл. Что Вы хотите сделать?</string>
+    <string name="It_is_time_for_sheduled_indexing">Запуск запланированной индексации. Хотите выполнить её сейчас?</string>
+    <string name="Folder_exists_descr">В этой директории уже существует такая папка. Выберите действие.</string>
+    <string name="File_exists_descr">В этой директории уже существует такой файл. Выберите действие.</string>
     <string name="Are_you_sure_you_want_to_delete">Вы действительно хотите удалить \"%\"?</string>
     <string name="Are_you_sure_to_abort_current_operation">Вы действительно хотите прервать текущую операцию?</string>
     <string name="Are_you_sure_you_want_to_delete_all_bookmarks">Вы уверены, что хотите удалить все закладки?</string>
-    <string name="Are_you_sure_you_want_to_delete_bookmark">Вы действительно хотите удалить закладку \"%\"?</string>
+    <string name="Are_you_sure_you_want_to_delete_bookmark">Вы действительно хотите удалить закладку \"%\" ?</string>
     <string name="Reindex_prompt">Вы собираетесь начать индексацию вручную. Это может занять несколько минут, продолжить?</string>
     <string name="Clear_index_prompt">Вы уверены, что хотите удалить все данные индекса? Эта операция не может быть отменена.</string>
     <string name="Are_you_sure_to_stop_indexing">Вы уверены, что хотите прекратить индексацию?</string>
     <string name="Are_you_sure_you_want_to_clear_file_type_associations">Вы действительно хотите удалить ассоциации типа файлов?</string>
     <string name="Changes_have_been_made_to_the_file">В % были внесены изменения. Хотите их сохранить?</string>
     <string name="Chown_confirm">Вы уверены, что хотите изменить владельца этого файла?</string>
-    <string name="Busybox_request">Возможно BusyBox не установлен в Вашей системе. Для правильной работы с корневым каталогом, необходимо его установить. Хотите установить его сейчас?</string>
+    <string name="Busybox_request">Возможно BusyBox не установлен в вашей системе. Для правильной работы с корневым каталогом, необходимо его установить. Хотите установить его сейчас?</string>
     <string name="SkyDrive_doesnt_support_x_files">SkyDrive не поддерживает файлы \"%\". Операция была прервана.</string>
     <string name="Operation_not_supported">Операция не поддерживается</string>
     <string name="You_have_to_provide_a_password">Вы должны предоставить пароль</string>
-    <string name="Insufficient_space">Не хватает места, чтобы завершить операцию. Размер: \"%\", доступно: \"%\"</string>
+    <string name="Insufficient_space" formatted="false">Не хватает места, чтобы завершить операцию. Размер: %, доступно: %</string>
     <string name="Command_executed_successfully">Команда выполнена успешно</string>
     <string name="Deleting_data">Удаление данных</string>
     <string name="Done">Готово</string>
     <string name="Preparing_for_operation">Подготовка к операции...</string>
     <string name="Connecting">Подключение</string>
     <string name="Connecting_to_x">Подключение к \"%\"</string>
-    <string name="File_is_too_big">Файл слишком большой. Для редактирования поддерживаются файлы только до 75kB</string>
+    <string name="File_is_too_big">Файл слишком большой. Для редактирования поддерживаются, файлы только до 75kB.</string>
     <string name="Operation_history_has_been_cleared">История операций была очищена</string>
     <string name="Encrypted_archive">Зашифрованный архив</string>
     <string name="Enter_the_password">Введите пароль</string>
@@ -409,6 +406,7 @@
     <string name="Cannot_connect_to">Не удается подключиться к \"%\"</string>
     <string name="You_are_not_logged_in">Вы не авторизованы</string>
     <string name="Can_not_create_the_directory">Не удается создать каталог</string>
+    <string name="Beta_expired">Бета версия истекла</string>
     <string name="Can_not_create_the_file">Не удается создать файл</string>
     <string name="Uknown_file_type">Неизвестный тип файла</string>
     <string name="No_activity_found_to_open_this_file">Не найдено приложение, чтобы открыть этот файл</string>
@@ -424,7 +422,7 @@
     <string name="Deleting_X_files">Удаление % файла{1:|__:ов}</string>
     <string name="Copying_X_files">Копирование % файла{1:|__:ов}</string>
     <string name="Moving_X_files">Перемещение % файла{1:|__:ов}</string>
-    <string name="Indexing_scheduled_at_X_every_Y">Индексация запланирована на \"%x\" каждый \"%y\" день{1:|__:ей}</string>
+    <string name="Indexing_scheduled_at_X_every_Y" formatted="false">Индексация запланирована на %x каждый %y день{1:|__:ей}</string>
     <string name="Open_as">Открыть как...</string>
     <string name="Choose_a_preferred_type">Выберите предпочтительный тип</string>
     <string name="Text_file">Текстовый файл</string>
@@ -444,70 +442,73 @@
     <string name="File_saved_successfully">Файл успешно сохранен</string>
     <string name="Appearance">Внешний вид</string>
     <string name="Theme">Тема приложения</string>
-    <string name="Choose_between_preinstalled_themes">Выберите тему</string>
+    <string name="Choose_between_preinstalled_themes">Выберите желаемую тему</string>
     <string name="Light">Светлая</string>
     <string name="Dark">Темная</string>
     <string name="Toggle_visibility_of_hidden_files">Отображать все скрытые файлы</string>
     <string name="Show_hidden_files">Показывать скрытые файлы</string>
     <string name="Show_file_permissions">Показать права доступа файла</string>
-    <string name="Show_file_permissions_summary">Показывать \"разрешения\" в стиле Unix, а не дату последнего изменения (только для корневых файлов)</string>
+    <string name="Show_file_permissions_summary">Показывать "разрешения" в стиле Unix, а не дату последнего изменения (только для корневых файлов)</string>
     <string name="Date_format">Формат даты</string>
     <string name="Customize_date_format">Настроить формат даты</string>
     <string name="Time_format">Формат времени</string>
     <string name="Customize_time_format">Настроить формат времени</string>
     <string name="Show_fast_scroll_thumb_in_file_list">Показывать ползунок прокрутки в списке файлов</string>
     <string name="Use_fast_scroll">Использовать быструю прокрутку</string>
-<<<<<<< HEAD
-    <string name="Low_quality_thumbnails">Низкое качество эскизов</string>
-    <string name="Low_quality_thumbnails_summary">Более низкое потребление памяти</string>
-    <string name="Portrait_fullscreen">Портретный режим</string>
-    <string name="Portrait_fullscreen_summary">Скрыть статус-бар в портретном режиме</string>
-    <string name="Landscape_fullscreen">Ландшафтный режим</string>
-    <string name="Landscape_fullscreen_summary">Скрыть статус-бар в ландшафтном режиме</string>
-=======
     <string name="Low_quality_thumbnails">Низкое качество картинок</string>
+<<<<<<< HEAD
     <string name="Low_quality_thumbnails_summary">Подходит для низкого использования памяти</string>
     <string name="Portrait_fullscreen">Портретный режим</string>
     <string name="Portrait_fullscreen_summary">Скрывает статус-бар в портретном режиме</string>
     <string name="Landscape_fullscreen">Ландшафтный режим</string>
     <string name="Landscape_fullscreen_summary">Скрывает статус-бар в ландшафтном режиме</string>
->>>>>>> 013dd88b9535b432078169462717afcd8858eb3a
     <string name="File_list_size">Портретный список</string>
     <string name="Adjust_size_of_the_file_list">Отрегулируйте размер списка файлов в портретном режиме</string>
     <string name="Landscape_file_list_size">Ландшафтный список</string>
     <string name="Adjust_size_of_the_file_list_in_landscape">Отрегулируйте размер списка файлов в ландшафтном режиме</string>
+=======
+    <string name="Low_quality_thumbnails_summary">Подходит для низкого объёма памяти</string>
+    <string name="Portrait_fullscreen">Полный экран в портретном режиме</string>
+    <string name="Portrait_fullscreen_summary">Скрывает статус-бар в портретном режиме</string>
+    <string name="Landscape_fullscreen">Полный экран в ландшафтном режиме</string>
+    <string name="Landscape_fullscreen_summary">Скрывает статус-бар в ландшафтном режиме</string>
+    <string name="File_list_size">Размер списка в портретном режиме</string>
+    <string name="Adjust_size_of_the_file_list">Отрегулировать размер списка файлов в портретном режиме</string>
+    <string name="Landscape_file_list_size">Размер списка в ландшафтном режиме</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Отрегулировать размер списка файлов в ландшафтном режиме</string>
+>>>>>>> G3-SCORPIO/patch-1
     <string name="Small">Маленький</string>
     <string name="Big">Большой</string>
     <string name="Large">Огромный</string>
     <string name="Extra_small">Мелкий</string>
     <string name="Hide_exit_button">Скрыть кнопку выхода</string>
-    <string name="Hide_exit_button_summary">Также можно выйти из приложения долгим нажатием клавиши \"Назад\"</string>
+    <string name="Hide_exit_button_summary">Вы также можете выйти из приложения долгим нажатием клавиши Назад</string>
     <string name="Startup">Запуск</string>
     <string name="Remember_last_folder">Помнить последнюю папку</string>
 <<<<<<< HEAD
-    <string name="Will_start_with_recently_viewed_directories">Запуск приложения с недавних каталогов</string>
-=======
     <string name="Will_start_with_recently_viewed_directories">Запуск приложения с недавно просмотренных каталогов</string>
->>>>>>> 013dd88b9535b432078169462717afcd8858eb3a
+=======
+    <string name="Will_start_with_recently_viewed_directories">Начать с недавно просмотренных каталогов</string>
+>>>>>>> G3-SCORPIO/patch-1
     <string name="First_panel_default_dir">Каталог первой панели</string>
     <string name="Second_panel_default_dir">Каталог второй панели</string>
     <string name="Change_pictures_directory">Изменить каталог изображений</string>
     <string name="Change_downloads_directory">Изменить каталог загрузок</string>
     <string name="Drag_and_drop">Перетаскивание</string>
 <<<<<<< HEAD
-    <string name="Action_for_drop_inside_the_panel">Действие для первой панели</string>
-    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Действие при отпускании элемента внутри первой панели</string>
-    <string name="Action_for_drop_to_the_second_panel">Действие для второй панели</string>
-    <string name="Dropping_an_item_to_the_second_panel">Действие при отпускании элемента внутри второй панели</string>
-=======
     <string name="Action_for_drop_inside_the_panel">При отпускании в первой панели</string>
     <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Действие при падении элемента внутри панели</string>
     <string name="Action_for_drop_to_the_second_panel">При отпускании во второй панели</string>
     <string name="Dropping_an_item_to_the_second_panel">Действие при падении элемента внутри панели</string>
->>>>>>> 013dd88b9535b432078169462717afcd8858eb3a
+=======
+    <string name="Action_for_drop_inside_the_panel">Отпустить внутри панели</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетаскивание папки, в панели</string>
+    <string name="Action_for_drop_to_the_second_panel">Отпустить во второй панели</string>
+    <string name="Dropping_an_item_to_the_second_panel">Перетаскивание во второй панели</string>
+>>>>>>> G3-SCORPIO/patch-1
     <string name="Move">Переместить</string>
     <string name="Security">Безопасность</string>
-    <string name="Master_password_prompt">Solid Explorer использует мастер-пароль для шифрования всех учетных данных для входа. Если Вы заботитесь о безопасности, рекомендуется использовать эту функцию. Вам будет предложен мастер-пароль только один раз, до перезапуска приложения. В противном случае используется шифрование по умолчанию, без пароля. Хотите использовать эту функцию?</string>
+    <string name="Master_password_prompt">Solid Explorer использует мастер-пароль для шифрования всех учетных данных для входа. Если вы заботитесь о безопасности, рекомендуется использовать эту функцию. Вам будет предложен мастер-пароль только один раз, до перезапуска приложения. В противном случае используется шифрование по умолчанию, без пароля. Хотите использовать эту функцию?</string>
     <string name="Disable_master_password_warning">Отключение мастер-пароля приведет, к паролю по умолчанию. Вас никогда не спросят о нем. Выполнение входа останется зашифрованным. Вы хотите продолжить?</string>
     <string name="Enable_master_password_warning">Если у вас есть любые предыдущие зашифрованные закладки с паролем по умолчанию, они будут удалены. Продолжить?</string>
     <string name="Enable_master_password">Включить мастер-пароль</string>
@@ -525,21 +526,21 @@
     <string name="Passwords_do_not_match">Пароли не совпадают</string>
     <string name="Password_is_too_short">Пароль слишком короткий</string>
 <<<<<<< HEAD
-    <string name="Search_interface">Поиск и индекс</string>	
-    <string name="Search_key_starts_filtering">Поиск с фильтром (ключевое начало)</string>	
-    <string name="Search_key_starts_filtering_summary">Поиск ключевого начала (фильтрация краткого изложения)</string>
-    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Соответствие по началу слова, фильтруя список</string>
-=======
     <string name="Search_interface">Интерфейс поиска</string>
     <string name="Search_key_starts_filtering">Кнопка поиска запускает фильтрацию</string>
     <string name="Search_key_starts_filtering_summary">Начать фильтрацию списка вместо запуска поиска</string>
     <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Соответствие только начала слова при фильтрации списка</string>
->>>>>>> 013dd88b9535b432078169462717afcd8858eb3a
+=======
+    <string name="Search_interface">Поиск и индекс</string>
+    <string name="Search_key_starts_filtering">Поиск с фильтром (ключевое начало)</string>
+    <string name="Search_key_starts_filtering_summary">Поиск ключевого начала (фильтрация краткого изложения)</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Соответствие по началу слова, фильтруя список</string>
+>>>>>>> G3-SCORPIO/patch-1
     <string name="Filter_words_from_the_beginning">Фильтр слов с самого начала</string>
     <string name="Customize_indexing_engine_behaviour">Настроить поведение индексации</string>
     <string name="Indexing_engine">Режим индексации</string>
     <string name="Reindex_now">Переиндексировать</string>
-    <string name="Refresh_index_database">Обновить индекс базы данных (не имеет никакого эффекта, когда процесс активен)</string>
+    <string name="Refresh_index_database">Обновить индекс базы данных. (Не имеет никакого эффекта, когда процесс активен)</string>
     <string name="Clear_index_data">Очистить данные индекса</string>
     <string name="Delete_all_index_data">Удалить все данные индекса</string>
     <string name="Reindex_on_media_mount">Повторное индекс. при подкл. SD-карты</string>
@@ -558,12 +559,12 @@
     <string name="three_days">3 дня</string>
     <string name="How_often_indexing_will_be_performed">Частота индексации</string>
     <string name="Set_period">Установить период</string>
-    <string name="Set_time">Установить временя</string>
+    <string name="Set_time">Установить время</string>
     <string name="Show_notifications">Показывать уведомления</string>
-    <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Показывать уведомления при завершении/прерывании индексации</string>
+    <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Показывать уведомления при завершении/прирывании индексации</string>
     <string name="Other">Другие</string>
     <string name="Clear_persistent_data">Очистка данных</string>
-    <string name="Clear_persistent_data_summary">Удаление данных, с кратким содержанием(кэш, история, временные и т.д.)</string>
+    <string name="Clear_persistent_data_summary">Удаление данных, с кратким содержанием.(кэш, история, временные и т.д.)</string>
     <string name="Clear_thumbnail_cache">Очистить кэш миниатюр</string>
     <string name="Clear_temporary_files">Очистить временные файлы</string>
     <string name="Clear_operation_history">Очистить историю операций</string>
@@ -572,10 +573,10 @@
     <string name="Delete_operation_history_entries">Удаление записей истории операций</string>
     <string name="Clear_file_type_associations">Очистить ассоциации типа файлов</string>
     <string name="Clear_file_type_associations_summary">Удаление информации о приложениях, используемых для открытия определенных типов файлов</string>
-    <string name="Clear_temporary_files_on_exit">Очищать при выходе</string>
-    <string name="Temporary_files_will_be_removed_on_app_exit">Удалять временные файлы при выходе из приложения</string>
+    <string name="Clear_temporary_files_on_exit">Очистить временные файлы при выходе</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Временные файлы будут удалены при выходе из приложения</string>
     <string name="Quick_start_guide">Краткое руководство</string>
-    <string name="Learn_about_main_features">Узнайте основные характеристики приложения</string>
+    <string name="Learn_about_main_features">"Узнайте основные характеристики Solid Explorer's"</string>
     <string name="Help_make_Solid_Explorer_better">Помогите сделать Solid Explorer лучше</string>
     <string name="Report_a_bug">Сообщить об ошибке</string>
     <string name="About">О программе</string>
@@ -589,18 +590,19 @@ Krzysztof Głodowski"</string>
     <string name="Functionality_for_future_releases">Функциональность для будущих версий</string>
     <string name="Planned_features">Планируемые возможности</string>
     <string name="Prefix">Префикс</string>
+    <string name="Expiration_message">Спасибо за использование Solid Explorer Beta. Ваша пробная версия закончилась. Чтобы продолжить работу с этим приложением, купите мне виртуальное пиво, посредством покупки ключа разблокировки с Google Play. Делайте это только тогда, когда вы полностью удовлетворены приложением.</string>
     <string name="Empty">Пусто</string>
     <string name="search_description">Поиск с помощью Solid Explorer</string>
     <string name="search_hint">Введите имя файла</string>
     <string name="Save_file">Сохранить файл</string>
     <string name="Solid_explorer_indexing_service">Solid Explorer служба индексирования</string>
-    <string name="crash_toast_text">Упс! Ошибка приложения Solid Explorer. Пожалуйста, отправьте отчет разработчику, чтобы помочь решить проблему!</string>
+    <string name="crash_toast_text">Ooooops! Ошибка приложения Solid Explorer. Пожалуйста, отправьте отчет для разработчиков, чтобы помочь решить проблему!</string>
     <string name="crash_notif_ticker_text">Неожиданная ошибка, отправьте отчет...</string>
     <string name="crash_notif_title">Ошибка Solid Explorer...</string>
     <string name="crash_notif_text">Пожалуйста, нажмите здесь, чтобы помочь решить проблему</string>
     <string name="crash_dialog_title">Solid Explorer вышел из сторя</string>
     <string name="crash_dialog_text">Произошла непредвиденная ошибка заставившая приложение остановиться. Пожалуйста, помогите мне исправить это, отправив данные о ошибке.</string>
-    <string name="crash_dialog_comment_prompt">Просьба представить подробную информацию о проблеме ниже. В большинстве случаев невозможно описать проблему без обратной связи.</string>
+    <string name="crash_dialog_comment_prompt">Просьба представить подробную информацию о проблеме ниже. В большинстве случаев невозможно описать проблему без вашей обратной связи.</string>
     <string name="crash_dialog_ok_toast">Спасибо!</string>
     <string name="Icon_designer">Дизайнер иконки</string>
     <string name="Translations">Перевод</string>
@@ -613,8 +615,8 @@ Krzysztof Głodowski"</string>
     <string name="Customize_list">Настроить список</string>
     <string name="Customize_list_summary">Выберите размер иконок и текста для списка файлов</string>
     <string name="Preview">Просмотреть</string>
-    <string name="Icon_size_pixels">Размер иконки (макс: \"%\" x \"%\")</string>
-    <string name="Label_size">Размер текста</string>
+    <string name="Icon_size_pixels" formatted="false">Размер иконки (макс: % x %)</string>
+    <string name="Label_size">Размер иконки</string>
     <string name="Subtext_size">Размер подтекста</string>
     <string name="Label_size_points">Размер текста (макс: 35pt)</string>
     <string name="Columns">Колонны</string>
@@ -627,8 +629,8 @@ Krzysztof Głodowski"</string>
     <string name="Force_english">Английский язык</string>
     <string name="Force_english_summary">Выберите, если вы предпочитаете английский язык как основной язык. Вступает в силу после перезагрузки.</string>
     <string name="Encoding">Кодирование</string>
-    <string name="Network_thumbnails">Сетевые эскизы</string>
-    <string name="Network_thumbnails_summary">Будет использован мобильный трафик или другое подключение</string>
+    <string name="Network_thumbnails">Миниатюры</string>
+    <string name="Network_thumbnails_summary">Будет использован мобильный трафик или другое подключение.</string>
     <string name="Copy_to">Копировать в</string>
     <string name="Move_to">Переместить в</string>
     <string name="Shortcut">Ярлык</string>
@@ -638,14 +640,14 @@ Krzysztof Głodowski"</string>
     <string name="Custom_color_scheme">Пользовательские цветовые схемы</string>
     <string name="Custom_color_scheme_summary">Настройте общую цветовую схему. Запуск приложения будет существенно замедлен.</string>
     <string name="Color_scheme">Цветовая схема</string>
-    <string name="Color_scheme_summary">Изменение тона и насыщенности текущей цветовой схеме</string>
+    <string name="Color_scheme_summary">Изменение тона и насыщенности текущей цветовой схемы</string>
     <string name="Change_color_scheme">Изменение цветовой схемы</string>
     <string name="Hue">Тон</string>
     <string name="Saturation">Насыщенность</string>
     <string name="SolidExplorer_is_running">Solid Explorer работает</string>
     <string name="Notification_shortcut">Ярлык в статус-баре</string>
-    <string name="Notification_shortcut_summary">Показывать ярлык в строке состояния, когда приложение запущено</string>
-    <string name="Please_wait">Пожалуйста, подождите...</string>
+    <string name="Notification_shortcut_summary">Показывать ярлык в строке состояния, когда приложение работает</string>
+    <string name="Please_wait">Пожалуйста, подождите</string>
     <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Вы уверены, что хотите скопировать это во вторую панель?</string>
     <string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Вы уверены, что хотите переместить это во вторую панель?</string>
     <string name="Image_not_loaded">Изображение не загружено</string>
@@ -664,19 +666,19 @@ Krzysztof Głodowski"</string>
     <string name="Folders_first">Сначала папки</string>
     <string name="Folders_first_summary">Показывать папки, а затем файлы</string>
     <string name="FAQ">Справка</string>
-    <string name="FAQ_summary">Пожалуйста, прочтите справку перед тем как задавать вопрос</string>
+    <string name="FAQ_summary">Пожалуйста, прочтите примечания перед тем как задавать вопрос</string>
     <string name="Quick_config">Быстрая конфигурация</string>
-    <string name="X_folders_and_Y_files_deleted">\"%x\" папок и \"%y\" файлов удалено</string>
-    <string name="X_folders_and_Y_files_copied">\"%x\" папок и \"%y\" файлов скопировано</string>
-    <string name="X_folders_and_Y_files_moved">\"%x\" папок и \"%y\" файлов перемещено</string>
-    <string name="Deleting_X_folders_and_Y_files">Удаление \"%x\" папок и \"%y\" файлов</string>
-    <string name="Copying_X_folders_and_Y_files">Копирование \"%x\" папок и \"%y\" файлов</string>
-    <string name="Moving_X_folders_and_Y_files">Перемещение \"%x\" папок и \"%y\" файлов</string>
+    <string name="X_folders_and_Y_files_deleted" formatted="false">%x папок и %y файлов удалено</string>
+    <string name="X_folders_and_Y_files_copied" formatted="false">%x папок и %y файлов скопировано</string>
+    <string name="X_folders_and_Y_files_moved" formatted="false">%x папок и %y файлов перемещено</string>
+    <string name="Deleting_X_folders_and_Y_files" formatted="false">Удаление %x папок и %y файлов</string>
+    <string name="Copying_X_folders_and_Y_files" formatted="false">Копирование %x папок и %y файлов</string>
+    <string name="Moving_X_folders_and_Y_files" formatted="false">Перемещение %x папок и %y файлов</string>
     <string name="X_folders_moved">% папок перемещено</string>
     <string name="Moving_X_folders">Перемещение % папок</string>
     <string name="X_folders">Папок: %</string>
     <string name="X_files">Файлов: %</string>
-    <string name="Show_status_summary">Показать информацию о содержании каталога и использованной памяти в окне проводника</string>
+    <string name="Show_status_summary">Показать информацию о содержании каталога и использования памяти в окне проводника</string>
     <string name="Show_status">Показывать статус</string>
     <string name="Mount_rw">Монтировать r/w</string>
     <string name="System_mounted_as_read_write">Система смонтированна для чтения/записи</string>
@@ -693,19 +695,17 @@ Krzysztof Głodowski"</string>
 2. Прочитайте FAQ."</b>"
 
 Вы выполнили описанные выше действия?"</string>
-    <string name="Unable_to_move_the_file">Не удалось переместить файл \"%\"</string>
+    <string name="Unable_to_move_the_file">Не удалось переместить файл %</string>
+    <string name="Purchased_message">Благодарим Вас за покупку полной версии Solid Explorer. Я надеюсь, что Вам понравится.</string>
+    <string name="Trial_expired">Пробное время истекло</string>
+    <string name="Purchase">Купить</string>
+    <string name="No_thanks">Нет, спасибо</string>
+    <string name="Function_not_available">Эта функция недоступна в текущей версии прошивки</string>
     <string name="Compression_ratio">Коэффициент сжатия</string>
     <string name="Compression_method">Метод сжатия</string>
     <string name="Comment">Комментарий</string>
     <string name="Standard">Стандартный</string>
     <string name="No_compression">Без сжатия</string>
     <string name="A_while_ago">Только что</string>
-    <string name="X_hours_Y_minutes_ago">\"%x\" час(ов) \"%y\" минут(а) назад</string>
-    <string name="Expiration_message">Спасибо за использование Solid Explorer Beta. Ваша пробная версия закончилась. Чтобы продолжить работу с этим приложением, купите мне виртуальное пиво, посредством покупки ключа разблокировки с Google Play. Делайте это только тогда, когда вы полностью удовлетворены приложением.</string>
-    <string name="Purchased_message">Благодарим Вас за покупку полной версии Solid Explorer. Я надеюсь, что Вам понравится.</string>
-    <string name="Trial_expired">Пробное время истекло</string>
-    <string name="Purchase">Купить</string>
-    <string name="No_thanks">Нет, спасибо</string>
-    <string name="Function_not_available">Эта функция недоступна в текущей версии системы</string>
-    <string name="Beta_expired">Бета версия истекла</string>
+    <string name="X_hours_Y_minutes_ago">%x час(ов) %y минут(а) назад</string>
 </resources>
