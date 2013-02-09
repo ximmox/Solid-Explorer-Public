@@ -12,8 +12,8 @@
     <string name="Actions">Действия</string>
     
     <!-- "New" popup -->
-    <string name="New_folder">Папка</string>
-    <string name="New_file">Файл</string>
+    <string name="New_folder">Новую Папку</string>
+    <string name="New_file">Новый Файл</string>
     <string name="New_FTP_connection">FTP соединение</string>
     <string name="New_SFTP_connection">SFTP соединение</string>
     <string name="New_SMB_connection">SMB соединение</string>
@@ -43,8 +43,8 @@
     <string name="Sort">Сортировка</string>
     <string name="Search">Поиск</string>
     <string name="Operations">Операции</string>
-    <string name="Manage_bookmarks">Управление закладками</string>
-    <string name="File_sharing">Отправить</string>
+    <string name="Manage_bookmarks">Закладки</string>
+    <string name="File_sharing">Доступ</string>
     <string name="Settings">Настройки</string>
     <string name="Exit">Выход</string>
     
@@ -52,7 +52,7 @@
     <string name="Cloud_storage">Облачное хранилище</string>
     
     <!-- "Device" popup -->
-     <string name="System_root">Корневая система</string>
+    <string name="System_root">Корень системы</string>
     <string name="SD_card">SD-Карта</string>
     <string name="Internal_memory">Внутренняя память</string>
     <string name="USB_drive_x">USB Диск %x</string>
@@ -75,18 +75,18 @@
     <string name="In_order">Порядок сортировки</string>
     
     <!-- Browser switch popup -->
-    <string name="Active_browser">Часто просматриваемые</string>
-    <string name="Close_all">Закрыть всё</string>
+    <string name="Active_browser">Текущая</string>
+    <string name="Close_all">Закрыть все</string>
     <string name="In_background">В фоне</string>
     
     
     
     <!-- Context menu -->
-    <string name="Open_with">Открыть с помощью..</string>
+    <string name="Open_with">Открыть в</string>
     <string name="Open_in_bg">Открыть в фоне</string>
     <string name="Send">Отправить</string>
     <string name="Bookmark">Закладка</string>
-    <string name="Rename">Переименоватьe</string>
+    <string name="Rename">Переименовать</string>
     <string name="Extract">Извлечь</string>
     <string name="Extract_to">Извлечь в</string>
     <string name="Archive">Архивировать</string>
@@ -100,23 +100,23 @@
     <string name="No">Нет</string>
     
             <!-- New folder/file dialog -->
-        <string name="Enter_the_name">Введите имя</string>
+	    <string name="Enter_the_name">Введите имя</string>
 	    
 	    <!-- New connection Dialog -->
-	    <string name="Display_name">Отображать имя</string>
-	    <string name="May_be_empty">Возможно пустой</string>
-    	<string name="Remote_path">Удаленный путь</string>
+	    <string name="Display_name">Название</string>
+	    <string name="May_be_empty">Можно не задавать</string>
+    	<string name="Remote_path">Удалённый путь</string>
     	<string name="Port">Порт</string>
     	<string name="User_name">Имя пользователя</string>
     	<string name="Password">Пароль</string>
-    	<string name="Repeat_the_password">Повторить пароль</string>
+    	<string name="Repeat_the_password">Повторите пароль</string>
     	<string name="Authentication_method">Метод аутентификации</string>
     	<string name="Server">Сервер</string>
     	<string name="Connection_type">Тип подключения</string>
-    	<string name="Scan">Сканировать</string>
+    	<string name="Scan">Найти</string>
     	<string name="Computer_name_or_IP_adress">Имя компьютера или IP-адрес</string>
     	<string name="Looking_for_computers">Обзор компьютеров</string>
-    	<string name="Share">Отправить</string>
+    	<string name="Share">Доступ</string>
     	
     		<!-- Auth methods -->
     		<string name="Ask_for_password_each_time">Спрашивать каждый раз</string>
@@ -132,14 +132,14 @@
         
     <!-- Search activity -->	
     <string name="Manual_search">Ручной поиск</string>
-    <string name="Results_from">Результат:</string>
+    <string name="Results_from">Результаты из</string>
     <string name="No_results">Нет результатов</string>
-    <string name="Matches">Совпадения</string>
-    <string name="Selected">Выбранные</string>
+    <string name="Matches">Совпадений</string>
+    <string name="Selected">Выбрано</string>
     <string name="Match_mode">Режим совпадений</string>
-    <string name="Match_start">Сначала слова</string>
-    <string name="Match_any">Любое совпадение</string>
-    <string name="Match_end">Конец слова</string>
+    <string name="Match_start">По началу имени</string>
+    <string name="Match_any">Любые совпадения</string>
+    <string name="Match_end">По концу имени</string>
     
     <!-- Operations activity -->
     <string name="History_is_empty">История пуста</string>
@@ -153,13 +153,13 @@
     
     	<!-- Operation info -->
     	<string name="Operation">Операция</string>
-    	<string name="From">От</string>
-    	<string name="To">К</string>
+    	<string name="From">Из</string>
+    	<string name="To">В</string>
     	<string name="Size">Размер</string>
     	<string name="Speed">Скорость</string>
-    	<string name="ETA">ETA</string>
+    	<string name="ETA">Осталось</string>
     	<string name="NA">Н/Д</string>
-    	<string name="Current">Текущее</string>
+    	<string name="Current">Текущий</string>
     	
     	<!-- Operation descriptions -->
     	<string name="File_copy">Копирование</string>
@@ -177,9 +177,9 @@
     <!-- Bookmark manager -->
     <string name="Bookmark_manager">Управление закладками</string>
     <string name="Edit">Изменить</string>
-    <string name="Disconnect">Разъеденить</string>
+    <string name="Disconnect">Разъединить</string>
     <string name="Delete_all">Удалить всё</string>
-    <string name="Wifi_toggle">Переключить WiFi</string>
+    <string name="Wifi_toggle">Вкл/выкл WiFi</string>
     <string name="Wifi_settings">Настройки Wi-Fi</string>
     <string name="Disconnect_all">Разъеденить всё</string>
     <string name="Connected">Соединено</string> 
@@ -195,18 +195,19 @@
     <string name="Path">Путь</string>
     
     <!-- Dir picker -->
-    <string name="Pick_a_directory">Выбрать дерикторию</string>
+    <string name="Pick_a_directory">Выбрать директорию</string>
     
     <!-- Cloud storage dialog -->
     <string name="Cloud_storage_services">Сервисы облачного хранения</string>
-    <string name="Cloud_services_description">Выберите облачный сервис для использования</string>
+    <string name="Cloud_services_description">Выбрать облачный сервис для использования</string>
     
     <!-- File sharing -->
     <string name="File_sharing_active">Передача файла</string>
-    <string name="ftp_server_hint">Для подключения введите адрес сервера в адресной строке окна или используйте любой FTP клиент.</string>
+    <string name="ftp_server_hint">Для подключения введите адрес сервера в адресной строке проводника Windows или используйте любой FTP клиент.</string>
     <string name="You_cannot_share_root_directory">Вы не можете отправить корневой каталог</string>
     <string name="File_sharing_stopped">Отправка остановлена</string>
-    <string name="None">Ничего</string>
+    <string name="None">Без фильтра</string>
+    <string name="None1">Без сжатия</string>
     <string name="You_have_to_be_connected_to_the_LAN_network">Вы должны быть подключены к локальной сети</string>
     <string name="Active">Активный</string>
     <string name="Inactive">Неактивный</string>
@@ -227,9 +228,10 @@
     <string name="Format">Формат</string>
     <string name="Use_password_protection">Использовать защиту паролем</string>
     <string name="Fast">Быстрое</string>
-    <string name="Normal">Нормальное</string>
+    <string name="Normal">Обычное</string>
+    <string name="Normal1">Обычное</string>
     <string name="Good">Хорошее</string>
-    <string name="Best">Лучшее</string>
+    <string name="Best">Максимальное</string>
     
     <!-- File properties -->
     <string name="Content_summary">Содержание</string>
@@ -237,8 +239,8 @@
     <string name="Top_files">Топ % файлов</string>
     <string name="Location">Расположение</string>
     <string name="Type">Тип</string>
-    <string name="Parent_path">Исходный путь</string>
-    <string name="Last_modified">Последние изменения</string>
+    <string name="Parent_path">Расположение</string>
+    <string name="Last_modified">Дата изменения</string>
     <string name="Directory">Директория</string>
     <string name="Unknown">Неизвестно</string>
     <string name="Symbolic_link">Симлинк</string>
@@ -248,12 +250,12 @@
     <string name="MD5">MD5</string>
     <string name="Calculate">Вычислить</string>
     <string name="Compare">Сравнить</string>
-    <string name="Paste_to_compare">Вставить для сравнения</string>
+    <string name="Paste_to_compare">Вставьте для сравнения</string>
     <string name="Files">Файлы</string>
     <string name="Folders">Папки</string>
     <string name="Calculation_error">Ошибка вычисления</string>
     <string name="Content">Содержание</string>
-    <string name="Other_used">Др.использов.</string>
+    <string name="Other_used">Другое.</string>
     <string name="Free_space">Свободно</string>
     <string name="Usage">Занято</string>
     <string name="Attributes">Атрибуты</string>
@@ -308,20 +310,20 @@
     	<string name="Remember_action">Запомнить действие</string>
     	<string name="Keep_the_old_file">Пропустить старый файл</string>
     	<string name="The_new_file_will_have_its_name_changed">Имя нового файла будет изменено</string>
-    	<string name="Replace_the_file_with_this">Файл заменится</string>
+    	<string name="Replace_the_file_with_this">Файл будет заменён</string>
     	<string name="Create_master_password">Создание мастер-пароля</string>
     	
-    	<string name="Choose_an_activity_to_open_the_file">Выбрать действие для открытия файла</string>
+    	<string name="Choose_an_activity_to_open_the_file">Выбрать действие для открытия</string>
     	<string name="Always_use_this_application">Всегда использовать это приложение</string>
     	<string name="Send_the_file_using">Отправить файл с помощью</string>
-    	<string name="Progress">Обработка</string>
+    	<string name="Progress">Выполнение</string>
     	<string name="Minimize">Свернуть</string>
     	<string name="Pause">Пауза</string>
     	<string name="Resume">Возврат</string>
     	<string name="Dismiss">Прервать</string>
     	
     	<string name="Abort_operation">Прервать операцию</string>
-    	<string name="There_is_already_an_operation_running">Уже запущена одна операция. Дождитесь ее завершения.</string>
+    	<string name="There_is_already_an_operation_running">Уже запущена одна операция. Дождитесь её завершения.</string>
     
     	<!-- Question dialogs -->
     	<string name="Are_you_sure_you_want_to_clear_the_history">Вы уверены, что хотите очистить историю?</string>
@@ -330,17 +332,17 @@
     	<string name="It_is_time_for_sheduled_indexing">Запуск запланированной индексации. Хотите выполнить её сейчас?</string>
     	<string name="Folder_exists_descr">В этой директории уже существует такая папка. Выберите действие.</string>
     	<string name="File_exists_descr">В этой директории уже существует такой файл. Выберите действие.</string>
-    	<string name="Are_you_sure_you_want_to_delete">Вы действительно хотите удалить \&quot;%\&quot;?</string>
-    	<string name="Are_you_sure_to_abort_current_operation">Вы действительно хотите прервать текущую операцию?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Вы уверены, что хотите удалить \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Вы уверены, что хотите прервать текущую операцию?</string>
     	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Вы уверены, что хотите удалить все закладки?</string>
-    	<string name="Are_you_sure_you_want_to_delete_bookmark">Вы действительно хотите удалить закладку \&quot;%\&quot; ?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Вы уверены, что хотите удалить закладку \&quot;%\&quot; ?</string>
     	<string name="Reindex_prompt">Выполнение индексации. Это может занять несколько минут. Продолжить?</string>
     	<string name="Clear_index_prompt">Вы уверены, что хотите удалить все данные индекса? Операция без отмены!</string>
     	<string name="Are_you_sure_to_stop_indexing">Вы уверены, что хотите остановить индексацию?</string>
-    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Точно хотите удалить ассоциации типов файлов?</string>
-    	<string name="Changes_have_been_made_to_the_file">Были внесены изменения в &quot;%&quot;. Хотите их сохранить?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Вы уверены, что хотите удалить ассоциации типов файлов?</string>
+    	<string name="Changes_have_been_made_to_the_file">Были внесены изменения в &quot;%&quot;. Сохранить?</string>
     	<string name="Chown_confirm">Вы уверены, что хотите изменить владельца этого файла?</string>
-    	<string name="Busybox_request">Возможно BusyBox не установлен в вашей системе. Для правильной работы с корневым каталогом, необходимо его установить. Хотите установить его сейчас?</string>
+    	<string name="Busybox_request">Возможно, BusyBox не установлен в вашей системе. Для правильной работы с корневым каталогом, необходимо его установить. Хотите установить его сейчас?</string>
     	
     	
     	<!-- Information dialogs -->
@@ -354,7 +356,7 @@
     	<string name="Preparing_for_operation">Подготовка операции...</string>
     	<string name="Connecting">Соединение</string>
     	<string name="Connecting_to_x">Подключение к \&quot;%\&quot;</string>
-    	<string name="File_is_too_big">Файл слишком большой. Для редактирования поддерживаются, файлы только до 75kB.</string>
+    	<string name="File_is_too_big">Файл слишком большой. Редактор работает с файлами до 75kb.</string>
     	<string name="Operation_history_has_been_cleared">История операций была очищена</string>
     	<string name="Encrypted_archive">Зашифрованный архив</string>
     	<string name="Enter_the_password">Введите пароль</string>
@@ -366,13 +368,13 @@
     	<string name="Reading_archive">Чтение архива</string>
     	<string name="Reading_archive_x">Чтение архива \&quot;%\&quot;</string>
     	<string name="Storage_not_available">Хранилище не доступно</string>
-    	<string name="The_password_given_is_incorrect">Введенный пароль неверный</string>
-    	<string name="You_did_not_specify_a_server_name">Вы не указали имя сервера</string>
-    	<string name="You_did_not_specify_a_computer_name">Вы не указали имя компьютера</string>
-    	<string name="You_did_not_specify_a_port_number">Вы не указали номер порта</string>
-    	<string name="You_did_not_specify_user_name">Вы не указали имя пользователя</string>
+    	<string name="The_password_given_is_incorrect">Введён неверный пароль</string>
+    	<string name="You_did_not_specify_a_server_name">Укажите имя сервера</string>
+    	<string name="You_did_not_specify_a_computer_name">Укажите имя компьютера</string>
+    	<string name="You_did_not_specify_a_port_number">Укажите номер порта</string>
+    	<string name="You_did_not_specify_user_name">Укажите имя пользователя</string>
     	<string name="Indexing">Индексация</string>
-    	<string name="Indexing_in_progress">Индексирование</string>
+    	<string name="Indexing_in_progress">Индексация</string>
     	<string name="Indexing_paused">Индексация приостановлена</string>
     	<string name="Indexing_has_been_completed">Индексация завершена</string>
     	<string name="Indexing_has_been_aborted">Индексация была прервана</string>
@@ -381,9 +383,9 @@
     	<string name="File_is_ready_to_open">Файл готов для открытия</string>
     	
     	<string name="Operation_aborted_by_user">Операция отменена пользователем</string>
-    	<string name="You_cant_delete_this_item">Вы не можете это удалить</string>
+    	<string name="You_cant_delete_this_item">Вы не можете удалить этот элемент</string>
     	<string name="Indexing_service">Служба индексирования</string>
-    	<string name="Only_local_file_can_be_added_to_the_archive">Только локальный файл можно добавить в архив</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">В архив можно добавить только локальный файл</string>
     	<string name="Bookmark_already_exists">Закладка уже существует</string>
     	<string name="Added_to_bookmarks">\&quot;%\&quot; добавлено в закладки</string>
     	<string name="Rename_a_file">Переименовать файл</string>
@@ -391,15 +393,15 @@
     	<string name="File_named_already_exists">Файл с именем \&quot;%\&quot; уже существует</string>
     	<string name="Confirm_delete">Подтвердите удаление</string>
     	<string name="You_cant_create_an_archive_here">Вы не можете создать архив здесь</string>
-    	<string name="Cannot_connect_to">Не удается подключиться к \&quot;%\&quot;</string>
+    	<string name="Cannot_connect_to">Не удаётся подключиться к \&quot;%\&quot;</string>
     	<string name="You_are_not_logged_in">Вы не авторизованы</string>
-		<string name="Can_not_create_the_directory">Не удается создать каталог</string>
+		<string name="Can_not_create_the_directory">Не удаётся создать каталог</string>
 
-    	<string name="Can_not_create_the_file">Не удается создать файл</string>
+    	<string name="Can_not_create_the_file">Не удаётся создать файл</string>
     	<string name="Uknown_file_type">Неизвестный тип файла</string>
     	<string name="No_activity_found_to_open_this_file">Не найдено приложений для открытия этого файла</string>
     	<string name="You_cant_send_a_folder">Нельзя отправить папку</string>
-    	<string name="Indexing_has_been_unscheduled">Индексация была перенесена</string>
+    	<string name="Indexing_has_been_unscheduled">Индексация была отложена</string>
     	<string name="Scheduled_indexing">Запланированная индексация</string>
     	<string name="Tap_to_start">Нажмите, чтобы начать</string>
     	
@@ -425,7 +427,7 @@
     			2, 3, 4 pliki
     			5, 6, 7, 8, 9, 10, 11, 12 ... plików
     			but.. 22, 23 pliki
-    			and 26, 27 plików
+    			f 26, 27 plików
     			Complicated, huh?
     			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
     			
@@ -458,10 +460,10 @@
     
     <!-- Open as dialog -->
     <string name="Open_as">Открыть как...</string>
-    <string name="Choose_a_preferred_type">Выберите предпочитаемый тип</string>
+    <string name="Choose_a_preferred_type">Выберите нужный тип</string>
     <string name="Text_file">Текстовый файл</string>
     <string name="Image_file">Файл изображения</string>
-    <string name="Music_file">Музыкальный файл</string>
+    <string name="Music_file">Файл аудио</string>
     <string name="Video_file">Видео файл</string>
     <string name="ZIP_archive">ZIP-архив</string>
     
@@ -474,14 +476,14 @@
 
     
 	<!-- Text editor -->
-    <string name="Wrap_lines">Перенос линий</string>
+    <string name="Wrap_lines">Перенос строк</string>
     <string name="Font_size">Размер шрифта</string>
     <string name="Font">Шрифт</string>
-    <string name="App_default">Приложение по умолчанию</string>
-    <string name="System_default">Системное по умолчанию</string>
+    <string name="App_default">Из приложения</string>
+    <string name="System_default">Из системы</string>
     <string name="Serif">Serif</string>
     <string name="Monospace">Monospace</string>
-    <string name="File_saved_successfully">Файл успешно сохранен</string>
+    <string name="File_saved_successfully">Файл успешно сохранён</string>
     
     
     <!-- Preferences -->
@@ -491,12 +493,12 @@
 	<string name="Theme">Тема приложения</string>
     <string name="Choose_between_preinstalled_themes">Выберите желаемую тему</string>
     <string name="Light">Светлая</string>
-    <string name="Dark">Темная</string>
+    <string name="Dark">Тёмная</string>
     
-    <string name="Toggle_visibility_of_hidden_files">Включить видимость скрытых файлов</string>
+    <string name="Toggle_visibility_of_hidden_files">Показ(ыв)ать скрытые файлы</string>
     <string name="Show_hidden_files">Скрытые файлы</string>
     
-    <string name="Show_file_permissions">Разрешение прав у файлов</string>
+    <string name="Show_file_permissions">Разрешения прав у файлов</string>
     <string name="Show_file_permissions_summary">Показывать разрешения у файлов в стиле Unix, а не дату последнего изменения (только root).</string>
     
     <string name="Date_format">Формат даты</string>
@@ -509,7 +511,7 @@
     <string name="Use_fast_scroll">Быстрая прокрутка</string>
     
     <string name="Low_quality_thumbnails">Низкое качество миниатюр</string>
-    <string name="Low_quality_thumbnails_summary">Подходит если маленький объём памяти</string>
+    <string name="Low_quality_thumbnails_summary">Подходит при малом объёме памяти</string>
     
     <string name="Portrait_fullscreen">Портретный режим</string>
     <string name="Portrait_fullscreen_summary">Скрыть статус-бар в портретном режиме (полный экран)</string>
@@ -524,17 +526,17 @@
     <string name="Adjust_size_of_the_file_list_in_landscape">Настроить размер списка файлов в альбомном режиме</string>
     
     <string name="Small">Маленький</string>
-    <string name="Normal">Нормальный</string>
+    <string name="Normal">Обычный</string>
     <string name="Big">Большой</string>
     <string name="Large">Огромный</string>
     <string name="Extra_small">Мелкий</string>
     
     <string name="Hide_exit_button">Скрыть кнопку выхода</string>
-    <string name="Hide_exit_button_summary">Включится возможность выхода, через долгое нажатие клавиши Назад</string>
+    <string name="Hide_exit_button_summary">Включится возможность выхода, по долгому нажатию клавиши Назад</string>
     
     <string name="Startup">Запуск</string>
     
-    <string name="Remember_last_folder">Помнить последнюю папку</string>
+    <string name="Remember_last_folder">Запоминать последнюю папку</string>
     <string name="Will_start_with_recently_viewed_directories">Начать с недавно просмотренных каталогов</string>
     
     
@@ -545,21 +547,21 @@
     <string name="Change_downloads_directory">Изменить каталог загрузок</string>
     
     <string name="Drag_and_drop">Перетаскивание</string>
-    <string name="Action_for_drop_inside_the_panel">Отпустить внутри панели</string>
-    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетаскивание папки в панели</string>
-    <string name="Action_for_drop_to_the_second_panel">Отпустить во второй панели</string>
-    <string name="Dropping_an_item_to_the_second_panel">Перетаскивание во второй панели</string>
+    <string name="Action_for_drop_inside_the_panel">Первая панель</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетаскивание элемента в папку текущей панели и отпустить</string>
+    <string name="Action_for_drop_to_the_second_panel">Вторая панель</string>
+    <string name="Dropping_an_item_to_the_second_panel">Перетаскивание элемента в другую панель и отпустить</string>
     <string name="Move">Переместить</string>
     
     <string name="Security">Безопасность</string>
-    <string name="Master_password_prompt">Solid Explorer использует для безопасности мастер-пароль, для шифрования всех учетных данных входа. Вам будет предложен мастер-пароль только один раз, до перезапуска приложения. В противном случае используется шифрование по умолчанию, без пароля. Хотите использовать эту функцию?</string>
-    <string name="Disable_master_password_warning">Отключение мастер-пароля, приведет к паролю по умолчанию. Вас никогда не спросят о нем. Выполнение входа останется зашифрованным. Вы хотите продолжить?</string>
-    <string name="Enable_master_password_warning">Если у вас есть любые предыдущие зашифрованные закладки с паролем по умолчанию, они будут удалены. Продолжить?</string>
+    <string name="Master_password_prompt">Solid Explorer использует для безопасности мастер-пароль, для шифрования всех учётных данных входа. Вам будет предложен мастер-пароль только один раз, до перезапуска приложения. В противном случае используется шифрование по умолчанию, без пароля. Хотите использовать эту функцию?</string>
+    <string name="Disable_master_password_warning">Отключение мастер-пароля, приведёт к паролю по умолчанию. Вас никогда не спросят о нем. Выполнение входа останется зашифрованным. Вы хотите продолжить?</string>
+    <string name="Enable_master_password_warning">Если у вас уже есть зашифрованные закладки с паролем по умолчанию, они будут удалены. Продолжить?</string>
     <string name="Enable_master_password">Включить мастер-пароль</string>
     <string name="Too_weak_password">Пароль должен содержать не менее 6 и не более 16 символов</string>
     <string name="Enter_the_master_password">Введите мастер-пароль</string>
     <string name="Enter_a_new_master_password">Введите новый мастер-пароль.</string> 
-    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Шифровать все данные учетной записи, с помощью мастер-пароля</string>
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Шифровать все данные учётной записи с помощью мастер-пароля</string>
     <string name="Set_master_password">Изменить мастер-пароль</string>
     <string name="All_passwords_will_be_reencrypted">Все пароли будут повторно зашифрованы</string>
     
@@ -575,9 +577,9 @@
     
     <string name="Search_interface">Поиск и индекс</string>
     <string name="Search_key_starts_filtering">Поиск с фильтром (ключевое начало)</string>
-    <string name="Search_key_starts_filtering_summary">Поиск ключевого начала (фильтрация краткого изложения)</string>
+    <string name="Search_key_starts_filtering_summary">Поиск ключевого начала (фильтрация кратких изложений)</string>
     <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Соответствие по началу слова, фильтруя список</string>
-    <string name="Filter_words_from_the_beginning">Фильтр слов с самого начала</string>
+    <string name="Filter_words_from_the_beginning">Фильтр по начальным символам слова</string>
     <string name="Customize_indexing_engine_behaviour">Настроить поведение индексации</string>
     <string name="Indexing_engine">Поведение индексации</string>
     	<string name="Reindex_now">Переиндексировать</string>
@@ -589,7 +591,7 @@
     	<string name="Shedule_indexing">Расписание индексирования</string>
     	<string name="Perform_reindex_every_given_period">Автоиндексирование по расписанию</string>
     	<string name="Set_time_and_period">Расписание</string>
-    	<string name="The_time_when_the_indexing_will_be_triggered">Автоиндексироание в заданный период</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Автоиндексирование в заданный период</string>
     	<string name="Maximum_index_age">Максимальный срок хранения</string>
     	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Сколько времени индекс должен оставаться в базе данных, если его файл не существует</string>
     	<string name="one_day">1 день</string>
@@ -616,7 +618,7 @@
     <string name="Delete_all_temporary_files">Удалить все временные файлы</string>
     <string name="Delete_operation_history_entries">Удалить историю входящих операций</string>
     <string name="Clear_file_type_associations">Очистить ассоциации типов файлов</string>
-    <string name="Clear_file_type_associations_summary">Удаление информации приложений для открытия определенных типов файлов</string>
+    <string name="Clear_file_type_associations_summary">Удаление информации приложений для открытия определённых типов файлов</string>
     <string name="Clear_temporary_files_on_exit">Очистить временные файлы при выходе</string>
     <string name="Temporary_files_will_be_removed_on_app_exit">Временные файлы будут удалены при выходе из приложения</string>
     
@@ -631,7 +633,7 @@
     <string name="Version">Версия</string>
     <string name="Changelog">Список изменений</string>
     <string name="Whats_new">Что нового</string>
-    <string name="Author">Аатор</string>
+    <string name="Author">Автор</string>
     <string name="Functionality_for_future_releases">Функции будущих версий</string>
     <string name="Planned_features">Планируемые возможности</string>
     
@@ -643,7 +645,7 @@
     <string name="search_description">Найти своё устройство с помощью Solid Explorer</string>
     <string name="search_hint">Ввести критерии </string>
     <string name="Save_file">Сохранить файл</string>
-    <string name="Solid_explorer_indexing_service">Solid Explorer служба индексирования</string>
+    <string name="Solid_explorer_indexing_service">Служба индексирования Solid Explorer</string>
     
     
     
@@ -653,19 +655,19 @@
     <string name="crash_notif_title">Ошибка Solid Explorer...</string>
     <string name="crash_notif_text">Пожалуйста, нажмите здесь, чтобы помочь решить проблему.</string>
     <string name="crash_dialog_title">Ошибка приложения</string>
-    <string name="crash_dialog_text">Ошибка, заставившая приложение остановиться. Пожалуйста, напишите мне о подробных действиях.</string>
+    <string name="crash_dialog_text">Приложение остановлено в результате ошибки. Пожалуйста, напишите мне о подробных действиях.</string>
     <string name="crash_dialog_comment_prompt">Пожалуйста напишите о проблеме, ниже. В большинстве случаев невозможно выявить проблему, без ваших объяснений.</string>
     <string name="crash_dialog_ok_toast">Спасибо!</string>
     
     <string name="Icon_designer">Дизайн иконки</string>
     <string name="Prefix">Префикс</string>
     <string name="Translations">Перевод</string>
-    <string name="Translations_summary">Коррекция английского языка при поддержке Стивена Шена</string>
+    <string name="Translations_summary">Русский язык: G3-SCORPIO (Grizzly-Bear). Коррекция: OsitKP, vit528, Unregistered, noval4, Nasrulla.</string>
     <string name="Empty">Пусто</string>
     <string name="Press_once_again_to_exit">Нажмите ещё раз для выхода</string>
     
     
-    <string name="View_in_DiskUsage">Посмотреть в Карта SD</string>
+    <string name="View_in_DiskUsage">Посмотреть в DiskUsage</string>
     <string name="Retry">Повторить</string>
     <string name="Portrait">Портретная</string>
     <string name="Landscape">Альбомная</string>
@@ -678,18 +680,18 @@
     <string name="Label_size_points">Размер текста (max 35pt)</string>
     <string name="Columns">Колонки</string>
     <string name="No_computers_found">Компьютеры не найдены</string>
-    <string name="Local_directory">Локальная дериктория</string>
+    <string name="Local_directory">Локальная директория</string>
     <string name="Default_panel">Панель по умолчанию</string>
     <string name="Destination_type">Назначить тип</string>
-    <string name="DiskUsage_not_installed">Похоже DiskUsage не установлен. Это приложение показывает использование памяти в подробном содержании и легкий в использовании. Вы хотите установить его сейчас?</string>
+    <string name="DiskUsage_not_installed">Похоже, DiskUsage не установлен. Это приложение показывает использование памяти в подробном содержании и лёгкое в использовании. Вы хотите установить его сейчас?</string>
     <string name="Text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
     <string name="Force_english">Английский язык</string>
-    <string name="Force_english_summary">Будет использован интерфейс на английском языке. Программа будет перезапущена.</string>
-    <string name="Encoding">Кодирование</string>
+    <string name="Force_english_summary">Включить английский интерфейс. Потребуется перезапуск программы.</string>
+    <string name="Encoding">Кодировка</string>
     <string name="Network_thumbnails">Сетевой кэш миниатюр</string>
     <string name="Network_thumbnails_summary">Будет использован мобильный трафик или другое подключение.</string>
-    <string name="Copy_to">Копировать в</string>
-    <string name="Move_to">Переместить в</string>
+    <string name="Copy_to">Копировать</string>
+    <string name="Move_to">Переместить</string>
     <string name="Shortcut">Ярлык</string>
     <string name="Two_panels_in_landscape_summary">Показать сразу две панели в альбомной ориентации экрана</string>
     <string name="Two_panels_in_landscape">Две панели (альбомный режим)</string>
@@ -703,7 +705,7 @@
     <string name="Saturation">Насыщенность</string>
     <string name="SolidExplorer_is_running">Solid Explorer работает</string>
     <string name="Notification_shortcut">Уведомления в статус-баре</string>
-    <string name="Notification_shortcut_summary">Уведомлять в строке состояния, когда приложение работает в фоне.</string>
+    <string name="Notification_shortcut_summary">Показывать уведомления в строке состояния, когда приложение работает в фоне.</string>
     <string name="Please_wait">Пожалуйста, подождите</string>
     
     
@@ -714,7 +716,7 @@
 	<string name="Description">Описание</string>
 	<string name="Data_dir">Папка данных</string> <!-- short word please -->
 	<string name="Installed">Установленные</string>
-	<string name="Updated">Обновленные</string>
+	<string name="Updated">Обновлённые</string>
 	<string name="Install">Установить</string>
 	<string name="More">Больше</string>
 	<string name="Package_name">Имя пакета</string>
@@ -725,19 +727,19 @@
 	<string name="Folders_first">Сначала папки</string>
 	<string name="Folders_first_summary">Показывать папки, затем файлы.</string>
 	<string name="FAQ">Справка</string>
-	<string name="FAQ_summary">Пожалуйста, прочтите примечания, перед своим вопросом</string>
+	<string name="FAQ_summary">Пожалуйста, прочтите справку прежде, чем задать вопрос.</string>
 	
 	<!-- v 1.3.8 -->
 	<string name="Quick_config">Конфигурация</string> <!-- short word please -->
 	
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
-    	<string name="X_folders_and_Y_files_deleted">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} удалено.</string>
-    	<string name="X_folders_and_Y_files_copied">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} скопировано.</string>
-    	<string name="X_folders_and_Y_files_moved">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} перемещено.</string>
-    	<string name="Deleting_X_folders_and_Y_files">Удаление %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
-    	<string name="Copying_X_folders_and_Y_files">Копирование %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
-    	<string name="Moving_X_folders_and_Y_files">Перемещение %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
+    	<string name="X_folders_and_Y_files_deleted">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} и %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} удалено.</string>
+    	<string name="X_folders_and_Y_files_copied">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} и %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} скопировано.</string>
+    	<string name="X_folders_and_Y_files_moved">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} и %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} перемещено.</string>
+    	<string name="Deleting_X_folders_and_Y_files">Удаление %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} и %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
+    	<string name="Copying_X_folders_and_Y_files">Копирование %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} и %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
+    	<string name="Moving_X_folders_and_Y_files">Перемещение %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} и %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	
     	<string name="X_folders_moved">% пап{1:ка|2-4:ки|_2-4:ок|__:ок} перемещено.</string>
     	<string name="Moving_X_folders">Перемещение % пап{1:ки|2-4:ок|_2-4:ок|__:ок}</string>
@@ -748,17 +750,17 @@
     	<string name="Show_status_summary">Показать информацию о файлах в директории и использованном пространстве в окне проводника</string>
     	<string name="Show_status">Показывать статус</string>
     	<string name="Mount_rw">Монтировать в r/w</string>
-    	<string name="System_mounted_as_read_write">Система смонтированна в чтение/запись</string>
-    	<string name="System_mounted_as_read_only">Система смонтированна только в чтение</string>
+    	<string name="System_mounted_as_read_write">Смонтировано в режиме чтения/записи</string>
+    	<string name="System_mounted_as_read_only">Смонтировано только в режиме чтения</string>
     	
     <!--  v 1.3.9 -->
     	<string name="Device_labels">Метки устройства</string>
-    	<string name="Device_labels_summary">Показать нормальные имена устройств и дисков, вместо реальных имен, например \&quot;SD Карта\&quot; instead of \&quot;sdcard0\&quot;</string>
+    	<string name="Device_labels_summary">Показать обычные имена устройств и дисков, вместо реальных имён, например \&quot;SD Карта\&quot; вместо \&quot;sdcard0\&quot;</string>
     	<string name="Swap_device_labels">Смена меток устройств</string>
     	<string name="Swap_device_labels_summary">Поменять местами встроенную память с SD картой, в случае неправильного обнаружения</string>
     	<string name="Panels">Панели</string>
     	<string name="Devices">Устройства</string>
-    	<string name="Bug_report_notice">Перед сообщением об ошибке, выполните следующее:\n\n<b>1. Существует ли данная проблема в другом файловом менеджере.\n2. Прочтите FAQ.</b>\n\nВы выполнили эти действия?</string>
+    	<string name="Bug_report_notice">Перед сообщением об ошибке, проверьте следующее:\n\n<b>1. Существует ли данная проблема в другом файловом менеджере.\n2. Прочтите FAQ.</b>\n\nВы выполнили эти действия?</string>
     	<string name="Unable_to_move_the_file">Не удалось переместить файл %</string>
     
     <!-- v 1.4.0 -->
@@ -768,11 +770,11 @@
     	<string name="Standard">Стандартный</string>
     	<string name="No_compression">Без сжатия</string>
     	<string name="A_while_ago">Недавно</string>
-    	<string name="X_hours_Y_minutes_ago">%x час{0:ов|1:|2-4:а|_2-4:ов|__:ов} %y мин{0:ут|1:ута|2-4:уты|_2-4:уты|__:ут} ago</string>
+    	<string name="X_hours_Y_minutes_ago">%x час{0:ов|1:|2-4:а|_2-4:ов|__:ов} %y мин{0:ут|1:ута|2-4:уты|_2-4:уты|__:ут} назад</string>
     	<!-- Already exists, just changed the content -->
     	<string name="Expiration_message">Спасибо, что выбрали Solid Explorer. Чтобы продолжить работу с этим приложением, купите мне виртуальное пиво, посредством покупки ключа разблокировки с Google Play. Делайте это только тогда, когда вы полностью удовлетворены приложением.</string>
     	<string name="Purchased_message">Благодарю Вас за покупку полной версии Solid Explorer. Я надеюсь, что Вы довольны.</string>
-    	<string name="Trial_expired">Пробный период истек</string>
+    	<string name="Trial_expired">Пробный период истёк</string>
     	<string name="Purchase">Купить</string>
     	<string name="No_thanks">Нет, спасибо</string>
     	<string name="Function_not_available">Эта функция недоступна в текущей версии прошивки</string>
