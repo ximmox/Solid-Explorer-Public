@@ -608,7 +608,6 @@
     <string name="Other">Other</string>
     	
     <string name="Clear_persistent_data">Clear persistent data</string>
-    <string name="Clear_persistent_data_summary">Delete data such as thumbnail cache, temporary files, operation history, etc.</string>
     <string name="Clear_thumbnail_cache">Clear thumbnail cache</string>
     <string name="Clear_temporary_files">Clear temporary files</string>
     <string name="Clear_operation_history">Clear operation history</string>
@@ -776,5 +775,34 @@
     	<string name="Purchase">Purchase</string>
     	<string name="No_thanks">No, thanks</string>
     	<string name="Function_not_available">This function is not available in current system version</string>
-	
+    	
+    <!-- v 1.4.3 -->
+    	<string name="Wallpaper_has_been_set_successfully">Wallpaper has been set successfully</string>
+    	<string name="X_has_been_set_as_default_ringtone">% has been set as default ringtone</string>
+    	<string name="X_has_been_set_as_default_notification">% has been set as default notification sound</string>
+    	<string name="X_has_been_set_as_default_alarm">% has been set as default alam sound</string>
+    	<string name="Copy_path">Copy path</string>
+    	<string name="Copy_name">Copy name</string>
+    	<string name="Create_symlink">Create symlink</string>
+    	<string name="Set_as_wallpaper">Set as wallpaper</string>
+    	<string name="Set_as_ringtone">Set as ringtone</string>
+    	<string name="Set_as_notification">Set as notification</string>
+    	<string name="Set_as_alarm">Set as alarm</string>
+    	<string name="Enter_the_symlink_location">Enter the symlink location</string>
+    	<string name="Symbolic_link_created_successfully">Symbolic link created successfully</string>
+    	<string name="Sugarsync_login">SugarSync login</string>
+    	<string name="Copy_link">Copy link</string>
+    	<string name="Data_backup">Data backup</string>
+    	<string name="Application_data">Application data</string>
+    	<string name="Create_backup">Create backup</string>
+    	<string name="Backup_application_data_to_a_desired_file">Backup application data to a desired file</string>
+    	<string name="Restore_backup">Restore backup</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Choose a backup file from which the data will be restored</string>
+    	<string name="Data_backup_created">Data backup created</string>
+    	<string name="Data_backup_restored">Data backup restored</string>
+    	<string name="Support">Support</string>
+    	<string name="Support_summary">Visit the Solid Explorer\'s support page</string>
+    	<string name="Experimental_feature_notifier">Please note, that this feature is experimental and will likely not work properly on your current Android version.</string>
+    	<string name="Trial_check_notice">Solid Explorer could not verify the trial period. Please enable internet connection now or within 2 days. Otherwise your trial period will be over.</string>
+		
 </resources>
