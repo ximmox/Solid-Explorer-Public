@@ -610,7 +610,6 @@
     <string name="Other">Другое</string>
     	
     <string name="Clear_persistent_data">Очистка постоянных даных</string>
-    <string name="Clear_persistent_data_summary">Удаление данных, с кратким содержанием.(кэш миниатюр, история операций, временные и т.д.)</string>
     <string name="Clear_thumbnail_cache">Очистить кэш миниатюр</string>
     <string name="Clear_temporary_files">Очистить временные файлы</string>
     <string name="Clear_operation_history">Очистить историю операций</string>
@@ -778,5 +777,33 @@
     	<string name="Purchase">Купить</string>
     	<string name="No_thanks">Нет, спасибо</string>
     	<string name="Function_not_available">Эта функция недоступна в текущей версии прошивки</string>
-	
+    	<!-- v 1.4.3 -->
+     <string name="Wallpaper_has_been_set_successfully">Установка обоев успешна</string>
+     <string name="X_has_been_set_as_default_ringtone">% был установлен мелодией по умолчанию</string>
+     <string name="X_has_been_set_as_default_notification">% был установлен звуком уведомлений по умолчанию</string>
+     <string name="X_has_been_set_as_default_alarm">% был установлен звуком будильника по умолчанию</string>
+     <string name="Copy_path">Копировать путь</string>
+     <string name="Copy_name">Копировать имя</string>
+     <string name="Create_symlink">Создать симлинк</string>
+     <string name="Set_as_wallpaper">Установить как обои</string>
+     <string name="Set_as_ringtone">Установить на звонок</string>
+     <string name="Set_as_notification">Установить как звук уведомлений</string>
+     <string name="Set_as_alarm">Установить как звук будильника</string>
+     <string name="Enter_the_symlink_location">Ввести размещение симлинка</string>
+     <string name="Symbolic_link_created_successfully">Симлинк создан успешно</string>
+     <string name="Sugarsync_login">SugarSync логин</string>
+     <string name="Copy_link">Копировать ссылку</string>
+     <string name="Data_backup">Резервирование данных</string>
+     <string name="Application_data">Данные приложений</string>
+     <string name="Create_backup">Создать резервную копию</string>
+     <string name="Backup_application_data_to_a_desired_file">Резервировать внешние данные к выбранному файлу</string>
+     <string name="Restore_backup">Восстановить из резервной копии</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Выбрать резервный файл для извлечения данных</string>
+     <string name="Data_backup_created">Резервная копия данных создана</string>
+     <string name="Data_backup_restored">Данные восстановлены</string>
+     <string name="Support">Поддержка</string>
+     <string name="Support_summary">Посетить страницу помощи Solid Explorer</string>
+     <string name="Experimental_feature_notifier">Пожалуйста, обратите внимание, что эта функция является экспериментальной и возможно не будет работать на вашей версии Android.</string>
+     <string name="Trial_check_notice">Solid Explorer не смог проверить триальный период. Разрешите интернет-соединение сейчас или в течении 2х дней. Иначе ваш испытательный срок закончится.</string>
+     	
 </resources>
