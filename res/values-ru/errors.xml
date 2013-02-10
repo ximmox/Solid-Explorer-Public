@@ -45,5 +45,10 @@
     <string name="Unable_to_mount_the_system_as_read_write">Невозможно установить систему в чтение/запись</string>
     <string name="Unable_to_mount_the_system_as_read_only">Не удаётся установить систему только для чтения</string>
     <string name="Access_denied">Отказано в доступе</string>
+    <!-- 1.4.3 -->
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Не удалось найти ассоциации для этого действия</string>
+    <string name="Unable_to_set_the_wallpaper">Не возможно установить обои</string>
+    <string name="Unlocker_error">Разблокировка полной версии найдена, но что-то вернуло ошибку. Убедитесь, что у приложения есть доступ к интернету и соответствующие права. Возможно при установке, нужно отключить антивирус и перезагрузить устройство.</string>
+    <string name="Unable_to_get_the_link">Не удаётся получить ссылку</string>
     
 </resources>
