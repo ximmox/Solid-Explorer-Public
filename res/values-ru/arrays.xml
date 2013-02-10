@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="compression_level">
+        <item>@string/None1</item>
+        <item>@string/Fast</item>
+        <item>@string/Normal1</item>
+        <item>@string/Good</item>
+        <item>@string/Best</item>
+    </string-array>
+    <array name="compression_tar">
+        <item>@string/None1</item>
+        <item>GZIP</item>
+        <item>BZIP2</item>
+    </array>
+    <string-array name="archive_type">
+        <item>ZIP</item>
+        <item>TAR</item>
+    </string-array>
     <string-array name="date_formats">
         <item>21-6–2012</item>
         <item>21.6.2012</item>
