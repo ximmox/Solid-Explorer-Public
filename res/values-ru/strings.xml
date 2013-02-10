@@ -610,6 +610,7 @@
     <string name="Other">Другое</string>
     	
     <string name="Clear_persistent_data">Очистка постоянных даных</string>
+    <string name="Clear_persistent_data_summary">Удаление данных, с кратким содержанием.(кэш миниатюр, история операций, временные и т.д.)</string>
     <string name="Clear_thumbnail_cache">Очистить кэш миниатюр</string>
     <string name="Clear_temporary_files">Очистить временные файлы</string>
     <string name="Clear_operation_history">Очистить историю операций</string>
@@ -777,7 +778,7 @@
     	<string name="Purchase">Купить</string>
     	<string name="No_thanks">Нет, спасибо</string>
     	<string name="Function_not_available">Эта функция недоступна в текущей версии прошивки</string>
-    	<!-- v 1.4.3 -->
+	<!-- v 1.4.3 -->
     	<string name="Wallpaper_has_been_set_successfully">Установка обоев успешна</string>
     	<string name="X_has_been_set_as_default_ringtone">% был установлен мелодией по умолчанию</string>
     	<string name="X_has_been_set_as_default_notification">% был установлен звуком уведомлений по умолчанию</string>
@@ -805,5 +806,5 @@
     	<string name="Support_summary">Посетить страницу помощи Solid Explorer</string>
     	<string name="Experimental_feature_notifier">Пожалуйста, обратите внимание, что эта функция является экспериментальной и возможно не будет работать на вашей версии Android.</string>
     	<string name="Trial_check_notice">Solid Explorer не смог проверить триальный период. Разрешите интернет-соединение сейчас или в течении 2х дней. Иначе ваш испытательный срок закончится.</string>
-    	
+
 </resources>
