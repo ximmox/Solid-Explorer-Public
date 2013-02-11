@@ -45,5 +45,11 @@
     <string name="Unable_to_mount_the_system_as_read_write">No se puede montar el sistema como lectura/escritura</string>
     <string name="Unable_to_mount_the_system_as_read_only">No se puede montar el sistema como sólo lectura</string>
     <string name="Access_denied">Acceso denegado</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">No se pudo encontrar una actividad para completar esta acción</string>
+    <string name="Unable_to_set_the_wallpaper">no se puedo configurar el fondo de pantalla</string>    
+	
+	<!-- 1.4.3 -->
+    <string name="Unlocker_error">Se encontró el unlocker pero este devolvió un error. Esto normalmente sucede cuando otra aplicación bloquea sus permisos, ej. antivirus. Aseguresé de que Solid Explorer y el unlocker están excluidos de cualquier lista negra y arranque la aplicación de nuevo.</string>
+    <string name="Unable_to_get_the_link">No se puedo obtener el enlace</string>    
     
 </resources>
