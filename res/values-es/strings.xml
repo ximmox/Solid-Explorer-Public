@@ -605,8 +605,7 @@
     
     <string name="Other">Otro</string>
     	
-    <string name="Clear_persistent_data">Borrar los datos persistentes</string>
-    <string name="Clear_persistent_data_summary">Eliminar los datos tales como caché de miniaturas, archivos temporales, historial de operaciones, etc.</string>
+    <string name="Clear_persistent_data">Borrar los datos persistentes</string>    
     <string name="Clear_thumbnail_cache">Borrar caché de miniaturas</string>
     <string name="Clear_temporary_files">Borrar los archivos temporales</string>
     <string name="Clear_operation_history">Borrar el historial de operaciones</string>
@@ -775,5 +774,34 @@
     	<string name="Purchase">Comprar</string>
     	<string name="No_thanks">No, gracias</string>
     	<string name="Function_not_available">Esta función no está disponible en la versión actual del sistema</string>
+
+	<!-- v 1.4.3 -->
+    	<string name="Wallpaper_has_been_set_successfully">Fondo de pantalla modificado correctamente</string>
+    	<string name="X_has_been_set_as_default_ringtone">% ha sido configurado como tono de llamada por defecto</string>
+    	<string name="X_has_been_set_as_default_notification">% ha sido configurado como sonido de notificación por defecto</string>
+    	<string name="X_has_been_set_as_default_alarm">% ha sido configurado como sonido de alarma por defecto</string>
+    	<string name="Copy_path">Ruta de copia</string>
+    	<string name="Copy_name">Nombre de copia</string>
+    	<string name="Create_symlink">Crear symlink</string>
+    	<string name="Set_as_wallpaper">Configurar como fondo de pantalla</string>
+    	<string name="Set_as_ringtone">Configurar como tono de llamada</string>
+    	<string name="Set_as_notification">Configurar como notificación</string>
+    	<string name="Set_as_alarm">Configurar como alarma</string>
+    	<string name="Enter_the_symlink_location">Introduce la localización del symlink</string>
+    	<string name="Symbolic_link_created_successfully">Enlace simbólico creado correctamente</string>
+    	<string name="Sugarsync_login">Iniciar sesión en SugarSync</string>
+    	<string name="Copy_link">Copiar enlace</string>
+    	<string name="Data_backup">Copia de seguridad de datos</string>
+    	<string name="Application_data">Datos de aplicación</string>
+    	<string name="Create_backup">Crear copia de seguridad</string>
+    	<string name="Backup_application_data_to_a_desired_file">Copiar datos de aplicación a un archivo</string>
+    	<string name="Restore_backup">Restaurar copiar de seguridad</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Elija un archivo de copia de seguridad desde el cual los datos serán restaurados</string>
+    	<string name="Data_backup_created">Copia de seguridad de datos creada</string>
+    	<string name="Data_backup_restored">Copia de seguridad de datos restaurada</string>
+    	<string name="Support">Soporte</string>
+    	<string name="Support_summary">Visita la página de soporte de Solid Explorer</string>
+    	<string name="Experimental_feature_notifier">Por favor, tenga en cuenta que esta funcionalidad es experimental y puede que no funcione correctamente en su actual versión de Android.</string>
+    	<string name="Trial_check_notice">Solid Explorer no puede verificar el período de prueba. Por favor, active en algún momento la conexión a internet en los próximos dos días. En caso contrario su período de prueba se acabará.</string>
 
 </resources>
