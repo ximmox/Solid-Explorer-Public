@@ -46,5 +46,11 @@
     <string name="Unable_to_mount_the_system_as_read_only">Tidak dapat meng-mount partisi system sebagai baca-saja</string>
     
     <string name="Access_denied">Akses ditolak</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Tidak dapat menemukan 'activity' untuk menyelesaikan aksi yang diminta.</string>
+    <string name="Unable_to_set_the_wallpaper">Tidak dapat meng-set gambar sebagai wallpaper</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Solid Explorer Unlocker ditemukan tetapi terjadi error pada proses validasinya. Hal ini biasanya terjadi karena adanya aplikasi lain yang memblokirnya (Contoh: anti-virus). Pastikan Solid Explorer dan Solid Explorer Unlocker tidak dimasukkan pada daftar blacklist anti-virus atau sejenisnya. Setelah itu anda dapat mencobanya kembali.</string>
+    <string name="Unable_to_get_the_link">Tidak dapat mengambil tautan</string>
     
 </resources>

@@ -608,7 +608,6 @@
 	<string name="Other">Lainnya</string>
 		
 	<string name="Clear_persistent_data">Hapus data yang menetap</string>
-	<string name="Clear_persistent_data_summary">Penghapusan data seperti: tembolok gambar, file sementara, riwayat operasi, dll.</string>
 	<string name="Clear_thumbnail_cache">Hapus tembolok gambar</string>
 	<string name="Clear_temporary_files">Hapus file sementara</string>
 	<string name="Clear_operation_history">Hapus riwayat operasi</string>
@@ -775,6 +774,35 @@
     	<string name="Trial_expired">Uji coba selesai</string>
     	<string name="Purchase">Pembelian</string>
     	<string name="No_thanks">Tidak, ma'kasih</string>
-    	<string name="Function_not_available">Fungsi ini tidak ada pada sistem saat ini</string>
+    	<string name="Function_not_available">Fungsi ini tidak ada pada sistem saat ini</string>  
+  
+    <!-- v 1.4.3 -->
+     <string name="Wallpaper_has_been_set_successfully">Perubahan wallpaper sukses</string>
+     <string name="X_has_been_set_as_default_ringtone">% telah di-set sebagai nada panggil</string>
+     <string name="X_has_been_set_as_default_notification">% telah di-set sebagai penanda notifikasi</string>
+     <string name="X_has_been_set_as_default_alarm">% telah di-set sebagai suara alarm</string>
+     <string name="Copy_path">Alamat salin</string>
+     <string name="Copy_name">Nama penyalinan</string>
+     <string name="Create_symlink">Membuat symlink</string>
+     <string name="Set_as_wallpaper">Set sebagai wallpaper</string>
+     <string name="Set_as_ringtone">Set sebagai nada panggil</string>
+     <string name="Set_as_notification">Set sebagai penanda notifikasi</string>
+     <string name="Set_as_alarm">Set sebagai alarm</string>
+     <string name="Enter_the_symlink_location">Masukkan lokasi symlink</string>
+     <string name="Symbolic_link_created_successfully">Pembuatan Symbolic link sukses</string>
+     <string name="Sugarsync_login">Login SugarSync</string>
+     <string name="Copy_link">Salin tautan</string>
+     <string name="Data_backup">Backup data</string>
+     <string name="Application_data">Data aplikasi</string>
+     <string name="Create_backup">Membuat backup</string>
+     <string name="Backup_application_data_to_a_desired_file">Backup data aplikasi ke file yang diinginkan</string>
+     <string name="Restore_backup">Memulihkan backup</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Pilih file backup yang akan dipulihkan</string>
+     <string name="Data_backup_created">Backup data dibuat</string>
+     <string name="Data_backup_restored">Backup data dipulihkan</string>
+     <string name="Support">Bantuan</string>
+     <string name="Support_summary">Kunjugin laman bantuan Solid Explorer</string>
+     <string name="Experimental_feature_notifier">Mohon perhatian: fitur ini bersifat eksperimental dan ada kemungkinan tidak berjalan dengan baik pada android yang ada pada perangkat anda.</string>
+     <string name="Trial_check_notice">Solid Explorer tidak dapat mengverifikasi masa uji-coba. Mohon mengaktifkan koneksi internet anda sekarang atau paling telat 2 hari kemudian. Jika tidak masa uji-coba anda akan otomatis berakhir.</string>
 		
 </resources>
