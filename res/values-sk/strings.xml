@@ -600,7 +600,6 @@ Krzysztof Głodowski"</string>
     
     <!-- Other -->
     <string name="Prefix">Prefix</string>
-    <string name="Expiration_message">Ďakujem za použitie Solid Explorer Beta. Ak chcete pokračovať v testovaní tejto aplikácie, stiahnite si poslednú verziu z Google Play.</string>
     <string name="Empty">Prázdny</string>
 	<string name="search_description">Prehľadať zariadenie prostredníctvom Solid Explorer</string>
     <string name="search_hint">Zadajte názov súboru</string>
@@ -721,5 +720,21 @@ Krzysztof Głodowski"</string>
     	<string name="Panels">Panely</string>
     	<string name="Devices">Zariadenia</string>
     	<string name="Bug_report_notice">Pred nahlásením chyby najprv urobte nasledovné kroky:\n\n<b>1. Skontrolujte, či sa chyba prejavuje aj v iných aplikáciách na správu súborov.\n2. Prečítajte si Často kladené otázky.</b>\n\nUrobili ste vyššie uvedené kroky?</string>
-	
+
+  <!-- v 1.4.0 -->
+    	<string name="Compression_ratio">Kompresný pomer</string>
+    	<string name="Compression_method">Kompresná metóda</string>
+    	<string name="Comment">Komentár</string>
+    	<string name="Standard">Štandardná</string>
+    	<string name="No_compression">Bez kompresie</string>
+    	<string name="A_while_ago">Pred chvíľou</string>
+    	<string name="X_hours_Y_minutes_ago">Pred %x hodin{0:ami|1:ou|2-9:ami|__:ami} %y minút{0:ami|1:ou|2-9:ami|__:ami}</string>
+    	<!-- Already exists, just changed the content -->
+    	<string name="Expiration_message">Ďakujeme Vám za použitie skúšobnej verzie Solid Explorer. Ak chcete pokračovať v používaní tejto aplikácie, môžete mi zakúpiť virtuálne pivo, zakúpením Unlockera z obchodu Google Play. Zakúpte si ho vtedy, ak ste skutočne spokojný s aplikáciou.</string>
+    	<string name="Purchased_message">Ďakujeme Vám za zakúpenie plnej verzie Solid Explorer. Dúfame, že sa Vám bude páčiť.</string>
+    	<string name="Trial_expired">Platnosť skúšobnej verzie uplynula</string>
+    	<string name="Purchase">Zakúpiť</string>
+    	<string name="No_thanks">Nie, ďakujem</string>
+    	<string name="Function_not_available">Táto funkcia nie je dostupná v aktálnej verzii systému</string>
+
 </resources>

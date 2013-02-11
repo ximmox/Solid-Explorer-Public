@@ -639,9 +639,8 @@
     
     <!-- Other -->
     <string name="Prefix">Префикс</string>
-    <string name="Expiration_message">Благодаря че използвате бетата на Solid Explorer. За да продължите да тествате приложението, изтеглете последната версия от Google Play.</string>
     <string name="Empty">Празно</string>
-	<string name="search_description">Търсете във вашето устройство със Solid Explorer</string>
+    <string name="search_description">Търсете във вашето устройство със Solid Explorer</string>
     <string name="search_hint">Пишете име на файл</string>
     <string name="Save_file">Запиши файл</string>
     <string name="Solid_explorer_indexing_service">Индексираща услуга на Solid Explorer</string>
@@ -759,6 +758,23 @@
      <string name="Swap_device_labels_summary">Разменя етикетите Вътрешна памет с SD карта в случай на неправилно разпознаване.</string>
      <string name="Panels">Панели</string>
      <string name="Devices">Устройства</string>
-
+     <string name="Bug_report_notice">Преди да докладвате грешка, моля направете следното:\n\n<b>1. Проверете дали проблема съществува в други файлови мениджъри.\n2. Прочетете ЧЗВ.</b>\n\Изпълнихте ли стъпките по-горе?</string>
+     <string name="Unable_to_move_the_file">Файла % не може да се премести</string>
+    
+    <!-- v 1.4.0 -->
+     <string name="Compression_ratio">Степен на компресия</string>
+     <string name="Compression_method">Метод на компресия</string>
+     <string name="Comment">Коментар</string>
+     <string name="Standard">Стандартен</string>
+     <string name="No_compression">Без компресия</string>
+     <string name="A_while_ago">Преди известно време</string>
+     <string name="X_hours_Y_minutes_ago">Преди %x час{1:|__:а} и %y минут{1:а|__:и}</string>
+     <!-- Already exists, just changed the content -->
+     <string name="Expiration_message">Благодаря Ви, че използвахте Solid Explorer. Пробната версия свърши. За да продължите да използвате това приложение, купете ми виртуална бира чрез закупуване на unlocker от Google Play. Направете го само, ако сте напълно задоволен от приложението.</string>
+     <string name="Purchased_message">Благодаря Ви, че закупихте пълната версия на Solid Explorer. Надявам се, че ще Ви хареса.</string>
+     <string name="Trial_expired">Пробната версия изтече</string>
+     <string name="Purchase">Закупи</string>
+     <string name="No_thanks">Не, благодаря</string>
+     <string name="Function_not_available">Тази функция не е налична в текущата версия на системата</string>
 
 </resources>

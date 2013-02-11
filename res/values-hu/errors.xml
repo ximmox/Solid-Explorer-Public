@@ -45,5 +45,9 @@
     <string name="Unable_to_mount_the_system_as_read_write">A system olvasható/írhatóként csatolása sikertelen</string>
     <string name="Unable_to_mount_the_system_as_read_only">A system csak olvashatóként csatolása sikertelen</string>
     <string name="Access_denied">Hozzáférés megtagadva</string>
-	
+    
+<!-- 1.4.3 -->
+    <string name="Unlocker_error">A feloldó -unlocker- megtalálható, de hibával tért vissza. Általában ez olyankor történik, ha egy másik alkalmazás blokkolja a hozzáférését, pl. antivírus szoftver. Győződjön meg róla, hogy a Solid Explorer és a feloldó -unlocker- ki van zárva bármilyen tiltólistáról, és indítsa újra az alkalmazást.</string>
+    <string name="Unable_to_get_the_link">Nem sikerült a kapcsolat létesítése</string>
+    
 </resources>

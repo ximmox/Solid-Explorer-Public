@@ -405,9 +405,9 @@
     	
     	
     	<string name="Are_you_sure_you_want_to_delete_items">Tem certeza que deseja apagar % ite{1:m|__:ns}?</string>
-    	<string name="X_files_deleted">% arquivo{1:|__:s} apagado(s)</string>
-    	<string name="X_files_copied">% arquivo{1:|__:s} copiado(s)</string>
-    	<string name="X_files_moved">% arquivo{1:|__:s} movido(s)</string>
+    	<string name="X_files_deleted">% arquivo{1:|__:s} apagado{1:|__:s}</string>
+    	<string name="X_files_copied">% arquivo{1:|__:s} copiado{1:|__:s}</string>
+    	<string name="X_files_moved">% arquivo{1:|__:s} movido{1:|__:s}</string>
     	<string name="X_items">% ite{1:m|__:ns}</string>
     	<string name="Deleting_X_files">Apagando % arquivo{1:|__:s}</string>
     	<string name="Copying_X_files">Copiando % arquivo{1:|__:s}</string>
@@ -635,9 +635,9 @@
     
     <!-- Other -->
     <string name="Prefix">Prefixo</string>
-    <string name="Expiration_message">Obrigado por utilizar o Solid Explorer Beta. Para continuar a testar esta aplicação, faça o download da última versão no Google Play.</string>
+    <string name="Expiration_message">Obrigado por utilizar o Solid Explorer, o período de teste terminou. Para continuar a usar esta aplicação, me pague uma cerveja virtual, comprando a chave de desbloqueio no Google Play. Faça isso apenas quando estiver totalmente satisfeito com o aplicativo.</string>
     <string name="Empty">Vazio</string>
-	<string name="search_description">Procure em seu dispositivo através do Solid Explorer</string>
+    <string name="search_description">Procure em seu dispositivo através do Solid Explorer</string>
     <string name="search_hint">Digite um nome de arquivo</string>
     <string name="Save_file">Salvar arquivo</string>
     <string name="Solid_explorer_indexing_service">Serviço de indexação do Solid Explorer</string>
@@ -724,4 +724,53 @@
 	<string name="FAQ">Perguntas Frequentes</string>
 	<string name="FAQ_summary">Por favor leia as Perguntas Frequentes antes de fazer qualquer pergunta</string>
 	
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">Config rápida</string> <!-- short word please -->
+
+	<!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
+    	<string name="X_folders_and_Y_files_deleted">%x pasta{1:|__:s} e %y arquivo{1:|__:s} apagado{1:|__:s}.</string>
+    	<string name="X_folders_and_Y_files_copied">%x pasta{1:|__:s} e %y arquivo{1:|__:s} copiado{1:|__:s}.</string>
+    	<string name="X_folders_and_Y_files_moved">%x pasta{1:|__:s} e %y arquivo{1:|__:s} movido{1:|__:s}.</string>
+    	<string name="Deleting_X_folders_and_Y_files">Apagando %x pasta{1:|__:s} e %y arquivo{1:|__:s}</string>
+    	<string name="Copying_X_folders_and_Y_files">Copiando %x pasta{1:|__:s} e %y arquivo{1:|__:s}</string>
+    	<string name="Moving_X_folders_and_Y_files">Movendo %x pasta{1:|__:s} e %y arquivo{1:|__:s}</string>
+    	
+    	<string name="X_folders_moved">% pasta{1:|__:s} movida{1:|__:s}.</string>
+    	<string name="Moving_X_folders">Movendo % pasta{1:|__:s}</string>
+    	
+    	<string name="X_folders">% pasta{1:|__:s}</string>
+    	<string name="X_files">% arquivo{1:|__:s}</string>
+    	
+    	<string name="Show_status_summary">Mostra informação sobre o conteúdo de diretórios e espaço usado na janela do explorador</string>
+    	<string name="Show_status">Mostra status</string>
+    	<string name="Mount_rw">Monta leitura/escrita</string>
+    	<string name="System_mounted_as_read_write">Sistema montado como leitura/escrita</string>
+    	<string name="System_mounted_as_read_only">Sistema montado como somente letura</string>
+    	
+    <!--  v 1.3.9 -->
+    	<string name="Device_labels">Rótulo de dispositivos</string>
+    	<string name="Device_labels_summary">Mostra rótulos de dispositivos legível por humanos ao invés de nomes reais dos diretórios, ex. \&quot;Cartão SD\&quot; ao invés de \&quot;sdcard0\&quot;</string>
+    	<string name="Swap_device_labels">Troca rótulo de dispositivos</string>
+    	<string name="Swap_device_labels_summary">Troca Memória Interna com os rótulos de Cartões SD em caso de detecção incorreta.</string>
+    	<string name="Panels">Painéis</string>
+    	<string name="Devices">Dispositivos</string>
+    	<string name="Bug_report_notice">Antes de reportar um defeito, por favor faça o seguinte:\n\n<b>1. Verifique se o problema existe em outro app explorador de arquivos.\n2. Leia o FAQ.</b>\n\nCompletou os passos acima?</string>
+    	<string name="Unable_to_move_the_file">Incapaz de mover o arquivo %</string>
+    
+    <!-- v 1.4.0 -->
+    	<string name="Compression_ratio">Taxa de compressão</string>
+    	<string name="Compression_method">Método de compressão</string>
+    	<string name="Comment">Comentário</string>
+    	<string name="Standard">Padrão</string>
+    	<string name="No_compression">Sem compressão</string>
+    	<string name="A_while_ago">Algum tempo atrás</string>
+    	<string name="X_hours_Y_minutes_ago">%x hora{1:|__:s} e %y minuto{1:|__:s} atrás</string>
+        
+        
+    	<string name="Purchased_message">Obrigado por comprar a versão completa do Solid Explorer. Espero que aproveite.</string>
+    	<string name="Trial_expired">Período de testes terminado</string>
+    	<string name="Purchase">Comprar</string>
+    	<string name="No_thanks">Não, obrigado</string>
+    	<string name="Function_not_available">Essa função não está disponível nesta verão do sistema</string>
 </resources>

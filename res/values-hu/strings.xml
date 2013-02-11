@@ -776,5 +776,33 @@
      <string name="Purchase">Vásárlás</string>
      <string name="No_thanks">Köszönöm, nem</string>
      <string name="Function_not_available">Ez a funkció nem elérhető a jelenlegi rendszer verziójával.</string>
+ <!-- v 1.4.3 -->
+     <string name="Wallpaper_has_been_set_successfully">A háttérkép sikeresen beállítva</string>
+     <string name="X_has_been_set_as_default_ringtone">% beállítva alapértelmezett csengőhangnak</string>
+     <string name="X_has_been_set_as_default_notification">% beállítva alapértelmezett értesítési hangnak</string>
+     <string name="X_has_been_set_as_default_alarm">% beállítva alapértelmezett ébresztő hangnak</string>
+     <string name="Copy_path">Elérési út másolása</string>
+     <string name="Copy_name">Név másolása</string>
+     <string name="Create_symlink">Symlink készítése</string>
+     <string name="Set_as_wallpaper">Beállítás háttérképként</string>
+     <string name="Set_as_ringtone">Beállítás csengőhangnak</string>
+     <string name="Set_as_notification">Beállítás értesítési hangnak</string>
+     <string name="Set_as_alarm">Beállíáts ébresztő hangnak</string>
+     <string name="Enter_the_symlink_location">Adja meg a symlink helyét</string>
+     <string name="Symbolic_link_created_successfully">A szimbolikus link sikeresen létrehozva</string>
+     <string name="Sugarsync_login">SugarSync bejelentkezés</string>
+     <string name="Copy_link">Hivatkozás másolása</string>
+     <string name="Data_backup">Adatmentés</string>
+     <string name="Application_data">Alkalmazás adatok</string>
+     <string name="Create_backup">Mentés készítése</string>
+     <string name="Backup_application_data_to_a_desired_file">Alkalmazás adatainak mentése egy megadott fájlba</string>
+     <string name="Restore_backup">Mentés visszaállítása</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Válassza ki a mentés fájlt, ahonnan az adatokat visszaállítja</string>
+     <string name="Data_backup_created">Adatmentés létrehozva</string>
+     <string name="Data_backup_restored">Adatok visszaállítva</string>
+     <string name="Support">Terméktámogatás</string>
+     <string name="Support_summary">Látogassa meg a Solid Explorer terméktámogatási oldalát</string>
+     <string name="Experimental_feature_notifier">Kérem vegye figyelembe, hogy ez a funkció kísérleti és lehetésges, hogy nem fog megfelelően működni ezen az Android verzión.</string>
+     <string name="Trial_check_notice">A Solid Explorer nem tudta ellenőrizni a próbaidőszakot. Kérem engedélyezze most az internet kapcsolatot vagy 2 napon belül, különben a próbaidőszak végetér.</string>
 
 </resources>
