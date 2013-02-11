@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Директория не существует</string>
+    
+    <string name="Unable_to_read_the_file">Не удалось прочитать файл</string>
+    <string name="Illegal_operation">Недопустимая операция</string>
+    
+    
+    <string name="Cannot_update_the_database">Не удалось обновить базу данных</string>
+    <string name="Error">Ошибка</string>
+    
+    <string name="Invalid_password_for_user_x">Неверный пароль пользователя \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Неверный мастер-пароль</string>
+    <string name="Unable_to_execute_shell_command">Не удалось выполнить команду оболочки</string>
+    <string name="No_root_access_available">Нет root-доступа</string>
+    <string name="Unable_to_read_root_directory">Нет доступа в корневую директорию</string>
+    
+    <string name="Operation_has_failed">Операция недоступна</string>
+    <string name="Invalid_file_path">Неверный путь к файлу</string>
+    
+    
+    <string name="Cannot_browse_to_x">Обзор невозможен \&quot;%\&quot;. Неизвестная ошибка.</string>
+    <string name="Cannot_write_to_the_system">Запись в ФС запрещена. Установка прав чтения/записи не удалась.</string>
+    <string name="Requested_file_x_has_not_been_found">Запрошенный файл \&quot;%\&quot; не найден.</string>
+    <string name="Unknown_read_write_exception">Неизвестное исключение чтения/записи.</string>
+    <string name="Invalid_url_x">Неверный URL: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Ошибка при обращении к мастер-паролю.</string>
+    <string name="Operation_not_allowed">Операция недопустима</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Не удается подключиться к \&quot;%x\&quot; порту %y.</string>
+    <string name="Unable_to_resolve_host_x">Имя хоста не определено \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">Сервер вернул недопустимый ответ</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Произошла ошибка при передаче данных с сервера</string>
+    <string name="Invalid_username_or_password">Неверное имя пользователя или пароль</string>
+    <string name="Internal_server_error">Внутренняя ошибка сервера.</string>
+    <string name="Server_response_x">Ответ сервера: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Невозможно открыть файл для чтения</string>
+    <string name="Unable_to_write_the_file_to_x">Невозможно записать файл в \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Не удаётся подключиться к %x.</string>
+    <string name="Unknown_error">Неизвестная ошибка</string>
+    <string name="Cannot_create_directory_X">Невозможно создать в директории \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Не удаётся запустить службу на порте %</string>
+    
+    <string name="Invalid_position">Неверная позиция</string>
+    <string name="Unable_to_delete_file_x">Невозможно удалить файл %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Невозможно установить систему в чтение/запись</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Не удаётся установить систему только для чтения</string>
+    <string name="Access_denied">Отказано в доступе</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Не удалось найти ассоциации для этого действия</string>
+    <string name="Unable_to_set_the_wallpaper">Не возможно установить обои</string>
+    <!-- 1.4.3 -->
+
+    <string name="Unlocker_error">Разблокировка полной версии найдена, но что-то вернуло ошибку. Убедитесь, что у приложения есть доступ к интернету и соответствующие права. Возможно при установке, нужно отключить антивирус и перезагрузить устройство.</string>
+    <string name="Unable_to_get_the_link">Не удаётся получить ссылку</string>
+    
+</resources>

@@ -37,7 +37,7 @@
   <string name="Unable_to_start_the_service_on_port_x">לא ניתן להתחיל את השירות בפורט %</string>
   <string name="Invalid_position">מיקום לא חוקי</string>
   <!--New Tag-->
-  <string name="page1_1">ל Explorer Solid יש שני פאנלים עבור דפדוף בקבצים. לדוגמה, אתה יכול לשים את הכרטיס SD בפאנל אחד והשיתוף מהמחשב שלך בפאנל השני. ככה אתה יכול לנהל את הקבצים בקלות.</string>
+  <string name="page1_1">ל Explorer Solid יש שני פאנלים עבור דפדוף בקבצים. לדוגמה, אתה יכול לשים את הכרטיס זיכרון בפאנל אחד והשיתוף מהמחשב שלך בפאנל השני. ככה אתה יכול לנהל את הקבצים בקלות.</string>
   <string name="page1_2">שהמסך לאורך יש פאנל אחד נראה. כדי להחליף בינהם את יכול פשוט להחליק לימין או שמאל. שהמסך לרוחב את תראה את שני הפאנלים בבת אחת.</string>
   <string name="page2_1">אתה יכול לגרור כמה קבצים על ידי לחיצה על האייקון שלהם ולגרור אותם לפאנל השני. פשוט תחליק לקצה המסך והפאנל השני יופיע. קל ופשוט.</string>
   <string name="page2_2">ניתן גם לשחרר קבצים בתוך התיקיה. פשוט תחזיק את זה מעל התיקייה למשך חצי שניה והתיקיה תפתח. ואז פשוט תשחרר אותם.</string>
@@ -68,7 +68,7 @@
   <string name="You_can_read_the_guide_later_in_the_settings">אתה יכול לקרוא את המדריך מאוחר יותר. פשוט לך להגדרות ולחץ על האפשרות \"מדריך מקוצר\" .</string>
   <string name="Thank_you">תודה!</string>
   <string name="New">חדש</string>
-  <string name="Jump">קפוץ ל</string>
+  <string name="Jump">קפוץ אל</string>
   <string name="Filter">מסנן</string>
   <string name="Menu">תפריט</string>
   <string name="Actions">פעולות</string>
@@ -101,7 +101,7 @@
   <string name="Exit">יציאה</string>
   <string name="Cloud_storage">אחסון בענן</string>
   <string name="System_root">תיקיית מערכת</string>
-  <string name="SD_card">כרטיס SD</string>
+  <string name="SD_card">כרטיס זיכרון</string>
   <string name="Internal_memory">זיכרון פנימי</string>
   <string name="USB_drive_x">כונן USB %x</string>
   <string name="View_mode">מצב תצוגה</string>
@@ -541,7 +541,8 @@
   <string name="Functionality_for_future_releases">תכונות עבור גרסאות עתידיות</string>
   <string name="Planned_features">תכונות מתוכננות</string>
   <string name="Prefix">קידומת</string>
-  <string name="Expiration_message">תודה שהשתמשת ב Solid Explorer, תקופת הניסיון שלך נגמרה. כדי להמשיך להשתמש ביישום, תקנה לי בירה וירטואלית על ידי כך שתקנה את הגרסא המלאה ב Google Play. תעשה את זה רק שאתה ממש מרוצה מהיישום.</string>  <string name="Empty">ריק</string>
+  <string name="Expiration_message">תודה שהשתמשת ב Solid Explorer, תקופת הניסיון שלך נגמרה. כדי להמשיך להשתמש ביישום, תקנה לי בירה וירטואלית על ידי כך שתקנה את הגרסא המלאה ב Google Play. תעשה את זה רק שאתה ממש מרוצה מהיישום.</string>
+  <string name="Empty">ריק</string>
   <string name="search_description">חפש במכשיר באמצעות Solid Explorer</string>
   <string name="search_hint">הקלד שם קובץ</string>
   <string name="Save_file">שמור קובץ</string>
@@ -648,9 +649,9 @@
   <string name="System_mounted_as_read_only">המערכת הוגדרה לקריאה בלבד</string>
   <!--  v 1.3.9 -->
   <string name="Device_labels">תוויות מכשיר</string>
-  <string name="Device_labels_summary">הצג תוויות קריאות במקום השמות האמיתיים, לדוגמא. \"כרטיס SD\" במקום \"sdcard0\"</string>
+  <string name="Device_labels_summary">הצג תוויות קריאות במקום השמות האמיתיים, לדוגמא. \"כרטיס זיכרון\" במקום \"sdcard0\"</string>
   <string name="Swap_device_labels">החלף שמות מכשיר</string>
-  <string name="Swap_device_labels_summary">החלף את המילים זיכרון פנימי עם המילה כרטיס SD במקרה של זיהוי שגוי.</string>
+  <string name="Swap_device_labels_summary">החלף את המילים זיכרון פנימי עם המילה כרטיס זיכרון במקרה של זיהוי שגוי.</string>
   <string name="Panels">פאנלים</string>
   <string name="Devices">מכשירים</string>
   <string name="Unable_to_start_the_service_on_port_x">לא ניתן להתחיל את השירות בפורט %</string>
@@ -665,11 +666,42 @@
   <string name="Standard">סטנדרטי</string>
   <string name="No_compression">ללא דחיסה</string>
   <string name="A_while_ago">לפני זמן מה</string>
-  <string name="X_hours_Y_minutes_ago">לפני %x {1:שעה|__:שעות} %y minute{1:דקה|__:דקות} </string>
+  <string name="X_hours_Y_minutes_ago">לפני %x {1:שעה|__:שעות} %y {1:דקה|__:דקות} </string>
   <!-- Already exists, just changed the content -->
   <string name="Purchased_message">תודה רבה שקנית את הגרסא המלאה של Solid Explorer. אני מקווה שתהנה ממנה.</string>
   <string name="Trial_expired">תקופת הניסיון נגמרה</string>
   <string name="Purchase">קנה</string>
   <string name="No_thanks">לא תודה</string>
   <string name="Function_not_available">האפשרות הזאת לא זמינה בגרסת המערכת הנוכחית</string>
+  <string name="Wallpaper_has_been_set_successfully">הרקע הוגדר בהצלחה!</string>
+  <string name="X_has_been_set_as_default_ringtone">% הוגדר כרינגטון ברירת מחדל</string>
+  <string name="X_has_been_set_as_default_notification">% הוגדר כצליל התראות ברירת מחדל</string>
+  <string name="X_has_been_set_as_default_alarm">% הוגדר כצליל שעון מעורר ברירת מחדל</string>
+  <string name="Copy_path">העתק נתיב</string>
+  <string name="Copy_name">העתק שם</string>
+  <string name="Create_symlink">צור symlink</string>
+  <string name="Set_as_wallpaper">הגדר כרקע</string>
+  <string name="Set_as_ringtone">הגדר כרינגטון</string>
+  <string name="Set_as_notification">הגדר כצליל התראות</string>
+  <string name="Set_as_alarm">הגדר כצליל שעון מעורר</string>
+  <string name="Enter_the_symlink_location">הכנס את מיקום ה-symlink</string>
+  <string name="Symbolic_link_created_successfully">לינק של symlink נוצר בהצלחה</string>
+  <string name="Sugarsync_login">התחברות אל-SugarSync</string>
+  <string name="Copy_link">העתק קישור</string>
+  <string name="Data_backup">גיבוי נתונים</string>
+  <string name="Application_data">נתוני יישומים</string>
+  <string name="Create_backup">צור גיבוי</string>
+  <string name="Backup_application_data_to_a_desired_file">גבה את נתוני היישום לקובץ הרצוי</string>
+  <string name="Restore_backup">שיחזור גיבוי</string>
+  <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">בחר קובץ גיבוי שממנו ישוחזרו הנתונים</string>
+  <string name="Data_backup_created">גיבוי נתונים נוצר</string>
+  <string name="Data_backup_restored">נתוני הגיבוי שוחזרו</string>
+  <string name="Support">תמיכה</string>
+  <string name="Support_summary">בקר באתר התמיכה של Solid Explorer</string>
+  <string name="Experimental_feature_notifier">שים לב! תכונה זאת היא נסיונית ויש מצב שהיא לא תפעל כראוי על גרסת האנדרואיד שלך!</string>
+  <string name="Trial_check_notice">היישום Solid Explorer לא הצליח לאמת את תקופת הניסיון שלך. אנא התחבר לאינטרנט עכשיו או תוך יומיים אחרת תקופת הניסיון שלך תיגמר!</string>
+  <string name="Unable_to_find_an_activity_to_complete_this_action">לא היה ניתן למצוא פעילות כדי להשלים את הפעולה הזאת</string>
+  <string name="Unable_to_set_the_wallpaper">לא ניתן להגדיר רקע</string>
+  <string name="Unlocker_error">ה-unlocker נמצא אך קרתה שגיאה. זה בדרך כלל קורה שיישומים אחרים חוסמים את ההרשאות שלו, לדוגמא תוכנת אנטיוירוס. תוודא ש-Solid Explorer וה-unlocker לא נכללים בשום רשימה שחורה והפעל את היישום מחדש.</string>
+  <string name="Unable_to_get_the_link">לא ניתן לקבל את הקישור</string>
 </resources>

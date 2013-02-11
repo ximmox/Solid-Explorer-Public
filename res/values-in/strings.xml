@@ -394,7 +394,7 @@
 		<string name="Cannot_connect_to">Tidak dapat terhubung dengan \&quot;%\&quot;</string>
 		<string name="You_are_not_logged_in">Anda belum masuk</string>
 		<string name="Can_not_create_the_directory">Tidak dapat membuat direktori</string>
-		<string name="Beta_expired">Aplikasi kadarluarsa</string>
+		
 		<string name="Can_not_create_the_file">Tidak dapat membuat file</string>
 		<string name="Uknown_file_type">Jenis file tidak dikenal</string>
 		<string name="No_activity_found_to_open_this_file">Tidak ada aplikasi ditemukan untuk membuka file berikut</string>
@@ -608,7 +608,6 @@
 	<string name="Other">Lainnya</string>
 		
 	<string name="Clear_persistent_data">Hapus data yang menetap</string>
-	<string name="Clear_persistent_data_summary">Penghapusan data seperti: tembolok gambar, file sementara, riwayat operasi, dll.</string>
 	<string name="Clear_thumbnail_cache">Hapus tembolok gambar</string>
 	<string name="Clear_temporary_files">Hapus file sementara</string>
 	<string name="Clear_operation_history">Hapus riwayat operasi</string>
@@ -639,7 +638,6 @@
 	
 	<!-- Other -->
 	<string name="Prefix">Awalan</string>
-	<string name="Expiration_message">Terima kasih telah menggunakan Solid Explorer Beta. Untuk terus menguji coba aplikasi ini unduh versi termutakhir di Google Play.</string>
 	<string name="Empty">Kosong</string>
 	<string name="search_description">Pencarian pada perangkat anda menggunakan Solid Explorer</string>
 	<string name="search_hint">Ketikan nama file </string>
@@ -753,12 +751,58 @@
 		<string name="System_mounted_as_read_only">Partisi system ter-mount baca-saja</string>
 
 	<!-- v 1.3.9 -->
-	 <string name="Device_labels">Label perangkat</string>
-	 <string name="Device_labels_summary">Tampilkan tulisan yang dimengerti oleh manusia daripada nama asli direktori. Contoh: \&quot;SD Card\&quot; daripada \&quot;sdcard0\&quot;</string>
-	 <string name="Swap_device_labels">Tukar label perangkat</string>
-	 <string name="Swap_device_labels_summary">Tukar label Memori Internal dengan SD Card. Lakukan ini jika terjadi kesalahan pada deteksi otomatis.</string>
-	 <string name="Panels">Panel</string>
-	 <string name="Devices">Perangkat</string>
-	
-	
+	<string name="Device_labels">Label perangkat</string>
+	<string name="Device_labels_summary">Tampilkan tulisan yang dimengerti oleh manusia daripada nama asli direktori. Contoh: \&quot;SD Card\&quot; daripada \&quot;sdcard0\&quot;</string>
+	<string name="Swap_device_labels">Tukar label perangkat</string>
+	<string name="Swap_device_labels_summary">Tukar label Memori Internal dengan SD Card. Lakukan ini jika terjadi kesalahan pada deteksi otomatis.</string>
+	<string name="Panels">Panel</string>
+	<string name="Devices">Perangkat</string>
+	<string name="Bug_report_notice">Sebelum melaporkan error 'bug' harap melakukan prosedur berikut:\n\n<b>1. Periksa apakah masalah yang sama juga ada pada file manager lainnya atau tidak.\n2. Baca FAQ.</b>\n\nApakah anda sudah melakukan semua hal diatas?</string>
+	<string name="Unable_to_move_the_file">Tidak dapat memindahkan file %</string>
+    
+    <!-- v 1.4.0 -->
+    	<string name="Compression_ratio">Rasio kompresi</string>
+    	<string name="Compression_method">Metode kompresi</string>
+    	<string name="Comment">Komentar</string>
+    	<string name="Standard">Standar</string>
+    	<string name="No_compression">Tanpa kompresi</string>
+    	<string name="A_while_ago">Beberapa waktu lalu</string>
+    	<string name="X_hours_Y_minutes_ago">%x jam{__:} %y menit{__:} yang lalu</string>
+    	<!-- Already exists, just changed the content -->
+    	<string name="Expiration_message">Terima kasih sudah menggunakan Solid Explorer, masa uji coba anda sudah berakhir. Agar anda tetap dapat menggunakan aplikasi ini anda harus membeli unlocker / lisensi di Google Play. Lakukan pembelian apabila anda benar-benar puas dengan aplikasi ini.</string>
+    	<string name="Purchased_message">Terima kasih sudah membeli versi penuh aplikasi Solid Explorer. Saya harap anda menikmatinya.</string>
+    	<string name="Trial_expired">Uji coba selesai</string>
+    	<string name="Purchase">Pembelian</string>
+    	<string name="No_thanks">Tidak, ma'kasih</string>
+    	<string name="Function_not_available">Fungsi ini tidak ada pada sistem saat ini</string>  
+  
+    <!-- v 1.4.3 -->
+     <string name="Wallpaper_has_been_set_successfully">Perubahan wallpaper sukses</string>
+     <string name="X_has_been_set_as_default_ringtone">% telah di-set sebagai nada panggil</string>
+     <string name="X_has_been_set_as_default_notification">% telah di-set sebagai penanda notifikasi</string>
+     <string name="X_has_been_set_as_default_alarm">% telah di-set sebagai suara alarm</string>
+     <string name="Copy_path">Alamat salin</string>
+     <string name="Copy_name">Nama penyalinan</string>
+     <string name="Create_symlink">Membuat symlink</string>
+     <string name="Set_as_wallpaper">Set sebagai wallpaper</string>
+     <string name="Set_as_ringtone">Set sebagai nada panggil</string>
+     <string name="Set_as_notification">Set sebagai penanda notifikasi</string>
+     <string name="Set_as_alarm">Set sebagai alarm</string>
+     <string name="Enter_the_symlink_location">Masukkan lokasi symlink</string>
+     <string name="Symbolic_link_created_successfully">Pembuatan Symbolic link sukses</string>
+     <string name="Sugarsync_login">Login SugarSync</string>
+     <string name="Copy_link">Salin tautan</string>
+     <string name="Data_backup">Backup data</string>
+     <string name="Application_data">Data aplikasi</string>
+     <string name="Create_backup">Membuat backup</string>
+     <string name="Backup_application_data_to_a_desired_file">Backup data aplikasi ke file yang diinginkan</string>
+     <string name="Restore_backup">Memulihkan backup</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Pilih file backup yang akan dipulihkan</string>
+     <string name="Data_backup_created">Backup data dibuat</string>
+     <string name="Data_backup_restored">Backup data dipulihkan</string>
+     <string name="Support">Bantuan</string>
+     <string name="Support_summary">Kunjugin laman bantuan Solid Explorer</string>
+     <string name="Experimental_feature_notifier">Mohon perhatian: fitur ini bersifat eksperimental dan ada kemungkinan tidak berjalan dengan baik pada android yang ada pada perangkat anda.</string>
+     <string name="Trial_check_notice">Solid Explorer tidak dapat mengverifikasi masa uji-coba. Mohon mengaktifkan koneksi internet anda sekarang atau paling telat 2 hari kemudian. Jika tidak masa uji-coba anda akan otomatis berakhir.</string>
+		
 </resources>

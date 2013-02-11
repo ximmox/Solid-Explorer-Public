@@ -157,7 +157,7 @@
     	<string name="To">Vers</string>
     	<string name="Size">Taille</string>
     	<string name="Speed">Vitesse</string>
-    	<string name="ETA">ETA</string>
+    	<string name="ETA">Temps restant</string>
     	<string name="NA">Inconnu</string>
     	<string name="Current">En cours</string>
     	
@@ -168,8 +168,8 @@
     	<string name="Temporary_download">Téléchargement temporaire</string>
    	 	<string name="Creating_archive">Création de l\'archive %</string>
     	<string name="Extracting_archive">Extraction de l\'archive %</string>
-    	<string name="X_has_been_completed">% est terminée.</string>
-    	<string name="X_has_failed">% a échoué.</string>
+    	<string name="X_has_been_completed">% terminée.</string>
+    	<string name="X_has_failed">% échoué.</string>
     	<string name="Tap_to_show_details">Appuyer pour afficher les détails</string>
     	<string name="Pending_cancel_request">Attente de demande d\'annulation</string>
     	<string name="File_operation">Opération de fichier</string>
@@ -639,9 +639,8 @@
     
     <!-- Other -->
     <string name="Prefix">Préfixe</string>
-    <string name="Expiration_message">Merci d\'avoir utiliser Solid Explorer Beta. Pour continuer de tester cette application, téléchargez la dernière version depuis Google Play.</string>
     <string name="Empty">Vide</string>
-	<string name="search_description">Rechercher sur votre appareil avec Solid Explorer</string>
+    <string name="search_description">Rechercher sur votre appareil avec Solid Explorer</string>
     <string name="search_hint">Taper un nom de fichier</string>
     <string name="Save_file">Enregistrer le fichier</string>
     <string name="Solid_explorer_indexing_service">Service d\'indexation de Solid Explorer</string>
@@ -760,5 +759,20 @@
     	<string name="Panels">Panneaux</string>
     	<string name="Devices">Appareils</string>
     	<string name="Bug_report_notice">Avant de rapporter un bug, faites ceci :\n\n<b>1. Vérifier que le problème n\'existe pas d\'autres gestionnaires de fichier.\n2. Lire la FAQ.</b>\n\nAvez-vous fait les étapes précédentes ?</string>
-		
+	
+    <!-- v 1.4.0 -->
+     <string name="Compression_ratio">Ratio de comp.</string>
+     <string name="Compression_method">Méthode de comp.</string>
+     <string name="Comment">Commentaire</string>
+     <string name="Standard">Standard</string>
+     <string name="No_compression">Sans compression</string>
+     <string name="A_while_ago">Il y a quelque temps</string>
+     <string name="X_hours_Y_minutes_ago">Il y a %x heure{0-1:|__:s} %y minute{0-1:|__:s}</string>
+     <!-- Already exists, just changed the content -->
+     <string name="Expiration_message">Merci d\'avoir utilisé Solid Explorer, votre période d\'essai est maintenant terminée. Pour continuer à utiliser cette application, achetez le logiciel de déblocage sur Google Play Store. Faites-le uniquement lorsque vous êtes pleinement satisfait de l\'application.</string>
+     <string name="Purchased_message">Merci d\'avoir acheté la version complète de Solid Explorer. J\'espère que vous l\'apprécierez.</string>
+     <string name="Trial_expired">Période d\'essai terminée</string>
+     <string name="Purchase">Acheter</string>
+     <string name="No_thanks">Non, merci</string>
+     <string name="Function_not_available">Cette fonction n'est pas disponible dans la version actuelle du système</string>
 </resources>
