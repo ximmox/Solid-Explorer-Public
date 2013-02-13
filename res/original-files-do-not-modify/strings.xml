@@ -804,5 +804,7 @@
     	<string name="Support_summary">Visit the Solid Explorer\'s support page</string>
     	<string name="Experimental_feature_notifier">Please note, that this feature is experimental and will likely not work properly on your current Android version.</string>
     	<string name="Trial_check_notice">Solid Explorer could not verify the trial period. Please enable internet connection now or within 2 days. Otherwise your trial period will be over.</string>
+    	<string name="Back_goes_to_root">Back goes to root</string>
+    	<string name="Back_goes_to_root_summary">Allow to go to the root directory when hitting the Back button</string>
 		
 </resources>
