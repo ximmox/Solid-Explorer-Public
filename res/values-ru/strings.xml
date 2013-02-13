@@ -787,8 +787,8 @@
      <string name="Create_symlink">Создать симлинк</string>
      <string name="Set_as_wallpaper">Установить как обои</string>
      <string name="Set_as_ringtone">Установить на звонок</string>
-     <string name="Set_as_notification">Установить как звук уведомлений</string>
-     <string name="Set_as_alarm">Установить как звук будильника</string>
+     <string name="Set_as_notification">Установить звуком уведомлений</string>
+     <string name="Set_as_alarm">Установить звуком будильника</string>
      <string name="Enter_the_symlink_location">Ввести размещение симлинка</string>
      <string name="Symbolic_link_created_successfully">Симлинк создан успешно</string>
      <string name="Sugarsync_login">SugarSync логин</string>
