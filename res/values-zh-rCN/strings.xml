@@ -775,4 +775,35 @@
     	<string name="Purchase">支付</string>
     	<string name="No_thanks">不了, 谢谢</string>
     	<string name="Function_not_available">该功能在当前系统版本不可用</string>
+    	
+    	 <!-- v 1.4.3 -->
+    	<string name="Wallpaper_has_been_set_successfully">壁纸设置成功</string>
+    	<string name="X_has_been_set_as_default_ringtone">% 已设置为默认铃声</string>
+    	<string name="X_has_been_set_as_default_notification">% 已设置为默认通知音</string>
+    	<string name="X_has_been_set_as_default_alarm">% 已设置为默认闹铃</string>
+    	<string name="Copy_path">复制路径</string>
+    	<string name="Copy_name">复制名字</string>
+    	<string name="Create_symlink">创建符号连接</string>
+    	<string name="Set_as_wallpaper">设置为壁纸</string>
+    	<string name="Set_as_ringtone">设置为铃声</string>
+    	<string name="Set_as_notification">设置为通知音</string>
+    	<string name="Set_as_alarm">设置为闹铃</string>
+    	<string name="Enter_the_symlink_location">输入符号链接位置</string>
+    	<string name="Symbolic_link_created_successfully">符号链接创建成功</string>
+    	<string name="Sugarsync_login">登陆SugarSync</string>
+    	<string name="Copy_link">复制链接</string>
+    	<string name="Data_backup">数据备份</string>
+    	<string name="Application_data">应用程序数据</string>
+    	<string name="Create_backup">创建备份</string>
+    	<string name="Backup_application_data_to_a_desired_file">备份应用程序数据到指定的文件</string>
+    	<string name="Restore_backup">恢复备份</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">选择一个要恢复到的备份文件</string>
+    	<string name="Data_backup_created">数据备份已创建</string>
+    	<string name="Data_backup_restored">数据备份已恢复</string>
+    	<string name="Support">支持</string>
+    	<string name="Support_summary">访问 Solid Explorer 的支持页面</string>
+    	<string name="Experimental_feature_notifier">请注意，该特性是实验性的，可能在您当前的Android版本上无法正常工作。</string>
+    	<string name="Trial_check_notice">Solid Explorer 无法验证试用期，请连接到网络。如果您在2天之内未能完成此操作，您的试用期将结束。</string>
+    	<string name="Back_goes_to_root">回到根目录</string>
+    	<string name="Back_goes_to_root_summary">点击返回按钮时可以回到根目录</string>
 </resources>
