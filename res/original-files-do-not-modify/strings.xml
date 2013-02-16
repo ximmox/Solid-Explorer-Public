@@ -806,5 +806,7 @@
     	<string name="Trial_check_notice">Solid Explorer could not verify the trial period. Please enable internet connection now or within 2 days. Otherwise your trial period will be over.</string>
     	<string name="Back_goes_to_root">Back goes to root</string>
     	<string name="Back_goes_to_root_summary">Allow to go to the root directory when hitting the Back button</string>
+    	<string name="Keep_the_screen_on">Keep the screen on</string>
+    	<string name="Keep_the_screen_on_summary">Keep the screen on during the file transfers. Check, if you experience transfer slowdowns when the screen is off.</string>
 		
 </resources>
