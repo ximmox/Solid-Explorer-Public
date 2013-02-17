@@ -806,4 +806,6 @@
     	<string name="Trial_check_notice">Solid Explorer 无法验证试用期，请连接到网络。如果您在2天之内未能完成此操作，您的试用期将结束。</string>
     	<string name="Back_goes_to_root">回到根目录</string>
     	<string name="Back_goes_to_root_summary">点击返回按钮时可以回到根目录</string>
+    	<string name="Keep_the_screen_on">屏幕常亮</string>
+    	<string name="Keep_the_screen_on_summary">文件传输的时候保持屏幕常亮。如果屏幕关闭后您能明显察觉到文件传输速度变慢，请勾选此项。</string>
 </resources>
