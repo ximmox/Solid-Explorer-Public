@@ -683,7 +683,7 @@
     <string name="Default_panel">Панель по умолчанию</string>
     <string name="Destination_type">Назначить тип</string>
     <string name="DiskUsage_not_installed">Похоже, DiskUsage не установлен. Это приложение показывает использование памяти в подробном содержании и лёгкое в использовании. Вы хотите установить его сейчас?</string>
-    <string name="Text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
+    <string name="Text_copied_to_clipboard">Скопировано в буфер обмена</string>
     <string name="Force_english">Английский язык</string>
     <string name="Force_english_summary">Включить английский интерфейс. Потребуется перезапуск программы.</string>
     <string name="Encoding">Кодировка</string>
@@ -805,8 +805,8 @@
      <string name="Support_summary">Посетить страницу помощи Solid Explorer</string>
      <string name="Experimental_feature_notifier">Пожалуйста, обратите внимание, что эта функция является экспериментальной и возможно не будет работать на вашей версии Android.</string>
      <string name="Trial_check_notice">Solid Explorer не смог проверить триальный период. Разрешите интернет-соединение сейчас или в течении 2х дней. Иначе ваш испытательный срок закончится.</string>
-     <string name="Back_goes_to_root">Вернуться в корень</string>
-     <string name="Back_goes_to_root_summary">Кратким нажатием кнопки назад, возвращаться в корень системы.</string>
+     <string name="Back_goes_to_root">Возврат в корень</string>
+     <string name="Back_goes_to_root_summary">Краткими нажатиями кнопки назад, возвращаться в корень системы.</string>
      <string name="Keep_the_screen_on">Включенный экран</string>
      <string name="Keep_the_screen_on_summary">Удерживать экран включенным при передаче файлов. (если падает скорость когда экран потух)</string>
 </resources>
