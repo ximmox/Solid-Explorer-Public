@@ -683,7 +683,7 @@
     <string name="Default_panel">Панель по умолчанию</string>
     <string name="Destination_type">Назначить тип</string>
     <string name="DiskUsage_not_installed">Похоже, DiskUsage не установлен. Это приложение показывает использование памяти в подробном содержании и лёгкое в использовании. Вы хотите установить его сейчас?</string>
-    <string name="Text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
+    <string name="Text_copied_to_clipboard">Скопировано в буфер обмена</string>
     <string name="Force_english">Английский язык</string>
     <string name="Force_english_summary">Включить английский интерфейс. Потребуется перезапуск программы.</string>
     <string name="Encoding">Кодировка</string>
