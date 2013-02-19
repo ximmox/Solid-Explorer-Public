@@ -26,7 +26,7 @@
     <string name="Requested_file_x_has_not_been_found">Il file \&quot;%\&quot; richiesto non è stato trovato.</string>
     <string name="Unknown_read_write_exception">Eccezione sconosciuta in lettura/scrittura.</string>
     <string name="Invalid_url_x">URL non valido: %</string>
-    <string name="An_error_occured_while_accessing_master_password">Si è verificato un errore durante l\'accesso all master password.</string>
+    <string name="An_error_occured_while_accessing_master_password">Si è verificato un errore durante l\'accesso alla master password.</string>
     <string name="Operation_not_allowed">Operazione non consentita.</string>
     <string name="Cannot_connect_to_host_x_on_port_y">Impossibile connettersi a \&quot;%x\&quot; sulla porta %y.</string>
     <string name="Unable_to_resolve_host_x">Impossibile risolvere il nome dell\'host \&quot;%x\&quot;.</string>

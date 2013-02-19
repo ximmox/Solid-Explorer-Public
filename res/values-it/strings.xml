@@ -95,7 +95,7 @@
     
     <!-- Dialogs -->
     <string name="OK">OK</string>
-    <string name="Cancel">Cancella</string>
+    <string name="Cancel">Annulla</string>
     <string name="Yes">Si</string>
     <string name="No">No</string>
     
@@ -606,8 +606,8 @@
     	
     <string name="Clear_persistent_data">Pulisci dati persistenti</string>
     <string name="Clear_persistent_data_summary">Elimina dati quali cache anteprime, file temporanei, cronologia operazioni etc..</string>
-    <string name="Clear_thumbnail_cache">Publisci cache anteprime</string>
-    <string name="Clear_temporary_files">Publisci file temporanei</string>
+    <string name="Clear_thumbnail_cache">Pulisci cache anteprime</string>
+    <string name="Clear_temporary_files">Pulisci file temporanei</string>
     <string name="Clear_operation_history">Pulisci cronologia operazioni</string>
     <string name="Delete_all_image_previews">Elimina tutte le anteprime delle immagini</string>
     <string name="Delete_all_temporary_files">Elimina tutti i file temporanei</string>
