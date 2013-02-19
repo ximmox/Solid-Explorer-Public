@@ -773,4 +773,36 @@
     <string name="No_thanks">Nein, danke</string>
     <string name="Function_not_available">Diese Funktion ist nicht verfügbar in deiner aktuellen Systemversion</string>
 	
+    <!-- v 1.4.3 -->
+    <string name="Wallpaper_has_been_set_successfully">Hintergrund erfolgreich gesetzt</string>
+    <string name="X_has_been_set_as_default_ringtone">% ist der neue Standard-Klingelton</string>
+    <string name="X_has_been_set_as_default_notification">% ist der neue Benachrichtigungston</string>
+    <string name="X_has_been_set_as_default_alarm">% ist der neue Ton des Weckers</string>
+    <string name="Copy_path">Kopiere Pfad</string>
+    <string name="Copy_name">Kopiere Name</string>
+    <string name="Create_symlink">Symlink erzeugen</string>
+    <string name="Set_as_wallpaper">Als Hintergrund setzen</string>
+    <string name="Set_as_ringtone">Als Klingelton setzen</string>
+    <string name="Set_as_notification">Als Benachrichtigungston setzen</string>
+    <string name="Set_as_alarm">Als Weckton setzen</string>
+    <string name="Enter_the_symlink_location">Symlink-Pfad eingeben</string>
+    <string name="Symbolic_link_created_successfully">Symbolische Verknüpfung erstellt</string>
+    <string name="Sugarsync_login">SugarSync Login</string>
+    <string name="Copy_link">Kopiere Link</string>
+    <string name="Data_backup">Daten-Sicherung</string>
+    <string name="Application_data">Anwendungsdaten</string>
+    <string name="Create_backup">Sicherung erstellen</string>
+    <string name="Backup_application_data_to_a_desired_file">Sichert die Anwendungsdaten an einem gewünschten Ort</string>
+    <string name="Restore_backup">Sicherung wiederherstellen</string>
+    <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Sicherungsdatei auswählen, von der die Daten wiederhergestellt werden sollen</string>
+    <string name="Data_backup_created">Datensicherung erstellt</string>
+    <string name="Data_backup_restored">Daten erfolgreich wiederhergestellt</string>
+    <string name="Support">Support</string>
+    <string name="Support_summary">Besuche die Solid Explorer Support-Seite</string>
+    <string name="Experimental_feature_notifier">Bitte beachte, dass diese Funktion nur experimentell ist und womöglich nicht richtig mit der vorhandenen Android-Version funktioniert.</string>
+    <string name="Trial_check_notice">Solid Explorer konnte den Probezeitraum nicht prüfen. Bitte aktiviere eine Internetverbindung jetzt oder in den nächsten zwei Tagen, ansonsten wird der Probezeitraum ablaufen.</string>
+    <string name="Back_goes_to_root">Zurück geht zum Stammverzeichnis</string>
+    <string name="Back_goes_to_root_summary">Erlaubt bis zum Stammverzeichnis zu gehen, wenn der Zurück-Button gedrückt wird</string>
+    <string name="Keep_the_screen_on">Bildschirm angeschaltet lassen</string>
+    <string name="Keep_the_screen_on_summary">Hält den Bildschirm angeschaltet während Datei-Operationen. Nützlich falls bei ausgeschaltetem Bildschirm langsamere Übertragungen auftreten.</string>
 </resources>
