@@ -757,7 +757,7 @@
 	<string name="Swap_device_labels_summary">Tukar label Memori Internal dengan SD Card. Lakukan ini jika terjadi kesalahan pada deteksi otomatis.</string>
 	<string name="Panels">Panel</string>
 	<string name="Devices">Perangkat</string>
-	<string name="Bug_report_notice">Sebelum melaporkan error 'bug' harap melakukan prosedur berikut:\n\n<b>1. Periksa apakah masalah yang sama juga ada pada file manager lainnya atau tidak.\n2. Baca FAQ.</b>\n\nApakah anda sudah melakukan semua hal diatas?</string>
+	<string name="Bug_report_notice">Sebelum melaporkan error \'bug\' harap melakukan prosedur berikut:\n\n<b>1. Periksa apakah masalah yang sama juga ada pada file manager lainnya atau tidak.\n2. Baca FAQ.</b>\n\nApakah anda sudah melakukan semua hal diatas?</string>
 	<string name="Unable_to_move_the_file">Tidak dapat memindahkan file %</string>
     
     <!-- v 1.4.0 -->
@@ -773,7 +773,7 @@
     	<string name="Purchased_message">Terima kasih sudah membeli versi penuh aplikasi Solid Explorer. Saya harap anda menikmatinya.</string>
     	<string name="Trial_expired">Uji coba selesai</string>
     	<string name="Purchase">Pembelian</string>
-    	<string name="No_thanks">Tidak, ma'kasih</string>
+    	<string name="No_thanks">Tidak, ma\'kasih</string>
     	<string name="Function_not_available">Fungsi ini tidak ada pada sistem saat ini</string>  
   
     <!-- v 1.4.3 -->

@@ -774,7 +774,7 @@
      <string name="Trial_expired">Période d\'essai terminée</string>
      <string name="Purchase">Acheter</string>
      <string name="No_thanks">Non, merci</string>
-     <string name="Function_not_available">Cette fonction n'est pas disponible dans la version actuelle du système</string>
+     <string name="Function_not_available">Cette fonction n\'est pas disponible dans la version actuelle du système</string>
 
   <!-- v 1.4.3 -->
      <string name="Wallpaper_has_been_set_successfully">Le fond d\'écran a été changé avec succès</string>
@@ -807,5 +807,5 @@
      <string name="Back_goes_to_root">Retour à la racine</string>
      <string name="Back_goes_to_root_summary">Permettre de rejoindre la racine par appui sur le bouton Retour</string>
      <string name="Keep_the_screen_on">Garder l\'écran allumé</string>
-     <string name="Keep_the_screen_on_summary">Garder l\'écran allumé pendant les opérations de fichier. A cocher si vous rencontrez des ralentissements lorsque l'écran est éteint.</string>
+     <string name="Keep_the_screen_on_summary">Garder l\'écran allumé pendant les opérations de fichier. A cocher si vous rencontrez des ralentissements lorsque l\'écran est éteint.</string>
 </resources>
