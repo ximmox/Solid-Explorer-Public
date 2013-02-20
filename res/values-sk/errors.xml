@@ -47,7 +47,7 @@
     <string name="Access_denied">Prístup zamietnutý</string>
     
     <!-- 1.4.3 -->
-    <string name="Unlocker_error"> Kľúč bol nájdený, ale vrátil chybu. Obvyklou príčinou býva iná aplikácia blokujúca jeho oprávnenia, napr. antivírus. Uistite sa, že Solid Explorer aj kľúč sú vynechané z akéhokoľvek blacklistu a spustite aplikáciu znova.</string>
+    <string name="Unlocker_error">Kľúč bol nájdený, ale vrátil chybu. Obvyklou príčinou býva iná aplikácia blokujúca jeho oprávnenia, napr. antivírus. Uistite sa, že Solid Explorer aj kľúč sú vynechané z akéhokoľvek blacklistu a spustite aplikáciu znova.</string>
     <string name="Unable_to_get_the_link">Odkaz sa nedá získať</string>
     
 </resources>
