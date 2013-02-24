@@ -464,7 +464,7 @@
        <string name="Toggle_visibility_of_hidden_files">Přepnout viditelnost skrytých souborů</string>
        <string name="Show_hidden_files">Zobrazovat skryté soubory</string>
        <string name="Show_file_permissions">Zobrazovat oprávnění souborů</string>
-       <string name="Show_file_permissions_summary">Zobrazovat Unix oprávnění místo posledního data změny (pouze pro root soubory).</string>
+       <string name="Show_file_permissions_summary">Zobrazovat Unix oprávnění místo posledního data změny (pouze pro soubory v kořenovém adresáři).</string>
        <string name="Date_format">Formát data</string>
        <string name="Customize_date_format">Vlastní formát data</string>
        <string name="Time_format">Formát hodin</string>
@@ -734,5 +734,9 @@
        <string name="Support_summary">Navštívit stránku podpory Solid Explorer</string>
        <string name="Experimental_feature_notifier">Vezměte prosím na vědomí, že tato funkce je experimentální a na Vaší aktuální verzi Androidu pravděpodobně nebude fungovat správně.</string>
        <string name="Trial_check_notice">Solid Explorer nemohl ověřit zkušební dobu. Prosím, do dvou dnů aktivujte internetové připojení, jinak bude vaše zkušební doba ukončena.</string>
-      
+       <string name="Back_goes_to_root">Přejít zpět do kořenového adresáře</string>
+       <string name="Back_goes_to_root_summary">Dovolí přejít do kořenového adresáře při stisku tlačítka zpět</string>
+       <string name="Keep_the_screen_on">Nevypínat obrazovku</string>
+       <string name="Keep_the_screen_on_summary">Ponechá obrazovku aktivní během přenosu souborů. Označte, pociťujete-li zpomalení přenosů při vypnuté obrazovce.</string>
+       
 </resources>
