@@ -755,4 +755,55 @@
 	<string name="Panels">Bölmeler</string>
 	<string name="Devices">Aygıtlar</string>
 	<string name="Bug_report_notice">Bir hata bildirmeden önce lütfen aşağıdakileri gerçekleştirin:\n\n<b>1. Aynı sorunun diğer dosya yöneticilerinde olup olmadığını kontrol edin.\n2. SSS bölümünü okuyun.</b>\n\nÜstteki adımları gerçekleştirdiniz mi?</string>
+    <string name="Unable_to_move_the_file">% adlı dosya taşınamıyor</string>
+    
+    <!-- v 1.4.0 -->
+    <string name="Compression_ratio">Sıkıştırma oranı</string>
+    <string name="Compression_method">Sıkıştırma biçimi</string>
+    <string name="Comment">Yorum yap</string>
+    <string name="Standard">Standart</string>
+    <string name="No_compression">Sıkıştırma</string>
+    <string name="A_while_ago">Biraz önce</string>
+    <string name="X_hours_Y_minutes_ago">%x saat{1:|__:s} %y dakika{1:|__:s} önce</string>
+    <!-- Already exists, just changed the content -->
+    <string name="Expiration_message">Solid Explorer\'ı kullandığınız için teşekkürler, deneme süreniz sona erdi. Uygulamayı kullanmaya devam edebilmek için Google Play'den kilit açıcıyı satın alarak bana sanal bir bira alın. Sadece uygulamadan tamamen memnun olduğunuz zaman satın alın.</string>
+    <string name="Purchased_message">Solid Explorer\'ın tam sürümünü satın aldığınız için teşekkürler. Umarım beğenirsiniz. </string>
+    <string name="Trial_expired">Deneme sürümü sona erdi</string>
+    <string name="Purchase">Satın al</string>
+    <string name="No_thanks">Hayır, teşekkürler.</string>
+    <string name="Function_not_available">Bu özellik geçerli sistem sürümünde geçerli değil.</string>
+    	
+    <!-- v 1.4.3 -->
+    <string name="Wallpaper_has_been_set_successfully">Başarıyla duvarkağıdı olarak ayarlandı</string>
+    <string name="X_has_been_set_as_default_ringtone">% varsayılan zil sesi yapıldı.</string>
+    <string name="X_has_been_set_as_default_notification">% varsayılan bildirim sesi yapıldı.</string>
+    <string name="X_has_been_set_as_default_alarm">% varsayılan alarm sesi yapıldı.</string>
+    <string name="Copy_path">Adresi kopyala</string>
+    <string name="Copy_name">Adı kopyala</string>
+    <string name="Create_symlink">Sembolik bağ oluştur</string>
+    <string name="Set_as_wallpaper">Duvarkağıdı olarak ayarla</string>
+   	<string name="Set_as_ringtone">Zil sesi olarak ayarla</string>
+    <string name="Set_as_notification">Bildirim olarak ayarla</string>
+    <string name="Set_as_alarm">Alarm sesi olarak ayarla</string>
+    <string name="Enter_the_symlink_location">Sembolik bağ konumunu girin</string>
+    <string name="Symbolic_link_created_successfully">Sembolik bağ başarıyla oluşturuldu.</string>
+    <string name="Sugarsync_login">SugarSync giriş</string>
+    <string name="Copy_link">Bağlantı adresini kopyala</string>
+    <string name="Data_backup">Veri yedekleme</string>
+    <string name="Application_data">Uygulama verisi</string>
+    <string name="Create_backup">Yedekle</string>
+    <string name="Backup_application_data_to_a_desired_file">Uygulama verisini istenilen dosyaya yedekle</string>
+    <string name="Restore_backup">Yedeği geri yükle</string>
+    <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Geri yüklenmesi istenilen yedek dosyasını seçin</string>
+    <string name="Data_backup_created">Veri yedeklendi</string>
+    <string name="Data_backup_restored">Veri yedeği geri yüklendi.</string>
+    <string name="Support">Destek</string>
+    <string name="Support_summary">Solid Explorer\'ın destek sayfasını ziyaret et</string>
+    <string name="Experimental_feature_notifier">Lütfen bu özelliğin deneysel olduğunu ve geçerli Android versiyonunuzda düzgün çalışamayabileceğini unutmayın.</string>
+    <string name="Trial_check_notice">Solid Explorer deneme sürecini doğrulayamadı. Lütfen 2 gün içinde internete erişimine izin verin. Aksi takdirde deneme süreciniz sona erecek.</string>
+    <string name="Back_goes_to_root">Geri tuşuyla kök dizine gidilsin</string>
+    <string name="Back_goes_to_root_summary">Geri tuşuna dokunulduğunda kök dizinine gitmeye izin ver</string>
+    <string name="Keep_the_screen_on">Ekranı açık tut</string>
+    <string name="Keep_the_screen_on_summary">Dosya aktarımları yapılırken ekranı açık tut. Eğer aktarım yapılırken yavaşlamalar yaşıyorsanız işaretleyin.</string>
+
 </resources>
