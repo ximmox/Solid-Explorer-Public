@@ -767,10 +767,45 @@
     	<string name="A_while_ago">Algum tempo atrás</string>
     	<string name="X_hours_Y_minutes_ago">%x hora{1:|__:s} e %y minuto{1:|__:s} atrás</string>
         
-        
+        <!-- Already exists, just changed the content -->
+        <string name="Expiration_message">Obrigado por utilizar o Solid Explorer, o período de teste terminou. Para continuar a usar esta aplicação, me pague uma cerveja virtual, comprando a chave de desbloqueio no Google Play. Faça isso apenas quando estiver totalmente satisfeito com o aplicativo.</string>
     	<string name="Purchased_message">Obrigado por comprar a versão completa do Solid Explorer. Espero que aproveite.</string>
     	<string name="Trial_expired">Período de testes terminado</string>
     	<string name="Purchase">Comprar</string>
     	<string name="No_thanks">Não, obrigado</string>
     	<string name="Function_not_available">Essa função não está disponível nesta verão do sistema</string>
+    	
+    <!-- v 1.4.3 -->
+    	<string name="Wallpaper_has_been_set_successfully">O papel de parede foi definido com sucesso</string>
+    	<string name="X_has_been_set_as_default_ringtone">% foi denifido como toque padrão</string>
+    	<string name="X_has_been_set_as_default_notification">% foi definido como som de notificação padrão</string>
+    	<string name="X_has_been_set_as_default_alarm">% foi definido como som de alarme padrão</string>
+    	<string name="Copy_path">Copiar caminho</string>
+    	<string name="Copy_name">Copiar nome</string>
+    	<string name="Create_symlink">Criar symlink</string>
+    	<string name="Set_as_wallpaper">Definir como papel de parede</string>
+    	<string name="Set_as_ringtone">Definir como toque</string>
+    	<string name="Set_as_notification">Definir como som de notificação</string>
+    	<string name="Set_as_alarm">Definir como som de alarme</string>
+    	<string name="Enter_the_symlink_location">Entre com o local do symlink</string>
+    	<string name="Symbolic_link_created_successfully">Link simbólico criado com sucesso</string>
+    	<string name="Sugarsync_login">Login do SugarSync</string>
+    	<string name="Copy_link">Copiar link</string>
+    	<string name="Data_backup">Cópia de Segurança dos Dados</string>
+    	<string name="Application_data">Dados da Aplicação</string>
+    	<string name="Create_backup">Criar backup</string>
+    	<string name="Backup_application_data_to_a_desired_file">Backup dos dados da aplicação para um arquivo</string>
+    	<string name="Restore_backup">Restaurar backup</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Escolha um arquivo de backup de onde os dados serão restaurados</string>
+    	<string name="Data_backup_created">Backup dos dados criado</string>
+    	<string name="Data_backup_restored">Backup dos dados restaurados</string>
+    	<string name="Support">Suporte</string>
+    	<string name="Support_summary">Visite a página de suporte do Solid Explorer</string>
+    	<string name="Experimental_feature_notifier">Por favor note que, essa funcção é experimental e talvez não funcione adequadamente na sua versão do Android.</string>
+    	<string name="Trial_check_notice">O Solid Explorer não pode verificar o período de teste. Por favor ative a conexão com a Internet agora ou em até 2 dias ou seu período de teste acabará.</string>
+    	<string name="Back_goes_to_root">Voltar vai para o raíz</string>
+    	<string name="Back_goes_to_root_summary">Permite ir para o diretório raíz com o botão Voltar</string>
+    	<string name="Keep_the_screen_on">Mantem a tela ligada</string>
+    	<string name="Keep_the_screen_on_summary">Mantem a tela ligada durante a transferência de arquivo. Ative caso tenha problemas com as transferências quando a tela se apaga.</string>
+
 </resources>
