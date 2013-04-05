@@ -39,4 +39,7 @@
     <string name="Unknown_error"> Ein unbekannter Fehler ist aufgetreten</string>
     <string name="Cannot_create_directory_X">Verzeichnis \&quot;%x\&quot; kann nicht erstellt werden.</string>
     
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Der Unlocker wurde gefunden, gab aber einen Fehler aus. Dies kann passieren, wenn andere Anwendungen den Zugriff blockieren, z.B. Antiviren-Software. Stelle sicher, dass Solid Explorer und der Unlocker nicht auf Blacklisten dieser Apps stehen und starte Solid Explorer erneut.</string>
+    <string name="Unable_to_get_the_link">Konnte den Link nicht bekommen</string>
 </resources>

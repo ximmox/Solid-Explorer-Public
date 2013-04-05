@@ -46,4 +46,8 @@
     <string name="Unable_to_mount_the_system_as_read_only">无法挂载系统目录为 只读</string>
     <string name="Access_denied">访问被拒绝</string>
     
+     <!-- 1.4.3 -->
+    <string name="Unlocker_error">unlocker已找到，但是返回错误，这通常是由于另外一个应用程序锁定了它的权限，比如杀毒软件，请确保Solid Explorer和unlocker没有在任何黑名单之中，再重新打开应用。</string>
+    <string name="Unable_to_get_the_link">无法获得链接</string>
+    
 </resources>

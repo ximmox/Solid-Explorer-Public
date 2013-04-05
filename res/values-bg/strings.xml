@@ -276,7 +276,7 @@
     <string name="Permissions">Разрешения</string>
     <string name="Set">Задай</string>
     <string name="Used_space">Използвано място</string>
-    <string name="Free_space">Свободно място</string>
+    <string name="Free_space">Своб. място</string>
     <string name="Total_size">Общ размер</string>
     <string name="Artist">Изпълнител</string>
     <string name="Title">Заглавие</string>
@@ -776,5 +776,38 @@
      <string name="Purchase">Закупи</string>
      <string name="No_thanks">Не, благодаря</string>
      <string name="Function_not_available">Тази функция не е налична в текущата версия на системата</string>
+     
+     <!-- v 1.4.3 -->
+     <string name="Wallpaper_has_been_set_successfully">Тапетът е зададен успешно</string>
+     <string name="X_has_been_set_as_default_ringtone">% е зададен като тон на звънене</string>
+     <string name="X_has_been_set_as_default_notification">% е зададен като тон за известия</string>
+     <string name="X_has_been_set_as_default_alarm">% е зададен като звук за аларма</string>
+     <string name="Copy_path">Копирай пътя</string>
+     <string name="Copy_name">Копирай името</string>
+     <string name="Create_symlink">Създай символна връзка</string>
+     <string name="Set_as_wallpaper">Задай като тапет</string>
+     <string name="Set_as_ringtone">Задай като тон на звънене</string>
+     <string name="Set_as_notification">Задай като тон за известие</string>
+     <string name="Set_as_alarm">Задай като аларма</string>
+     <string name="Enter_the_symlink_location">Вход в символно местоположение</string>
+     <string name="Symbolic_link_created_successfully">Символната връзка е създадена успешно</string>
+     <string name="Sugarsync_login">Вход в SugarSync</string>
+     <string name="Copy_link">Копирай връзка</string>
+     <string name="Data_backup">Архивиране на данни</string>
+     <string name="Application_data">Данни на приложението</string>
+     <string name="Create_backup">Създай архив</string>
+     <string name="Backup_application_data_to_a_desired_file">Архивиране на данните на прилеожението във файл</string>
+     <string name="Restore_backup">Възстанови архив</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Избор на архивен файл, от който данните ще бъдат възстановени</string>
+     <string name="Data_backup_created">Създаден е архив на данните</string>
+     <string name="Data_backup_restored">Архивът на данните е възстановен</string>
+     <string name="Support">Поддръжка</string>
+     <string name="Support_summary">Посетете страницата за поддръжка на Solid Explorer</string>
+     <string name="Experimental_feature_notifier">Моля, имайте предвид, че тази функция е експериментална и вероятно няма да работи правилно на текущата ви версия на Android.</string>
+     <string name="Trial_check_notice">Solid Explorer не може да потвърди пробният период. Моля, включете интернет връзка сега или до 2 дни. В противен случай вашият тестов период ще приключи.</string>
+     <string name="Back_goes_to_root">Назад отива към root</string>
+     <string name="Back_goes_to_root_summary">Позволява връщането към системната директория при натискане на бутан Назад</string>
+     <string name="Keep_the_screen_on">Държи екрана включен</string>
+     <string name="Keep_the_screen_on_summary">Екрана стои включен по време на файлови прехвърляния. Отметнете, ако имате забавяния при прехвърлянията, когато екрана е изключен.</string>
 
 </resources>

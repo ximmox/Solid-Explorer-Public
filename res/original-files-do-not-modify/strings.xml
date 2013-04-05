@@ -780,7 +780,7 @@
     	<string name="Wallpaper_has_been_set_successfully">Wallpaper has been set successfully</string>
     	<string name="X_has_been_set_as_default_ringtone">% has been set as default ringtone</string>
     	<string name="X_has_been_set_as_default_notification">% has been set as default notification sound</string>
-    	<string name="X_has_been_set_as_default_alarm">% has been set as default alam sound</string>
+    	<string name="X_has_been_set_as_default_alarm">% has been set as default alarm sound</string>
     	<string name="Copy_path">Copy path</string>
     	<string name="Copy_name">Copy name</string>
     	<string name="Create_symlink">Create symlink</string>
@@ -804,5 +804,9 @@
     	<string name="Support_summary">Visit the Solid Explorer\'s support page</string>
     	<string name="Experimental_feature_notifier">Please note, that this feature is experimental and will likely not work properly on your current Android version.</string>
     	<string name="Trial_check_notice">Solid Explorer could not verify the trial period. Please enable internet connection now or within 2 days. Otherwise your trial period will be over.</string>
+    	<string name="Back_goes_to_root">Back goes to root</string>
+    	<string name="Back_goes_to_root_summary">Allow to go to the root directory when hitting the Back button</string>
+    	<string name="Keep_the_screen_on">Keep the screen on</string>
+    	<string name="Keep_the_screen_on_summary">Keep the screen on during the file transfers. Check, if you experience transfer slowdowns when the screen is off.</string>
 		
 </resources>

@@ -497,7 +497,7 @@
     <string name="Show_hidden_files">Afficher les fichiers cachés</string>
     
     <string name="Show_file_permissions">Afficher les permissions du fichier</string>
-    <string name="Show_file_permissions_summary">Afficher les permissions Unix au lieu de la dernière date de modification (fichiers racine uniquement).</string>
+    <string name="Show_file_permissions_summary">Afficher les permissions Unix au lieu de la dernière date de modification (fichiers racine uniquement)</string>
     
     <string name="Date_format">Format de la date</string>
     <string name="Customize_date_format">Personnaliser le format de la date</string>
@@ -687,11 +687,11 @@
     <string name="Force_english_summary">Forcer l\'affichage de l\'application en anglais. Effectif après un redémarrage.</string>
     <string name="Encoding">Encodage</string>
     <string name="Network_thumbnails">Miniatures réseau</string>
-    <string name="Network_thumbnails_summary">Si coché, les miniatures seront chargées si connecté aux données mobiles.</string>
+    <string name="Network_thumbnails_summary">Afficher les miniatures en utilisant la connexion de données mobiles</string>
     <string name="Copy_to">Copier vers</string>
     <string name="Move_to">Déplacer vers</string>
     <string name="Shortcut">Raccourci</string>
-    <string name="Two_panels_in_landscape_summary">Afficher deux panneaux en même temps en paysage.</string>
+    <string name="Two_panels_in_landscape_summary">Afficher deux panneaux en même temps en paysage</string>
     <string name="Two_panels_in_landscape">Deux panneaux en paysage</string>
     <string name="Restart_prompt">L\'application doit-être redémarrée pour appliquer les modifications. Continuer ?</string>
     <string name="Custom_color_scheme">Palette de couleurs personnalisée</string>
@@ -723,7 +723,7 @@
 	<string name="Ask">Demander</string>
 	<string name="Choose_an_action">Choisir une action</string>
 	<string name="Folders_first">Dossiers en tête de liste</string>
-	<string name="Folders_first_summary">Afficher les dossiers en premier, puis les fichiers.</string>
+	<string name="Folders_first_summary">Afficher les dossiers en premier, puis les fichiers</string>
 	<string name="FAQ">FAQ</string>
 	<string name="FAQ_summary">Merci de lire la FAQ avant de poser une question</string>
 	
@@ -755,7 +755,7 @@
     	<string name="Device_labels">Libellés d\'appareil</string>
     	<string name="Device_labels_summary">Afficher les noms des appareil au lieu des noms réels, ex. \&quot;Carte SD\&quot; au lieu de \&quot;sdcard0\&quot;</string>
     	<string name="Swap_device_labels">Inverser les libellés</string>
-    	<string name="Swap_device_labels_summary">Inverser les libellés de la mémoire interne avec celle de la carte SD en cas de mauvaise détection.</string>
+    	<string name="Swap_device_labels_summary">Inverser les libellés de la mémoire interne avec celle de la carte SD en cas de mauvaise détection</string>
     	<string name="Panels">Panneaux</string>
     	<string name="Devices">Appareils</string>
     	<string name="Bug_report_notice">Avant de rapporter un bug, faites ceci :\n\n<b>1. Vérifier que le problème n\'existe pas d\'autres gestionnaires de fichier.\n2. Lire la FAQ.</b>\n\nAvez-vous fait les étapes précédentes ?</string>
@@ -774,5 +774,38 @@
      <string name="Trial_expired">Période d\'essai terminée</string>
      <string name="Purchase">Acheter</string>
      <string name="No_thanks">Non, merci</string>
-     <string name="Function_not_available">Cette fonction n'est pas disponible dans la version actuelle du système</string>
+     <string name="Function_not_available">Cette fonction n\'est pas disponible dans la version actuelle du système</string>
+
+  <!-- v 1.4.3 -->
+     <string name="Wallpaper_has_been_set_successfully">Le fond d\'écran a été changé avec succès</string>
+     <string name="X_has_been_set_as_default_ringtone">% a été défini comme sonnerie par défaut</string>
+     <string name="X_has_been_set_as_default_notification">% a été défini comme notification par défaut</string>
+     <string name="X_has_been_set_as_default_alarm">% a été défini comme alarme par défaut</string>
+     <string name="Copy_path">Copier l\'emplacement</string>
+     <string name="Copy_name">Copier le nom</string>
+     <string name="Create_symlink">Créer un lien symbolique</string>
+     <string name="Set_as_wallpaper">Définir comme fond d\'écran</string>
+     <string name="Set_as_ringtone">Définir comme sonnerie</string>
+     <string name="Set_as_notification">Définir comme notification</string>
+     <string name="Set_as_alarm">Définir comme alarme</string>
+     <string name="Enter_the_symlink_location">Saisir l\'emplacement du lien symbolique</string>
+     <string name="Symbolic_link_created_successfully">Le lien symbolique a été créé avec succès</string>
+     <string name="Sugarsync_login">Connexion SugarSync</string>
+     <string name="Copy_link">Copier le lien</string>
+     <string name="Data_backup">Sauvegarde de données</string>
+     <string name="Application_data">Données de l\'application</string>
+     <string name="Create_backup">Créer une sauvegarde</string>
+     <string name="Backup_application_data_to_a_desired_file">Sauvegarder les données de l\'application dans un fichier</string>
+     <string name="Restore_backup">Restaurer une sauvegarde</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Choisir un fichier de sauvegarde pour restaurer les données de l\'application</string>
+     <string name="Data_backup_created">Sauvegarde créée</string>
+     <string name="Data_backup_restored">Sauvegarde restaurée</string>
+     <string name="Support">Support</string>
+     <string name="Support_summary">Visiter la page de support de Solid Explorer</string>
+     <string name="Experimental_feature_notifier">Merci de noter que cette fonctionnalité est expérimentale et qu\'elle ne fonctionnera probablement pas avec votre version actuelle d\'Android.</string>
+     <string name="Trial_check_notice">Solid Explorer ne peut pas vérifier la période d\'essai. Merci d\'activer une connexion internet dès maintenant ou dans les 2 jours. Autrement votre période d\'essai se terminera directement.</string>
+     <string name="Back_goes_to_root">Retour à la racine</string>
+     <string name="Back_goes_to_root_summary">Permettre de rejoindre la racine par appui sur le bouton Retour</string>
+     <string name="Keep_the_screen_on">Garder l\'écran allumé</string>
+     <string name="Keep_the_screen_on_summary">Garder l\'écran allumé pendant les opérations de fichier. A cocher si vous rencontrez des ralentissements lorsque l\'écran est éteint.</string>
 </resources>

@@ -45,5 +45,11 @@
     <string name="Unable_to_mount_the_system_as_read_write">Не мога да монтирам системата за четене/запис</string>
     <string name="Unable_to_mount_the_system_as_read_only">Не мога да монтирам системата само за четене</string>
     <string name="Access_denied">Достъпа е отказан</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Не мога да намеря дейност за завършване на това действие</string>
+    <string name="Unable_to_set_the_wallpaper">Не мога да задам тапета</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Unlocker-ът беше намерен, но върна грешка. Това обикновено се случва, когато друго приложение блокира неговите разрешения, например антивирусна програма. Убедете се, че Solid Explorer и unlocker-ът са изключени от всякакви черни списъци и стартирайте приложението отново.</string>
+    <string name="Unable_to_get_the_link">Не мога да взема връзката</string>
 
 </resources>

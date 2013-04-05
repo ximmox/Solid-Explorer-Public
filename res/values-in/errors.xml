@@ -46,7 +46,7 @@
     <string name="Unable_to_mount_the_system_as_read_only">Tidak dapat meng-mount partisi system sebagai baca-saja</string>
     
     <string name="Access_denied">Akses ditolak</string>
-    <string name="Unable_to_find_an_activity_to_complete_this_action">Tidak dapat menemukan 'activity' untuk menyelesaikan aksi yang diminta.</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Tidak dapat menemukan \'activity\' untuk menyelesaikan aksi yang diminta.</string>
     <string name="Unable_to_set_the_wallpaper">Tidak dapat meng-set gambar sebagai wallpaper</string>
     
     <!-- 1.4.3 -->

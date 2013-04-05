@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Directory_does_not_exists">Adresář neexistuje</string>
-    
+  
     <string name="Unable_to_read_the_file">Soubor nelze přečíst</string>
     <string name="Illegal_operation">Neplatná operace</string>
     
@@ -18,7 +18,7 @@
     <string name="Operation_has_failed">Operace se nezdařila</string>
     <string name="Invalid_file_path">Neplatná cesta k souboru</string>
     
-    
+	
     <string name="Cannot_browse_to_x">Nelze procházet \&quot;%\&quot;. Neznámá chyba.</string>
     <string name="Cannot_write_to_the_system">Nelze zapisovat do souborového systému. Připojení pro čtení/zápis se nezdařilo.</string>
     <string name="Requested_file_x_has_not_been_found">Požadovaný soubor \&quot;%\&quot; nebyl nalezen.</string>
@@ -45,5 +45,11 @@
     <string name="Unable_to_mount_the_system_as_read_write">Nelze připojit system pro čtení/zápis</string>
     <string name="Unable_to_mount_the_system_as_read_only">Nelze připojit system pouze pro čtení</string>
     <string name="Access_denied">Přístup odepřen</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Nelze nalézt aplikaci pro dokončení této akce</string>
+    <string name="Unable_to_set_the_wallpaper">Tapetu se nepodařilo změnit</string>
     
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Klíč byl nalezen, avšak navrátil chybu. Obvyklou příčinou bývá jiná aplikace blokující jeho oprávnění, např. antivirus. Ujistěte se, že Solid Explorer i klíč jsou vynechány z jakéhokoli blacklistu a spusťte aplikaci znovu.</string>
+    <string name="Unable_to_get_the_link">Nelze získat odkaz</string>
+   
 </resources>

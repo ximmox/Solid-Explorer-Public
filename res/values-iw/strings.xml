@@ -704,4 +704,8 @@
   <string name="Unable_to_set_the_wallpaper">לא ניתן להגדיר רקע</string>
   <string name="Unlocker_error">ה-unlocker נמצא אך קרתה שגיאה. זה בדרך כלל קורה שיישומים אחרים חוסמים את ההרשאות שלו, לדוגמא תוכנת אנטיוירוס. תוודא ש-Solid Explorer וה-unlocker לא נכללים בשום רשימה שחורה והפעל את היישום מחדש.</string>
   <string name="Unable_to_get_the_link">לא ניתן לקבל את הקישור</string>
+  <string name="Back_goes_to_root">\"חזור\" חוזר לראשי</string>
+  <string name="Back_goes_to_root_summary">מאפשר להגיע לתייקית המערכת כאשר לוחצים על כפתור חזור</string>
+  <string name="Keep_the_screen_on">השאר את המסך דלוק</string>
+  <string name="Keep_the_screen_on_summary">השאר את המסך דלוק בעת ההעברת קבצים. סמן אם אתה חווה האטה בהעברת הקבצים בעת שהמסך מכובה.</string>
 </resources>
