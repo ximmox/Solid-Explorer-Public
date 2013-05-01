@@ -807,6 +807,6 @@
      <string name="Trial_check_notice">Solid Explorer не смог проверить триальный период. Разрешите интернет-соединение сейчас или в течении 2х дней. Иначе ваш испытательный срок закончится.</string>
      <string name="Back_goes_to_root">Возврат в корень</string>
      <string name="Back_goes_to_root_summary">Краткими нажатиями кнопки назад, возвращаться в корень системы.</string>
-     <string name="Keep_the_screen_on">Включенный экран</string>
-     <string name="Keep_the_screen_on_summary">Удерживать экран включенным при передаче файлов. (если падает скорость когда экран потух)</string>
+     <string name="Keep_the_screen_on">Включённый экран</string>
+     <string name="Keep_the_screen_on_summary">Удерживать экран включённым при передаче файлов. (если падает скорость когда экран потух)</string>
 </resources>
