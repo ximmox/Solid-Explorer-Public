@@ -206,7 +206,7 @@
     <string name="ftp_server_hint">Для подключения введите адрес сервера в адресной строке проводника Windows или используйте любой FTP клиент.</string>
     <string name="You_cannot_share_root_directory">Вы не можете отправить корневой каталог</string>
     <string name="File_sharing_stopped">Отправка остановлена</string>
-    <string name="None">Без фильтра</string>
+    <string name="None">Отсутствует</string>
     <string name="None1">Без сжатия</string>
     <string name="You_have_to_be_connected_to_the_LAN_network">Вы должны быть подключены к локальной сети</string>
     <string name="Active">Активный</string>
@@ -807,8 +807,8 @@
      <string name="Trial_check_notice">Solid Explorer не смог проверить триальный период. Разрешите интернет-соединение сейчас или в течении 2х дней. Иначе ваш испытательный срок закончится.</string>
      <string name="Back_goes_to_root">Возврат в корень</string>
      <string name="Back_goes_to_root_summary">Краткими нажатиями кнопки назад, возвращаться в корень системы.</string>
-     <string name="Keep_the_screen_on">Включенный экран</string>
-     <string name="Keep_the_screen_on_summary">Удерживать экран включенным при передаче файлов. (если падает скорость когда экран потух)</string>
+     <string name="Keep_the_screen_on">Включённый экран</string>
+     <string name="Keep_the_screen_on_summary">Удерживать экран включённым при передаче файлов. (если падает скорость когда экран потух)</string>
      <!-- v 1.4.4 -->
     <string name="Clear_thumbnails_on_exit">Очистка при выходе</string>
     <string name="Image_thumbnails_will_be_removed_on_app_exit">Эскизы изображений будут удаляться автоматически при выходе из приложения</string>
