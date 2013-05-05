@@ -1,42 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Directory_does_not_exists">Ο κατάλογος δεν υπάρχει</string>
     
-    <string name="Unable_to_read_the_file">Αδυναμία ανάγνωσης του αρχείου</string>
+    <string name="Unable_to_read_the_file">Δεν ήταν δυνατή η ανάγνωση του αρχείου</string>
     <string name="Illegal_operation">Μη έγκυρη λειτουργία</string>
     
     
-    <string name="Cannot_update_the_database">Αδυναμία ενημέρωσης βάσης δεδομένων</string>
+    <string name="Cannot_update_the_database">Δεν ήταν δυνατή η ενημέρωση της βάσης δεδομένων</string>
     <string name="Error">Σφάλμα</string>
     
     <string name="Invalid_password_for_user_x">Μη έγκυρος κωδικός για το χρήστη \&quot;%\&quot;</string>
-    <string name="Invalid_master_password">Μη έγκυρος κεντρικός κωδικός</string>
-    <string name="Unable_to_execute_shell_command">Αδυναμία εκτέλεσης εντολής κελύφους</string>
-    <string name="No_root_access_available">Η πρόσβαση υπερχρήστη δεν είναι διαθέσιμη</string>
-    <string name="Unable_to_read_root_directory">Αδυναμία ανάγνωσης του ριζικού καταλόγου</string>
+    <string name="Invalid_master_password">Μη έγκυρος κύριος κωδικός</string>
+    <string name="Unable_to_execute_shell_command">Δεν ήταν δυνατή η εκτέλεση εντολής κελύφους</string>
+    <string name="No_root_access_available">Δεν είναι δυνατή η πρόσβαση στο ριζικό κατάλογο</string>
+    <string name="Unable_to_read_root_directory">Δεν ήταν δυνατή η ανάγνωση του ριζικού καταλόγου</string>
     
-    <string name="Operation_has_failed">Η λειτουργία απέτυχε</string>
+    <string name="Operation_has_failed">Η ενέργεια απέτυχε</string>
     <string name="Invalid_file_path">Μη έγκυρη διαδρομή αρχείου</string>
     
     
-    <string name="Cannot_browse_to_x">Αδυναμία πλοήγησης στο \&quot;%\&quot;. Παρουσιάστηκε άγνωστο σφάλμα.</string>
-    <string name="Cannot_write_to_the_system">Αδυναμία εγγραφής στο σύστημα. Η προσάρτησή του ως αναγνώσιμο/εγγράψιμο απέτυχε.</string>
-    <string name="Requested_file_x_has_not_been_found">Το ζητούμενο αρχείο \&quot;%\&quot; δε βρέθηκε.</string>
+    <string name="Cannot_browse_to_x">Δεν ήταν δυνατή η πλοήγηση στο \&quot;%\&quot;. Παρουσιάστηκε άγνωστο σφάλμα.</string>
+    <string name="Cannot_write_to_the_system">Δεν ήταν δυνατή η εγγραφή στο σύστημα. Η προσάρτησή του ως αναγνώσιμο/εγγράψιμο απέτυχε.</string>
+    <string name="Requested_file_x_has_not_been_found">Το ζητούμενο αρχείο \&quot;%\&quot; δεν βρέθηκε.</string>
     <string name="Unknown_read_write_exception">Άγνωστη εξαίρεση ανάγνωσης/εγγραφής.</string>
-    <string name="Invalid_url_x">Μη έγκυρη URL: %</string>
-    <string name="An_error_occured_while_accessing_master_password">Παρουσιάστηκε σφάλμα κατά την πρόσβαση στον κεντρικό κωδικό.</string>
-    <string name="Operation_not_allowed">Η λειτουργία δεν επιτρέπεται.</string>
-    <string name="Cannot_connect_to_host_x_on_port_y">Αδυναμία σύνδεσης στο \&quot;%x\&quot; στη θύρα %y.</string>
-    <string name="Unable_to_resolve_host_x">Αδυναμία επίλυσης ονόματος διακομιστή \&quot;%x\&quot;.</string>
+    <string name="Invalid_url_x">Μη έγκυρη διεύθυνση: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Παρουσιάστηκε σφάλμα κατά την πρόσβαση στον κύριο κωδικό.</string>
+    <string name="Operation_not_allowed">Η ενέργεια δεν επιτρέπεται.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Δεν ήταν δυνατή η σύνδεση στο \&quot;%x\&quot; στη θύρα %y.</string>
+    <string name="Unable_to_resolve_host_x">Δεν ήταν δυνατή η επίλυση του ονόματος διακομιστή \&quot;%x\&quot;.</string>
     <string name="Server_returned_illegal_response">Ο διακομιστής επέστρεψε μη έγκυρη απάντηση</string>
     <string name="An_error_occured_while_transferring_data_from_the_server">Παρουσιάστηκε σφάλμα κατά τη μεταφορά δεδομένων από το διακομιστή.</string>
     <string name="Invalid_username_or_password">Μη έγκυρο όνομα χρήστη ή κωδικός.</string>
     <string name="Internal_server_error">Εσωτερικό σφάλμα διακομιστή.</string>
     <string name="Server_response_x">Απάντηση διακομιστή: %x</string>
-    <string name="Unable_to_open_the_file_for_reading">Αδυναμία ανοίγματος του αρχείου για ανάγνωση</string>
-    <string name="Unable_to_write_the_file_to_x">Αδυναμία εγγραφής του αρχείου στο \&quot;%x\&quot;.</string>
-    <string name="Unable_to_connect_to_the_x">Αδυναμία σύνδεσης στο %x.</string>
+    <string name="Unable_to_open_the_file_for_reading">Δεν ήταν δυνατό το άνοιγμα του αρχείου για ανάγνωση</string>
+    <string name="Unable_to_write_the_file_to_x">Δεν ήταν δυνατή η εγγραφή του αρχείου στο \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Δεν ήταν δυνατή η σύνδεση στο %x.</string>
     <string name="Unknown_error">Άγνωστο σφάλμα</string>
-    <string name="Cannot_create_directory_X">Αδυναμία δημιουργίας καταλόγου \&quot;%x\&quot;</string>
-    <string name="Unable_to_start_the_service_on_port_x">Αδυναμία έναρξης της υπηρεσίας στη θύρα %</string>    
+    <string name="Cannot_create_directory_X">Δεν ήταν δυνατή η δημιουργία του καταλόγου \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Δεν ήταν δυνατή η έναρξη της υπηρεσίας στη θύρα %</string>    
+
+ <string name="Invalid_position">Μη έγκυρη θέση</string>
+    <string name="Unable_to_delete_file_x">Δεν ήταν δυνατή η διαγραφή του αρχείου %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Δεν ήταν δυνατή η προσάρτηση του συστήματος ως εγγραφή/ανάγνωση</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Δεν ήταν δυνατή η προσάρτηση του συστήματος ως μόνο για ανάγνωση</string>
+    <string name="Access_denied">Δεν επιτρέπεται η πρόσβαση</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Δεν ήταν δυνατή η εύρεση λειτουργίας για την ολοκλήρωση αυτής της ενέργειας</string>
+    <string name="Unable_to_set_the_wallpaper">Δεν ήταν δυνατός ο ορισμός ταπετσαρίας</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Ο "Unlocker" βρέθηκε αλλά συνέβη ένα σφάλμα. Συνήθως αυτό συμβαίνει όταν άλλη εφαρμογή εμποδίζει τα δικαιώματά του, π.χ. πρόγραμμα antivirus. Βεβαιωθείτε ότι ο Solid Explorer και ο Unlocker δεν βρίσκονται σε λίστες αποκλεισμένων προγραμμάτων και ξεκινήστε ξανά την εφαρμογή.</string>
+    <string name="Unable_to_get_the_link">Δεν ήταν δυνατή η λήψη της διεύθυνσης</string>
+    
 </resources>
