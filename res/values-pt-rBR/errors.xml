@@ -45,4 +45,10 @@
     <string name="Unable_to_mount_the_system_as_read_write">Impossível montar o sistema como leitura/escrita</string>
     <string name="Unable_to_mount_the_system_as_read_only">Impossível montar o sistema como somente leitura</string>
     <string name="Access_denied">Acesso negado</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Impossível encontrar uma \&quot;Atividade\&quot; para completar essa ação</string>
+    <string name="Unable_to_set_the_wallpaper">Impossível configurar o Papel de Parede</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">O destravador foi encontrado mas retornou um erro. Isso geralmente acontece quando outro aplicativo bloqueia as permissões, como um antivírus. CErtifique-se que o Solid Explorer e o destravador não estão em nenhuma lista negra e reinicie o aplicativo.</string>
+    <string name="Unable_to_get_the_link">Impossível pegar o link</string>
 </resources>
