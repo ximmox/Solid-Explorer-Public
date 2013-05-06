@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <!-- bottom toolbar -->
   <string name="New">Новий</string>
@@ -263,7 +263,7 @@
   <!-- Dialogs again -->
   <!-- File exists dialog -->
   <!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
-    	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+      <string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
   <string name="File_exists">Файл вже існує</string>
   <string name="Skip">Пропустити</string>
   <string name="Overwrite">Переписати</string>
@@ -352,7 +352,6 @@
   <string name="Cannot_connect_to">Неможливо з\'єднатись з \"%\"</string>
   <string name="You_are_not_logged_in">Ви не увійшли</string>
   <string name="Can_not_create_the_directory">Неможливо створити каталог</string>
-  <string name="Beta_expired">Бета-версія прострочена</string>
   <string name="Can_not_create_the_file">Неможливо створити файл</string>
   <string name="Uknown_file_type">Невідомий тип файлу</string>
   <string name="No_activity_found_to_open_this_file">Незнайдено додатку для відкриття</string>
@@ -360,14 +359,14 @@
   <string name="Indexing_has_been_unscheduled">Розклад змінено</string>
   <string name="Scheduled_indexing">Запланована індексація</string>
   <string name="Tap_to_start">Натисніть для початку</string>
-  <string name="Are_you_sure_you_want_to_delete_items">Бажаєте видалити % елемент{1:|2-4:а|_2-4:а|__:ів}?</string>
-  <string name="X_files_deleted">% файл{1:|2-4:а|_2-4:а|__:ів} видалено.</string>
-  <string name="X_files_copied">% файл{1:|2-4:а|_2-4:а|__:ів} скопійовано.</string>
-  <string name="X_files_moved">% файл{1:|2-4:а|_2-4:а|__:ів} переміщено.</string>
-  <string name="X_items">% елемент{1:|2-4:а|_2-4:а|__:ів}</string>
-  <string name="Deleting_X_files">Видалення % файл{1:|2-4:а|_2-4:а|__:ів}</string>
-  <string name="Copying_X_files">Копіювання % файл{1:|2-4:а|_2-4:а|__:ів}</string>
-  <string name="Moving_X_files">Переміщенння % файл{1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Are_you_sure_you_want_to_delete_items">Бажаєте видалити % елемент{1:|_1:|2-4:а|_2-4:а|__:ів}?</string>
+  <string name="X_files_deleted">% файл{1:|_1:|2-4:а|_2-4:а|__:ів} видалено.</string>
+  <string name="X_files_copied">% файл{1:|_1:|2-4:а|_2-4:а|__:ів} скопійовано.</string>
+  <string name="X_files_moved">% файл{1:|_1:|2-4:а|_2-4:а|__:ів} переміщено.</string>
+  <string name="X_items">% елемент{1:|_1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Deleting_X_files">Видалення % файл{1:|_1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Copying_X_files">Копіювання % файл{1:|_1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Moving_X_files">Переміщенння % файл{1:|_1:|2-4:а|_2-4:а|__:ів}</string>
   <string name="Indexing_scheduled_at_X_every_Y">Індексацію назначено на %x кожен %y д{1:ень|__:ень}</string>
   <!-- Explanation of above
     	
@@ -523,7 +522,6 @@
   <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Відображати сповіщення коли індексацію завершено або скасовано</string>
   <string name="Other">Інше</string>
   <string name="Clear_persistent_data">Очистити накопичені дані</string>
-  <string name="Clear_persistent_data_summary">Видалити дані - кеш зображень, тимчасові файли, історія операцій, і т.і.</string>
   <string name="Clear_thumbnail_cache">Очистити кеш зображень</string>
   <string name="Clear_temporary_files">Очистити тимчасові файли</string>
   <string name="Clear_operation_history">Очистити історію операцій</string>
@@ -549,7 +547,6 @@
   <string name="Planned_features">Заплановані функції</string>
   <!-- Other -->
   <string name="Prefix">Префікс</string>
-  <string name="Expiration_message">Дякуємо, що користуєтесь Solid Explorer Beta. Для продовження тестування додатку, завантажте останню версію з Google Play.</string>
   <string name="Empty">Пусто</string>
   <string name="search_description">Пошук використовуючи Solid Explorer</string>
   <string name="search_hint">Наберіть ім\'я файлу</string>
@@ -630,4 +627,80 @@
   <string name="Folders_first_summary">Показувати папки, потім файли.</string>
   <string name="FAQ">FAQ</string>
   <string name="FAQ_summary">Будь ласка, прочитайте FAQ, перш ніж запитувати</string>
+  <!-- v 1.3.8 -->
+  <string name="Quick_config">Швидке налаштування</string>
+  <!-- short word please -->
+  <!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
+  <string name="X_folders_and_Y_files_deleted">%x папк{1:ка|_1:ка|2-4:ки|_2-4:ки|__:ок} та %y файл{1:|_1:|2-4:а|_2-4:а|__:ів} видалено.</string>
+  <string name="X_folders_and_Y_files_copied">%x пап{1:ка|_1:ка|2-4:ки|_2-4:ки|__:ок} та %y файл{1:|_1:|2-4:а|_2-4:а|__:ів} скопійовано.</string>
+  <string name="X_folders_and_Y_files_moved">%x пап{1:ка|_1:ка|2-4:ки|_2-4:ки|__:ок} та %y файл{1:|_1:|2-4:а|_2-4:а|__:ів} переміщено.</string>
+  <string name="Deleting_X_folders_and_Y_files">Видаляється %x пап{1:ка|_1:ка|2-4:ки|_2-4:ки|__:ок} та %y файл{1:|_1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Copying_X_folders_and_Y_files">Копіюється %x пап{1:ка|_1:ка|2-4:ки|_2-4:ки|__:ок} та %y файл{1:|_1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Moving_X_folders_and_Y_files">Переміщується %x пап{1:ка|_1:ка|2-4:ки|_2-4:ки|__:ок} та %y файл{1:|_1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="X_folders_moved">% пап{1:ка|_1:ка|2-4:ки|_2-4:ки|__:ок} переміщено.</string>
+  <string name="Moving_X_folders">Переміщується % folder{1:ка|_1:ка|2-4:ки|_2-4:ки|__:ок}</string>
+  <string name="X_folders">% пап{1:ка|_1:ка|2-4:ки|_2-4:ки|__:ок}</string>
+  <string name="X_files">% файл{1:|_1:|2-4:а|_2-4:а|__:ів}</string>
+  <string name="Show_status_summary">Відображати інформацію про вміст папки та використаний простір.</string>
+  <string name="Show_status">Панель інформації</string>
+  <string name="Mount_rw">Монтувати для читання/запису</string>
+  <string name="System_mounted_as_read_write">Система змонтована для читання/запису</string>
+  <string name="System_mounted_as_read_only">Система змонтована лише для читання</string>
+  <!--  v 1.3.9 -->
+  <string name="Device_labels">Назви пристроїв</string>
+  <string name="Device_labels_summary">Відображати зрозумілі назви пристроїв замість реальних назв, напр. \"SD Card\" замість \"sdcard0\"</string>
+  <string name="Swap_device_labels">Поміняти місцями назви</string>
+  <string name="Swap_device_labels_summary">Поміняти місцями внутрішню пам\'ять та картку SD, у випадку невірного відображення.</string>
+  <string name="Panels">Панелі</string>
+  <string name="Devices">Пристрої</string>
+  <string name="Bug_report_notice">Перед надсиланням звіту про помилку, виконайте наступне:\n\n<b>1. Перевірити чи присутня проблема у інших менеджерах файлів.\n2. Читайте FAQ.</b>\n\nВи виконали пункти перелічені вище?</string>
+  <string name="Unable_to_move_the_file">Неможливо перемістити файл %</string>
+  <!-- v 1.4.0 -->
+  <string name="Compression_ratio">Коефіцієнт стиснення</string>
+  <string name="Compression_method">Метод стиснення</string>
+  <string name="Comment">Коментар</string>
+  <string name="Standard">Звичайний</string>
+  <string name="No_compression">Без стиснення</string>
+  <string name="A_while_ago">Нещодавно</string>
+  <string name="X_hours_Y_minutes_ago">%x годин{1:у|_1:у|2-4:и|_2-4:и|__:} %y хвилин{1:у|_1:у|2-4:и|_2-4:и|__:} тому</string>
+  <!-- Already exists, just changed the content -->
+  <string name="Expiration_message">Дякую за використання Solid Explorer, ваш ознайомлювальний період завершився. Щоб продовжити користуватись додатком, пригостіть мене віртуальним пивом придбавши розблокувальник у Google Play. Робіть це лише, якщо повністю задоволені роботою програми.</string>
+  <string name="Purchased_message">Дякую, що Ви придбали Solid Explorer. Приємного користування.</string>
+  <string name="Trial_expired">Ознайомлення завершено</string>
+  <string name="Purchase">Придбати</string>
+  <string name="No_thanks">Ні, дякую</string>
+  <string name="Function_not_available">Ця функція недоступна у поточній версії системи</string>
+  <!-- v 1.4.3 -->
+  <string name="Wallpaper_has_been_set_successfully">Шпалери встановлено успішно</string>
+  <string name="X_has_been_set_as_default_ringtone">% встановлено на дзвінок</string>
+  <string name="X_has_been_set_as_default_notification">% встановлено як сповіщення</string>
+  <string name="X_has_been_set_as_default_alarm">% встановлено як звук будильника</string>
+  <string name="Copy_path">Копіювати шлях</string>
+  <string name="Copy_name">Копіювати ім\'я</string>
+  <string name="Create_symlink">Створити сімлінк</string>
+  <string name="Set_as_wallpaper">Встановити шпалери</string>
+  <string name="Set_as_ringtone">Встановити мелодію дзвінка</string>
+  <string name="Set_as_notification">Встановити сповіщення</string>
+  <string name="Set_as_alarm">Поставити на будильник</string>
+  <string name="Enter_the_symlink_location">Введіть розташування сімлінку</string>
+  <string name="Symbolic_link_created_successfully">Сімлінк успішно створено</string>
+  <string name="Sugarsync_login">Вхід у SugarSync</string>
+  <string name="Copy_link">Копіювати посилання</string>
+  <string name="Data_backup">Резервування даних</string>
+  <string name="Application_data">Дані програм</string>
+  <string name="Create_backup">Створити резервну копію</string>
+  <string name="Backup_application_data_to_a_desired_file">Зберегти дані програм до обраного файлу</string>
+  <string name="Restore_backup">Відновити з резервної копії</string>
+  <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Оберіть файл резервної копії</string>
+  <string name="Data_backup_created">Резервування даних завершено</string>
+  <string name="Data_backup_restored">Відновлення резервної копії завершено</string>
+  <string name="Support">Підтримка</string>
+  <string name="Support_summary">Відвідати сторінку підтримки Solid Explorer</string>
+  <string name="Experimental_feature_notifier">Будь ласка, зауважте що, ця фунція є експериментальною і мабуть буде працювати некоректно з поточною версією Android.</string>
+  <string name="Trial_check_notice">Solid Explorer не в змозі оновити дані ліцензії. Потрібно отримати доступ до інтернету зараз або протягом двох днів. Інакше, ознайомчий період буде завершено.</string>
+  <string name="Back_goes_to_root">Перехід в корінь ФС</string>
+  <string name="Back_goes_to_root_summary">Переходити до кореневої папки за допомогою клавіші \"Назад\"</string>
+  <string name="Keep_the_screen_on">Утримувати увімкнутим дисплей</string>
+  <string name="Keep_the_screen_on_summary">Не вимикати дисплей під час передачі файлів. Позначте, якще передача сповільнюється з вимкненим дисплеєм.</string>
 </resources>

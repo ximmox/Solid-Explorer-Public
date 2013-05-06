@@ -338,7 +338,7 @@
     	<string name="Clear_index_prompt">Určite chcete vymazať všetky údaje indexu? Túto operáciu nie je možné vrátiť späť.</string>
     	<string name="Are_you_sure_to_stop_indexing">Určite chcete zastaviť indexovanie? Túto operáciu nie je možné vrátiť späť.</string>
     	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Určite chcete vymazať asociácie typov súborov?</string>
-    	<string name="Changes_have_been_made_to_the_file">Zmeny boli vykonané do %. Chcete vrátiť tieto zmeny?</string>
+    	<string name="Changes_have_been_made_to_the_file">Boli vykonané zmeny v súbore %. Chcete ich uložit?</string>
     	<string name="Chown_confirm">Určite chcete zmeniť vlastníka tohto súboru?</string>
     	<string name="Busybox_request">Vyzerá to, že BusyBox nie je nainštalovaný v systéme. Pre správnu činnosť je nutné ho nainštalovať. Nainštalovať teraz?</string>
     	

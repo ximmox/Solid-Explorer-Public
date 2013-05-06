@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Directory_does_not_exists">Папки не існує</string>
   <string name="Unable_to_read_the_file">Неможиво прочитати файл</string>
@@ -32,4 +32,14 @@
   <string name="Unknown_error">Невідома помилка</string>
   <string name="Cannot_create_directory_X">Неможливо створити папку \"%x\"</string>
   <string name="Unable_to_start_the_service_on_port_x">Неможливо запустити службу на порті %</string>
+  <string name="Invalid_position">Невірна позиція</string>
+  <string name="Unable_to_delete_file_x">Неможливо видалити файл %</string>
+  <string name="Unable_to_mount_the_system_as_read_write">Неможливо монтувати систему для читання\запису</string>
+  <string name="Unable_to_mount_the_system_as_read_only">Неможливо монтувати систему лише для читання</string>
+  <string name="Access_denied">У доступі відмовлено</string>
+  <string name="Unable_to_find_an_activity_to_complete_this_action">Неможливо завершити дію.</string>
+  <string name="Unable_to_set_the_wallpaper">Неможливо встановити шпалери</string>
+  <!-- 1.4.3 -->
+  <string name="Unlocker_error">Помилка розблокування додатку. Часто така помилка виникає через програми які блокують доступ, наприклад антивіруси. Переконайтесь що Solid Explorer та unlocker мають потрібні їм дозволи, вимкніть антивірус та перезапустіть додаток.</string>
+  <string name="Unable_to_get_the_link">Неможливо отримати посилання</string>
 </resources>

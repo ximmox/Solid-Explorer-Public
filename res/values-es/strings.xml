@@ -254,7 +254,7 @@
     <string name="Calculation_error">Error de cálculo</string>
     <string name="Content">Contenido</string>
     <string name="Other_used">Otro</string>
-    <string name="Free_space">Libre</string>
+    <string name="Free">Libre</string>
     <string name="Usage">Uso</string>
     <string name="Attributes">Attributos</string>
     <string name="Read">Leer</string>
@@ -522,7 +522,6 @@
     <string name="Adjust_size_of_the_file_list_in_landscape">Ajusta el tamaño de la lista de archivos en modo horizontal</string>
     
     <string name="Small">Pequeño</string>
-    <string name="Normal">Normal</string>
     <string name="Big">Grande</string>
     <string name="Large">Muy grande</string>
     <string name="Extra_small">Muy pequeño</string>
@@ -624,7 +623,7 @@
    
     <string name="About">Acerca de</string>
     <string name="Author_version_and_changelog">Autor, versión y cambios</string>
-    <string name="Copyright_text">Derechos de autor 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Copyright_text">Derechos de autor 2011-2013 \nKrzysztof Głodowski</string>
     <string name="Version">Versión</string>
     <string name="Changelog">Historial de cambios</string>
     <string name="Whats_new">Novedades</string>
@@ -655,10 +654,8 @@
     <string name="crash_dialog_ok_toast">¡Gracias!</string>
 	
     <string name="Icon_designer">Diseñador de icono</string>
-    <string name="Prefix">Prefijo</string>
     <string name="Translations">Traducción</string>
     <string name="Translations_summary">Corrección de idioma y traducción por cortesía de Hugo Navia (AKA :No-Frost:)</string>
-    <string name="Empty">Vacío</string>
     <string name="Press_once_again_to_exit">Pulse una vez más para salir</string>
     
     
@@ -804,4 +801,38 @@
     	<string name="Experimental_feature_notifier">Por favor, tenga en cuenta que esta funcionalidad es experimental y puede que no funcione correctamente en su actual versión de Android.</string>
     	<string name="Trial_check_notice">Solid Explorer no puede verificar el período de prueba. Por favor, active en algún momento la conexión a internet en los próximos dos días. En caso contrario su período de prueba se acabará.</string>
 
+    	<!-- v 1.4.4 -->
+      	<string name="Clear_thumbnails_on_exit">Borrar miniaturas al salir</string>
+      	<string name="Image_thumbnails_will_be_removed_on_app_exit">Las miniaturas de imágenes se eliminarán al salir de la aplicación</string>
+    	<string name="Toggle_nomedia">Alternar archivo .nomedia</string>
+    	<string name="Total_time">Tiempo total</string>
+    	<string name="Average_speed">Velocidad media</string>
+    	<string name="Add_new_item">Añadir nuevo elemento</string>
+    	<string name="Application_chooser">Elegir aplicación</string>
+    	<string name="Manage_associations">Administrar asociaciones</string>
+    	<string name="Manage_associations_summary">Seleccionar que aplicaciones deben abrir tipos de archivo específicos</string>
+    	<string name="Choose_an_application">Elija una aplicación</string>
+    	<string name="Application">Aplicación</string>
+    	<string name="Extension">Extensión</string>
+    	<string name="No_extension_specified">No se especificó extensión</string>
+    	<string name="You_didn_t_choose_the_application">No seleccionaste la aplicación</string>
+    	<string name="Added_to_queue">Añadido a la cola</string>
+    	<string name="Streaming">Streaming</string>
+    	<string name="There_is_already_the_same_file_in_temporary_directory">Ya está el mismo archivo en el directorio temporal. ¿Desea abrir el archivo de la caché o descargarlo de nuevo?</string>
+    	<string name="Download">Descargar</string>
+    	<string name="X_files_updated">% archivo{1:|__:s} actualizado{1:|__:s}</string>
+    	<string name="Temporary_file_has_been_modified">El archivo temporal % ha sido modificado. ¿Desea subirlo de nuevo?</string>
+   	<string name="Temporary_files_have_been_modified">% archivo{1:|__:s} temporal{1:|__:es} ha{1:|__:n} sido modificado{1:|__:s}. ¿Desea subirlos?</string>
+    	<string name="Slide_from_bottom">Deslizar desde abajo</string>
+    	<string name="Fall_down">Caer</string>
+    	<string name="Come_in">Entrar</string>
+    	<string name="Slide_from_right">Deslizar desde la derecha</string>
+    	<string name="Slide_from_left">Deslizar desdse la izquierda</string>
+    	<string name="Default">Predeterminado</string>
+    	<string name="List_animations">Mostrar animaciones</string>
+    	<string name="List_animations_summary">Personalizar lista de animaciones</string>
+    	<string name="Clear_filter_history">Limpiar historial del filtro</string>
+    	<string name="Clear_filter_history_summary">Elimina el historial de consultas del filtro</string>
+    	<string name="New_webdav_connection">Conexión WebDav</string>
+    	<string name="WebDav_bookmarks">Marcadores WebDav</string>
 </resources>

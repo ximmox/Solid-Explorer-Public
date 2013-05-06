@@ -45,5 +45,15 @@
     <string name="Unable_to_mount_the_system_as_read_write">Sistem üzerinde okuma ve yazma izinleri alınamadı.</string>
     <string name="Unable_to_mount_the_system_as_read_only">Sistem üzerinde okuma izni alınamadı.</string>
     <string name="Access_denied">Erişim reddedildi</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Devam edilecek bir aktivite bulunamadı.</string>
+    <string name="Unable_to_set_the_wallpaper">Duvarkağıdı olarak ayarlanamadı</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Kilit açıcı bulundu fakat bir hata meydana geldi. Genelde başka bir uygulama tarafından erişimi kısıtlandığında meydana gelir, örn. antivirus uygulaması. Solid Explorer\'ın herhangi bir kara listede olmadığından emin olun ve uygulamayı yeniden başlatın.</string>
+    <string name="Unable_to_get_the_link">Bağlantı alınamıyor</string>
+    
+        <!-- 1.4.3 -->
+    <string name="Unlocker_error">Tam sürüm uygulaması bulundu ancak hata bildirdi. Bu genelde uygulamanın bir başka uygulama tarafından (ör. antivirüs uygulaması) yetkisinin kısıtlanmasından dolayı olur. Solid Explorer'ın ve tam sürüm uygulamasının herhangi bir uygulama üzerinde kara listede olmadığına emin olun ve uygulamayı tekrar çalıştırın.</string>
+    <string name="Unable_to_get_the_link">Bağlantı adresi alınamadı</string>
     
 </resources>

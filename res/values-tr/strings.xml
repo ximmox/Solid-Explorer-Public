@@ -755,4 +755,53 @@
 	<string name="Panels">Bölmeler</string>
 	<string name="Devices">Aygıtlar</string>
 	<string name="Bug_report_notice">Bir hata bildirmeden önce lütfen aşağıdakileri gerçekleştirin:\n\n<b>1. Aynı sorunun diğer dosya yöneticilerinde olup olmadığını kontrol edin.\n2. SSS bölümünü okuyun.</b>\n\nÜstteki adımları gerçekleştirdiniz mi?</string>
+	
+	   <!-- v 1.4.0 -->
+     <string name="Compression_ratio">Sıkıştırma oranı</string>
+     <string name="Compression_method">Sıkıştırma metotu</string>
+     <string name="Comment">Yorum</string>
+     <string name="Standard">Standart</string>
+     <string name="No_compression">Sıkıştırma Yok</string>
+     <string name="A_while_ago">Bir süre önce</string>
+     <string name="X_hours_Y_minutes_ago">%x saat ve %y dakika önce</string>
+     <!-- Already exists, just changed the content -->
+     <string name="Expiration_message">Solid Explorer'ı kullandığınız için teşekkürler, deneme sürümünüz sona erdi. Bu uygulamayı kullanmaya devam etmek için lütfen tam sürüm uygulamasını satın alınız. </string>
+     <string name="Purchased_message">Solid Explorer'ın tam sürümünü satın aldığınız için teşekkürler. Umarım hoşnut kalırsınız.</string>
+     <string name="Trial_expired">Deneme sürümü sona erdi</string>
+     <string name="Purchase">Satın Al</string>
+     <string name="No_thanks">Hayır, teşekkürler</string>
+     <string name="Function_not_available">Bu özellik şu anki sistem sürümünde mevcut değil</string>
+    
+    <!-- v 1.4.3 -->
+     <string name="Wallpaper_has_been_set_successfully">Duvar kağıdı başarıyla ayarlandı</string>
+     <string name="X_has_been_set_as_default_ringtone">% varsayılan zil sesi olarak ayarlandı</string>
+     <string name="X_has_been_set_as_default_notification">% varsayılan uyarı sesi olarak ayarlandı</string>
+     <string name="X_has_been_set_as_default_alarm">% varsayılan alarm sesi olarak ayarlandı</string>
+     <string name="Copy_path">Yolu kopyala</string>
+     <string name="Copy_name">İsmi kopyala</string>
+     <string name="Create_symlink">Sembolik bağlantı oluştur</string>
+     <string name="Set_as_wallpaper">Duvar kağıdı olarak ayarla</string>
+     <string name="Set_as_ringtone">Zil sesi olarak ayarla</string>
+     <string name="Set_as_notification">Uyarı sesi olarak ayarla</string>
+     <string name="Set_as_alarm">Alarm sesi olarak ayarla</string>
+     <string name="Enter_the_symlink_location">Sembolik bağlantı konumunu girin</string>
+     <string name="Symbolic_link_created_successfully">Sembolik bağlantı başarıyla oluşturuldu</string>
+     <string name="Sugarsync_login">SugarSync girişi</string>
+     <string name="Copy_link">Bağlantıyı kopyala</string>
+     <string name="Data_backup">Veri Yedeği</string>
+     <string name="Application_data">Uygulama Verisi</string>
+     <string name="Create_backup">Yedek oluştur</string>
+     <string name="Backup_application_data_to_a_desired_file">Uygulama verisini belirtilen dosyaya yedekle</string>
+     <string name="Restore_backup">Yedeği geri yükle</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Verinin geri yükleneceği yedek dosyasını seçin</string>
+     <string name="Data_backup_created">Veri yedeği oluşturuldu</string>
+     <string name="Data_backup_restored">Veri yedeği geri yüklendi</string>
+     <string name="Support">Destek</string>
+     <string name="Support_summary">Solid Explorer destek sayfasını ziyaret edin</string>
+     <string name="Experimental_feature_notifier">Lütfen dikkat, bu deneyimsel bir özelliktir ve şu anki Android sürümünüz üzerinde düzgün çalışmayabilir.</string>
+     <string name="Trial_check_notice">Solid Explorer deneme sürümü kullanma sürenizi doğrulayamadı. Lütfen şimdi ya da önümüzdeki 2 gün içerisinde internet bağlantınızı açınız. Aksi takdirde deneme sürümünüz sonlanacaktır.</string>
+     <string name="Back_goes_to_root">Geri tuşu kök klasöre gider</string>
+     <string name="Back_goes_to_root_summary">Geri tuşuna basıldığında kök klasöre gitmeye izin ver</string>
+     <string name="Keep_the_screen_on">Ekranı açık tut</string>
+     <string name="Keep_the_screen_on_summary">Dosya aktarımı sırasında ekranı açık tut. Eğer ekran kapalıyken dosya aktarımı sırasında yavaşlamalar yaşıyorsanız kutucuğu işaretleyin.</string>
 </resources>
