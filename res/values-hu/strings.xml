@@ -804,5 +804,9 @@
      <string name="Support_summary">Látogassa meg a Solid Explorer terméktámogatási oldalát</string>
      <string name="Experimental_feature_notifier">Kérem vegye figyelembe, hogy ez a funkció kísérleti és lehetésges, hogy nem fog megfelelően működni ezen az Android verzión.</string>
      <string name="Trial_check_notice">A Solid Explorer nem tudta ellenőrizni a próbaidőszakot. Kérem engedélyezze most az internet kapcsolatot vagy 2 napon belül, különben a próbaidőszak végetér.</string>
+     <string name="Back_goes_to_root">Vissza a gyökérkönyvtárba</string>
+     <string name="Back_goes_to_root_summary">Engedélyezi a gyökérkönyvtárba lépést a vissza gomb megnyomásakor</string>
+     <string name="Keep_the_screen_on">Tartsa bekapcsolva a kijelzőt</string>
+     <string name="Keep_the_screen_on_summary">Fájlműveletek alatt bekapcsolva tartja a kijelzőt. Jelölje be, ha kikapcsolt kijelzőnél lassú fájlátvitelt tapasztal.</string>
 
 </resources>

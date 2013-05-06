@@ -45,5 +45,8 @@
     <string name="Unable_to_mount_the_system_as_read_write">Impossible de monter le système en lecture/écriture</string>
     <string name="Unable_to_mount_the_system_as_read_only">Impossible de monter le système en lecture seule</string>
     <string name="Access_denied">Accès refusé</string>
-	
+    
+<!-- 1.4.3 -->
+    <string name="Unlocker_error">L\'unlocker a été trouvé mais a retourné une erreur. Ceci peut se produit quand une autre application bloque ses permissions (ex: antivirus). Assurez-vous que Solid Explorer et l\'unlocker sont exclus des blacklists et redémarrez l\'application.</string>
+    <string name="Unable_to_get_the_link">Impossible d\'obtenir le lien</string>	
 </resources>

@@ -338,7 +338,7 @@
     	<string name="Clear_index_prompt">Určite chcete vymazať všetky údaje indexu? Túto operáciu nie je možné vrátiť späť.</string>
     	<string name="Are_you_sure_to_stop_indexing">Určite chcete zastaviť indexovanie? Túto operáciu nie je možné vrátiť späť.</string>
     	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Určite chcete vymazať asociácie typov súborov?</string>
-    	<string name="Changes_have_been_made_to_the_file">Zmeny boli vykonané do %. Chcete vrátiť tieto zmeny?</string>
+    	<string name="Changes_have_been_made_to_the_file">Boli vykonané zmeny v súbore %. Chcete ich uložit?</string>
     	<string name="Chown_confirm">Určite chcete zmeniť vlastníka tohto súboru?</string>
     	<string name="Busybox_request">Vyzerá to, že BusyBox nie je nainštalovaný v systéme. Pre správnu činnosť je nutné ho nainštalovať. Nainštalovať teraz?</string>
     	
@@ -736,5 +736,38 @@ Krzysztof Głodowski"</string>
     	<string name="Purchase">Zakúpiť</string>
     	<string name="No_thanks">Nie, ďakujem</string>
     	<string name="Function_not_available">Táto funkcia nie je dostupná v aktálnej verzii systému</string>
+
+    <!-- v 1.4.3 -->
+    	<string name="Wallpaper_has_been_set_successfully">Tapeta bola úspešne zmenená</string>
+    	<string name="X_has_been_set_as_default_ringtone">% bol nastavený ako predvolený tón zvonenia</string>
+    	<string name="X_has_been_set_as_default_notification">% bol nastavený ako predvolený tón oznámenia</string>
+    	<string name="X_has_been_set_as_default_alarm">% bol nastavený ako predvolený tón budíka</string>
+    	<string name="Copy_path">Kopírovať cestu</string>
+    	<string name="Copy_name">Kopírovať názov</string>
+    	<string name="Create_symlink">Vytvoriť symlink</string>
+    	<string name="Set_as_wallpaper">Nastaviť ako tapetu</string>
+    	<string name="Set_as_ringtone">Nastaviť ako tón zvonenia</string>
+    	<string name="Set_as_notification">Nastaviť ako oznámenie</string>
+    	<string name="Set_as_alarm">Nastaviť ako budík</string>
+    	<string name="Enter_the_symlink_location">Zadajte umiestnenie symbolického odkazu</string>
+    	<string name="Symbolic_link_created_successfully">Symbolický odkaz bol úspešne vytvorený</string>
+    	<string name="Sugarsync_login">SugarSync prihlásenie</string>
+    	<string name="Copy_link">Kopírovať odkaz</string>
+    	<string name="Data_backup">Záloha dát</string>
+    	<string name="Application_data">Dáta aplikacie</string>
+    	<string name="Create_backup">Vytvoriť zálohu</string>
+    	<string name="Backup_application_data_to_a_desired_file">Zálohovať dáta aplikácie do vybraného súboru</string>
+    	<string name="Restore_backup">Obnoviť zálohu</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Vyberte súbor zálohy na obnovu dát</string>
+    	<string name="Data_backup_created">Záloha dát bola vytvorená</string>
+    	<string name="Data_backup_restored">Záloha dát bola obnovená</string>
+    	<string name="Support">Podpora</string>
+    	<string name="Support_summary">Navštíviť stránku podpory Solid Explorer</string>
+    	<string name="Experimental_feature_notifier">Prosím, berte na vedomie, že táto funkcia je experimentálna a na Vašej aktuálnej verzii Androidu pravdepodobne nebude fungovať správne.</string>
+    	<string name="Trial_check_notice">Solid Explorer nemohol overiť skúšobnú dobu. Prosím, do dvoch dní povoľte internetové pripojenie, inak bude vaša skúšobná doba ukončená.</string>
+    	<string name="Back_goes_to_root">Prejsť späť do koreň. adresára</string>
+    	<string name="Back_goes_to_root_summary">Povoľte prechod do koreňového adresára pri stlačení tlačidla Späť</string>
+    	<string name="Keep_the_screen_on">Ponechať obrazovku zapnutú</string>
+    	<string name="Keep_the_screen_on_summary">Ponechá obrazovku zapnutú počas prenosu súborov. Označte, ak dochádza k spomaleniu prenosu pri vypnutí obrazovky.</string>
 
 </resources>

@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    
-    
-    
     <!-- bottom toolbar -->
     <string name="New">新建</string>
     <string name="Jump">转至</string>
     <string name="Filter">筛选</string>
     <string name="Menu">菜单</string>
     <string name="Actions">编辑</string>
-    
+ 
     <!-- "New" popup -->
     <string name="New_folder">文件夹</string>
     <string name="New_file">文件</string>
-    <string name="New_FTP_connection">FTP连接</string>
-    <string name="New_SFTP_connection">SFTP连接</string>
-    <string name="New_SMB_connection">SMB连接</string>
+    <string name="New_FTP_connection">FTP 连接</string>
+    <string name="New_SFTP_connection">SFTP 连接</string>
+    <string name="New_SMB_connection">SMB 连接</string>
     <string name="New_cloud_connection">云端网盘连接</string>
-    
+ 
     <!-- "Actions" popup -->
-    
     <string name="Copy">复制</string>
     <string name="Cut">剪切</string>
     <string name="Paste">粘贴</string>
@@ -28,16 +24,15 @@
     <string name="Properties">属性</string>
     <string name="Select_all">全选</string>
     <string name="Select">多选</string>
-    
+ 
     <!-- "Jump" popup -->
-    
     <string name="Device">设备</string>
     <string name="Photos">相册</string>
     <string name="Downloads">下载</string>
     <string name="Network">网络</string>
     <string name="Bookmarks">书签</string>
     <string name="No_bookmarks">暂无书签</string>
-    
+ 
     <!-- "Menu" popup -->
     <string name="View">视图模式</string>
     <string name="Sort">排序方式</string>
@@ -47,40 +42,38 @@
     <string name="File_sharing">文件共享</string>
     <string name="Settings">更多设置</string>
     <string name="Exit">退出程序</string>
-    
+ 
     <!-- "Network" popup -->
     <string name="Cloud_storage">云端网盘</string>
-    
+ 
     <!-- "Device" popup -->
-     <string name="System_root">系统根目录</string>
-    <string name="SD_card">SD卡</string>
+    <string name="System_root">系统根目录</string>
+    <string name="SD_card">SD 卡</string>
     <string name="Internal_memory">内部存储</string>
-    <string name="USB_drive_x">USB存储 %x</string>
-    
+    <string name="USB_drive_x">USB 存储 %x</string>
+ 
     <!-- "View" popup -->
     <string name="View_mode">视图模式</string>
-    <string name="List">列表</string>
+    <string name="List">列表模式</string>
     <string name="Detailed_list">详细信息</string>
-    <string name="Grid">平铺</string>
-    <string name="Detailed_grid">内容</string>
-    
+    <string name="Grid">平铺模式</string>
+    <string name="Detailed_grid">内容模式</string>
+ 
     <!-- "Sort" popup -->
     <string name="Sort_files_by">排序方式</string>
-    <string name="File_name">名称</string>
-    <string name="File_size">大小</string>
+    <string name="File_name">文件名称</string>
+    <string name="File_size">文件大小</string>
     <string name="File_type">项目类型</string>
     <string name="Modified_date">修改日期</string>
     <string name="Ascending">升序</string>
     <string name="Descending">降序</string>
-    <string name="In_order">顺序</string>
-    
+    <string name="In_order">文件排序</string>
+ 
     <!-- Browser switch popup -->
     <string name="Active_browser">当前目录</string>
     <string name="Close_all">关闭所有</string>
     <string name="In_background">后台打开</string>
-    
-    
-    
+ 
     <!-- Context menu -->
     <string name="Open_with">打开方式</string>
     <string name="Open_in_bg">在后台中打开</string>
@@ -88,61 +81,60 @@
     <string name="Bookmark">书签</string>
     <string name="Rename">重命名</string>
     <string name="Extract">解压</string>
-    <string name="Extract_to">解压到</string>
+    <string name="Extract_to">解压至</string>
     <string name="Archive">压缩</string>
-    <string name="Paste_to_x">粘贴到 \&quot;%\&quot;</string>
-    
-    
+    <string name="Paste_to_x">粘贴至 \&quot;%\&quot;</string>
+ 
     <!-- Dialogs -->
     <string name="OK">确定</string>
     <string name="Cancel">取消</string>
     <string name="Yes">是</string>
     <string name="No">否</string>
-    
-	    <!-- New folder/file dialog -->
-	    <string name="Enter_the_name">输入名称</string>
-	    
-	    <!-- New connection Dialog -->
-	    <string name="Display_name">连接名称</string>
-	    <string name="May_be_empty">选填</string>
-    	<string name="Remote_path">远程路径</string>
-    	<string name="Port">端口</string>
-    	<string name="User_name">用户名</string>
-    	<string name="Password">密码</string>
-    	<string name="Repeat_the_password">确认密码</string>
-    	<string name="Authentication_method">认证方式</string>
-    	<string name="Server">服务器</string>
-    	<string name="Connection_type">连接类型</string>
-    	<string name="Scan">扫描</string>
-    	<string name="Computer_name_or_IP_adress">电脑名称或IP地址</string>
-    	<string name="Looking_for_computers">搜索可连接的电脑</string>
-    	<string name="Share">SMB共享</string>
-    	
-    		<!-- Auth methods -->
-    		<string name="Ask_for_password_each_time">每次都询问密码</string>
-        	<string name="Store_encrypted_password">记住密码(加密存储)</string>
-        	<string name="No_password_required">不需要密码</string>
-        	<string name="Anonymous">匿名登陆</string>
-        	<string name="Log_in_as_a_guest">以游客身份登陆</string>
-        	
-        	<!-- FTP types -->
-        	<string name="FTP_no_encryption">FTP (没有加密)</string>
-        	<string name="FTPS_implicit_encryption">FTPS (隐式加密)</string>
-        	<string name="FTPES_explicit_encryption">FTPES (显式加密)</string>
-        
+ 
+    <!-- New folder/file dialog -->
+    <string name="Enter_the_name">请输入名称</string>
+ 
+    <!-- New connection Dialog -->
+    <string name="Display_name">连接名称</string>
+    <string name="May_be_empty">选填</string>
+    <string name="Remote_path">远程路径</string>
+    <string name="Port">端口</string>
+    <string name="User_name">用户名</string>
+    <string name="Password">密码</string>
+    <string name="Repeat_the_password">确认密码</string>
+    <string name="Authentication_method">认证方式</string>
+    <string name="Server">服务器</string>
+    <string name="Connection_type">连接类型</string>
+    <string name="Scan">扫描</string>
+    <string name="Computer_name_or_IP_adress">电脑名称或 IP 地址</string>
+    <string name="Looking_for_computers">搜索可连接电脑</string>
+    <string name="Share">SMB 共享</string>
+ 
+    <!-- Auth methods -->
+    <string name="Ask_for_password_each_time">每次都询问密码</string>
+    <string name="Store_encrypted_password">记住密码（加密存储）</string>
+    <string name="No_password_required">不需要密码</string>
+    <string name="Anonymous">匿名登陆</string>
+    <string name="Log_in_as_a_guest">以游客身份登陆</string>
+ 
+    <!-- FTP types -->
+    <string name="FTP_no_encryption">FTP（禁用加密）</string>
+    <string name="FTPS_implicit_encryption">FTPS（隐式加密）</string>
+    <string name="FTPES_explicit_encryption">FTPES（显式加密）</string>
+ 
     <!-- Search activity -->	
     <string name="Manual_search">手动搜索</string>
     <string name="Results_from">搜索位置:</string>
-    <string name="No_results">没有匹配的结果</string>
+    <string name="No_results">尚无匹配结果</string>
     <string name="Matches">匹配结果</string>
     <string name="Selected">已选择</string>
     <string name="Match_mode">匹配方式</string>
     <string name="Match_start">匹配开头</string>
-    <string name="Match_any">匹配任何位置</string>
+    <string name="Match_any">匹配全句</string>
     <string name="Match_end">匹配结尾</string>
-    
+ 
     <!-- Operations activity -->
-    <string name="History_is_empty">无历史记录</string>
+    <string name="History_is_empty">暂无历史记录</string>
     <string name="Current_operation">当前操作</string>
     <string name="No_pending_operation">没有处理中的操作</string>
     <string name="History">历史记录</string>
@@ -150,41 +142,41 @@
     <string name="Date">日期</string>
     <string name="Source">目标</string>
     <string name="Destination">目的</string>
-    
-    	<!-- Operation info -->
-    	<string name="Operation">操作</string>
-    	<string name="From">从</string>
-    	<string name="To">到</string>
-    	<string name="Size">大小</string>
-    	<string name="Speed">速度</string>
-    	<string name="ETA">剩余时间</string>
-    	<string name="NA">N/A</string>
-    	<string name="Current">当前</string>
-    	
-    	<!-- Operation descriptions -->
-    	<string name="File_copy">复制文件</string>
-    	<string name="File_move">移动文件</string>
-    	<string name="File_delete">删除文件</string>
-    	<string name="Temporary_download">临时文件</string>
-   	 	<string name="Creating_archive">创建 % 压缩包</string>
-    	<string name="Extracting_archive">解压 % 压缩包</string>
-    	<string name="X_has_been_completed">% 完成.</string>
-    	<string name="X_has_failed">% 失败.</string>
-    	<string name="Tap_to_show_details">点击查看详情</string>
-    	<string name="Pending_cancel_request">取消待处理的操作</string>
-    	<string name="File_operation">文件操作</string>
-    
+ 
+    <!-- Operation info -->
+    <string name="Operation">操作</string>
+    <string name="From">从</string>
+    <string name="To">到</string>
+    <string name="Size">大小</string>
+    <string name="Speed">速度</string>
+    <string name="ETA">剩余时间</string>
+    <string name="NA">N/A</string>
+    <string name="Current">当前</string>
+ 
+    <!-- Operation descriptions -->
+    <string name="File_copy">复制文件</string>
+    <string name="File_move">移动文件</string>
+    <string name="File_delete">删除文件</string>
+    <string name="Temporary_download">临时文件</string>
+    <string name="Creating_archive">正在创建 % 压缩文件</string>
+    <string name="Extracting_archive">正在解压 % 压缩文件</string>
+    <string name="X_has_been_completed">% 已完成</string>
+    <string name="X_has_failed">% 已失败</string>
+    <string name="Tap_to_show_details">点击查看详情</string>
+    <string name="Pending_cancel_request">取消待处理操作</string>
+    <string name="File_operation">文件操作</string>
+ 
     <!-- Bookmark manager -->
     <string name="Bookmark_manager">书签管理</string>
     <string name="Edit">编辑</string>
     <string name="Disconnect">断开连接</string>
     <string name="Delete_all">全部删除</string>
-    <string name="Wifi_toggle">Wi-Fi开关</string>
-    <string name="Wifi_settings">Wi-Fi设置</string>
+    <string name="Wifi_toggle">Wi-Fi 开关</string>
+    <string name="Wifi_settings">Wi-Fi 设置</string>
     <string name="Disconnect_all">断开所有连接</string>
     <string name="Connected">已连接</string> 
     <string name="Not_connected">未连接</string>
-    <string name="on">登陆到</string>
+    <string name="on">登陆至</string>
     <string name="Local_bookmarks">本地书签</string>
     <string name="FTP_bookmarks">FTP书签</string>
     <string name="SFTP_bookmarks">SFTP书签</string>
@@ -193,36 +185,35 @@
     <string name="Edit_bookmark">编辑书签</string>
     <string name="Name">名称</string>
     <string name="Path">路径</string>
-    
+ 
     <!-- Dir picker -->
-    <string name="Pick_a_directory">选择一个目录</string>
-    
+    <string name="Pick_a_directory">请选择一个目录</string>
+ 
     <!-- Cloud storage dialog -->
     <string name="Cloud_storage_services">云端网盘服务</string>
-    <string name="Cloud_services_description">选择你要使用的云端网盘</string>
-    
+    <string name="Cloud_services_description">请选择您要使用的云端网盘</string>
+ 
     <!-- File sharing -->
-    <string name="File_sharing_active">文件共享已打开</string>
-    <string name="ftp_server_hint">在Windows文件管理器的地址栏中输入服务器地址，或者通过FTP客户端来进行连接.</string>
+    <string name="File_sharing_active">文件共享已启用</string>
+    <string name="ftp_server_hint">在 Windows 文件管理器地址栏中输入服务器地址，或通过 FTP 客户端进行连接。</string>
     <string name="You_cannot_share_root_directory">无法共享根目录</string>
     <string name="File_sharing_stopped">文件共享已停止</string>
-    <string name="None">无</string>
+    <string name="None">暂无</string>
     <string name="You_have_to_be_connected_to_the_LAN_network">你必须连接到局域网</string>
     <string name="Active">已激活</string>
     <string name="Inactive">未激活</string>
-    <string name="FTP_Server">FTP服务器</string>
+    <string name="FTP_Server">FTP 服务器</string>
     <string name="Shared_directory">共享目录</string>
-    <string name="Type_to_change">输入访问密码</string>
+    <string name="Type_to_change">请输入访问密码</string>
     <string name="No_password_set">没有设置密码</string>
     <string name="Status">状态</string>
     <string name="Server_address">服务器地址</string>
     <string name="Start">开始</string>
     <string name="Stop">停止</string>
-    
-    
+ 
     <!-- Archive dialog -->
-    <string name="Create_archive_dialog_title">创建压缩包</string>
-    <string name="Archive_name">压缩包名称</string>
+    <string name="Create_archive_dialog_title">创建压缩文件</string>
+    <string name="Archive_name">压缩文件名称</string>
     <string name="Compression">压缩方式</string>
     <string name="Format">格式</string>
     <string name="Use_password_protection">设置密码</string>
@@ -230,7 +221,7 @@
     <string name="Normal">标准</string>
     <string name="Good">较好</string>
     <string name="Best">最好</string>
-    
+ 
     <!-- File properties -->
     <string name="Content_summary">内容摘要</string>
     <string name="File_types">文件类型</string>
@@ -254,7 +245,7 @@
     <string name="Calculation_error">计算错误</string>
     <string name="Content">内容大小</string>
     <string name="Other_used">其它占用</string>
-    <string name="Free_space">可用空间</string>
+    <string name="Free">可用空间</string>
     <string name="Usage">使用情况</string>
     <string name="Attributes">属性</string>
     <string name="Read">只读</string>
@@ -265,7 +256,7 @@
     <string name="Music">音乐</string>
     <string name="Pictures">图片</string>
     <string name="Videos">视频</string>
-    <string name="Archives">压缩包</string>
+    <string name="Archives">压缩文件</string>
     <string name="Documents">文档</string>
     <string name="Change">更改</string>
     <string name="Execute">执行</string>
@@ -295,183 +286,176 @@
     <string name="Focal_length">焦距</string>
     <string name="Aperture_size">光圈大小</string>
     <string name="Flash">闪光灯</string>
-    
+ 
     <!-- Dialogs again -->
-    	<!-- File exists dialog -->
-    	<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
-    	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
-    	<string name="File_exists">文件已存在</string>
-    	<string name="Skip">跳过</string>
-    	<string name="Overwrite">覆盖</string>
-    	<string name="Merge">合并</string>
-    	<string name="Keep_both">两个都保留</string>
-    	<string name="Remember_action">为之后的冲突执行此操作</string>
-    	<string name="Keep_the_old_file">保留旧文件</string>
-    	<string name="The_new_file_will_have_its_name_changed">新文件将被重命名</string>
-    	<string name="Replace_the_file_with_this">替换已存在的文件</string>
-    	<string name="Create_master_password">创建主密码</string>
-    	
-    	<string name="Choose_an_activity_to_open_the_file">选择一个应用来打开文件</string>
-    	<string name="Always_use_this_application">设置为默认打开方式</string>
-    	<string name="Send_the_file_using">选择发送方式</string>
-    	<string name="Progress">进度</string>
-    	<string name="Minimize">最小化</string>
-    	<string name="Pause">暂停</string>
-    	<string name="Resume">继续</string>
-    	<string name="Dismiss">取消</string>
-    	
-    	<string name="Abort_operation">中止操作</string>
-    	<string name="There_is_already_an_operation_running">当前有操作正在执行,请等待其完成.</string>
-    
-    	<!-- Question dialogs -->
-    	<string name="Are_you_sure_you_want_to_clear_the_history">你确定要清除历史记录吗?</string>
-    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">你确定要清除缩略图缓存吗?</string>
-    	<string name="Are_you_sure_you_want_to_delete_temporary_files">你确定要清除临时文件吗?</string>
-    	<string name="It_is_time_for_sheduled_indexing">索引已过期. 是否现在更新?</string>
-    	<string name="Folder_exists_descr">已经有一个相同名称的目录存在,你要如何处理?</string>
-    	<string name="File_exists_descr">已经有一个相同名称的文件存在,你要如何处理?</string>
-    	<string name="Are_you_sure_you_want_to_delete">你确定要删除 \&quot;%\&quot; 吗?</string>
-    	<string name="Are_you_sure_to_abort_current_operation">你确定要中止当前操作吗?</string>
-    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">你确定要删除所有书签吗?</string>
-    	<string name="Are_you_sure_you_want_to_delete_bookmark">你确定要删除书签 \&quot;%\&quot; 吗?</string>
-    	<string name="Reindex_prompt">执行索引.这可能需要几分钟时间.继续吗?</string>
-    	<string name="Clear_index_prompt">你确定要清除索引数据吗? 此操作无法恢复.</string>
-    	<string name="Are_you_sure_to_stop_indexing">你确定要停止索引吗?</string>
-    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">你确定要清除文件类型关联吗?</string>
-    	<string name="Changes_have_been_made_to_the_file">&quot;%&quot;的内容已经改变. 是否保存?</string>
-    	<string name="Chown_confirm">你确定要改变该文件的所有者吗?</string>
-    	<string name="Busybox_request">您似乎没有安装BusyBox. 它是访问系统文件所必需的. 想要现在进行安装吗?</string>
-    	
-    	
-    	<!-- Information dialogs -->
-    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive不支持 \&quot;%\&quot; 文件. 操作已取消.</string>
-    	<string name="Operation_not_supported">不支持的操作</string>
-    	<string name="You_have_to_provide_a_password">你必须提供一个密码</string>
-    	<string name="Insufficient_space" formatted="false">没有足够的空间完成此项操作. 大小: %, 可用: %.</string>
-    	<string name="Command_executed_successfully">命令执行成功 successfully</string>
-    	<string name="Deleting_data">正在删除数据</string>
-    	<string name="Done">完成</string>
-    	<string name="Preparing_for_operation">准备进行操作...</string>
-    	<string name="Connecting">正在连接</string>
-    	<string name="Connecting_to_x">正在连接到 \&quot;%\&quot;</string>
-    	<string name="File_is_too_big">文件过大. 目前仅支持对不超过 75kB 的文件进行编辑. 稍后会提供大文件支持.</string>
-    	<string name="Operation_history_has_been_cleared">操作记录已清除</string>
-    	<string name="Encrypted_archive">加密的压缩包</string>
-    	<string name="Enter_the_password">输入密码</string>
-    	<string name="Confirmation">确认</string>
-    	<string name="Input_request">输入请求</string>
-    	<string name="Message">提示</string>
-    	<string name="Warning">警告!</string>
-    	<string name="You_did_not_specify_a_password">请输入密码</string>
-    	<string name="Reading_archive">读取压缩包</string>
-    	<string name="Reading_archive_x">读取压缩包 \&quot;%\&quot;</string>
-    	<string name="Storage_not_available">无法取得储存空间</string>
-    	<string name="The_password_given_is_incorrect">密码不正确</string>
-    	<string name="You_did_not_specify_a_server_name">请输入服务器名称</string>
-    	<string name="You_did_not_specify_a_computer_name">请输入电脑名称</string>
-    	<string name="You_did_not_specify_a_port_number">请输入端口号</string>
-    	<string name="You_did_not_specify_user_name">请输入用户名</string>
-    	<string name="Indexing">编辑索引</string>
-    	<string name="Indexing_in_progress">正在进行索引</string>
-    	<string name="Indexing_paused">索引暂停</string>
-    	<string name="Indexing_has_been_completed">索引完成</string>
-    	<string name="Indexing_has_been_aborted">索引已被取消</string>
-    	<string name="Tap_to_dismiss">点击取消</string>
-    	<string name="Tap_top_open">点击打开</string>
-    	<string name="File_is_ready_to_open">文件已经打开</string>
-    	
-    	<string name="Operation_aborted_by_user">操作已被用户取消</string>
-    	<string name="You_cant_delete_this_item">该项目无法删除</string>
-    	<string name="Indexing_service">索引服务</string>
-    	<string name="Only_local_file_can_be_added_to_the_archive">只能添加本地文件到压缩包中</string>
-    	<string name="Bookmark_already_exists">书签已经存在</string>
-    	<string name="Added_to_bookmarks">\&quot;%\&quot; 添加到书签</string>
-    	<string name="Rename_a_file">文件重命名</string>
-    	<string name="Input_was_left_blank">输入内容不能为空</string>
-    	<string name="File_named_already_exists">文件名 \&quot;%\&quot; 已经存在</string>
-    	<string name="Confirm_delete">确认删除</string>
-    	<string name="You_cant_create_an_archive_here">无法在当前位置创建压缩包</string>
-    	<string name="Cannot_connect_to">无法连接到 \&quot;%\&quot;</string>
-    	<string name="You_are_not_logged_in">你还未登陆</string>
-		<string name="Can_not_create_the_directory">无法创建目录</string>
-    	<string name="Beta_expired">测试版本已过期</string>
-    	<string name="Can_not_create_the_file">无法创建该文件</string>
-    	<string name="Uknown_file_type">未知文件格式</string>
-    	<string name="No_activity_found_to_open_this_file">没有找到可以打开此类文件的程序</string>
-    	<string name="You_cant_send_a_folder">无法发送文件夹</string>
-    	<string name="Indexing_has_been_unscheduled">索引计划未创建</string>
-    	<string name="Scheduled_indexing">创建索引计划</string>
-    	<string name="Tap_to_start">点击开始</string>
-    	
-    	
-    	<string name="Are_you_sure_you_want_to_delete_items">确定要删除 % item{1:|__:s}?</string>
-    	<string name="X_files_deleted">% file{1:|__:s} 已删除.</string>
-    	<string name="X_files_copied">% file{1:|__:s} 已复制.</string>
-    	<string name="X_files_moved">% file{1:|__:s} 已移动.</string>
-    	<string name="X_items">% item{1:|__:s}</string>
-    	<string name="Deleting_X_files">正在删除 % file{1:|__:s}</string>
-    	<string name="Copying_X_files">正在复制 % file{1:|__:s}</string>
-    	<string name="Moving_X_files">正在移动 % file{1:|__:s}</string>
-    	<string name="Indexing_scheduled_at_X_every_Y">索引计划将于每 %y 天的 %x 执行{1:|__:s}</string>
-    	<!-- Explanation of above
-    	
-    		 	In english things are simple because we have 1 file and multiple files.
-    		 	1 file, 2 files, 3 files and so on...
-    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
-    			
-    			But let's take polish for example. File means 'Plik'. We have:
-    			0 plików
-    			1 plik
-    			2, 3, 4 pliki
-    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
-    			but.. 22, 23 pliki
-    			and 26, 27 plików
-    			Complicated, huh?
-    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
-    			
-    			If you have problems creating this pattern for your language, contact me.
-    			
-    			Quick reference:
-    			'{' - starts the pattern
-    			'}' - ends the pattern
-    			'|' - rule divider
-    			':' - separates range from the associated suffix
-    			'_' - any digit
-    			'-' - range
-    			
-    			Examples:
-    			1:s 	= for single 1 give 's' suffix
-    			3:		= for single 3 give no suffix
-    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
-    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
-    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
-    			__:s	= give 's' for any number
-    			
-    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
-    			there should be always the __:something pattern at the end.
-    	
-    	-->
-    
+    <!-- File exists dialog -->
+    <!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
+    <string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+    <string name="File_exists">文件已存在</string>
+    <string name="Skip">跳过</string>
+    <string name="Overwrite">覆盖</string>
+    <string name="Merge">合并</string>
+    <string name="Keep_both">全部保留</string>
+    <string name="Remember_action">其后冲突默认执行此操作</string>
+    <string name="Keep_the_old_file">保留旧文件</string>
+    <string name="The_new_file_will_have_its_name_changed">新文件将被重命名</string>
+    <string name="Replace_the_file_with_this">替换已存在文件</string>
+    <string name="Create_master_password">创建主密码</string>
+    <string name="Choose_an_activity_to_open_the_file">请选择应用以打开该文件</string>
+    <string name="Always_use_this_application">设置为默认打开方式</string>
+    <string name="Send_the_file_using">选择发送方式</string>
+    <string name="Progress">进度</string>
+    <string name="Minimize">最小化</string>
+    <string name="Pause">暂停</string>
+    <string name="Resume">继续</string>
+    <string name="Dismiss">取消</string>
+    <string name="Abort_operation">中止操作</string>
+    <string name="There_is_already_an_operation_running">当前有操作正在执行，请等待其完成后再试。</string>
+ 
+    <!-- Question dialogs -->
+    <string name="Are_you_sure_you_want_to_clear_the_history">您是否确认清除历史记录？</string>
+    <string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">您是否确认清除缩略图缓存？</string>
+    <string name="Are_you_sure_you_want_to_delete_temporary_files">您是否确认清除临时文件？</string>
+    <string name="It_is_time_for_sheduled_indexing">索引已过期，是否立即更新？</string>
+    <string name="Folder_exists_descr">已有同名目录存在，您将如何处理？</string>
+    <string name="File_exists_descr">已有同名文件存在，您将如何处理？</string>
+    <string name="Are_you_sure_you_want_to_delete">您是否确认删除 \&quot;%\&quot;？</string>
+    <string name="Are_you_sure_to_abort_current_operation">您是否确认中止当前操作？</string>
+    <string name="Are_you_sure_you_want_to_delete_all_bookmarks">您是否确认删除所有书签？</string>
+    <string name="Are_you_sure_you_want_to_delete_bookmark">是否确认删除书签 \&quot;%\&quot;？</string>
+    <string name="Reindex_prompt">正在执行索引，此操作可能需要几分钟时间，您是否确认继续？</string>
+    <string name="Clear_index_prompt">您是否确认清除索引数据？此操作不可逆。</string>
+    <string name="Are_you_sure_to_stop_indexing">您是否确认停止索引？</string>
+    <string name="Are_you_sure_you_want_to_clear_file_type_associations">您是否确认清除文件类型关联？</string>
+    <string name="Changes_have_been_made_to_the_file">文件 &quot;%&quot; 已被更改，您是否需要保存？</string>
+    <string name="Chown_confirm">您是否确认改变该文件所有者信息？</string>
+    <string name="Busybox_request">您当前似乎尚未安装 BusyBox 或版本过低，它是访问系统文件所必需的，您是否确认立即进行安装或更新？</string>
+ 
+    <!-- Information dialogs -->
+    <string name="SkyDrive_doesnt_support_x_files">SkyDrive 暂不支持  \&quot;%\&quot; 文件，操作已被取消。</string>
+    <string name="Operation_not_supported">不支持的操作</string>
+    <string name="You_have_to_provide_a_password">您必须提供访问密码</string>
+    <string name="Insufficient_space" formatted="false">没有足够的空间以完成此项操作，大小：%，可用：%。</string>
+    <string name="Command_executed_successfully">命令执行成功</string>
+    <string name="Deleting_data">正在删除数据</string>
+    <string name="Done">完成</string>
+    <string name="Preparing_for_operation">正在准备执行操作...</string>
+    <string name="Connecting">正在连接</string>
+    <string name="Connecting_to_x">正在连接至 \&quot;%\&quot;</string>
+    <string name="File_is_too_big">您所选取的文件过大，目前暂时仅支持对不超过 75KB 的文件进行编辑，稍后将会提供较大文件编辑支持。</string>
+    <string name="Operation_history_has_been_cleared">操作记录已清除</string>
+    <string name="Encrypted_archive">压缩文件已被加密</string>
+    <string name="Enter_the_password">输入密码</string>
+    <string name="Confirmation">确认</string>
+    <string name="Input_request">输入请求</string>
+    <string name="Message">提示</string>
+    <string name="Warning">警告！</string>
+    <string name="You_did_not_specify_a_password">请输入密码</string>
+    <string name="Reading_archive">正在读取压缩文件</string>
+    <string name="Reading_archive_x">正在读取压缩文件 \&quot;%\&quot;</string>
+    <string name="Storage_not_available">存储空间不可用</string>
+    <string name="The_password_given_is_incorrect">密码不正确</string>
+    <string name="You_did_not_specify_a_server_name">请输入服务器名称</string>
+    <string name="You_did_not_specify_a_computer_name">请输入电脑名称</string>
+    <string name="You_did_not_specify_a_port_number">请输入端口号</string>
+    <string name="You_did_not_specify_user_name">请输入用户名</string>
+    <string name="Indexing">编辑索引</string>
+    <string name="Indexing_in_progress">正在进行索引</string>
+    <string name="Indexing_paused">索引暂停</string>
+    <string name="Indexing_has_been_completed">索引完成</string>
+    <string name="Indexing_has_been_aborted">索引已被取消</string>
+    <string name="Tap_to_dismiss">点击取消</string>
+    <string name="Tap_top_open">点击打开</string>
+    <string name="File_is_ready_to_open">文件已被打开</string>
+    <string name="Operation_aborted_by_user">操作已被用户取消</string>
+    <string name="You_cant_delete_this_item">该项目无法删除</string>
+    <string name="Indexing_service">索引服务</string>
+    <string name="Only_local_file_can_be_added_to_the_archive">当前仅可添加本地文件至压缩文件中</string>
+    <string name="Bookmark_already_exists">书签已存在</string>
+    <string name="Added_to_bookmarks">\&quot;%\&quot; 添加到书签</string>
+    <string name="Rename_a_file">重命名文件</string>
+    <string name="Input_was_left_blank">输入内容不能为空</string>
+    <string name="File_named_already_exists">文件名 \&quot;%\&quot; 已存在</string>
+    <string name="Confirm_delete">确认删除</string>
+    <string name="You_cant_create_an_archive_here">无法在当前位置创建压缩文件</string>
+    <string name="Cannot_connect_to">无法连接至 \&quot;%\&quot;</string>
+    <string name="You_are_not_logged_in">您还尚未登陆</string>
+    <string name="Can_not_create_the_directory">无法创建目录</string>
+    <string name="Beta_expired">测试版本已过期</string>
+    <string name="Can_not_create_the_file">无法创建该文件</string>
+    <string name="Uknown_file_type">未知文件格式</string>
+    <string name="No_activity_found_to_open_this_file">尚未发现可打开此类文件的应用程序</string>
+    <string name="You_cant_send_a_folder">无法发送文件夹</string>
+    <string name="Indexing_has_been_unscheduled">索引计划未创建</string>
+    <string name="Scheduled_indexing">创建索引计划</string>
+    <string name="Tap_to_start">点击开始</string>
+    <string name="Are_you_sure_you_want_to_delete_items">您是否确认删除 % 项文件？</string>
+    <string name="X_files_deleted">% 项文件已被删除</string>
+    <string name="X_files_copied">% 项文件已被复制</string>
+    <string name="X_files_moved">% 项文件已被移动</string>
+    <string name="X_items">% 项</string>
+    <string name="Deleting_X_files">正在删除 % 项文件</string>
+    <string name="Copying_X_files">正在复制 % 项文件</string>
+    <string name="Moving_X_files">正在移动 % 项文件</string>
+    <string name="Indexing_scheduled_at_X_every_Y">索引计划将每隔 %y 天的 %x 执行</string>
 
-    
+
+
+    <!-- Explanation of above
+ 
+    In english things are simple because we have 1 file and multiple files.
+    1 file, 2 files, 3 files and so on...
+    Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+ 
+    But let's take polish for example. File means 'Plik'. We have:
+    0 plików
+    1 plik
+    2, 3, 4 pliki
+    5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    but.. 22, 23 pliki
+    and 26, 27 plików
+    Complicated, huh?
+    The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+ 
+    If you have problems creating this pattern for your language, contact me.
+ 
+    Quick reference:
+    '{' - starts the pattern
+    '}' - ends the pattern
+    '|' - rule divider
+    ':' - separates range from the associated suffix
+    '_' - any digit
+    '-' - range
+ 
+    Examples:
+    1:s 	= for single 1 give 's' suffix
+    3:		= for single 3 give no suffix
+    4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    _2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    __:s	= give 's' for any number
+ 
+    This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    there should be always the __:something pattern at the end.
+ 
+    -->
+ 
+ 
+ 
     <!-- Open as dialog -->
-    <string name="Open_as">其它方式打开</string>
-    <string name="Choose_a_preferred_type">选择当前文件的文件类型</string>
+    <string name="Open_as">使用其它方式打开</string>
+    <string name="Choose_a_preferred_type">选择当前文件类型</string>
     <string name="Text_file">文本</string>
     <string name="Image_file">图片</string>
     <string name="Music_file">音乐</string>
     <string name="Video_file">视频</string>
-    <string name="ZIP_archive">ZIP压缩包</string>
-    
-    
+    <string name="ZIP_archive">ZIP 压缩文件</string>
+ 
     <!-- File picker -->
-    
     <string name="Create_shortcut">创建快捷方式</string>
-    <string name="Shortcut_tip">要创建文件夹快捷方式,请在内容菜单中选择 \&quot;创建快捷方式\&quot;.</string>
-    
-
-    
-	<!-- Text editor -->
+    <string name="Shortcut_tip">若需创建文件夹快捷方式，请在菜单中选择 \&quot;创建快捷方式\&quot;.</string>
+ 
+    <!-- Text editor -->
     <string name="Wrap_lines">自动换行</string>
     <string name="Font_size">字体大小</string>
     <string name="Font">字体</string>
@@ -480,133 +464,105 @@
     <string name="Serif">Serif</string>
     <string name="Monospace">等宽字体</string>
     <string name="File_saved_successfully">文件保存成功</string>
-    
-    
+ 
     <!-- Preferences -->
-	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
-	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
+    <!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
+    <!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
     <string name="Appearance">外观</string>
-	<string name="Theme">主题</string>
+    <string name="Theme">主题</string>
     <string name="Choose_between_preinstalled_themes">选择内置主题</string>
     <string name="Light">白</string>
     <string name="Dark">黑</string>
-    
     <string name="Toggle_visibility_of_hidden_files">是否显示隐藏文件</string>
     <string name="Show_hidden_files">显示隐藏文件</string>
-    
     <string name="Show_file_permissions">显示系统文件权限</string>
-    <string name="Show_file_permissions_summary">系统目录下的所有文件将在文件列表界面显示Unix风格的文件权限信息, 取代文件的修改时间信息.</string>
-    
+    <string name="Show_file_permissions_summary">系统目录下所有文件将在文件列表界面显示 Unix 风格权限信息取代文件最后修改时间。</string>
     <string name="Date_format">日期格式</string>
     <string name="Customize_date_format">选择日期格式</string>
-    
     <string name="Time_format">时间格式</string>
-	<string name="Customize_time_format">选择时间格式</string>
-	
-	<string name="Show_fast_scroll_thumb_in_file_list">在文件列表界面显示快速滚动滑块</string>
+    <string name="Customize_time_format">选择时间格式</string>
+    <string name="Show_fast_scroll_thumb_in_file_list">在文件列表界面显示快速滚动滑块</string>
     <string name="Use_fast_scroll">使用快速滚动</string>
-    
     <string name="Low_quality_thumbnails">低画质缩略图</string>
     <string name="Low_quality_thumbnails_summary">适合低内存设备 </string>
-    
     <string name="Portrait_fullscreen">竖屏时全屏显示</string>
     <string name="Portrait_fullscreen_summary">竖屏模式下隐藏状态栏</string>
-    
     <string name="Landscape_fullscreen">横屏时全屏显示</string>
     <string name="Landscape_fullscreen_summary">横屏模式下隐藏状态栏</string>
-    
-    <string name="File_list_size">竖屏时的文件图标大小</string>
+    <string name="File_list_size">竖屏时文件图标大小</string>
     <string name="Adjust_size_of_the_file_list">调整竖屏模式下的文件图标大小</string>
-    
     <string name="Landscape_file_list_size">横屏时的文件图标大小</string>
     <string name="Adjust_size_of_the_file_list_in_landscape">调整横屏模式下的文件图标大小</string>
-    
-    <string name="Small">小</string>
-    <string name="Normal">正常</string>
-    <string name="Big">大</string>
+    <string name="Small">较小</string>
+    <string name="Big">较大</string>
     <string name="Large">极大</string>
     <string name="Extra_small">极小</string>
-    
     <string name="Hide_exit_button">隐藏退出按钮</string>
-    <string name="Hide_exit_button_summary">你可以通过长按返回键来退出程序</string>
-    
+    <string name="Hide_exit_button_summary">您可以通过长按返回键退出程序</string>
     <string name="Startup">启动</string>
-    
     <string name="Remember_last_folder">继续浏览上次目录</string>
-    <string name="Will_start_with_recently_viewed_directories">程序启动时将重新打开上次退出时仍处于打开状态的目录, 而不是打开主页目录</string>
-    
-    
-    <string name="First_panel_default_dir">第一个面板的主页目录</string>
-    <string name="Second_panel_default_dir">第二个面板的主页目录</string>
-    
+    <string name="Will_start_with_recently_viewed_directories">程序启动时将重新打开上次退出时处于打开状态的目录，而非主页目录。</string>
+    <string name="First_panel_default_dir">第一面板主页目录</string>
+    <string name="Second_panel_default_dir">第二面板主页目录</string>
     <string name="Change_pictures_directory">更改相册目录</string>
     <string name="Change_downloads_directory">更改下载目录</string>
-    
-    <string name="Drag_and_drop">拖放</string>
+    <string name="Drag_and_drop">拖放操作</string>
     <string name="Action_for_drop_inside_the_panel">面板内拖放</string>
     <string name="Dropping_an_item_to_a_folder_in_the_same_panel">在同一个面板中,拖放文件图标到目录上时执行的操作</string>
     <string name="Action_for_drop_to_the_second_panel">面板间拖放</string>
     <string name="Dropping_an_item_to_the_second_panel">拖放文件图标到另外一个面板中时执行的操作</string>
     <string name="Move">移动</string>
-    
     <string name="Security">安全</string>
-    <string name="Master_password_prompt">Solid Explorer支持使用一个主密码来加密所有的登录凭据. 如果你有安全需求, 那么建议使用此功能. 程序每次启动之后, 仅需输入一次主密码, 只有当你重新启动应用程序的时候才需要再次输入. 另外, 本程序默认使用了无密码的加密方式, 以保护登陆凭据. 你想要使用此功能吗?</string>
-    <string name="Disable_master_password_warning">禁用主密码将会切换到默认密码. 程序不会再要求你输入密码. 但登陆凭证仍然是加密的. 你要继续吗?</string>
-    <string name="Enable_master_password_warning">如果你曾使用默认密码对原有书签进行过加密, 它们将会被删除. 是否继续?</string>
+    <string name="Master_password_prompt">Solid Explorer支持使用一个主密码来加密所有登录证书，如果您有安全需求，那么建议使用此功能。程序每次启动之后，只需输入一次主密码，仅当您重新启动应用程序时才需要再次输入。另外，本程序默认使用了无密码的加密方式以保护登陆凭据，您是否需要启用此功能？</string>
+    <string name="Disable_master_password_warning">禁用主密码后将会切换至默认密码。应用程序不会再次要求您输入密码，但登陆证书仍是加密的。您是否确认继续操作？</string>
+    <string name="Enable_master_password_warning">如果您曾使用默认密码对原有书签进行过加密，那么它们将会被删除。您是否确认继续操作？</string>
     <string name="Enable_master_password">启用主密码</string>
-	<string name="Too_weak_password">密码至少要包含6个字符, 并且不超过16个字符</string>
+    <string name="Too_weak_password">密码至少要包含6个字符，且不超过16个字符。</string>
     <string name="Enter_the_master_password">输入主密码</string>
-    <string name="Enter_a_new_master_password">输入新的主密码.</string> 
+    <string name="Enter_a_new_master_password">输入新的主密码</string> 
     <string name="Encrypt_all_login_ceredentials_with_a_master_password">使用主密码对所有登陆凭证进行加密</string>
     <string name="Set_master_password">更改主密码</string>
     <string name="All_passwords_will_be_reencrypted">所有密码将被重新加密</string>
-    
-    <string name="I_dont_remember_my_old_password">我不记得旧的密码</string>
-    <string name="Reset_password_warning">警告! 如果你现在设置新密码, 那么使用旧密码加密的所有书签都将被删除.</string>
+    <string name="I_dont_remember_my_old_password">我已忘记旧密码</string>
+    <string name="Reset_password_warning">警告！如果您现在设置新密码，那么使用旧密码加密的所有书签都将被删除。</string>
     <string name="Old_password">旧密码</string>
     <string name="New_password">新密码</string>
-    <string name="Master_password_has_been_disabled">主密码已禁用</string>
+    <string name="Master_password_has_been_disabled">主密码已被禁用</string>
     <string name="Passwords_do_not_match">密码不匹配</string>
     <string name="Password_is_too_short">密码过短</string>
-    
-    
-    
     <string name="Search_interface">搜索</string>
     <string name="Search_key_starts_filtering">搜索键筛选</string>
     <string name="Search_key_starts_filtering_summary">使用筛选功能来替代搜索功能</string>
-    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">只匹配单词的开头</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">只匹配单词开头部分</string>
     <string name="Filter_words_from_the_beginning">从开头进行筛选</string>
     <string name="Customize_indexing_engine_behaviour">自定义索引设置</string>
     <string name="Indexing_engine">索引设置</string>
-    	<string name="Reindex_now">重新建立索引</string>
-    	<string name="Refresh_index_database">刷新索引数据库. 如果当前有正在活动的索引进程, 此操作不会产生任何效果.</string>
-    	<string name="Clear_index_data">清除索引数据</string>
-    	<string name="Delete_all_index_data">删除所有索引数据</string>
-    	<string name="Reindex_on_media_mount">有介质装载时重新索引</string>
-    	<string name="Reindex_storage_device_when_it_is_mounted">有存储设备装载时重新进行索引 (建议打开)</string>
-    	<string name="Shedule_indexing">编辑索引任务</string>
-    	<string name="Perform_reindex_every_given_period">根据指定的周期进行定期索引</string>
-    	<string name="Set_time_and_period">设置时间和期限</string>
-    	<string name="The_time_when_the_indexing_will_be_triggered">设置索引更新的时间</string>
-    	<string name="Maximum_index_age">索引保留的最长时间</string>
-    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">当文件不再存在时,其索引信息需要在数据库中保留多久</string>
-    	<string name="one_day">1 天</string>
-    	<string name="two_days">2 天</string>
-    	<string name="five_days">5 天</string>
-    	<string name="One_week">一周</string>
-    	<string name="Choose_interval">选择时间间隔</string>
-    	<string name="three_days">3 天</string>
-    	<string name="How_often_indexing_will_be_performed">索引间隔多久更新</string>
-    	<string name="Set_period">设置周期</string>
-    	<string name="Set_time">设置时间</string>
-    	<string name="Show_notifications">显示通知</string>
-    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">当索引完成或者取消的时候显示通知</string>
-    
-    
+    <string name="Reindex_now">重新建立索引</string>
+    <string name="Refresh_index_database">刷新索引数据库，如果当前有正在活动的索引进程，那么此操作不会产生任何效果。</string>
+    <string name="Clear_index_data">清除索引数据</string>
+    <string name="Delete_all_index_data">删除所有索引数据</string>
+    <string name="Reindex_on_media_mount">有介质装载时重新索引</string>
+    <string name="Reindex_storage_device_when_it_is_mounted">有新存储设备装载时重新进行索引（建议打开）</string>
+    <string name="Shedule_indexing">编辑索引任务</string>
+    <string name="Perform_reindex_every_given_period">根据指定周期进行定期索引</string>
+    <string name="Set_time_and_period">设置时间以及期限</string>
+    <string name="The_time_when_the_indexing_will_be_triggered">设置索引更新时间</string>
+    <string name="Maximum_index_age">索引保留最长时间</string>
+    <string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">当文件不再存在时，设置其索引信息在数据库中保留时长</string>
+    <string name="one_day">1 天</string>
+    <string name="two_days">2 天</string>
+    <string name="five_days">5 天</string>
+    <string name="One_week">一周</string>
+    <string name="Choose_interval">选择时间间隔</string>
+    <string name="three_days">3 天</string>
+    <string name="How_often_indexing_will_be_performed">索引更新时间间隔</string>
+    <string name="Set_period">设置周期</string>
+    <string name="Set_time">设置时间</string>
+    <string name="Show_notifications">显示通知</string>
+    <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">当索引完成或取消时候显示通知</string>
     <string name="Other">其它</string>
-    	
     <string name="Clear_persistent_data">清除数据</string>
-    <string name="Clear_persistent_data_summary">删除缩略图缓存,临时文件,操作记录等等.</string>
+    <string name="Clear_persistent_data_summary">删除缩略图缓存、临时文件、操作记录等</string>
     <string name="Clear_thumbnail_cache">清除缩略图缓存</string>
     <string name="Clear_temporary_files">清除临时文件</string>
     <string name="Clear_operation_history">清除操作历史</string>
@@ -616,86 +572,75 @@
     <string name="Clear_file_type_associations">清除文件类型关联</string>
     <string name="Clear_file_type_associations_summary">清除各类型文件的默认打开方式</string>
     <string name="Clear_temporary_files_on_exit">退出时清除临时文件</string>
-    <string name="Temporary_files_will_be_removed_on_app_exit">程序退出的时候删除临时文件</string>
-    
+    <string name="Temporary_files_will_be_removed_on_app_exit">程序退出时候删除临时文件</string>
     <string name="Quick_start_guide">快速开始向导</string>
-    <string name="Learn_about_main_features">了解 Solid Explorer 的主要特性</string>
+    <string name="Learn_about_main_features">了解 Solid Explorer 主要特性</string>
     <string name="Help_make_Solid_Explorer_better">帮助 Solid Explorer 做得更好</string>
-    <string name="Report_a_bug">报告BUG</string>
-   
+    <string name="Report_a_bug">报告 Bug</string>
     <string name="About">关于</string>
-    <string name="Author_version_and_changelog">作者, 版本和更新日志</string>
-    <string name="Copyright_text">版权 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Author_version_and_changelog">开发者、版本以及更新日志</string>
+    <string name="Copyright_text">版权所有 2011-2013 \nKrzysztof Głodowski</string>
     <string name="Version">版本</string>
     <string name="Changelog">更新日志</string>
     <string name="Whats_new">更新内容</string>
-    <string name="Author">作者</string>
-    <string name="Functionality_for_future_releases">将要实现的功能</string>
-    <string name="Planned_features">计划中的特性</string>
-    
-    
-    
+    <string name="Author">开发者</string>
+    <string name="Functionality_for_future_releases">计划实现功能</string>
+    <string name="Planned_features">计划中新特性</string>
+ 
     <!-- Other -->
     <string name="Prefix">字首</string>
     <string name="Empty">空</string>
-	<string name="search_description">用 Solid Explorer 搜索你的设备</string>
+    <string name="search_description">使用 Solid Explorer 搜索您的设备</string>
     <string name="search_hint">输入文件名</string>
     <string name="Save_file">保存文件</string>
     <string name="Solid_explorer_indexing_service">Solid Explorer 索引服务</string>
-    
-    
-    
+ 
     <!-- acra -->
-    <string name="crash_toast_text">糟糕! Solid Explorer崩溃了. 请向开发者发送报告以帮忙解决这个问题!</string>
-    <string name="crash_notif_ticker_text">发生意外错误, 请发送报告...</string>
+    <string name="crash_toast_text">糟糕！Solid Explorer 意外崩溃了，请向开发者发送报告以帮忙解决这个问题！</string>
+    <string name="crash_notif_ticker_text">发生意外错误，请发送问题报告...</string>
     <string name="crash_notif_title">Solid Explorer 崩溃了...</string>
-    <string name="crash_notif_text">请点击这里来帮助解决这个问题.</string>
+    <string name="crash_notif_text">请点击这里来帮助解决这个问题</string>
     <string name="crash_dialog_title">Solid Explorer 崩溃了</string>
-    <string name="crash_dialog_text">发生意外错误导致程序强制关闭. 请发送这份错误数据报告来帮助我修复它.</string>
-    <string name="crash_dialog_comment_prompt">请在下方提供问题的详细描述. 如果没有您的反馈, 问题将很难重现, 从而难以解决.</string>
-    <string name="crash_dialog_ok_toast">非常感谢!</string>
-    
+    <string name="crash_dialog_text">发生意外错误导致程序强制关闭，请发送这份错误数据报告来帮助我们修复它。</string>
+    <string name="crash_dialog_comment_prompt">请在下方提供问题的详细描述，如果没有您的反馈，问题将很难重现从而难以解决。</string>
+    <string name="crash_dialog_ok_toast">非常感谢！</string>
     <string name="Icon_designer">图标设计</string>
-    <string name="Prefix">字首</string>
     <string name="Translations">翻译</string>
-    <string name="Translations_summary">感谢 lhn1989 的汉化</string>
-    <string name="Empty">空</string>
-    <string name="Press_once_again_to_exit">再按一次退出</string>
-    
-    
-    <string name="View_in_DiskUsage">在DiskUsage中查看</string>
+    <string name="Translations_summary">感谢 lhn1989 以及吴天豪提供简体中文翻译</string>
+    <string name="Press_once_again_to_exit">再次按下返回键退出</string>
+    <string name="View_in_DiskUsage">在 Disk Usage 中查看</string>
     <string name="Retry">重试</string>
     <string name="Portrait">竖屏</string>
     <string name="Landscape">横屏</string>
     <string name="Customize_list">自定义文件列表</string>
-    <string name="Customize_list_summary">调整文件列表中图标和文字的大小</string>
+    <string name="Customize_list_summary">调整文件列表中图标和文字大小</string>
     <string name="Preview">预览</string>
-    <string name="Icon_size_pixels" formatted="false">图标大小 (最大: % x %)</string>
+    <string name="Icon_size_pixels" formatted="false">图标大小（最大：% x %）</string>
     <string name="Label_size">标签大小</string>
     <string name="Subtext_size">说明大小</string>
-    <string name="Label_size_points">文字大小 (最大 35pt)</string>
+    <string name="Label_size_points">文字大小（最大 35pt）</string>
     <string name="Columns">列数</string>
     <string name="No_computers_found">没有找到可连接的电脑</string>
     <string name="Local_directory">本地目录</string>
     <string name="Default_panel">面板默认首页</string>
     <string name="Destination_type">首页类型</string>
-    <string name="DiskUsage_not_installed">您似乎没有安装DiskUsage. 它可以通过详细而且友好的方式来显示你的存储空间使用情况. 想要现在进行安装吗?</string>
-    <string name="Text_copied_to_clipboard">文本已复制到剪切板</string>
+    <string name="DiskUsage_not_installed">您似乎尚未安装 Disk Usage。它可以通过详细且友好的方式来显示您设备的存储空间使用情况。您是否确认立即进行安装？</string>
+    <string name="Text_copied_to_clipboard">文本已被复制至剪切板</string>
     <string name="Force_english">强制使用英语</string>
-    <string name="Force_english_summary">如果您想使用英文作为默认语言, 请勾选此项. 重启后生效.</string>
+    <string name="Force_english_summary">如果您想使用英文作为默认语言，请勾选此选项。设置将在重启应用后生效。</string>
     <string name="Encoding">编码</string>
     <string name="Network_thumbnails">网络缩略图</string>
-    <string name="Network_thumbnails_summary">勾选之后, 将允许通过移动数据连接来加载缩略图.</string>
-    <string name="Copy_to">复制到</string>
-    <string name="Move_to">移动到</string>
+    <string name="Network_thumbnails_summary">勾选之后，将允许通过移动数据连接来加载缩略图。</string>
+    <string name="Copy_to">复制至</string>
+    <string name="Move_to">移动至</string>
     <string name="Shortcut">快捷方式</string>
-    <string name="Two_panels_in_landscape_summary">横屏状态下同时显示两个浏览面板</string>
+    <string name="Two_panels_in_landscape_summary">横屏状态下同时显示双面板</string>
     <string name="Two_panels_in_landscape">横屏显示双面板</string>
-    <string name="Restart_prompt">应用程序需要重启来使改变生效. 是否继续?</string>
+    <string name="Restart_prompt">应用程序需要重启来使更改生效，您是否确认继续？</string>
     <string name="Custom_color_scheme">自定义配色方案</string>
-    <string name="Custom_color_scheme_summary">自定义整体的配色方案. 将大大减慢应用程序的启动.</string>
+    <string name="Custom_color_scheme_summary">自定义整体配色方案，但可能将大大减慢应用程序启动速度。</string>
     <string name="Color_scheme">配色方案</string>
-    <string name="Color_scheme_summary">修改当前配色方案的色调和饱和度</string>
+    <string name="Color_scheme_summary">修改当前配色方案色调和饱和度</string>
     <string name="Change_color_scheme">修改配色方案</string>
     <string name="Hue">色调</string>
     <string name="Saturation">饱和度</string>
@@ -704,13 +649,13 @@
     <string name="Notification_shortcut_summary">当程序运行的时候在状态栏显示图标</string>
     <string name="Please_wait">请稍候</string>
     <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">
-确定要复制该文件到第二个面板吗?
+    您是否确认复制该文件至第二面板？
     </string>
     <string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">
-确定要移动该文件到第二个面板吗?
+    您是否确认移动该文件至第二面板？
     </string>
-    <string name="Image_not_loaded">图片没有加载</string>
-    <string name="Target_SDK">目标SDK</string>
+    <string name="Image_not_loaded">图片尚未加载</string>
+    <string name="Target_SDK">目标 SDK</string>
     <string name="Description">描述</string>
     <string name="Data_dir">数据目录</string>
     <!--  short word please  -->
@@ -724,55 +669,121 @@
     <string name="Ask">询问</string>
     <string name="Choose_an_action">选择要执行的动作</string>
     <string name="Folders_first">文件夹优先</string>
-    <string name="Folders_first_summary">优先显示文件夹, 然后显示文件.</string>
-    <string name="FAQ">FAQ</string>
-    <string name="FAQ_summary">在提交问题之前请先阅读FAQ</string>
-
-	<!-- v 1.3.8 -->
-	<string name="Quick_config">快速设置</string> <!-- short word please -->
-
-	<!-- Now multiple patterns are supported so you can correct previous patterns
-	if more than one noun in a sentence is affected -->
-   	<string name="X_folders_and_Y_files_deleted">%x 文件夹{1:|__:s} 和 %y 文件{1:|__:s} 已删除.</string>
-   	<string name="X_folders_and_Y_files_copied">%x 文件夹{1:|__:s} 和 %y 文件{1:|__:s} 已复制.</string>
-   	<string name="X_folders_and_Y_files_moved">%x 文件夹{1:|__:s} 和 %y 文件{1:|__:s} 已移动.</string>
-   	<string name="Deleting_X_folders_and_Y_files">正在删除 %x 文件夹{1:|__:s} 和 %y 文件{1:|__:s}</string>
-   	<string name="Copying_X_folders_and_Y_files">正在复制 %x 文件夹{1:|__:s} 和 %y 文件{1:|__:s}</string>
-   	<string name="Moving_X_folders_and_Y_files">正在移动 %x 文件夹{1:|__:s} 和 %y 文件{1:|__:s}</string>
-    	
-   	<string name="X_folders_moved">% 文件夹{1:|__:s} 已移动.</string>
-   	<string name="Moving_X_folders">正在移动 % 文件夹{1:|__:s}</string>
-    	
-   	<string name="X_folders">% 文件夹{1:|__:s}</string>
-   	<string name="X_files">% 文件{1:|__:s}</string>
-    	
-   	<string name="Show_status_summary">在浏览窗口中显示目录的内容占用空间</string>
-   	<string name="Show_status">显示状态</string>
-   	<string name="Mount_rw">挂载 读/写</string>
-   	<string name="System_mounted_as_read_write">系统挂载为 读/写</string>
-   	<string name="System_mounted_as_read_only">系统挂载为 只读</string>
-
-<!--  v 1.3.9 -->
-    	<string name="Device_labels">设备标签</string>
-    	<string name="Device_labels_summary">以便于理解的方式显示文件名。比如SD卡的真实目录名为\&quot;sdcard0\&quot;，显示成\&quot;SD卡\&quot;会更容易理解。</string>
-    	<string name="Swap_device_labels">交换设备标签</string>
-    	<string name="Swap_device_labels_summary">交换内置存储和SD卡的标签，以防检测错误。</string>
-    	<string name="Panels">面板</string>
-    	<string name="Devices">设备</string>
-    	
+    <string name="Folders_first_summary">优先显示文件夹，其后再显示文件。</string>
+    <string name="FAQ">常见问题解答</string>
+    <string name="FAQ_summary">在提交问题之前请先阅读常见问题解答</string>
+ 
+    <!-- v 1.3.8 -->
+    <string name="Quick_config">快速设置</string> <!-- short word please -->
+ 
+    <!-- Now multiple patterns are supported so you can correct previous patterns
+    if more than one noun in a sentence is affected -->
+    <string name="X_folders_and_Y_files_deleted">%x 项文件夹和 %y 个文件已被删除</string>
+    <string name="X_folders_and_Y_files_copied">%x 项文件夹和 %y 个文件已被复制</string>
+    <string name="X_folders_and_Y_files_moved">%x 项文件夹和 %y 个文件已被移动</string>
+    <string name="Deleting_X_folders_and_Y_files">正在删除 %x 项文件夹和 %y 个文件</string>
+    <string name="Copying_X_folders_and_Y_files">正在复制 %x 项文件夹和 %y 个文件</string>
+    <string name="Moving_X_folders_and_Y_files">正在移动 %x 项文件夹和 %y 个文件</string>
+    <string name="X_folders_moved">% 项文件夹已被移动</string>
+    <string name="Moving_X_folders">正在移动 % 项文件夹</string>
+    <string name="X_folders">% 项文件夹</string>
+    <string name="X_files">% 个文件</string>
+    <string name="Show_status_summary">在浏览窗口中显示当前目录内容空间使用情况</string>
+    <string name="Show_status">显示状态</string>
+    <string name="Mount_rw">挂载读/写</string>
+    <string name="System_mounted_as_read_write">挂载系统为读/写</string>
+    <string name="System_mounted_as_read_only">挂载系统为只读</string>
+ 
+    <!--  v 1.3.9 -->
+    <string name="Device_labels">设备标签</string>
+    <string name="Device_labels_summary">以易于理解的方式显示设备目录。例如 SD 卡的真实目录名可能为 \&quot;sdcard0\&quot;，若显示为 \&quot;SD 卡\&quot; 会更容易理解。</string>
+    <string name="Swap_device_labels">交换设备标签</string>
+    <string name="Swap_device_labels_summary">交换内置存储和 SD 卡标签，以防检测错误。</string>
+    <string name="Panels">面板</string>
+    <string name="Devices">设备</string>
+ 
     <!-- v 1.4.0 -->
-    	<string name="Compression_ratio">压缩率</string>
-    	<string name="Compression_method">压缩方式</string>
-    	<string name="Comment">批注</string>
-    	<string name="Standard">标准</string>
-    	<string name="No_compression">无压缩</string>
-    	<string name="A_while_ago">一段时间之前</string>
-    	<string name="X_hours_Y_minutes_ago">%x 小时{1:|__:s} %y 分钏{1:|__:s} 之前</string>
-    	<!-- Already exists, just changed the content -->
-    	<string name="Expiration_message">感谢您使用 Solid Explorer, 试用到此为止. 如需继续使用, 请到 Google Play 购买解锁应用. 请确保您对该应用完全满意再付款.</string>
-    	<string name="Purchased_message">感谢您购买完整版的 Solid Explorer.祝您使用愉快!</string>
-    	<string name="Trial_expired">试用已过期</string>
-    	<string name="Purchase">支付</string>
-    	<string name="No_thanks">不了, 谢谢</string>
-    	<string name="Function_not_available">该功能在当前系统版本不可用</string>
+    <string name="Compression_ratio">压缩率</string>
+    <string name="Compression_method">压缩方式</string>
+    <string name="Comment">批注</string>
+    <string name="Standard">标准</string>
+    <string name="No_compression">无压缩</string>
+    <string name="A_while_ago">一段时间之前</string>
+    <string name="X_hours_Y_minutes_ago">%x 小时%y 分之前</string>
+    <!-- Already exists, just changed the content -->
+    <string name="Expiration_message">感谢您使用 Solid Explorer，试用期到此结束。若您需继续使用，请移步至 Google Play 购买解锁密钥，请确保您对该应用完全满意后再进行付款。</string>
+    <string name="Purchased_message">感谢您购买完整版 Solid Explorer。祝您使用愉快！</string>
+    <string name="Trial_expired">试用已过期</string>
+    <string name="Purchase">购买解锁密钥</string>
+    <string name="No_thanks">不，谢谢</string>
+    <string name="Function_not_available">该功能在当前系统版本中不可用</string>
+ 
+    <!-- v 1.4.3 -->
+    <string name="Wallpaper_has_been_set_successfully">壁纸设置成功</string>
+    <string name="X_has_been_set_as_default_ringtone">% 已设置为默认铃声</string>
+    <string name="X_has_been_set_as_default_notification">% 已设置为默认通知音</string>
+    <string name="X_has_been_set_as_default_alarm">% 已设置为默认闹铃</string>
+    <string name="Copy_path">复制路径</string>
+    <string name="Copy_name">复制昵称</string>
+    <string name="Create_symlink">创建符号连接</string>
+    <string name="Set_as_wallpaper">设为壁纸</string>
+    <string name="Set_as_ringtone">设为铃声</string>
+    <string name="Set_as_notification">设为通知音</string>
+    <string name="Set_as_alarm">设为闹铃</string>
+    <string name="Enter_the_symlink_location">输入符号链接位置</string>
+    <string name="Symbolic_link_created_successfully">符号链接创建成功</string>
+    <string name="Sugarsync_login">登陆 SugarSync</string>
+    <string name="Copy_link">复制链接</string>
+    <string name="Data_backup">数据备份</string>
+    <string name="Application_data">应用程序数据</string>
+    <string name="Create_backup">创建备份</string>
+    <string name="Backup_application_data_to_a_desired_file">备份应用程序数据至指定文件</string>
+    <string name="Restore_backup">恢复备份</string>
+    <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">请选择一个备份文件以恢复应用数据</string>
+    <string name="Data_backup_created">数据备份已创建</string>
+    <string name="Data_backup_restored">数据备份已恢复</string>
+    <string name="Support">支持</string>
+    <string name="Support_summary">访问 Solid Explorer 支持页面</string>
+    <string name="Experimental_feature_notifier">请注意，该特性为实验性功能，可能在您当前的 Android 版本中无法正常工作。</string>
+    <string name="Trial_check_notice">Solid Explorer 无法验证试用期限，请您连接至网络后再试。若您未在2天之内完成此操作，那么您的试用期将结束。</string>
+    <string name="Back_goes_to_root">返回根目录</string>
+    <string name="Back_goes_to_root_summary">点击返回按钮时可以回到根目录</string>
+    <string name="Keep_the_screen_on">屏幕常亮</string>
+    <string name="Keep_the_screen_on_summary">文件传输时保持屏幕常亮。若屏幕关闭后您明显察觉到文件传输速度变慢，请勾选此项。</string>
+ 
+    <!-- v 1.4.4 -->
+    <string name="Clear_thumbnails_on_exit">退出时清空缩略图</string>
+    <string name="Image_thumbnails_will_be_removed_on_app_exit">应用程序退出时将清空缩略图</string>
+    <string name="Toggle_nomedia">切换 .nomedia 文件</string>
+    <string name="Total_time">总时间</string>
+    <string name="Average_speed">平均速度</string>
+    <string name="Add_new_item">添加新项目</string>
+    <string name="Application_chooser">应用程序选择器</string>
+    <string name="Manage_associations">管理程序关联</string>
+    <string name="Manage_associations_summary">为目标文件指定打开方式</string>
+    <string name="Choose_an_application">选择一个应用程序</string>
+    <string name="Application">应用程序</string>
+    <string name="Extension">扩展</string>
+    <string name="No_extension_specified">未指定扩展</string>
+    <string name="You_didn_t_choose_the_application">您未选择任何应用</string>
+    <string name="Added_to_queue">添加到队列</string>
+    <string name="Streaming">流</string>
+    <string name="There_is_already_the_same_file_in_temporary_directory">临时文件夹里已经有相同的文件存在，您想要打开本地缓存的副本还是重新下载新文件？</string>
+    <string name="Download">下载</string>
+    <string name="X_files_updated">% 个文件已更新</string>
+    <string name="Temporary_file_has_been_modified">本地文件 % 已修改，您要将其上传回服务器吗？</string>
+    <string name="Temporary_files_have_been_modified">% 个本地文件已修改，您要将其上传回服务器吗？</string>
+    <string name="Slide_from_bottom">从底部滑动</string>
+    <string name="Fall_down">下拉</string>
+    <string name="Come_in">进入</string>
+    <string name="Slide_from_right">从右边滑动</string>
+    <string name="Slide_from_left">从左边滑动</string>
+    <string name="Default">默认</string>
+    <string name="List_animations">列表动画</string>
+    <string name="List_animations_summary">自定义文件列表动画</string>  
+    <string name="Clear_filter_history">清除过虑历史</string>
+    <string name="Clear_filter_history_summary">删除列表过虑器的查询历史</string>
+    <string name="New_webdav_connection">WebDav 接连</string>
+    <string name="WebDav_bookmarks">WebDav 书签</string>
+
 </resources>

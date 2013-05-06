@@ -122,7 +122,7 @@
        <string name="FTPS_implicit_encryption">FTPS (implicitní šifrování)</string>
        <string name="FTPES_explicit_encryption">FTPES (explicitní šifrování)</string>
         
-    <!-- Search activity -->	
+    <!-- Search activity -->   
        <string name="Manual_search">Ruční vyhledávání</string>
        <string name="Results_from">Výsledky pro:</string>
        <string name="No_results">Žádné výsledky</string>
@@ -464,7 +464,7 @@
        <string name="Toggle_visibility_of_hidden_files">Přepnout viditelnost skrytých souborů</string>
        <string name="Show_hidden_files">Zobrazovat skryté soubory</string>
        <string name="Show_file_permissions">Zobrazovat oprávnění souborů</string>
-       <string name="Show_file_permissions_summary">Zobrazovat Unix oprávnění místo posledního data změny (pouze pro root soubory).</string>
+       <string name="Show_file_permissions_summary">Zobrazovat Unix oprávnění místo posledního data změny (pouze pro soubory v kořenovém adresáři).</string>
        <string name="Date_format">Formát data</string>
        <string name="Customize_date_format">Vlastní formát data</string>
        <string name="Time_format">Formát hodin</string>
@@ -705,5 +705,38 @@
        <string name="Purchase">Zakoupit</string>
        <string name="No_thanks">Ne, děkuji</string>
        <string name="Function_not_available">Tato funkce není v aktuální verzi Vašeho Androidu dostupná</string>
-
+   
+    <!-- v 1.4.3 -->
+       <string name="Wallpaper_has_been_set_successfully">Tapeta byla úspěšně změněna</string>
+       <string name="X_has_been_set_as_default_ringtone">% byl nastaven jako vyzvánění</string>
+       <string name="X_has_been_set_as_default_notification">% byl nastaven jako výchozí zvuk oznámění</string>
+       <string name="X_has_been_set_as_default_alarm">% byl nastaven jako výchozí zvuk budíku</string>
+       <string name="Copy_path">Kopírovat cestu</string>
+       <string name="Copy_name">Kopírovat název</string>
+       <string name="Create_symlink">Vytvořit symlink</string>
+       <string name="Set_as_wallpaper">Nastavit jako tapetu</string>
+       <string name="Set_as_ringtone">Nastavit jako vyzvánění</string>
+       <string name="Set_as_notification">Nastavit jako oznámení</string>
+       <string name="Set_as_alarm">Nastavit jako budík</string>
+       <string name="Enter_the_symlink_location">Zadejte umístění symbolického odkazu</string>
+       <string name="Symbolic_link_created_successfully">Symbolický odkaz úspěšně vytvořen</string>
+       <string name="Sugarsync_login">SugarSync přihlášení</string>
+       <string name="Copy_link">Kopírovat odkaz</string>
+       <string name="Data_backup">Záloha dat</string>
+       <string name="Application_data">Data aplikace</string>
+       <string name="Create_backup">Vytvořit zálohu</string>
+       <string name="Backup_application_data_to_a_desired_file">Zálohovat data aplikace do zvoleného souboru</string>
+       <string name="Restore_backup">Obnovit zálohu</string>
+       <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Vyberte soubor zálohy pro obnovu dat</string>
+       <string name="Data_backup_created">Záloha dat vytvořena</string>
+       <string name="Data_backup_restored">Záloha dat obnovena</string>
+       <string name="Support">Podpora</string>
+       <string name="Support_summary">Navštívit stránku podpory Solid Explorer</string>
+       <string name="Experimental_feature_notifier">Vezměte prosím na vědomí, že tato funkce je experimentální a na Vaší aktuální verzi Androidu pravděpodobně nebude fungovat správně.</string>
+       <string name="Trial_check_notice">Solid Explorer nemohl ověřit zkušební dobu. Prosím, do dvou dnů aktivujte internetové připojení, jinak bude vaše zkušební doba ukončena.</string>
+       <string name="Back_goes_to_root">Přejít zpět do kořenového adresáře</string>
+       <string name="Back_goes_to_root_summary">Dovolí přejít do kořenového adresáře při stisku tlačítka zpět</string>
+       <string name="Keep_the_screen_on">Nevypínat obrazovku</string>
+       <string name="Keep_the_screen_on_summary">Ponechá obrazovku aktivní během přenosu souborů. Označte, pociťujete-li zpomalení přenosů při vypnuté obrazovce.</string>
+       
 </resources>

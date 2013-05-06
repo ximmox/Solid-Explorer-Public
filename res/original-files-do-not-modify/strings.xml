@@ -254,7 +254,7 @@
     <string name="Calculation_error">Calculation error</string>
     <string name="Content">Content</string>
     <string name="Other_used">Other</string>
-    <string name="Free_space">Free</string>
+    <string name="Free">Free</string>
     <string name="Usage">Usage</string>
     <string name="Attributes">Attributes</string>
     <string name="Read">Read</string>
@@ -524,7 +524,6 @@
     <string name="Adjust_size_of_the_file_list_in_landscape">Adjust size of the file list in landscape mode</string>
     
     <string name="Small">Small</string>
-    <string name="Normal">Normal</string>
     <string name="Big">Big</string>
     <string name="Large">Large</string>
     <string name="Extra_small">Tiny</string>
@@ -626,7 +625,7 @@
    
     <string name="About">About</string>
     <string name="Author_version_and_changelog">Author, version and changelog</string>
-    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Głodowski</string>
     <string name="Version">Version</string>
     <string name="Changelog">Changelog</string>
     <string name="Whats_new">What\'s new</string>
@@ -657,10 +656,8 @@
     <string name="crash_dialog_ok_toast">Thank you!</string>
     
     <string name="Icon_designer">Icon designer</string>
-    <string name="Prefix">Prefix</string>
     <string name="Translations">Translation</string>
     <string name="Translations_summary">Language correction by courtesy of Steven Schoen</string>
-    <string name="Empty">Empty</string>
     <string name="Press_once_again_to_exit">Press once again to exit</string>
     
     
@@ -780,7 +777,7 @@
     	<string name="Wallpaper_has_been_set_successfully">Wallpaper has been set successfully</string>
     	<string name="X_has_been_set_as_default_ringtone">% has been set as default ringtone</string>
     	<string name="X_has_been_set_as_default_notification">% has been set as default notification sound</string>
-    	<string name="X_has_been_set_as_default_alarm">% has been set as default alam sound</string>
+    	<string name="X_has_been_set_as_default_alarm">% has been set as default alarm sound</string>
     	<string name="Copy_path">Copy path</string>
     	<string name="Copy_name">Copy name</string>
     	<string name="Create_symlink">Create symlink</string>
@@ -804,5 +801,45 @@
     	<string name="Support_summary">Visit the Solid Explorer\'s support page</string>
     	<string name="Experimental_feature_notifier">Please note, that this feature is experimental and will likely not work properly on your current Android version.</string>
     	<string name="Trial_check_notice">Solid Explorer could not verify the trial period. Please enable internet connection now or within 2 days. Otherwise your trial period will be over.</string>
+    	<string name="Back_goes_to_root">Back goes to root</string>
+    	<string name="Back_goes_to_root_summary">Allow to go to the root directory when hitting the Back button</string>
+    	<string name="Keep_the_screen_on">Keep the screen on</string>
+    	<string name="Keep_the_screen_on_summary">Keep the screen on during the file transfers. Check, if you experience transfer slowdowns when the screen is off.</string>
+    	
+    <!-- v 1.4.4 -->
+    	<string name="Clear_thumbnails_on_exit">Clear thumbnails on exit</string>
+    	<string name="Image_thumbnails_will_be_removed_on_app_exit">Image thumbnails will be removed on app exit</string>
+		<string name="Toggle_nomedia">Toggle .nomedia file</string>
+		<string name="Total_time">Total time</string>
+		<string name="Average_speed">Average speed</string>
+		<string name="Add_new_item">Add new item</string>
+		<string name="Application_chooser">Application chooser</string>
+		<string name="Manage_associations">Manage associations</string>
+		<string name="Manage_associations_summary">Specify which applications should open desired file types</string>
+		<string name="Choose_an_application">Choose an application</string>
+		<string name="Application">Application</string>
+		<string name="Extension">Extension</string>
+		<string name="No_extension_specified">No extension specified</string>
+		<string name="You_didn_t_choose_the_application">You didn\'t choose the application</string>
+		<string name="Added_to_queue">Added to queue</string>
+		<string name="Streaming">Streaming</string>
+		<string name="There_is_already_the_same_file_in_temporary_directory">There is already the same file in temporary directory. Would you like to open the cached file or download the fresh one?</string>
+		<string name="Download">Download</string>
+		<string name="X_files_updated">% file{1:|__:s} updated</string>
+		<string name="Temporary_file_has_been_modified">The temporary file % has been modified. Would you like to upload it back?</string>
+		<string name="Temporary_files_have_been_modified">% temporary file{1:|__:s} have been modified. Would you like to upload them?</string>
+		<string name="Slide_from_bottom">Slide from bottom</string>
+		<string name="Fall_down">Fall down</string>
+		<string name="Come_in">Come in</string>
+		<string name="Slide_from_right">Slide from right</string>
+		<string name="Slide_from_left">Slide from left</string>
+		<string name="Default">Default</string>
+		<string name="List_animations">List animations</string>
+		<string name="List_animations_summary">Customize file list animations</string>
+		<string name="Clear_filter_history">Clear filter history</string>
+		<string name="Clear_filter_history_summary">Delete list filter\'s query history</string>
+		<string name="New_webdav_connection">WebDav connection</string>
+		<string name="WebDav_bookmarks">WebDav bookmarks</string>
+		
 		
 </resources>

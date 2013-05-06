@@ -9,41 +9,45 @@
     <string name="Cannot_update_the_database">无法更新数据库</string>
     <string name="Error">错误</string>
     
-    <string name="Invalid_password_for_user_x">用户密码无效 \&quot;%\&quot;</string>
+    <string name="Invalid_password_for_user_x">用户或密码无效 \&quot;%\&quot;</string>
     <string name="Invalid_master_password">主密码无效</string>
     <string name="Unable_to_execute_shell_command">无法执行脚本命令</string>
-    <string name="No_root_access_available">没有root权限</string>
+    <string name="No_root_access_available">没有 Root 权限</string>
     <string name="Unable_to_read_root_directory">无法读取根目录</string>
     
     <string name="Operation_has_failed">操作失败</string>
-    <string name="Invalid_file_path">无效的文件路径</string>
+    <string name="Invalid_file_path">无效文件路径</string>
     
     
-    <string name="Cannot_browse_to_x">无法浏览 \&quot;%\&quot;. 发生未知错误.</string>
-    <string name="Cannot_write_to_the_system">无法写入文件系统. 挂载为 读/写 失败.</string>
-    <string name="Requested_file_x_has_not_been_found">请求的文件 \&quot;%\&quot; 不存在.</string>
-    <string name="Unknown_read_write_exception">未知的 读/写 异常.</string>
-    <string name="Invalid_url_x">无效的URL: %</string>
-    <string name="An_error_occured_while_accessing_master_password">访问主密码时发生错误.</string>
-    <string name="Operation_not_allowed">不允许的操作.</string>
-    <string name="Cannot_connect_to_host_x_on_port_y">无法连接至 \&quot;%x\&quot; 的 %y 端口.</string>
-    <string name="Unable_to_resolve_host_x">无法解析主机名 \&quot;%x\&quot;.</string>
+    <string name="Cannot_browse_to_x">无法浏览 \&quot;%\&quot;，发生未知错误。</string>
+    <string name="Cannot_write_to_the_system">无法写入系统文件，挂载文件系统为读/写时失败。</string>
+    <string name="Requested_file_x_has_not_been_found">请求文件 \&quot;%\&quot; 不存在。</string>
+    <string name="Unknown_read_write_exception">未知读/写异常</string>
+    <string name="Invalid_url_x">无效 URL：%</string>
+    <string name="An_error_occured_while_accessing_master_password">访问主密码时发生错误</string>
+    <string name="Operation_not_allowed">该操作不被允许</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">无法连接至 \&quot;%x\&quot; 的 %y 端口</string>
+    <string name="Unable_to_resolve_host_x">无法解析主机名 \&quot;%x\&quot;</string>
     <string name="Server_returned_illegal_response">服务器返回非法响应</string>
-    <string name="An_error_occured_while_transferring_data_from_the_server">从服务器传输数据的过程中发生错误.</string>
-    <string name="Invalid_username_or_password">无效的用户名或密码.</string>
-    <string name="Internal_server_error">服务器内部错误.</string>
-    <string name="Server_response_x">服务器响应: %x</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">从服务器传输数据的过程中发生错误</string>
+    <string name="Invalid_username_or_password">无效用户名或密码</string>
+    <string name="Internal_server_error">服务器内部错误</string>
+    <string name="Server_response_x">服务器响应：%x</string>
     <string name="Unable_to_open_the_file_for_reading">无法打开并读取文件</string>
-    <string name="Unable_to_write_the_file_to_x">无法写入文件到 \&quot;%x\&quot;.</string>
-    <string name="Unable_to_connect_to_the_x">无法连接到 %x.</string>
+    <string name="Unable_to_write_the_file_to_x">无法写入文件至 \&quot;%x\&quot;</string>
+    <string name="Unable_to_connect_to_the_x">无法连接至 %x.</string>
     <string name="Unknown_error">未知错误</string>
     <string name="Cannot_create_directory_X">无法创建目录 \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">无法在 % 端口上开启服务</string>
     
-    <string name="Invalid_position">无效的位置</string>
+    <string name="Invalid_position">无效位置</string>
     <string name="Unable_to_delete_file_x">无法删除文件 %</string>
-    <string name="Unable_to_mount_the_system_as_read_write">无法挂载系统目录为 读/写</string>
-    <string name="Unable_to_mount_the_system_as_read_only">无法挂载系统目录为 只读</string>
+    <string name="Unable_to_mount_the_system_as_read_write">无法挂载系统目录为读/写</string>
+    <string name="Unable_to_mount_the_system_as_read_only">无法挂载系统目录为只读</string>
     <string name="Access_denied">访问被拒绝</string>
+    
+     <!-- 1.4.3 -->
+    <string name="Unlocker_error">解锁密钥已找到，但是却返回了一个错误信息。这通常是由于另外一个应用程序锁定了它的权限所造成的，比如杀毒软件等。请确保 Solid Explorer 和解锁密钥没有在任何黑名单之中，并重新打开应用重试。</string>
+    <string name="Unable_to_get_the_link">无法获得连接信息</string>
     
 </resources>
