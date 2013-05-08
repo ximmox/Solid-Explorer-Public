@@ -748,12 +748,12 @@
        <string name="Add_new_item">Přidat novou položku</string>
        <string name="Application_chooser">Výběr aplikací</string>
        <string name="Manage_associations">Správa asociací</string>
-       <string name="Manage_associations_summary">Zvolte, které aplikace budou otevírat požadované typy souborů</string>
+       <string name="Manage_associations_summary">Zvolte, které aplikace mají otevírat požadované typy souborů</string>
        <string name="Choose_an_application">Zvolte aplikaci</string>
        <string name="Application">Aplikace</string>
        <string name="Extension">Přípona</string>
-       <string name="No_extension_specified">Nebyla zvolena přípona</string>
-       <string name="You_didn_t_choose_the_application">Nebyla zvolena aplikace</string>
+       <string name="No_extension_specified">Nebyla určena žádná přípona</string>
+       <string name="You_didn_t_choose_the_application">Nebyla zvolena žádná aplikace</string>
        <string name="Added_to_queue">Zařazeno do fronty</string>
        <string name="Streaming">Streaming</string>
        <string name="There_is_already_the_same_file_in_temporary_directory">Stejný soubor již existuje ve složce s dočasnými soubory. Přejete si otevřít již stažený soubor, nebo stáhnout nový?</string>
