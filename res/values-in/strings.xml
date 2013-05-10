@@ -477,8 +477,8 @@
 	<string name="Wrap_lines">Penggal baris</string>
 	<string name="Font_size">Ukuran huruf</string>
 	<string name="Font">Jenis Huruf</string>
-	<string name="App_default">Aplikasi semula</string><!-- check needed -->
-	<string name="System_default">Sistem semula</string>
+	<string name="App_default">Aplikasi standar</string><!-- check needed -->
+	<string name="System_default">Standar sistem</string>
 	<string name="Serif">Serif</string>
 	<string name="Monospace">Monospace</string>
 	<string name="File_saved_successfully">File telah berhasil disimpan</string>
@@ -543,7 +543,7 @@
 	<string name="Change_pictures_directory">Ganti direktori gambar</string>
 	<string name="Change_downloads_directory">Ganti direktori unduhan</string>
 	
-	<string name="Drag_and_drop">Geser dan Lepas</string>
+	<string name="Drag_and_drop">Tarik dan Lepas</string>
 	<string name="Action_for_drop_inside_the_panel">Aksi pada panel yang sama</string>
 	<string name="Dropping_an_item_to_a_folder_in_the_same_panel">Melepaskan barang pada direktori pada panel yang sama</string>
 	<string name="Action_for_drop_to_the_second_panel">Aksi pada panel kedua</string>
@@ -573,9 +573,9 @@
 	
 	
 	<string name="Search_interface">Tampilan pencarian</string>
-	<string name="Search_key_starts_filtering">Tombol cari lansung proses filter</string>
+	<string name="Search_key_starts_filtering">Tombol cari langsung proses filter</string>
 	<string name="Search_key_starts_filtering_summary">Mulai proses penyaringan daftar daripada menjalankan aplikasi pencarian</string>
-	<string name="Match_only_beginning_of_the_word_when_filtering_the_list">Hanya cocok dengan awal kata pada saat proses penyaringan daftar</string>
+	<string name="Match_only_beginning_of_the_word_when_filtering_the_list">Mencocokkan dengan awal kata pada saat proses penyaringan daftar</string>
 	<string name="Filter_words_from_the_beginning">Filter kata dari awal</string>
 	<string name="Customize_indexing_engine_behaviour">Kustomisasi perilaku proses indeks</string>
 	<string name="Indexing_engine">Mesin indeks</string>
@@ -675,7 +675,7 @@
 	<string name="Columns">Kolom</string>
 	<string name="No_computers_found">Komputer tidak ditemukan</string>
 	<string name="Local_directory">Direktori lokal</string>
-	<string name="Default_panel">Panel semula</string>
+	<string name="Default_panel">Panel awal</string>
 	<string name="Destination_type">Jenis tujuan</string>
 	<string name="DiskUsage_not_installed">Sepertinya aplikasi DiskUsage tidak terpasang. Aplikasi ini menampilkan penggunaan memory secara mudah dan menarik. Apakah anda mau memasangnya sekarang ?</string>
 	<string name="Text_copied_to_clipboard">Teks telah disalin ke papan tulis</string>
@@ -691,10 +691,10 @@
 	<string name="Two_panels_in_landscape">Dua panel modus tidur</string>
 	<string name="Restart_prompt">Aplikasi harus dijalankan ulang agar perubahan menjadi efektif. Lanjutkan ?</string>
 	<string name="Custom_color_scheme">Kustomisasi warna</string>
-	<string name="Custom_color_scheme_summary">Kustomisasi semua warna. Hal ini akan membuat proses awal aplikasi menjadi sangat lama.</string>
+	<string name="Custom_color_scheme_summary">Kustomisasi warna folder. Hal ini akan membuat proses aplikasi menjadi lebih lama.</string>
 	<string name="Color_scheme">Set warna</string>
 	<string name="Color_scheme_summary">Merubah hue dan saturation daripada set warna berikut</string>
-	<string name="Change_color_scheme">Merubah set warna</string>
+	<string name="Change_color_scheme">Merubah warna</string>
 	<string name="Hue">Hue</string>
 	<string name="Saturation">Saturation</string>
 	<string name="SolidExplorer_is_running">Solid Explorer sedang berjalan</string>
