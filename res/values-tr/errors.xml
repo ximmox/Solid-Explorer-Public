@@ -53,7 +53,7 @@
     <string name="Unable_to_get_the_link">Bağlantı alınamıyor</string>
     
         <!-- 1.4.3 -->
-    <string name="Unlocker_error">Tam sürüm uygulaması bulundu ancak hata bildirdi. Bu genelde uygulamanın bir başka uygulama tarafından (ör. antivirüs uygulaması) yetkisinin kısıtlanmasından dolayı olur. Solid Explorer'ın ve tam sürüm uygulamasının herhangi bir uygulama üzerinde kara listede olmadığına emin olun ve uygulamayı tekrar çalıştırın.</string>
+    <string name="Unlocker_error">Tam sürüm uygulaması bulundu ancak hata bildirdi. Bu genelde uygulamanın bir başka uygulama tarafından (ör. antivirüs uygulaması) yetkisinin kısıtlanmasından dolayı olur. Solid Explorer\'ın ve tam sürüm uygulamasının herhangi bir uygulama üzerinde kara listede olmadığına emin olun ve uygulamayı tekrar çalıştırın.</string>
     <string name="Unable_to_get_the_link">Bağlantı adresi alınamadı</string>
     
 </resources>
