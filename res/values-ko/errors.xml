@@ -1,43 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Directory_does_not_exists">The directory does not exist</string>
+    <string name="Directory_does_not_exists">해당 폴더가 존재하지 않습니다</string>
     
-    <string name="Unable_to_read_the_file">Unable to read the file</string>
-    <string name="Illegal_operation">Illegal operation</string>
-    
-    
-    <string name="Cannot_update_the_database">Cannot update the database</string>
-    <string name="Error">Error</string>
-    
-    <string name="Invalid_password_for_user_x">Invalid password for user \&quot;%\&quot;</string>
-    <string name="Invalid_master_password">Invalid master password</string>
-    <string name="Unable_to_execute_shell_command">Unable to execute shell command</string>
-    <string name="No_root_access_available">No root access available</string>
-    <string name="Unable_to_read_root_directory">Unable to read root directory</string>
-    
-    <string name="Operation_has_failed">Operation failed</string>
-    <string name="Invalid_file_path">Invalid file path</string>
+    <string name="Unable_to_read_the_file">파일을 읽을 수 없습니다</string>
+    <string name="Illegal_operation">잘못된 동작</string>
     
     
-    <string name="Cannot_browse_to_x">Cannot browse to \&quot;%\&quot;. An unknown error occured.</string>
-    <string name="Cannot_write_to_the_system">Cannot write to the filesystem. Mount as read/write has failed.</string>
-    <string name="Requested_file_x_has_not_been_found">Requested file \&quot;%\&quot; was not found.</string>
-    <string name="Unknown_read_write_exception">Unknown read/write exception.</string>
-    <string name="Invalid_url_x">Invalid URL: %</string>
-    <string name="An_error_occured_while_accessing_master_password">An error occured while accessing the master password.</string>
-    <string name="Operation_not_allowed">Operation not allowed.</string>
-    <string name="Cannot_connect_to_host_x_on_port_y">Cannot connect to \&quot;%x\&quot; on port %y.</string>
-    <string name="Unable_to_resolve_host_x">Unable to resolve hostname \&quot;%x\&quot;.</string>
-    <string name="Server_returned_illegal_response">The server returned an illegal response</string>
-    <string name="An_error_occured_while_transferring_data_from_the_server">An error occured while transferring data from the server.</string>
-    <string name="Invalid_username_or_password">Invalid username or password.</string>
-    <string name="Internal_server_error">Internal server error.</string>
-    <string name="Server_response_x">Server response: %x</string>
-    <string name="Unable_to_open_the_file_for_reading">Unable to open the file for reading</string>
-    <string name="Unable_to_write_the_file_to_x">Unable to write the file to \&quot;%x\&quot;.</string>
-    <string name="Unable_to_connect_to_the_x">Unable to connect to the %x.</string>
-    <string name="Unknown_error">Unknown error</string>
-    <string name="Cannot_create_directory_X">Cannot create directory \&quot;%x\&quot;</string>
-    <string name="Unable_to_start_the_service_on_port_x">Unable to start the service on port %</string>
+    <string name="Cannot_update_the_database">DB를 업데이트 할 수 없습니다</string>
+    <string name="Error">오류</string>
+    
+    <string name="Invalid_password_for_user_x">\&quot;%\&quot; 사용자의 비밀번호가 올바르지 않습니다 </string>
+    <string name="Invalid_master_password">마스터 비밀번호가 잘못되었습니다</string>
+    <string name="Unable_to_execute_shell_command">명령어를 실행할 수 없습니다</string>
+    <string name="No_root_access_available">루트권한 사용할 수 없습니다</string>
+    <string name="Unable_to_read_root_directory">루트 디렉토리를 읽을 수 없습니다</string>
+    
+    <string name="Operation_has_failed">동작 실패</string>
+    <string name="Invalid_file_path">잘못된 파일 경로</string>
+    
+    
+    <string name="Cannot_browse_to_x">\&quot;%\&quot;를 검색할 수 없습니다. 알 수 없는 오류 발생.</string>
+    <string name="Cannot_write_to_the_system">파일시스템에 쓰기를 할 수 없습니다. 읽기/쓰기 마운트에 실패하였습니다.</string>
+    <string name="Requested_file_x_has_not_been_found">요청된 \&quot;%\&quot; 파일을 찾을 수 없습니다.</string>
+    <string name="Unknown_read_write_exception">알 수 없는 읽기/쓰기 오류 발생.</string>
+    <string name="Invalid_url_x">잘못된 URL: %</string>
+    <string name="An_error_occured_while_accessing_master_password">마스트 비밀번호로 접근하는 동안 오류가 발생하였습니다.</string>
+    <string name="Operation_not_allowed">허용되지 않은 동작입니다.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">호스트 \&quot;%x\&quot; 포트 %y 로 접속할 수 없습니다.</string>
+    <string name="Unable_to_resolve_host_x">\&quot;%x\&quot; 호스트명을 찾을 수 없습니다.</string>
+    <string name="Server_returned_illegal_response">서버에서 잘못된 응답을 반환하였습니다</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">서버에서 데이타 전송 중 오류가 발생하였습니다.</string>
+    <string name="Invalid_username_or_password">이름이나 비밀번호를 잘못 입력하였습니다.</string>
+    <string name="Internal_server_error">서버 내부 오류.</string>
+    <string name="Server_response_x">서버 응답: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">파일을 읽기 위해 열 수 없습니다</string>
+    <string name="Unable_to_write_the_file_to_x">\&quot;%x\&quot;파일에 쓰기를 할 수 없습니다.</string>
+    <string name="Unable_to_connect_to_the_x">%x 에 접속할 수 없습니다.</string>
+    <string name="Unknown_error">알 수 없는 오류</string>
+    <string name="Cannot_create_directory_X">\&quot;%x\&quot;디렉토리를 생성할 수 없습니다</string>
+    <string name="Unable_to_start_the_service_on_port_x">% 포트로 서비스를 시작할 수 없습니다</string>
+    
+    <string name="Invalid_position">잘못된 위치</string>
+    <string name="Unable_to_delete_file_x">% 파일을 삭제할 수 없습니다</string>
+    <string name="Unable_to_mount_the_system_as_read_write">시스템의 읽기/쓰기 마운트를 실패하였습니다</string>
+    <string name="Unable_to_mount_the_system_as_read_only">시스템의 읽기 마운트를 실패하였습니다</string>
+    <string name="Access_denied">접근 거부</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">이 동작을 완료하기 위한 액티비티를 찾을 수 없습니다</string>
+    <string name="Unable_to_set_the_wallpaper">배경화면으로 설정할 수 없습니다</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Unlocker가 발견되었으나 오류가 발생되었습니다. 보통 다른 앱이 권한을 차단할 때 발생합니다 (예, 안티바이러스 앱). Solid Explorer와 Unlocker를 블랙리스트로부터 해제하시고 앱을 다시 실행하세요.</string>
+    <string name="Unable_to_get_the_link">링크를 얻을 수 없습니다</string>
     
 </resources>
