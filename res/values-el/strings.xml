@@ -1,418 +1,418 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     
     
     
     <!-- bottom toolbar -->
-    <string name="New">Νέο</string>
-    <string name="Jump">Μετάβαση</string>
-    <string name="Filter">Φίλτρο</string>
-    <string name="Menu">Μενού</string>
-    <string name="Actions">Ενέργειες</string>
+    <string name="New">New</string>
+    <string name="Jump">Jump</string>
+    <string name="Filter">Filter</string>
+    <string name="Menu">Menu</string>
+    <string name="Actions">Actions</string>
     
     <!-- "New" popup -->
-    <string name="New_folder">Φάκελος</string>
-    <string name="New_file">Αρχείο</string>
-    <string name="New_FTP_connection">Σύνδεση FTP</string>
-    <string name="New_SFTP_connection">Σύνδεση SFTP</string>
-    <string name="New_SMB_connection">Σύνδεση SMB</string>
-    <string name="New_cloud_connection">Σύνδεση Cloud</string>
+    <string name="New_folder">Folder</string>
+    <string name="New_file">File</string>
+    <string name="New_FTP_connection">FTP connection</string>
+    <string name="New_SFTP_connection">SFTP connection</string>
+    <string name="New_SMB_connection">SMB connection</string>
+    <string name="New_cloud_connection">Cloud connection</string>
     
     <!-- "Actions" popup -->
     
-    <string name="Copy">Αντιγραφή</string>
-    <string name="Cut">Αποκοπή</string>
-    <string name="Paste">Επικόλληση</string>
-    <string name="Delete">Διαγραφή</string>
-    <string name="Properties">Ιδιότητες</string>
-    <string name="Select_all">Επιλογή όλων</string>
-    <string name="Select">Επιλογή</string>
+    <string name="Copy">Copy</string>
+    <string name="Cut">Cut</string>
+    <string name="Paste">Paste</string>
+    <string name="Delete">Delete</string>
+    <string name="Properties">Properties</string>
+    <string name="Select_all">Select all</string>
+    <string name="Select">Select</string>
     
     <!-- "Jump" popup -->
     
-    <string name="Device">Μνήμη</string>
-    <string name="Photos">Φωτογραφίες</string>
-    <string name="Downloads">Λήψεις</string>
-    <string name="Network">Δίκτυο</string>
-    <string name="Bookmarks">Σελιδοδείκτες</string>
-    <string name="No_bookmarks">Κανένας σελιδοδείκτης</string>
+    <string name="Device">Device</string>
+    <string name="Photos">Photos</string>
+    <string name="Downloads">Downloads</string>
+    <string name="Network">Network</string>
+    <string name="Bookmarks">Bookmarks</string>
+    <string name="No_bookmarks">No bookmarks</string>
     
     <!-- "Menu" popup -->
-    <string name="View">Προβολή</string>
-    <string name="Sort">Ταξινόμηση</string>
-    <string name="Search">Αναζήτηση</string>
-    <string name="Operations">Ενέργειες</string>
-    <string name="Manage_bookmarks">Διαχείριση σελιδοδεικτών</string>
-    <string name="File_sharing">Κοινή χρήση</string>
-    <string name="Settings">Ρυθμίσεις</string>
-    <string name="Exit">Έξοδος</string>
+    <string name="View">View</string>
+    <string name="Sort">Sort</string>
+    <string name="Search">Search</string>
+    <string name="Operations">Operations</string>
+    <string name="Manage_bookmarks">Manage bookmarks</string>
+    <string name="File_sharing">File sharing</string>
+    <string name="Settings">Settings</string>
+    <string name="Exit">Exit</string>
     
     <!-- "Network" popup -->
-    <string name="Cloud_storage">Αποθηκευτικός χώρος Cloud</string>
+    <string name="Cloud_storage">Cloud storage</string>
     
     <!-- "Device" popup -->
-     <string name="System_root">Ριζικός κατάλογος</string>
-    <string name="SD_card">Κάρτα SD</string>
-    <string name="Internal_memory">Εσωτερική μνήμη</string>
-    <string name="USB_drive_x">Δίσκος USB %x</string>
+     <string name="System_root">System root</string>
+    <string name="SD_card">SD card</string>
+    <string name="Internal_memory">Internal memory</string>
+    <string name="USB_drive_x">USB drive %x</string>
     
     <!-- "View" popup -->
-    <string name="View_mode">Τρόπος προβολής</string>
-    <string name="List">Λίστα</string>
-    <string name="Detailed_list">Λεπτομερής λίστα</string>
-    <string name="Grid">Πλέγμα</string>
-    <string name="Detailed_grid">Λεπτομερές πλέγμα</string>
+    <string name="View_mode">View mode</string>
+    <string name="List">List</string>
+    <string name="Detailed_list">Detailed list</string>
+    <string name="Grid">Grid</string>
+    <string name="Detailed_grid">Detailed grid</string>
     
     <!-- "Sort" popup -->
-    <string name="Sort_files_by">Ταξινόμηση αρχείων κατά</string>
-    <string name="File_name">Όνομα αρχείου</string>
-    <string name="File_size">Μέγεθος αρχείου</string>
-    <string name="File_type">Τύπο αρχείου</string>
-    <string name="Modified_date">Ημερομηνία τροποποίησης</string>
-    <string name="Ascending">Αύξουσα</string>
-    <string name="Descending">Φθίνουσα</string>
-    <string name="In_order">Σε σειρά</string>
+    <string name="Sort_files_by">Sort files by</string>
+    <string name="File_name">File name</string>
+    <string name="File_size">File size</string>
+    <string name="File_type">File type</string>
+    <string name="Modified_date">Modified date</string>
+    <string name="Ascending">Ascending</string>
+    <string name="Descending">Descending</string>
+    <string name="In_order">In order</string>
     
     <!-- Browser switch popup -->
-    <string name="Active_browser">Ενεργός πλοηγός</string>
-    <string name="Close_all">Κλείσιμο όλων</string>
-    <string name="In_background">Στο παρασκήνιο</string>
+    <string name="Active_browser">Active browser</string>
+    <string name="Close_all">Close all</string>
+    <string name="In_background">In background</string>
     
     
     
     <!-- Context menu -->
-    <string name="Open_with">Άνοιγμα με...</string>
-    <string name="Open_in_bg">Άνοιγμα σε νέα καρτέλα</string>
-    <string name="Send">Αποστολή</string>
-    <string name="Bookmark">Σελιδοδείκτης</string>
-    <string name="Rename">Μετονομασία</string>
-    <string name="Extract">Εξαγωγή</string>
-    <string name="Extract_to">Εξαγωγή στο</string>
-    <string name="Archive">Συμπίεση</string>
-    <string name="Paste_to_x">Επικόλληση στο \&quot;%\&quot;</string>
+    <string name="Open_with">Open with...</string>
+    <string name="Open_in_bg">Open beside</string>
+    <string name="Send">Send</string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="Rename">Rename</string>
+    <string name="Extract">Extract</string>
+    <string name="Extract_to">Extract to</string>
+    <string name="Archive">Archive</string>
+    <string name="Paste_to_x">Paste to \&quot;%\&quot;</string>
     
     
     <!-- Dialogs -->
     <string name="OK">OK</string>
-    <string name="Cancel">Άκυρο</string>
-    <string name="Yes">Ναι</string>
-    <string name="No">Όχι</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
     
 	    <!-- New folder/file dialog -->
-	    <string name="Enter_the_name">Εισαγάγετε το όνομα</string>
+	    <string name="Enter_the_name">Enter the name</string>
 	    
 	    <!-- New connection Dialog -->
-	    <string name="Display_name">Εμφανιζόμενο όνομα</string>
-	    <string name="May_be_empty">Μπορεί να είναι κενό</string>
-    	<string name="Remote_path">Απομακρυσμένη διαδρομή</string>
-    	<string name="Port">Θύρα</string>
-    	<string name="User_name">Όνομα χρήστη</string>
-    	<string name="Password">Κωδικός</string>
-    	<string name="Repeat_the_password">Επαλήθευση κωδικού</string>
-    	<string name="Authentication_method">Μέθοδος πιστοποίησης</string>
-    	<string name="Server">Διακομιστής</string>
-    	<string name="Connection_type">Τύπος σύνδεσης</string>
-    	<string name="Scan">Σάρωση</string>
-    	<string name="Computer_name_or_IP_adress">Όνομα υπολογιστή ή διεύθυνση IP</string>
-    	<string name="Looking_for_computers">Αναζήτηση για υπολογιστές</string>
-    	<string name="Share">Διαμοιρασμός SMB</string>
+	    <string name="Display_name">Display name</string>
+	    <string name="May_be_empty">May be empty</string>
+    	<string name="Remote_path">Remote path</string>
+    	<string name="Port">Port</string>
+    	<string name="User_name">User name</string>
+    	<string name="Password">Password</string>
+    	<string name="Repeat_the_password">Confirm password</string>
+    	<string name="Authentication_method">Authentication method</string>
+    	<string name="Server">Server</string>
+    	<string name="Connection_type">Connection type</string>
+    	<string name="Scan">Scan</string>
+    	<string name="Computer_name_or_IP_adress">Computer name or IP address</string>
+    	<string name="Looking_for_computers">Looking for computers</string>
+    	<string name="Share">SMB share</string>
     	
     		<!-- Auth methods -->
-    		<string name="Ask_for_password_each_time">Ερώτηση για κωδικό κάθε φορά</string>
-        	<string name="Store_encrypted_password">Αποθήκευση κρυπτογραφημένου κωδικού</string>
-        	<string name="No_password_required">Δεν απαιτείται κωδικός</string>
-        	<string name="Anonymous">Ανώνυμος</string>
-        	<string name="Log_in_as_a_guest">Σύνδεση ως επισκέπτης</string>
+    		<string name="Ask_for_password_each_time">Ask for a password each time</string>
+        	<string name="Store_encrypted_password">Store encrypted password</string>
+        	<string name="No_password_required">No password required</string>
+        	<string name="Anonymous">Anonymous</string>
+        	<string name="Log_in_as_a_guest">Log in as a guest</string>
         	
         	<!-- FTP types -->
-        	<string name="FTP_no_encryption">FTP (χωρίς κρυπτογράφηση)</string>
-        	<string name="FTPS_implicit_encryption">FTPS (έμμεση κρυπτογράφηση)</string>
-        	<string name="FTPES_explicit_encryption">FTPES (ρητή κρυπτογράφηση)</string>
+        	<string name="FTP_no_encryption">FTP (no encryption)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (implicit encryption)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (explicit encryption)</string>
         
     <!-- Search activity -->	
-    <string name="Manual_search">Χειροκίνητη αναζήτηση</string>
-    <string name="Results_from">Αποτελέσματα από:</string>
-    <string name="No_results">Κανένα αποτέλεσμα</string>
-    <string name="Matches">Συμφωνούν</string>
-    <string name="Selected">Επιλεγμένα</string>
-    <string name="Match_mode">Μέθοδος συμφωνίας</string>
-    <string name="Match_start">Συμφωνία αρχής</string>
-    <string name="Match_any">Συμφωνία οπουδήποτε</string>
-    <string name="Match_end">Συμφωνία τέλους</string>
+    <string name="Manual_search">Manual search</string>
+    <string name="Results_from">Results from:</string>
+    <string name="No_results">No results</string>
+    <string name="Matches">Matches</string>
+    <string name="Selected">Selected</string>
+    <string name="Match_mode">Match mode</string>
+    <string name="Match_start">Match start</string>
+    <string name="Match_any">Match any</string>
+    <string name="Match_end">Match end</string>
     
     <!-- Operations activity -->
-    <string name="History_is_empty">Το ιστορικό είναι κενό</string>
-    <string name="Current_operation">Τρέχουσα ενέργεια</string>
-    <string name="No_pending_operation">Δεν εκκρεμούν ενέργειες</string>
-    <string name="History">Ιστορικό</string>
-    <string name="Count">Πλήθος</string>
-    <string name="Date">Ημερομηνία</string>
-    <string name="Source">Πηγή</string>
-    <string name="Destination">Προορισμός</string>
+    <string name="History_is_empty">History is empty</string>
+    <string name="Current_operation">Current operation</string>
+    <string name="No_pending_operation">No pending operations</string>
+    <string name="History">History</string>
+    <string name="Count">Count</string>
+    <string name="Date">Date</string>
+    <string name="Source">Source</string>
+    <string name="Destination">Destination</string>
     
     	<!-- Operation info -->
-    	<string name="Operation">Ενέργεια</string>
-    	<string name="From">Από</string>
-    	<string name="To">Προς</string>
-    	<string name="Size">Μέγεθος</string>
-    	<string name="Speed">Ταχύτητα</string>
-    	<string name="ETA">Απομένουν</string>
-    	<string name="NA">Μη διαθ.</string>
-    	<string name="Current">Τρέχουσα</string>
+    	<string name="Operation">Operation</string>
+    	<string name="From">From</string>
+    	<string name="To">To</string>
+    	<string name="Size">Size</string>
+    	<string name="Speed">Speed</string>
+    	<string name="ETA">ETA</string>
+    	<string name="NA">N/A</string>
+    	<string name="Current">Current</string>
     	
     	<!-- Operation descriptions -->
-    	<string name="File_copy">Αντιγραφή αρχείων</string>
-    	<string name="File_move">Μετακίνηση αρχείων</string>
-    	<string name="File_delete">Διαγραφή αρχείων</string>
-    	<string name="Temporary_download">Προσωρινή λήψη</string>
-   	 	<string name="Creating_archive">Συμπίεση του %</string>
-    	<string name="Extracting_archive">Εξαγωγή του %</string>
-    	<string name="X_has_been_completed">Η % έχει ολοκληρωθεί.</string>
-    	<string name="X_has_failed">Η % έχει αποτύχει.</string>
-    	<string name="Tap_to_show_details">Πατήστε για εμφάνιση λεπτομερειών</string>
-    	<string name="Pending_cancel_request">Εκκρεμεί αίτηση ακύρωσης</string>
-    	<string name="File_operation">Ενέργεια αρχείων</string>
+    	<string name="File_copy">File copy</string>
+    	<string name="File_move">File move</string>
+    	<string name="File_delete">File delete</string>
+    	<string name="Temporary_download">Temporary download</string>
+   	 	<string name="Creating_archive">Creating % archive</string>
+    	<string name="Extracting_archive">Extracting % archive</string>
+    	<string name="X_has_been_completed">% has been completed.</string>
+    	<string name="X_has_failed">% has failed.</string>
+    	<string name="Tap_to_show_details">Tap to show details</string>
+    	<string name="Pending_cancel_request">Pending cancel request</string>
+    	<string name="File_operation">File operation</string>
     
     <!-- Bookmark manager -->
-    <string name="Bookmark_manager">Διαχειριστής σελιδοδεικτών</string>
-    <string name="Edit">Επεξεργασία</string>
-    <string name="Disconnect">Αποσύνδεση</string>
-    <string name="Delete_all">Διαγραφή όλων</string>
-    <string name="Wifi_toggle">Εναλλαγή WiFi</string>
-    <string name="Wifi_settings">Ρυθμίσεις WiFi</string>
-    <string name="Disconnect_all">Αποσύνδεση όλων</string>
-    <string name="Connected">Συνδεδεμένο</string> 
-    <string name="Not_connected">Αποσυνδεδεμένο</string>
-    <string name="on">ενεργό</string>
-    <string name="Local_bookmarks">Τοπικοί σελιδοδείκτες</string>
-    <string name="FTP_bookmarks">Σελιδοδείκτες FTP</string>
-    <string name="SFTP_bookmarks">Σελιδοδείκτες SFTP</string>
-    <string name="SMB_bookmarks">Σελιδοδείκτες SMB</string>
-    <string name="Cloud_bookmarks">Σελιδοδείκτες Cloud</string>
-    <string name="Edit_bookmark">Επεξεργασία σελιδοδείκτη</string>
-    <string name="Name">Όνομα</string>
-    <string name="Path">Διαδρομή</string>
+    <string name="Bookmark_manager">Bookmark manager</string>
+    <string name="Edit">Edit</string>
+    <string name="Disconnect">Disconnect</string>
+    <string name="Delete_all">Delete all</string>
+    <string name="Wifi_toggle">Toggle Wi-Fi</string>
+    <string name="Wifi_settings">Wi-Fi settings</string>
+    <string name="Disconnect_all">Disconnect all</string>
+    <string name="Connected">Connected</string> 
+    <string name="Not_connected">Not connected</string>
+    <string name="on">on</string>
+    <string name="Local_bookmarks">Local bookmarks</string>
+    <string name="FTP_bookmarks">FTP bookmarks</string>
+    <string name="SFTP_bookmarks">SFTP bookmarks</string>
+    <string name="SMB_bookmarks">SMB bookmarks</string>
+    <string name="Cloud_bookmarks">Cloud bookmarks</string>
+    <string name="Edit_bookmark">Edit bookmark</string>
+    <string name="Name">Name</string>
+    <string name="Path">Path</string>
     
     <!-- Dir picker -->
-    <string name="Pick_a_directory">Επιλέξτε έναν κατάλογο</string>
+    <string name="Pick_a_directory">Choose a directory</string>
     
     <!-- Cloud storage dialog -->
-    <string name="Cloud_storage_services">Υπηρεσίες αποθηκευτικού χώρου Cloud</string>
-    <string name="Cloud_services_description">Επιλέξτε μια υπηρεσία αποθηκευτικού χώρου cloud</string>
+    <string name="Cloud_storage_services">Cloud storage services</string>
+    <string name="Cloud_services_description">Choose your cloud storage service</string>
     
     <!-- File sharing -->
-    <string name="File_sharing_active">Κοινή χρήση ενεργή</string>
-    <string name="ftp_server_hint">Για σύνδεση, πληκτρολογήστε τη διεύθυνση του διακομιστή στη γραμμή διεύθυνσης της Εξερεύνησης των Windows ή χρησιμοποιήστε οποιονδήποτε πελάτη FTP.</string>
-    <string name="You_cannot_share_root_directory">Δεν είναι δυνατή η κοινή χρήση του ριζικού καταλόγου</string>
-    <string name="File_sharing_stopped">Η κοινή χρήση αρχείων σταμάτησε</string>
-    <string name="None">Κανένα</string>
-    <string name="You_have_to_be_connected_to_the_LAN_network">Πρέπει να έχετε συνδεθεί σε ένα δίκτυο LAN</string>
-    <string name="Active">Ενεργό</string>
-    <string name="Inactive">Ανενεργό</string>
-    <string name="FTP_Server">Διακομιστής FTP</string>
-    <string name="Shared_directory">Κοινόχρηστος κατάλογος</string>
-    <string name="Type_to_change">Πληκτρολογήστε για αλλαγή</string>
-    <string name="No_password_set">Δεν ορίστηκε κωδικός</string>
-    <string name="Status">Κατάσταση</string>
-    <string name="Server_address">Διεύθυνση διακομιστή</string>
-    <string name="Start">Έναρξη</string>
-    <string name="Stop">Τερματισμός</string>
+    <string name="File_sharing_active">File sharing active</string>
+    <string name="ftp_server_hint">To connect, type the server\'s address in the Windows Explorer address bar, or use any FTP client.</string>
+    <string name="You_cannot_share_root_directory">You cannot the share root directory</string>
+    <string name="File_sharing_stopped">File sharing stopped</string>
+    <string name="None">None</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">You must be connected to a local network</string>
+    <string name="Active">Active</string>
+    <string name="Inactive">Inactive</string>
+    <string name="FTP_Server">FTP Server</string>
+    <string name="Shared_directory">Shared directory</string>
+    <string name="Type_to_change">Type to change</string>
+    <string name="No_password_set">No password set</string>
+    <string name="Status">Status</string>
+    <string name="Server_address">Server address</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
     
     
     <!-- Archive dialog -->
-    <string name="Create_archive_dialog_title">Συμπίεση αρχείων </string>
-    <string name="Archive_name">Όνομα</string>
-    <string name="Compression">Συμπίεση</string>
-    <string name="Format">Τύπος</string>
-    <string name="Use_password_protection">Χρήση προστασίας με κωδικό</string>
-    <string name="Fast">Γρήγορη</string>
-    <string name="Normal">Κανονική</string>
-    <string name="Good">Καλή</string>
-    <string name="Best">Η καλύτερη</string>
+    <string name="Create_archive_dialog_title">Create archive</string>
+    <string name="Archive_name">Archive name</string>
+    <string name="Compression">Compression</string>
+    <string name="Format">Format</string>
+    <string name="Use_password_protection">Use password protection</string>
+    <string name="Fast">Fast</string>
+    <string name="Normal">Normal</string>
+    <string name="Good">Good</string>
+    <string name="Best">Best</string>
     
     <!-- File properties -->
-    <string name="Content_summary">Σύνοψη περιεχομένων</string>
-    <string name="File_types">Τύποι αρχείων</string>
-    <string name="Top_files">Τα κορυφαία % αρχεία</string>
-    <string name="Location">Τοποθεσία</string>
-    <string name="Type">Τύπος</string>
-    <string name="Parent_path">Γονική διαδρομή</string>
-    <string name="Last_modified">Τελευταία τροποποίηση</string>
-    <string name="Directory">Κατάλογος</string>
-    <string name="Unknown">Άγνωστο</string>
-    <string name="Symbolic_link">Συμβολικός σύνδεσμος</string>
-    <string name="Link_target">Προορισμός συνδέσμου</string>
-    <string name="Open">Άνοιγμα</string>
-    <string name="Open_directory">Άνοιγμα καταλόγου</string>
+    <string name="Content_summary">Content summary</string>
+    <string name="File_types">File types</string>
+    <string name="Top_files">Top % files</string>
+    <string name="Location">Location</string>
+    <string name="Type">Type</string>
+    <string name="Parent_path">Parent path</string>
+    <string name="Last_modified">Last modified</string>
+    <string name="Directory">Directory</string>
+    <string name="Unknown">Unknown</string>
+    <string name="Symbolic_link">Symbolic link</string>
+    <string name="Link_target">Link target</string>
+    <string name="Open">Open</string>
+    <string name="Open_directory">Open directory</string>
     <string name="MD5">MD5</string>
-    <string name="Calculate">Υπολογισμός</string>
-    <string name="Compare">Σύγκριση</string>
-    <string name="Paste_to_compare">Επικόλληση για σύγκριση</string>
-    <string name="Files">Αρχεία</string>
-    <string name="Folders">Φάκελοι</string>
-    <string name="Calculation_error">Σφάλμα υπολογισμού</string>
-    <string name="Content">Κατειλημμένα</string>
-    <string name="Other_used">Άλλα</string>
-    <string name="Free_space">Ελεύθερα</string>
-    <string name="Usage">Χρήση</string>
-    <string name="Attributes">Χαρακτηριστικά</string>
-    <string name="Read">Ανάγνωση</string>
-    <string name="Write">Εγγραφή</string>
-    <string name="Hidden">Κρυφά</string>
-    <string name="Additional_info">Πρόσθετες πληροφορίες</string>
-    <string name="Percent">Ποσοστό</string>
-    <string name="Music">Μουσική</string>
-    <string name="Pictures">Εικόνες</string>
-    <string name="Videos">Βίντεο</string>
-    <string name="Archives">Συμπιεσμένα</string>
-    <string name="Documents">Έγγραφα</string>
-    <string name="Change">Αλλαγή</string>
-    <string name="Execute">Εκτέλεση</string>
-    <string name="Owner">Ιδιοκτήτης</string>
-    <string name="Group">Ομάδα</string>
-    <string name="Others">Άλλοι</string>
-    <string name="Owners">Ιδιοκτήτες</string>
-    <string name="Permissions">Δικαιώματα</string>
-    <string name="Set">Ορισμός</string>
-    <string name="Used_space">Χώρος σε χρήση</string>
-    <string name="Free_space">Ελεύθερος χώρος</string>
-    <string name="Total_size">Σύνολο</string>
-    <string name="Artist">Καλλιτέχνης</string>
-    <string name="Title">Τίτλος</string>
-    <string name="Duration">Διάρκεια</string>
-    <string name="Resolution">Ανάλυση</string>
-    <string name="Recorded">Εγγραφή</string>
-    <string name="Width">Πλάτος</string>
-    <string name="Height">Ύψος</string>
-    <string name="Manufacturer">Κατασκευαστής</string>
-    <string name="Camera_model">Μοντέλο κάμερας</string>
-    <string name="Software">Λογισμικό</string>
-    <string name="Orientation">Προσανατολισμός</string>
-    <string name="Exposure_time">Χρόνος έκθεσης</string>
-    <string name="Exposure_bias">Πόλωση έκθεσης</string>
-    <string name="White_balance">Ισορροπία λευκού</string>
-    <string name="Focal_length">Εστιακή απόσταση</string>
-    <string name="Aperture_size">Μέγεθος διαφράγματος</string>
-    <string name="Flash">Φλας</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Compare">Compare</string>
+    <string name="Paste_to_compare">Paste to compare</string>
+    <string name="Files">Files</string>
+    <string name="Folders">Folders</string>
+    <string name="Calculation_error">Calculation error</string>
+    <string name="Content">Content</string>
+    <string name="Other_used">Other</string>
+    <string name="Free">Free</string>
+    <string name="Usage">Usage</string>
+    <string name="Attributes">Attributes</string>
+    <string name="Read">Read</string>
+    <string name="Write">Write</string>
+    <string name="Hidden">Hidden</string>
+    <string name="Additional_info">Additional information</string>
+    <string name="Percent">Percent</string>
+    <string name="Music">Music</string>
+    <string name="Pictures">Pictures</string>
+    <string name="Videos">Videos</string>
+    <string name="Archives">Archives</string>
+    <string name="Documents">Documents</string>
+    <string name="Change">Change</string>
+    <string name="Execute">Execute</string>
+    <string name="Owner">Owner</string>
+    <string name="Group">Group</string>
+    <string name="Others">Others</string>
+    <string name="Owners">Owners</string>
+    <string name="Permissions">Permissions</string>
+    <string name="Set">Set</string>
+    <string name="Used_space">Used space</string>
+    <string name="Free_space">Free space</string>
+    <string name="Total_size">Total size</string>
+    <string name="Artist">Artist</string>
+    <string name="Title">Title</string>
+    <string name="Duration">Duration</string>
+    <string name="Resolution">Resoultion</string>
+    <string name="Recorded">Recorded</string>
+    <string name="Width">Width</string>
+    <string name="Height">Height</string>
+    <string name="Manufacturer">Manufacturer</string>
+    <string name="Camera_model">Camera model</string>
+    <string name="Software">Software</string>
+    <string name="Orientation">Orientation</string>
+    <string name="Exposure_time">Exposure time</string>
+    <string name="Exposure_bias">Exposure bias</string>
+    <string name="White_balance">White balance</string>
+    <string name="Focal_length">Focal length</string>
+    <string name="Aperture_size">Aperture size</string>
+    <string name="Flash">Flash</string>
     
     <!-- Dialogs again -->
     	<!-- File exists dialog -->
     	<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
     	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
-    	<string name="File_exists">Το αρχείο υπάρχει</string>
-    	<string name="Skip">Παράλειψη</string>
-    	<string name="Overwrite">Αντικατάσταση</string>
-    	<string name="Merge">Συγχώνευση</string>
-    	<string name="Keep_both">Διατήρηση και των δύο</string>
-    	<string name="Remember_action">Απομνημόνευση ενέργειας</string>
-    	<string name="Keep_the_old_file">Διατήρηση του παλαιού αρχείου</string>
-    	<string name="The_new_file_will_have_its_name_changed">Αλλαγή ονόματος του νέου αρχείου</string>
-    	<string name="Replace_the_file_with_this">Αντικατάσταση του υπάρχοντος αρχείου</string>
-    	<string name="Create_master_password">Δημιουργία ενός κυρίου κωδικού</string>
+    	<string name="File_exists">File exists</string>
+    	<string name="Skip">Skip</string>
+    	<string name="Overwrite">Overwrite</string>
+    	<string name="Merge">Merge</string>
+    	<string name="Keep_both">Keep both</string>
+    	<string name="Remember_action">Remember this action</string>
+    	<string name="Keep_the_old_file">Keep the old file</string>
+    	<string name="The_new_file_will_have_its_name_changed">Changes the name of the new file</string>
+    	<string name="Replace_the_file_with_this">Replaces the existing file</string>
+    	<string name="Create_master_password">Create a master password</string>
     	
-    	<string name="Choose_an_activity_to_open_the_file">Επιλέξτε μια εφαρμογή για το άνοιγμα του αρχείου</string>
-    	<string name="Always_use_this_application">Χρήση πάντα αυτής της εφαρμογής</string>
-    	<string name="Send_the_file_using">Αποστολή του αρχείου μέσω</string>
-    	<string name="Progress">Πρόοδος</string>
-    	<string name="Minimize">Ελαχιστοποίηση</string>
-    	<string name="Pause">Παύση</string>
-    	<string name="Resume">Συνέχιση</string>
-    	<string name="Dismiss">Ματαίωση</string>
+    	<string name="Choose_an_activity_to_open_the_file">Choose an activity to open the file</string>
+    	<string name="Always_use_this_application">Always use this application</string>
+    	<string name="Send_the_file_using">Send the file using</string>
+    	<string name="Progress">Progress</string>
+    	<string name="Minimize">Minimize</string>
+    	<string name="Pause">Pause</string>
+    	<string name="Resume">Resume</string>
+    	<string name="Dismiss">Dismiss</string>
     	
-    	<string name="Abort_operation">Ματαίωση λειτουργίας</string>
-    	<string name="There_is_already_an_operation_running">Υπάρχει ήδη μια ενέργεια υπό εκτέλεση. Παρακαλούμε περιμένετε μέχρι να τελειώσει.</string>
+    	<string name="Abort_operation">Abort operation</string>
+    	<string name="There_is_already_an_operation_running">An operation is currently running. Please wait until it finishes.</string>
     
     	<!-- Question dialogs -->
-    	<string name="Are_you_sure_you_want_to_clear_the_history">Θέλετε σίγουρα να διαγραφεί το ιστορικό;</string>
-    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Θέλετε σίγουρα να διαγραφεί ο αποθηκευτικός χώρος μικρογραφιών;</string>
-    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Θέλετε σίγουρα να διαγραφούν τα προσωρινά αρχεία;</string>
-    	<string name="It_is_time_for_sheduled_indexing">Είναι καιρός για την προγραμματισμένη δημιουργία ευρετηρίου. Θέλετε να εκτελεστεί τώρα;</string>
-    	<string name="Folder_exists_descr">Υπάρχει ήδη φάκελος με το ίδιο όνομα σε αυτόν τον κατάλογο. Τι θέλετε να γίνει;</string>
-    	<string name="File_exists_descr">Υπάρχει ήδη αρχείο με το ίδιο όνομα σε αυτόν τον κατάλογο. Τι θέλετε να γίνει;</string>
-    	<string name="Are_you_sure_you_want_to_delete">Θέλετε σίγουρα να διαγραφεί το \&quot;%\&quot;;</string>
-    	<string name="Are_you_sure_to_abort_current_operation">Θέλετε σίγουρα να ματαιωθεί η τρέχουσα ενέργεια;</string>
-    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Θέλετε σίγουρα να διαγραφούν όλοι οι σελιδοδείκτες;</string>
-    	<string name="Are_you_sure_you_want_to_delete_bookmark">Θέλετε σίγουρα να διαγραφεί ο σελιδοδείκτης \&quot;%\&quot;;</string>
-    	<string name="Reindex_prompt">Γίνεται δημιουργία ευρετηρίου. Αυτό μπορεί να διαρκέσει αρκετά λεπτά. Συνέχιση;</string>
-    	<string name="Clear_index_prompt">Θέλετε σίγουρα να διαγραφούν όλα τα δεδομένα ευρετηρίου; Αυτή η λειτουργία δεν μπορεί να αναιρεθεί.</string>
-    	<string name="Are_you_sure_to_stop_indexing">Θέλετε σίγουρα να σταματήσει η δημιουργία ευρετηρίου;</string>
-    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Θέλετε σίγουρα να αφαιρεθούν οι συσχετίσεις επεκτάσεων αρχείων;</string>
-    	<string name="Changes_have_been_made_to_the_file">Έχουν γίνει αλλαγές στο &quot;%&quot;. Θέλετε να αποθηκευτούν;</string>
-    	<string name="Chown_confirm">Θέλετε σίγουρα να αλλάξετε τους ιδιοκτήτες αυτού του αρχείου;</string>
-    	<string name="Busybox_request">Φαίνεται ότι το BusyBox δεν είναι εγκατεστημένο στη συσκευή ή η έκδοσή του είναι παρωχημένη. Απαιτείται για την εξερεύνηση του ριζικού καταλόγου του συστήματός σας. Θέλετε να εγκατασταθεί τώρα;</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Are you sure you want to clear the history?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Are you sure you want to clear the thumbnail cache?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Are you sure you want to delete temporary files?</string>
+    	<string name="It_is_time_for_sheduled_indexing">It is time for scheduled indexing. Would you like to perform an index now?</string>
+    	<string name="Folder_exists_descr">There is already a folder with the same name in the directory. What do you want to do?</string>
+    	<string name="File_exists_descr">There is already a file with the same name in the directory. What do you want to do?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Are you sure you want to delete \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Are you sure to abort the current operation?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Are you sure you want to delete all bookmarks?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Are you sure you want to delete bookmark \&quot;%\&quot; ?</string>
+    	<string name="Reindex_prompt">Performing an index. This can take several minutes. Proceed?</string>
+    	<string name="Clear_index_prompt">Are you sure you want to clear all index data? This operation can not be undone.</string>
+    	<string name="Are_you_sure_to_stop_indexing">Are you sure you want to stop indexing?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Are you sure you want to clear file type associations?</string>
+    	<string name="Changes_have_been_made_to_the_file">Changes have been made to the &quot;%&quot;. Do you wish to save them?</string>
+    	<string name="Chown_confirm">Are you sure you want to change the ownership of this file?</string>
+    	<string name="Busybox_request">It looks like BusyBox is not installed on your device or its version is outdated. It is required to explore the root of your filesystem. Do you want to install it now?</string>
     	
     	
     	<!-- Information dialogs -->
-    	<string name="SkyDrive_doesnt_support_x_files">Το SkyDrive δεν υποστηρίζει \&quot;%\&quot; αρχεία. Η λειτουργία ματαιώθηκε.</string>
-    	<string name="Operation_not_supported">Η λειτουργία δεν υποστηρίζεται</string>
-    	<string name="You_have_to_provide_a_password">Πρέπει να εισαγάγετε έναν κωδικό</string>
-    	<string name="Insufficient_space" formatted="false">Δεν υπάρχει αρκετός χώρος για την ολοκλήρωση της λειτουργίας. Μέγεθος: %, Διαθέσιμα: %.</string>
-    	<string name="Command_executed_successfully">Η εντολή εκτελέστηκε επιτυχώς</string>
-    	<string name="Deleting_data">Διαγραφή των δεδομένων</string>
-    	<string name="Done">Ολοκληρώθηκε</string>
-    	<string name="Preparing_for_operation">Προετοιμασία για την ενέργεια...</string>
-    	<string name="Connecting">Σύνδεση</string>
-    	<string name="Connecting_to_x">Σύνδεση στο \&quot;%\&quot;</string>
-    	<string name="File_is_too_big">Το αρχείο είναι πολύ μεγάλο. Μόνο αρχεία ως 75kB υποστηρίζονται για επεξεργασία. Μεγαλύτερα αρχεία θα υποστηρίζονται σύντομα.</string>
-    	<string name="Operation_history_has_been_cleared">Το ιστορικό ενεργειών έχει εκκαθαριστεί</string>
-    	<string name="Encrypted_archive">Κρυπτογραφημένο συμπιεσμένο αρχείο</string>
-    	<string name="Enter_the_password">Εισαγάγετε τον κωδικό</string>
-    	<string name="Confirmation">Επιβεβαίωση</string>
-    	<string name="Input_request">Αίτηση εισαγωγής</string>
-    	<string name="Message">Μήνυμα</string>
-    	<string name="Warning">Προειδοποίηση!</string>
-    	<string name="You_did_not_specify_a_password">Δεν έχετε ορίσει κωδικό</string>
-    	<string name="Reading_archive">Ανάγνωση συμπιεσμένου αρχείου</string>
-    	<string name="Reading_archive_x">Ανάγνωση συμπιεσμένου αρχείου \&quot;%\&quot;</string>
-    	<string name="Storage_not_available">Χώρος μη διαθέσιμος</string>
-    	<string name="The_password_given_is_incorrect">Ο κωδικός δεν είναι σωστός</string>
-    	<string name="You_did_not_specify_a_server_name">Δεν έχετε ορίσει όνομα διακομιστή</string>
-    	<string name="You_did_not_specify_a_computer_name">Δεν έχετε ορίσει όνομα υπολογιστή</string>
-    	<string name="You_did_not_specify_a_port_number">Δεν έχετε ορίσει αριθμό θύρας</string>
-    	<string name="You_did_not_specify_user_name">Δεν έχετε ορίσει όνομα χρήστη</string>
-    	<string name="Indexing">Δημιουργία ευρετηρίου</string>
-    	<string name="Indexing_in_progress">Δημιουργία ευρετηρίου σε εξέλιξη</string>
-    	<string name="Indexing_paused">Παύση δημιουργίας ευρετηρίου</string>
-    	<string name="Indexing_has_been_completed">Η δημιουργία ευρετηρίου έχει ολοκληρωθεί</string>
-    	<string name="Indexing_has_been_aborted">Η δημιουργία ευρετηρίου έχει ματαιωθεί</string>
-    	<string name="Tap_to_dismiss">Πατήστε για ματαίωση</string>
-    	<string name="Tap_top_open">Πατήστε για άνοιγμα</string>
-    	<string name="File_is_ready_to_open">Το αρχείο είναι έτοιμο για άνοιγμα</string>
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive does not support \&quot;%\&quot; files. Operation has been aborted.</string>
+    	<string name="Operation_not_supported">Operation not supported</string>
+    	<string name="You_have_to_provide_a_password">You must provide a password</string>
+    	<string name="Insufficient_space" formatted="false">There is not enough free space to complete the operation. Size: %, available: %.</string>
+    	<string name="Command_executed_successfully">Command executed successfully</string>
+    	<string name="Deleting_data">Deleting the data</string>
+    	<string name="Done">Done</string>
+    	<string name="Preparing_for_operation">Preparing for operation...</string>
+    	<string name="Connecting">Connecting</string>
+    	<string name="Connecting_to_x">Connecting to \&quot;%\&quot;</string>
+    	<string name="File_is_too_big">This file is too big. Only files up to 75kB are supported for editing. Bigger files will be supported soon.</string>
+    	<string name="Operation_history_has_been_cleared">Operation history has been cleared</string>
+    	<string name="Encrypted_archive">Encrypted archive</string>
+    	<string name="Enter_the_password">Enter the password</string>
+    	<string name="Confirmation">Confirmation</string>
+    	<string name="Input_request">Input request</string>
+    	<string name="Message">Message</string>
+    	<string name="Warning">Warning!</string>
+    	<string name="You_did_not_specify_a_password">You didn\'t specify a password</string>
+    	<string name="Reading_archive">Reading archive</string>
+    	<string name="Reading_archive_x">Reading archive \&quot;%\&quot;</string>
+    	<string name="Storage_not_available">Storage not available</string>
+    	<string name="The_password_given_is_incorrect">The given password is incorrect</string>
+    	<string name="You_did_not_specify_a_server_name">You did not specify a server name</string>
+    	<string name="You_did_not_specify_a_computer_name">You did not specify a computer name</string>
+    	<string name="You_did_not_specify_a_port_number">You did not specify a port number</string>
+    	<string name="You_did_not_specify_user_name">You did not specify user name</string>
+    	<string name="Indexing">Indexing</string>
+    	<string name="Indexing_in_progress">Indexing in progress</string>
+    	<string name="Indexing_paused">Indexing paused</string>
+    	<string name="Indexing_has_been_completed">Indexing has  completed</string>
+    	<string name="Indexing_has_been_aborted">Indexing has been aborted</string>
+    	<string name="Tap_to_dismiss">Tap to dismiss</string>
+    	<string name="Tap_top_open">Tap to open</string>
+    	<string name="File_is_ready_to_open">File is ready to open</string>
     	
-    	<string name="Operation_aborted_by_user">Η λειτουργία ματαιώθηκε από το χρήστη</string>
-    	<string name="You_cant_delete_this_item">Αυτό το στοιχείο δεν μπορεί να διαγραφεί</string>
-    	<string name="Indexing_service">Υπηρεσία δημιουργίας ευρετηρίου</string>
-    	<string name="Only_local_file_can_be_added_to_the_archive">Μόνο ένα τοπικό αρχείο μπορεί να προστεθεί στο συμπιεσμένο αρχείο</string>
-    	<string name="Bookmark_already_exists">Ο σελιδοδείκτης υπάρχει ήδη</string>
-    	<string name="Added_to_bookmarks">Ο \&quot;%\&quot; προστέθηκε στους σελιδοδείκτες</string>
-    	<string name="Rename_a_file">Μετονομασία ενός αρχείου</string>
-    	<string name="Input_was_left_blank">Η εισαγωγή έμεινε κενή</string>
-    	<string name="File_named_already_exists">Το αρχείο με όνομα \&quot;%\&quot; υπάρχει ήδη</string>
-    	<string name="Confirm_delete">Επιβεβαίωση διαγραφής</string>
-    	<string name="You_cant_create_an_archive_here">Δεν μπορείτε να δημιουργήσετε ένα συμπιεσμένο αρχείο εδώ</string>
-    	<string name="Cannot_connect_to">Αδυναμία σύνδεσης στο \&quot;%\&quot;</string>
-    	<string name="You_are_not_logged_in">Δεν έχετε συνδεθεί</string>
-		<string name="Can_not_create_the_directory">Δεν είναι δυνατή η δημιουργία του καταλόγου</string>
-    	<string name="Beta_expired">Η έκδοση Beta έληξε</string>
-    	<string name="Can_not_create_the_file">Δεν είναι δυνατή η δημιουργία του αρχείου</string>
-    	<string name="Uknown_file_type">Άγνωστος τύπος αρχείου</string>
-    	<string name="No_activity_found_to_open_this_file">Δεν βρέθηκε εφαρμογή για το άνοιγμα αυτού του αρχείου</string>
-    	<string name="You_cant_send_a_folder">Δεν είναι δυνατή η αποστολή φακέλων</string>
-    	<string name="Indexing_has_been_unscheduled">Η δημιουργία ευρετηρίου έχει αποπρογραμματιστεί</string>
-    	<string name="Scheduled_indexing">Προγραμματισμένη δημιουργία ευρετηρίου</string>
-    	<string name="Tap_to_start">Πατήστε για έναρξη</string>
+    	<string name="Operation_aborted_by_user">Operation aborted by user</string>
+    	<string name="You_cant_delete_this_item">This item cannot be deleted</string>
+    	<string name="Indexing_service">Indexing service</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">Only a locally-stored file can be added to the archive</string>
+    	<string name="Bookmark_already_exists">Bookmark already exists</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; added to bookmarks</string>
+    	<string name="Rename_a_file">Rename a file</string>
+    	<string name="Input_was_left_blank">Input was left blank</string>
+    	<string name="File_named_already_exists">File named \&quot;%\&quot; already exists</string>
+    	<string name="Confirm_delete">Confirm delete</string>
+    	<string name="You_cant_create_an_archive_here">Archives cannot be created here</string>
+    	<string name="Cannot_connect_to">Cannot connect to \&quot;%\&quot;</string>
+    	<string name="You_are_not_logged_in">You are not logged in</string>
+		<string name="Can_not_create_the_directory">Cannot create the directory</string>
+
+    	<string name="Can_not_create_the_file">Cannot create the file</string>
+    	<string name="Uknown_file_type">Unknown file type</string>
+    	<string name="No_activity_found_to_open_this_file">No activity capable of opening this file was found</string>
+    	<string name="You_cant_send_a_folder">Folders cannot be sent</string>
+    	<string name="Indexing_has_been_unscheduled">Indexing has been descheduled</string>
+    	<string name="Scheduled_indexing">Scheduled indexing</string>
+    	<string name="Tap_to_start">Tap to start</string>
     	
     	
-    	<string name="Are_you_sure_you_want_to_delete_items">Θέλετε σίγουρα να διαγράψετε % στοιχεί{1:ο|__:α};</string>
-    	<string name="X_files_deleted">% αρχεί{1:ο|__:α} διαγράφθηκ{1:ε|__:αν}.</string>
-    	<string name="X_files_copied">% αρχεί{1:ο|__:α} αντιγράφθηκ{1:ε|__:αν}.</string>
-    	<string name="X_files_moved">% αρχεί{1:ο|__:α} μετακινήθηκ{1:ε|__:αν}.</string>
-    	<string name="X_items">% στοιχεί{1:ο|__:α}</string>
-    	<string name="Deleting_X_files">Διαγραφή % αρχεί{1:ου|__:ων}</string>
-    	<string name="Copying_X_files">Αντιγραφή % αρχεί{1:ου|__:ων}</string>
-    	<string name="Moving_X_files">Μετακίνηση % αρχεί{1:ου|__:ων}</string>
-    	<string name="Indexing_scheduled_at_X_every_Y">Η δημιουργία ευρετηρίου προγραμματίστηκε στις %x κάθε %y μέρ{1:α|__:ες}</string>
+    	<string name="Are_you_sure_you_want_to_delete_items">Are you sure you want to delete % item{1:|__:s}?</string>
+    	<string name="X_files_deleted">% file{1:|__:s} deleted.</string>
+    	<string name="X_files_copied">% file{1:|__:s} copied.</string>
+    	<string name="X_files_moved">% file{1:|__:s} moved.</string>
+    	<string name="X_items">% item{1:|__:s}</string>
+    	<string name="Deleting_X_files">Deleting % file{1:|__:s}</string>
+    	<string name="Copying_X_files">Copying % file{1:|__:s}</string>
+    	<string name="Moving_X_files">Moving % file{1:|__:s}</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Indexing scheduled at %x every %y day{1:|__:s}</string>
     	<!-- Explanation of above
     	
     		 	In english things are simple because we have 1 file and multiple files.
@@ -420,7 +420,7 @@
     			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
     			
     			But let's take polish for example. File means 'Plik'. We have:
-    			0 plików
+    			0 plikĂłw
     			1 plik
     			2, 3, 4 pliki
     			5, 6, 7, 8, 9, 10, 11, 12 ... plików
@@ -452,358 +452,394 @@
     	
     	-->
     
+    	
+    
 
     
     <!-- Open as dialog -->
-    <string name="Open_as">Άνοιγμα ως...</string>
-    <string name="Choose_a_preferred_type">Επιλέξτε προτιμώμενο τύπο</string>
-    <string name="Text_file">Αρχείο κειμένου</string>
-    <string name="Image_file">Αρχείο εικόνας</string>
-    <string name="Music_file">Αρχείο ήχου</string>
-    <string name="Video_file">Αρχείο βίντεο</string>
-    <string name="ZIP_archive">Αρχείο ZIP</string>
+    <string name="Open_as">Open as...</string>
+    <string name="Choose_a_preferred_type">Choose a preferred type</string>
+    <string name="Text_file">Text file</string>
+    <string name="Image_file">Image file</string>
+    <string name="Music_file">Music file</string>
+    <string name="Video_file">Video file</string>
+    <string name="ZIP_archive">ZIP Archive</string>
     
     
     <!-- File picker -->
     
-    <string name="Create_shortcut">Δημιουργία συντόμευσης</string>
-    <string name="Shortcut_tip">Για δημιουργία συντόμευσης φακέλου, επιλέξτε \&quot;Δημιουργία συντόμευσης\&quot; από το μενού.</string>
+    <string name="Create_shortcut">Create shortcut</string>
+    <string name="Shortcut_tip">To create a folder shortcut, choose \&quot;Create shortcut\&quot; from the context menu.</string>
     
 
     
 	<!-- Text editor -->
-    <string name="Wrap_lines">Αναδίπλωση κειμένου</string>
-    <string name="Font_size">Μέγεθος γραμματοσειράς</string>
-    <string name="Font">Γραμματοσειρά</string>
-    <string name="App_default">Προεπιλογή εφαρμογής</string>
-    <string name="System_default">Προεπιλογή συστήματος</string>
+    <string name="Wrap_lines">Wrap lines</string>
+    <string name="Font_size">Font size</string>
+    <string name="Font">Font</string>
+    <string name="App_default">App default</string>
+    <string name="System_default">System default</string>
     <string name="Serif">Serif</string>
     <string name="Monospace">Monospace</string>
-    <string name="File_saved_successfully">Το αρχείο αποθηκεύτηκε επιτυχώς</string>
+    <string name="File_saved_successfully">File saved successfully</string>
     
     
     <!-- Preferences -->
-    <string name="Appearance">Εμφάνιση</string>
-	<string name="Theme">Θέμα</string>
-    <string name="Choose_between_preinstalled_themes">Επιλέξτε μεταξύ των προεγκατεστημένων θεμάτων</string>
-    <string name="Light">Ανοικτό</string>
-    <string name="Dark">Σκούρο</string>
+	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
+	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
+    <string name="Appearance">Appearance</string>
+	<string name="Theme">Theme</string>
+    <string name="Choose_between_preinstalled_themes">Choose between preinstalled themes</string>
+    <string name="Light">Light</string>
+    <string name="Dark">Dark</string>
     
-    <string name="Toggle_visibility_of_hidden_files">Εναλλαγή προβολής κρυφών αρχείων</string>
-    <string name="Show_hidden_files">Προβολή κρυφών αρχείων</string>
+    <string name="Toggle_visibility_of_hidden_files">Toggle visibility of hidden files</string>
+    <string name="Show_hidden_files">Show hidden files</string>
     
-    <string name="Show_file_permissions">Προβολή δικαιωμάτων αρχείων</string>
-    <string name="Show_file_permissions_summary">Εμφάνιση δικαιωμάτων σε στυλ Unix αντί της ημερομηνίας τελευταίας τροποποίησης (μόνο για αρχεία ριζικού καταλόγου).</string>
+    <string name="Show_file_permissions">Show file permissions</string>
+    <string name="Show_file_permissions_summary">Show Unix style permissions instead of last modification date (root files only).</string>
     
-    <string name="Date_format">Μορφή ημερομηνίας</string>
-    <string name="Customize_date_format">Προσαρμογή της μορφής της ημερομηνίας</string>
+    <string name="Date_format">Date format</string>
+    <string name="Customize_date_format">Customize date format</string>
     
-    <string name="Time_format">Μορφή ώρας</string>
-	<string name="Customize_time_format">Προσαρμογή της μορφής της ώρας</string>
+    <string name="Time_format">Time format</string>
+	<string name="Customize_time_format">Customize time format</string>
 	
-	<string name="Show_fast_scroll_thumb_in_file_list">Εμφάνιση γραμμής γρήγορης κύλισης στη λίστα αρχείων</string>
-    <string name="Use_fast_scroll">Χρήση γρήγορης κύλισης</string>
+	<string name="Show_fast_scroll_thumb_in_file_list">Show fast scroll thumb in the file list</string>
+    <string name="Use_fast_scroll">Use fast scroll</string>
     
-    <string name="Low_quality_thumbnails">Μικρογραφίες χαμηλής ποιότητας</string>
-    <string name="Low_quality_thumbnails_summary">Κατάλληλο για μειωμένη χρήση μνήμης</string>
+    <string name="Low_quality_thumbnails">Low quality thumbnails</string>
+    <string name="Low_quality_thumbnails_summary">Suitable for low memory usage</string>
     
-    <string name="Portrait_fullscreen">Κατακόρυφη Πλήρης Οθόνη</string>
-    <string name="Portrait_fullscreen_summary">Κρύβει τη γραμμή κατάστασης του συστήματος στον κατακόρυφο προσανατολισμό</string>
+    <string name="Portrait_fullscreen">Portrait fullscreen</string>
+    <string name="Portrait_fullscreen_summary">Hides the system status bar in portrait mode</string>
     
-    <string name="Landscape_fullscreen">Οριζόντια Πλήρης Οθόνη</string>
-    <string name="Landscape_fullscreen_summary">Κρύβει τη γραμμή κατάστασης του συστήματος στον οριζόντιο προσανατολισμό</string>
+    <string name="Landscape_fullscreen">Landscape fullscreen</string>
+    <string name="Landscape_fullscreen_summary">Hides the system status bar in landscape mode</string>
     
-    <string name="File_list_size">Μέγεθος κατακόρυφης λίστας</string>
-    <string name="Adjust_size_of_the_file_list">Ρυθμίζει το μέγεθος της λίστας αρχείων σε κατακόρυφο προσανατολισμό</string>
+    <string name="File_list_size">Portrait list size</string>
+    <string name="Adjust_size_of_the_file_list">Adjust size of the file list in portrait mode</string>
     
-    <string name="Landscape_file_list_size">Μέγεθος οριζόντιας λίστας</string>
-    <string name="Adjust_size_of_the_file_list_in_landscape">Ρυθμίζει το μέγεθος της λίστας αρχείων σε οριζόντιο προσανατολισμό</string>
+    <string name="Landscape_file_list_size">Landscape list size</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Adjust size of the file list in landscape mode</string>
     
-    <string name="Small">Μικρό</string>
-    <string name="Normal">Κανονικό</string>
-    <string name="Big">Μεγάλο</string>
-    <string name="Large">Πολύ μεγάλο</string>
-    <string name="Extra_small">Πολύ μικρό</string>
+    <string name="Small">Small</string>
+    <string name="Big">Big</string>
+    <string name="Large">Large</string>
+    <string name="Extra_small">Tiny</string>
     
-    <string name="Hide_exit_button">Απόκρυψη πλήκτρου εξόδου</string>
-    <string name="Hide_exit_button_summary">Μπορείτε επίσης να κλείσετε την εφαρμογή πατώντας παρατεταμένα το πλήκτρο "Πίσω"</string>
+    <string name="Hide_exit_button">Hide exit button</string>
+    <string name="Hide_exit_button_summary">You can also exit the app by long pressing the back key</string>
     
-    <string name="Startup">Εκκίνηση</string>
+    <string name="Startup">Startup</string>
     
-    <string name="Remember_last_folder">Διατήρηση τελευταίου φακέλου</string>
-    <string name="Will_start_with_recently_viewed_directories">Η εφαρμογή θα ξεκινήσει με τους πιο πρόσφατα προβεβλημένους καταλόγους</string>
-    
-    
-    <string name="First_panel_default_dir">Κατάλογος πρώτης καρτέλας</string>
-    <string name="Second_panel_default_dir">Κατάλογος δεύτερης καρτέλας</string>
-    
-    <string name="Change_pictures_directory">Αλλαγή τοποθεσίας εικόνων</string>
-    <string name="Change_downloads_directory">Αλλαγή τοποθεσίας λήψεων</string>
-    
-    <string name="Drag_and_drop">Μεταφορά και Απόθεση</string>
-    <string name="Action_for_drop_inside_the_panel">Ενέργεια για την ίδια καρτέλα</string>
-    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Απόθεση ενός στοιχείου σε ένα φάκελο στην ίδια καρτέλα</string>
-    <string name="Action_for_drop_to_the_second_panel">Ενέργεια για τη δεύτερη καρτέλα</string>
-    <string name="Dropping_an_item_to_the_second_panel">Απόθεση ενός στοιχείου στη δεύτερη καρτέλα</string>
-    <string name="Move">Μετακίνηση</string>
-    
-    <string name="Security">Ασφάλεια</string>
-    <string name="Master_password_prompt">Ο Solid Explorer χρησιμοποιεί έναν κύριο κωδικό για να κρυπτογραφήσει όλα τα διαπιστευτήρια σύνδεσης. Αν σας ενδιαφέρει η ασφάλεια προτείνεται να χρησιμοποιείτε αυτό το χαρακτηριστικό. Θα ερωτηθείτε για τον κύριο κωδικό μόνο μία φορά εκτός και αν επανεκκινήσετε την εφαρμογή. Διαφορετικά, θα χρησιμοποιηθεί η προεπιλεγμένη κρυπτογράφηση χωρίς κωδικό. Θέλετε να χρησιμοποιήσετε αυτό το χαρακτηριστικό;</string>
-    <string name="Disable_master_password_warning">Η απενεργοποίηση του κυρίου κωδικού θα προκαλέσει την μετάβαση στον προεπιλεγμένο κωδικό. Δε θα ερωτηθείτε ξανά για αυτό. Τα διαπιστευτήρια σύνδεσης θα παραμείνουν κρυπτογραφημένα. Θέλετε να συνεχίσετε;</string>
-    <string name="Enable_master_password_warning">Αν έχετε προηγουμένως κρυπτογραφήσει σελιδοδείκτες με τον προεπιλεγμένο κωδικό, αυτοί θα αφαιρεθούν. Συνέχιση;</string>
-    <string name="Enable_master_password">Ενεργοποίηση κυρίου κωδικού</string>
-	<string name="Too_weak_password">Ο κωδικός πρέπει να είναι τουλάχιστον 6 χαρακτήρες και όχι πάνω από 16 χαρακτήρες</string>
-    <string name="Enter_the_master_password">Εισαγάγετε τον κύριο κωδικό</string>
-    <string name="Enter_a_new_master_password">Εισαγάγετε ένα νέο κύριο κωδικό.</string> 
-    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Κρυπτογράφηση όλων των διαπιστευτηρίων σύνδεσης με έναν κύριο κωδικό</string>
-    <string name="Set_master_password">Αλλαγή κυρίου κωδικού</string>
-    <string name="All_passwords_will_be_reencrypted">Όλοι οι κωδικοί θα επανα-κρυπτογραφηθούν</string>
-    
-    <string name="I_dont_remember_my_old_password">Δεν θυμάμαι τον παλιό μου κωδικό</string>
-    <string name="Reset_password_warning">Προσοχή! Αν ορίσετε ένα νέο κωδικό τώρα, τότε όλοι οι σελιδοδείκτες, των οποίων οι κωδικοί έχουν κρυπτογραφηθεί με τη χρήση του παλιού, θα αφαιρεθούν.</string>
-    <string name="Old_password">Παλαιός κωδικός</string>
-    <string name="New_password">Νέος κωδικός</string>
-    <string name="Master_password_has_been_disabled">Ο κύριος κωδικός έχει απενεργοποιηθεί</string>
-    <string name="Passwords_do_not_match">Οι κωδικοί δεν ταιριάζουν</string>
-    <string name="Password_is_too_short">Ο κωδικός είναι πολύ μικρός</string>
+    <string name="Remember_last_folder">Remember last folder</string>
+    <string name="Will_start_with_recently_viewed_directories">The app will start with recently viewed directories</string>
     
     
+    <string name="First_panel_default_dir">First panel directory</string>
+    <string name="Second_panel_default_dir">Second panel directory</string>
     
-    <string name="Search_interface">Διεπαφή αναζήτησης</string>
-    <string name="Search_key_starts_filtering">Φιλτράρισμα με το κουμπί αναζήτησης</string>
-    <string name="Search_key_starts_filtering_summary">Εκκίνηση φιλτραρίσματος της λίστας αντί της εκτέλεσης της αναζήτησης</string>
-    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Συμφωνία μόνο με την αρχή της λέξης όταν φιλτράρεται η λίστα</string>
-    <string name="Filter_words_from_the_beginning">Φιλτράρισμα από την αρχή</string>
-    <string name="Customize_indexing_engine_behaviour">Προσαρμογή της συμπεριφοράς της μηχανής δημιουργίας ευρετηρίου</string>
-    <string name="Indexing_engine">Μηχανή δημιουργίας ευρετηρίου</string>
-    	<string name="Reindex_now">Επαναδημιουργία ευρετηρίου τώρα</string>
-    	<string name="Refresh_index_database">Ανανέωση της βάσης δεδομένων ευρετηρίου. Δεν έχει αποτέλεσμα όταν η διεργασία είναι ενεργή.</string>
-    	<string name="Clear_index_data">Εκκαθάριση βάσης δεδομένων ευρετηρίου</string>
-    	<string name="Delete_all_index_data">Διαγραφή όλων των δεδομένων ευρετηρίου</string>
-    	<string name="Reindex_on_media_mount">Επαναδημιουργία ευρετηρίου κατά την προσάρτηση πολυμέσου</string>
-    	<string name="Reindex_storage_device_when_it_is_mounted">Επαναδημιουργία ευρετηρίου της συσκευής αποθήκευσης όταν αυτή προσαρτάται (προτείνεται)</string>
-    	<string name="Shedule_indexing">Προγραμματισμένη δημιουργία ευρετηρίου</string>
-    	<string name="Perform_reindex_every_given_period">Εκτέλεση επαναδημιουργίας ευρετηρίου κατά τη δοθείσα περίοδο</string>
-    	<string name="Set_time_and_period">Ορισμός χρόνου και περιόδου</string>
-    	<string name="The_time_when_the_indexing_will_be_triggered">Χρόνος ενεργοποίησης της δημιουργίας ευρετηρίου</string>
-    	<string name="Maximum_index_age">Μέγιστος χρόνος ευρετηρίου</string>
-    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Για πόσο χρονικό διάστημα θα παραμένει το ευρετήριο στη βάση δεδομένων όταν το αρχείο του δεν υπάρχει πια</string>
-    	<string name="one_day">1 ημέρα</string>
-    	<string name="two_days">2 ημέρες</string>
-    	<string name="five_days">5 ημέρες</string>
-    	<string name="One_week">Μία εβδομάδα</string>
-    	<string name="Choose_interval">Επιλέξτε διάστημα</string>
-    	<string name="three_days">3 ημέρες</string>
-    	<string name="How_often_indexing_will_be_performed">Πόσο συχνά θα εκτελείται η δημιουργία ευρετηρίου</string>
-    	<string name="Set_period">Ορισμός περιόδου</string>
-    	<string name="Set_time">Ορισμός ώρας</string>
-    	<string name="Show_notifications">Προβολή ειδοποιήσεων</string>
-    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Εμφάνιση ειδοποιήσεων όταν η δημιουργία ευρετηρίου έχει ολοκληρωθεί ή ματαιωθεί</string>
+    <string name="Change_pictures_directory">Change pictures directory</string>
+    <string name="Change_downloads_directory">Change downloads directory</string>
+    
+    <string name="Drag_and_drop">Drag and Drop</string>
+    <string name="Action_for_drop_inside_the_panel">Action for the same panel</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Dropping an item to a folder in the same panel</string>
+    <string name="Action_for_drop_to_the_second_panel">Action for the second panel</string>
+    <string name="Dropping_an_item_to_the_second_panel">Dropping an item to the second panel</string>
+    <string name="Move">Move</string>
+    
+    <string name="Security">Security</string>
+    <string name="Master_password_prompt">Solid Explorer uses a master password to encrypt all login credentials. If you care about security it is recommended to use this feature. You will be prompted for the master password only once unless you restart the app. Otherwise default encryption without a password is used. Would you like to use this feature?</string>
+    <string name="Disable_master_password_warning">Disabling master password will cause switching to the default password. You will never be asked for it. Login credentials will still be encrypted. Do you want to proceed?</string>
+    <string name="Enable_master_password_warning">If you have any previous bookmarks encrypted with the default password, they will be removed. Continue?</string>
+    <string name="Enable_master_password">Enable master password</string>
+	<string name="Too_weak_password">Password must be at least 6 characters, no more than 16 characters</string>
+    <string name="Enter_the_master_password">Enter the master password</string>
+    <string name="Enter_a_new_master_password">Enter a new master password.</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Encrypt all login credentials with a master password</string>
+    <string name="Set_master_password">Change master password</string>
+    <string name="All_passwords_will_be_reencrypted">All passwords will be re-encrypted</string>
+    
+    <string name="I_dont_remember_my_old_password">I don\'t remember my old password</string>
+    <string name="Reset_password_warning">Warning! If you set the new password right now, then all bookmarks, which passwords has been encrypted using the old one, will be removed.</string>
+    <string name="Old_password">Old password</string>
+    <string name="New_password">New password</string>
+    <string name="Master_password_has_been_disabled">Master password has been disabled</string>
+    <string name="Passwords_do_not_match">Passwords do not match</string>
+    <string name="Password_is_too_short">Password is too short</string>
     
     
-    <string name="Other">Άλλο</string>
+    
+    <string name="Search_interface">Search interface</string>
+    <string name="Search_key_starts_filtering">Search key starts filtering</string>
+    <string name="Search_key_starts_filtering_summary">Start filtering list instead of launching search activity</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Match only beginning of the word when filtering the list</string>
+    <string name="Filter_words_from_the_beginning">Filter from the beginning</string>
+    <string name="Customize_indexing_engine_behaviour">Customize indexing engine behaviour</string>
+    <string name="Indexing_engine">Indexing engine</string>
+    	<string name="Reindex_now">Reindex now</string>
+    	<string name="Refresh_index_database">Refresh index database. It has no effect when the process is active.</string>
+    	<string name="Clear_index_data">Clear index data</string>
+    	<string name="Delete_all_index_data">Delete all index data</string>
+    	<string name="Reindex_on_media_mount">Reindex on media mount</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">Reindex storage device when it is mounted (recommended)</string>
+    	<string name="Shedule_indexing">Schedule indexing</string>
+    	<string name="Perform_reindex_every_given_period">Perform reindex every given period</string>
+    	<string name="Set_time_and_period">Set time and period</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">The time when the indexing will be triggered</string>
+    	<string name="Maximum_index_age">Maximum index age</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">How much time the index should remain in the database when its file does not exist</string>
+    	<string name="one_day">1 day</string>
+    	<string name="two_days">2 days</string>
+    	<string name="five_days">5 days</string>
+    	<string name="One_week">One week</string>
+    	<string name="Choose_interval">Choose_interval</string>
+    	<string name="three_days">3 days</string>
+    	<string name="How_often_indexing_will_be_performed">How often indexing will be performed</string>
+    	<string name="Set_period">Set period</string>
+    	<string name="Set_time">Set time</string>
+    	<string name="Show_notifications">Show notifications</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Show notifications when indexing has been completed or aborted</string>
+    
+    
+    <string name="Other">Other</string>
     	
-    <string name="Clear_persistent_data">Εκκαθάριση μονίμων δεδομένων</string>
-    <string name="Clear_persistent_data_summary">Διαγραφή δεδομένων όπως αποθηκευτικός χώρος μικρογραφιών, προσωρινά αρχεία, ιστορικό λειτουργίας, κλπ.</string>
-    <string name="Clear_thumbnail_cache">Εκκαθάριση αποθηκευτικού χώρου μικρογραφιών</string>
-    <string name="Clear_temporary_files">Εκκαθάριση προσωρινών αρχείων</string>
-    <string name="Clear_operation_history">Εκκαθάριση ιστορικού ενεργειών</string>
-    <string name="Delete_all_image_previews">Διαγραφή όλων των προεπισκοπήσεων εικόνων</string>
-    <string name="Delete_all_temporary_files">Διαγραφή όλων των προσωρινών αρχείων</string>
-    <string name="Delete_operation_history_entries">Διαγραφή όλων των εγγραφών ιστορικού ενεργειών</string>
-    <string name="Clear_file_type_associations">Εκκαθάριση συσχετίσεων επεκτάσεων αρχείων</string>
-    <string name="Clear_file_type_associations_summary">Διαγραφή πληροφοριών σχετικά με εφαρμογές που χρησιμοποιήθηκαν για το άνοιγμα συγκεκριμένων τύπων αρχείων</string>
-    <string name="Clear_temporary_files_on_exit">Εκκαθάριση προσωρινών αρχείων κατά την έξοδο</string>
-    <string name="Temporary_files_will_be_removed_on_app_exit">Τα προσωρινά αρχεία θα αφαιρεθούν κατά το κλείσιμο της εφαρμογής</string>
+    <string name="Clear_persistent_data">Clear persistent data</string>
+    <string name="Clear_thumbnail_cache">Clear thumbnail cache</string>
+    <string name="Clear_temporary_files">Clear temporary files</string>
+    <string name="Clear_operation_history">Clear operation history</string>
+    <string name="Delete_all_image_previews">Delete all image previews</string>
+    <string name="Delete_all_temporary_files">Delete all temporary files</string>
+    <string name="Delete_operation_history_entries">Delete operation history entries</string>
+    <string name="Clear_file_type_associations">Clear file type associations</string>
+    <string name="Clear_file_type_associations_summary">Delete information about applications used to open particular file types</string>
+    <string name="Clear_temporary_files_on_exit">Clear temp on exit</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Temporary files will be removed on app exit</string>
     
-    <string name="Quick_start_guide">Γρήγορος οδηγός χρήσης</string>
-    <string name="Learn_about_main_features">Μάθετε για τα κυριότερα χαρακτηριστικά του Solid Explorer</string>
-    <string name="Help_make_Solid_Explorer_better">Βοηθήστε να γίνει ο Solid Explorer καλύτερος</string>
-    <string name="Report_a_bug">Αναφέρετε ένα bug</string>
+    <string name="Quick_start_guide">Quick start guide</string>
+    <string name="Learn_about_main_features">Learn about Solid Explorer\'s major features</string>
+    <string name="Help_make_Solid_Explorer_better">Help make Solid Explorer better</string>
+    <string name="Report_a_bug">Report a bug</string>
    
-    <string name="About">Σχετικά</string>
-    <string name="Author_version_and_changelog">Δημιουργός, έκδοση και αρχείο αλλαγών</string>
-    <string name="Copyright_text">Δικαιώματα 2011-2012 \nKrzysztof Głodowski</string>
-    <string name="Version">Έκδοση</string>
-    <string name="Changelog">Αρχείο αλλαγών</string>
-    <string name="Whats_new">Τι νέο υπάρχει;</string>
-    <string name="Author">Δημιουργός</string>
-    <string name="Functionality_for_future_releases">Λειτουργικότητα για μελλοντικές εκδόσεις</string>
-    <string name="Planned_features">Μελλοντικά χαρακτηριστικά</string>
+    <string name="About">About</string>
+    <string name="Author_version_and_changelog">Author, version and changelog</string>
+    <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Głodowski</string>
+    <string name="Version">Version</string>
+    <string name="Changelog">Changelog</string>
+    <string name="Whats_new">What\'s new</string>
+    <string name="Author">Author</string>
+    <string name="Functionality_for_future_releases">Functionality for future releases</string>
+    <string name="Planned_features">Planned features</string>
     
     
     
     <!-- Other -->
-    <string name="Prefix">Πρόθεμα</string>
-    <string name="Expiration_message">Ευχαριστώ για τη χρήση του Solid Explorer Beta. Για να συνεχίσετε να δοκιμάζετε την εφαρμογή, κατεβάστε την τελευταία έκδοση από το Google Play.</string>
-    <string name="Empty">Κενό</string>
-	<string name="search_description">Αναζητήστε στη συσκευή σας χρησιμοποιώντας τον Solid Explorer</string>
-    <string name="search_hint">Πληκτρολογήστε ένα όνομα αρχείου </string>
-    <string name="Save_file">Αποθήκευση αρχείου</string>
-    <string name="Solid_explorer_indexing_service">Υπηρεσία δημιουργίας ευρετηρίου του Solid Explorer</string>
+    <string name="Prefix">Prefix</string>
+    <string name="Empty">Empty</string>
+	<string name="search_description">Search your device using Solid Explorer</string>
+    <string name="search_hint">Type a file name </string>
+    <string name="Save_file">Save file</string>
+    <string name="Solid_explorer_indexing_service">Solid Explorer indexing service</string>
     
     
     
     <!-- acra -->
-    <string name="crash_toast_text">Ooooops! Ο Solid Explorer έχει καταρρεύσει. Παρακαλούμε στείλτε μια αναφορά στο δημιουργό για να τον βοηθήσετε να διορθώσει το σφάλμα!</string>
-    <string name="crash_notif_ticker_text">Μη αναμενόμενο σφάλμα, παρακαλούμε στείλτε μια αναφορά...</string>
-    <string name="crash_notif_title">Ο Solid Explorer έχει καταρρεύσει...</string>
-    <string name="crash_notif_text">Παρακαλούμε κάντε κλικ εδώ για να βοηθήσετε στην διόρθωση του σφάλματος.</string>
-    <string name="crash_dialog_title">Ο Solid Explorer έχει καταρρεύσει</string>
-    <string name="crash_dialog_text">Παρουσιάστηκε ένα μη αναμενόμενο σφάλμα που επέβαλε τη διακοπή της εφαρμογής. Παρακαλούμε βοηθήστε μας να το διορθώσουμε στέλνοντας τα δεδομένα σφάλματος.</string>
-    <string name="crash_dialog_comment_prompt">Παρακαλούμε παρέχετε λεπτομερείς πληροφορίες σχετικά με το πρόβλημα παρακάτω. Στις περισσότερες περιπτώσεις είναι αδύνατο να αναπαραχθεί το πρόβλημα χωρίς τα δικά σας σχετικά σχόλια.</string>
-    <string name="crash_dialog_ok_toast">Ευχαριστούμε!</string>
+    <string name="crash_toast_text">Ooooops! Solid Explorer has crashed. Please send the report to the developer to help him fix the issue !</string>
+    <string name="crash_notif_ticker_text">Unexpected error, please send a report...</string>
+    <string name="crash_notif_title">Solid Explorer has crashed...</string>
+    <string name="crash_notif_text">Please click here to help fix the issue.</string>
+    <string name="crash_dialog_title">Solid Explorer has crashed</string>
+    <string name="crash_dialog_text">An unexpected error occurred forcing the application to stop. Please help me fix this by sending me error data.</string>
+    <string name="crash_dialog_comment_prompt">Please provide detailed information about the problem below. In most cases it is impossible to reproduce the problem without your feedback.</string>
+    <string name="crash_dialog_ok_toast">Thank you!</string>
     
-    <string name="Icon_designer">Σχεδιασμός εικονιδίου</string>
-	<string name="Prefix">Πρόθεμα</string>
-	<string name="Translations">Μετάφραση</string>
-	<string name="Translations_summary">Ελληνική μετάφραση με τη χορηγία των Dancer_69 και spyrosag</string>
-	<string name="Empty">Κενό</string>
-	<string name="Press_once_again_to_exit">Πατήστε ξανά για Έξοδο</string>
-    
-    <string name="View_in_DiskUsage">Προβολή στο "DiskUsage"</string>
-    <string name="Retry">Επαναπροσπάθεια</string>
-    <string name="Portrait">Κατακόρυφα</string>
-    <string name="Landscape">Οριζόντια</string>
-    <string name="Customize_list">Προσαρμογή λίστας</string>
-    <string name="Customize_list_summary">Ρύθμιση του μεγέθους των εικονιδίων και του κειμένου στη λίστα αρχείων</string>
-    <string name="Preview">Προεπισκόπηση</string>
-    <string name="Icon_size_pixels" formatted="false">Μέγεθος εικονιδίου (μέγ: % x %)</string>
-    <string name="Label_size">Μέγεθος ετικέτας</string>
-    <string name="Subtext_size">Μέγεθός υπό-κειμένου</string>
-    <string name="Label_size_points">Μέγεθος κειμένου (μέγ. 35pt)</string>
-    <string name="Columns">Στήλες</string>
-    <string name="No_computers_found">Δεν βρέθηκαν υπολογιστές</string>
-    <string name="Local_directory">Τοπικός κατάλογος</string>
-    <string name="Default_panel">Προεπιλεγμένη καρτέλα</string>
-    <string name="Destination_type">Τύπος προορισμού</string>
-    <string name="DiskUsage_not_installed">Φαίνεται ότι το "DiskUsage" δεν έχει εγκατασταθεί. Αυτή η εφαρμογή δείχνει τη χρήση της μνήμης με ένα λεπτεπίλεπτο και φιλικό προς το χρήστη τρόπο. θέλετε να εγκατασταθεί τώρα;</string>
-    <string name="Text_copied_to_clipboard">Το κείμενο αντιγράφτηκε στο πρόχειρο</string>
-    <string name="Force_english">Επιβολή Αγγλικών</string>
-    <string name="Force_english_summary">Επιλέξτε το αν προτιμάτε τα Αγγλικά ως κύρια γλώσσα. Εφαρμόζεται μετά από επανεκκίνηση.</string>
-    <string name="Encoding">Κωδικοποίηση</string>
-    <string name="Network_thumbnails">Δικτυακές μικρογραφίες</string>
-    <string name="Network_thumbnails_summary">Όταν επιλεχθεί, οι μικρογραφίες των εικόνων θα φορτώνονται ενώ γίνεται χρήση δεδομένων κινητής τηλεφωνίας.</string>
-    <string name="Copy_to">Αντιγραφή σε</string>
-    <string name="Move_to">Μετακίνηση σε</string>
-    <string name="Shortcut">Συντόμευση</string>
-    <string name="Two_panels_in_landscape_summary">Εμφάνιση 2 καρτελών κατά τον οριζόντιο προσανατολισμό</string>
-    <string name="Two_panels_in_landscape">Δύο καρτέλες οριζόντια</string>
-    <string name="Restart_prompt">Η εφαρμογή πρέπει να επανεκκινηθεί για την εφαρμογή των αλλαγών. Συνέχιση;</string>
-    <string name="Custom_color_scheme">Προσαρμοσμένος συνδυασμός χρωμάτων</string>
-    <string name="Custom_color_scheme_summary">Προσαρμόστε το συνολικό συνδυασμό χρωμάτων. Θα επιβραδύνει δραστικά την έναρξη της εφαρμογής.</string>
-    <string name="Color_scheme">Συνδυασμός χρωμάτων</string>
-    <string name="Color_scheme_summary">Αλλάξτε τον κορεσμό και την απόχρωση του τρέχοντος συνδυασμού χρωμάτων</string>
-    <string name="Change_color_scheme">Αλλαγή συνδυασμού χρωμάτων</string>
-    <string name="Hue">Απόχρωση</string>
-    <string name="Saturation">Κορεσμός</string>
-    <string name="SolidExplorer_is_running">Ο Solid Explorer εκτελείται</string>
-    <string name="Notification_shortcut">Συντόμευση ειδοποίησης</string>
-    <string name="Notification_shortcut_summary">Τοποθετεί συντόμευση στη γραμμή ειδοποιήσεων όταν εκτελείται η εφαρμογή στο παρασκήνιο</string>
-	<string name="Please_wait">Παρακαλούμε περιμένετε</string>
+    <string name="Icon_designer">Icon designer</string>
+    <string name="Translations">Translation</string>
+    <string name="Translations_summary">Language correction by courtesy of Steven Schoen</string>
+    <string name="Press_once_again_to_exit">Press once again to exit</string>
     
     
-    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Θέλετε σίγουρα να το αντιγράψετε στην άλλη καρτέλα;</string>
-	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Θέλετε σίγουρα να το μετακινήσετε στην άλλη καρτέλα;</string>
-	<string name="Image_not_loaded">Η εικόνα δεν φορτώθηκε</string>
-	<string name="Target_SDK">Προορισμός SDK</string>
-	<string name="Description">Περιγραφή</string>
-	<string name="Data_dir">Καταλ. Data</string> <!-- short word please -->
-	<string name="Installed">Εγκατεστημένο</string>
-	<string name="Updated">Ενημερωμένο</string>
-	<string name="Install">Εγκατάσταση</string>
-	<string name="More">Περισσότερα</string>
-	<string name="Package_name">Όνομα πακέτου</string>
-	<string name="Map_view">Προβολή Χάρτη</string>
-	<string name="Street_view">Προβολή Δρόμου</string>
-	<string name="Ask">Ερώτηση</string>
-	<string name="Choose_an_action">Επιλέξτε μια ενέργεια</string>
-	<string name="Folders_first">Φάκελοι πρώτα</string>
-	<string name="Folders_first_summary">Εμφάνιση πρώτα φακέλων, μετά αρχείων.</string>
-	<string name="FAQ">Συχνές ερωτήσεις</string>
-	<string name="FAQ_summary">Παρακαλούμε διαβάστε τις Συχνές Ερωτήσεις προτού κάνετε μια ερώτηση</string>
+    <string name="View_in_DiskUsage">View in DiskUsage</string>
+    <string name="Retry">Retry</string>
+    <string name="Portrait">Portrait</string>
+    <string name="Landscape">Landscape</string>
+    <string name="Customize_list">Customize list</string>
+    <string name="Customize_list_summary">Adjust the size of icons and text in the file list</string>
+    <string name="Preview">Preview</string>
+    <string name="Icon_size_pixels" formatted="false">Icon size (max: % x %)</string>
+    <string name="Label_size">Label size</string>
+    <string name="Subtext_size">Subtext size</string>
+    <string name="Label_size_points">Text size (max 35pt)</string>
+    <string name="Columns">Columns</string>
+    <string name="No_computers_found">No computers found</string>
+    <string name="Local_directory">Local directory</string>
+    <string name="Default_panel">Default panel</string>
+    <string name="Destination_type">Destination type</string>
+    <string name="DiskUsage_not_installed">Looks like the DiskUsage is not installed. This app shows the memory usage in a very sophisticated and user friendly way. Do you want to install it now?</string>
+    <string name="Text_copied_to_clipboard">Text copied to clipboard</string>
+    <string name="Force_english">Force English language</string>
+    <string name="Force_english_summary">Check if you prefer the English as a primary language. Takes effect after restart.</string>
+    <string name="Encoding">Encoding</string>
+    <string name="Network_thumbnails">Network thumbnails</string>
+    <string name="Network_thumbnails_summary">When checked, image thumbnails will be loaded while using mobile data connection.</string>
+    <string name="Copy_to">Copy to</string>
+    <string name="Move_to">Move to</string>
+    <string name="Shortcut">Shortcut</string>
+    <string name="Two_panels_in_landscape_summary">Show two panels at once when in landscape orientation</string>
+    <string name="Two_panels_in_landscape">Two panels in landscape</string>
+    <string name="Restart_prompt">The application has to be restarted in order to apply changes. Continue?</string>
+    <string name="Custom_color_scheme">Custom color scheme</string>
+    <string name="Custom_color_scheme_summary">Customize the overall color scheme. Will drastically slow down application startup.</string>
+    <string name="Color_scheme">Color scheme</string>
+    <string name="Color_scheme_summary">Change the hue and saturation of the current color scheme</string>
+    <string name="Change_color_scheme">Change color scheme</string>
+    <string name="Hue">Hue</string>
+    <string name="Saturation">Saturation</string>
+    <string name="SolidExplorer_is_running">Solid Explorer is running</string>
+    <string name="Notification_shortcut">Notification shortcut</string>
+    <string name="Notification_shortcut_summary">Put the shortcut in the status bar when the app is running in the background</string>
+    <string name="Please_wait">Please wait</string>
+    
+    
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Are you sure you want to copy this to the opposite panel?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Are you sure you want to move this to the opposite panel?</string>
+	<string name="Image_not_loaded">Image not loaded</string>
+	<string name="Target_SDK">Target SDK</string>
+	<string name="Description">Description</string>
+	<string name="Data_dir">Data dir</string> <!-- short word please -->
+	<string name="Installed">Installed</string>
+	<string name="Updated">Updated</string>
+	<string name="Install">Install</string>
+	<string name="More">More</string>
+	<string name="Package_name">Package name</string>
+	<string name="Map_view">Map view</string>
+	<string name="Street_view">Street view</string>
+	<string name="Ask">Ask</string>
+	<string name="Choose_an_action">Choose an action</string>
+	<string name="Folders_first">Folders first</string>
+	<string name="Folders_first_summary">Show folders first, then files.</string>
+	<string name="FAQ">FAQ</string>
+	<string name="FAQ_summary">Please read the FAQ before asking any question</string>
 	
 	<!-- v 1.3.8 -->
-	<string name="Quick_config">Γρηγ. Ρυθμίσεις</string> <!-- short word please -->
+	<string name="Quick_config">Quick config</string> <!-- short word please -->
 	
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
-    	<string name="X_folders_and_Y_files_deleted">%x φάκελο{1:ς|__:ι} και %y αρχεί{1:ο|__:α} διαγράφηκαν.</string>
-    	<string name="X_folders_and_Y_files_copied">%x φάκελο{1:ς|__:ι} και %y αρχεί{1:ο|__:α} αντιγράφηκαν.</string>
-    	<string name="X_folders_and_Y_files_moved">%x φάκελο{1:ς|__:ι} και %y αρχεί{1:ο|__:α} μετακινήθηκαν..</string>
-    	<string name="Deleting_X_folders_and_Y_files">Διαγραφή %x φακέλ{1:ου|__:ων} και %y αρχεί{1:ου|__:ων}</string>
-    	<string name="Copying_X_folders_and_Y_files">Αντιγραφή %x φακέλ{1:ου|__:ων} και %y αρχεί{1:ου|__:ων}</string>
-    	<string name="Moving_X_folders_and_Y_files">Μετακίνηση %x φακέλ{1:ου|__:ων} και %y αρχεί{1:ου|__:ων}</string>
+    	<string name="X_folders_and_Y_files_deleted">%x folder{1:|__:s} and %y file{1:|__:s} deleted.</string>
+    	<string name="X_folders_and_Y_files_copied">%x folder{1:|__:s} and %y file{1:|__:s} copied.</string>
+    	<string name="X_folders_and_Y_files_moved">%x folder{1:|__:s} and %y file{1:|__:s} moved.</string>
+    	<string name="Deleting_X_folders_and_Y_files">Deleting %x folder{1:|__:s} and %y file{1:|__:s}</string>
+    	<string name="Copying_X_folders_and_Y_files">Copying %x folder{1:|__:s} and %y file{1:|__:s}</string>
+    	<string name="Moving_X_folders_and_Y_files">Moving %x folder{1:|__:s} and %y file{1:|__:s}</string>
     	
-    	<string name="X_folders_moved">% φάκελο{1:ς|__:ι} μετακινήθηκ{1:ε|__:αν}.</string>
-    	<string name="Moving_X_folders">Μετακίνηση % φακέλ{1:ου|__:ων}</string>
+    	<string name="X_folders_moved">% folder{1:|__:s} moved.</string>
+    	<string name="Moving_X_folders">Moving % folder{1:|__:s}</string>
     	
-    	<string name="X_folders">% φάκελο{1:ς|__:ι}</string>
-    	<string name="X_files">% αρχεί{1:ο|__:α}</string>
+    	<string name="X_folders">% folder{1:|__:s}</string>
+    	<string name="X_files">% file{1:|__:s}</string>
     	
-    	<string name="Show_status_summary">Εμφάνιση πληροφοριών σχετικά με το περιεχόμενο του καταλόγου και το χρησιμοποιούμενο χώρο στο παράθυρο εξερεύνησης</string>
-    	<string name="Show_status">Εμφάνιση κατάστασης</string>
-    	<string name="Mount_rw">Προσάρτηση ε/α</string>
-    	<string name="System_mounted_as_read_write">Προσάρτηση συστήματος ως εγγραφής/ανάγνωσης</string>
-    	<string name="System_mounted_as_read_only">Προσάρτηση συστήματος ως μόνο για ανάγνωση</string>
+    	<string name="Show_status_summary">Show information about directory content and used space in the explorer window</string>
+    	<string name="Show_status">Show status</string>
+    	<string name="Mount_rw">Mount r/w</string>
+    	<string name="System_mounted_as_read_write">System mounted as read/write</string>
+    	<string name="System_mounted_as_read_only">System mounted as read only</string>
     	
     <!--  v 1.3.9 -->
-    	<string name="Device_labels">Εμφάνιση ετικετών</string>
-    	<string name="Device_labels_summary">Εμφάνιση ετικετών φιλικών προς το χρήστη αντί των πραγματικών ονομάτων των καταλόγων, π.χ. \&quot;Κάρτα SD\&quot; αντί για \&quot;sdcard0\&quot;</string>
-    	<string name="Swap_device_labels">Εναλλαγή ετικετών μνήμης</string>
-    	<string name="Swap_device_labels_summary">Εναλλαγή της Εσωτερικής Μνήμης και της Κάρτας SD εάν δεν έχει γίνει σωστός εντοπισμός.</string>
-    	<string name="Panels">Καρτέλες</string>
-    	<string name="Devices">Μνήμες</string>
-    	<string name="Bug_report_notice">Προτού αναφέρετε ένα σφάλμα, παρακαλούμε κάνετε τα ακόλουθα:\n\n<b>1. Ελέγξτε εάν το θέμα υπάρχει σε άλλες εφαρμογές διαχείρισης αρχείων.\n2. Διαβάστε τις Συχνές Ερωτήσεις.</b>\n\nΚάνατε τα παραπάνω βήματα;</string>
-    	<string name="Unable_to_move_the_file">Δεν ήταν δυνατή η μετακίνηση του αρχείου %</string>
+    	<string name="Device_labels">Device labels</string>
+    	<string name="Device_labels_summary">Show human readable device labels instead of real directory names, ex. \&quot;SD Card\&quot; instead of \&quot;sdcard0\&quot;</string>
+    	<string name="Swap_device_labels">Swap device labels</string>
+    	<string name="Swap_device_labels_summary">Swap Internal Memory with SD Card labels in case of incorrect detection.</string>
+    	<string name="Panels">Panels</string>
+    	<string name="Devices">Devices</string>
+    	<string name="Bug_report_notice">Before reporting a bug please do the following:\n\n<b>1. Check whether the issue exists in other file manager apps.\n2. Read the FAQ.</b>\n\nDid you complete the steps above?</string>
+    	<string name="Unable_to_move_the_file">Unable to move the file %</string>
     
     <!-- v 1.4.0 -->
-    	<string name="Compression_ratio">Αναλογία συμπίεσης</string>
-    	<string name="Compression_method">Μέθοδος συμπίεσης</string>
-    	<string name="Comment">Σχόλιο</string>
-    	<string name="Standard">Κανονική</string>
-    	<string name="No_compression">Χωρίς συμπίεση</string>
-    	<string name="A_while_ago">Πριν από λίγο</string>
-    	<string name="X_hours_Y_minutes_ago">%x ώρ{1:α|__:ες} %y λεπτ{1:ό|__:ά} πριν</string>
+    	<string name="Compression_ratio">Compression ratio</string>
+    	<string name="Compression_method">Compression method</string>
+    	<string name="Comment">Comment</string>
+    	<string name="Standard">Standard</string>
+    	<string name="No_compression">No compression</string>
+    	<string name="A_while_ago">A while ago</string>
+    	<string name="X_hours_Y_minutes_ago">%x hour{1:|__:s} %y minute{1:|__:s} ago</string>
     	<!-- Already exists, just changed the content -->
-    	<string name="Expiration_message">Ευχαριστούμε που χρησιμοποιήσατε τον Solid Explorer, η περίοδος δοκιμής έληξε. Για να συνεχίσετε να τον χρησιμοποιείτε, αγοράστε μου μια ψηφιακή μπύρα αγοράζοντας τον Unlocker από το Google Play. Κάντε το μόνο όταν είστε πλήρως ικανοποιημένοι με την εφαρμογή.</string>
-    	<string name="Purchased_message">Ευχαριστούμε για την αγορά της πλήρους έκδοσης του Solid Explorer. Ελπίζουμε να τον ευχαριστηθείτε.</string>
-    	<string name="Trial_expired">Η δοκιμή έληξε</string>
-    	<string name="Purchase">Αγορά</string>
-    	<string name="No_thanks">Όχι, ευχαριστώ</string>
-    	<string name="Function_not_available">Αυτή η λειτουργία δεν είναι διαθέσιμη στην τρέχουσα έκδοση του συστήματος</string>
+    	<string name="Expiration_message">Thank you for using Solid Explorer, your trial is over now. To continue using this app, buy me a virtual beer by purchasing the unlocker from Google Play. Do it only when you are fully satisfied with the app.</string>
+    	<string name="Purchased_message">Thank you for purchasing the full version of Solid Explorer. I hope you will enjoy it.</string>
+    	<string name="Trial_expired">Trial expired</string>
+    	<string name="Purchase">Purchase</string>
+    	<string name="No_thanks">No, thanks</string>
+    	<string name="Function_not_available">This function is not available in current system version</string>
     	
     <!-- v 1.4.3 -->
-    	<string name="Wallpaper_has_been_set_successfully">Η ταπετσαρία ορίστηκε επιτυχώς</string>
-    	<string name="X_has_been_set_as_default_ringtone">Το % ορίστηκε ως προεπιλεγμένος ήχος κλήσης</string>
-    	<string name="X_has_been_set_as_default_notification">Το % ορίστηκε ως προεπιλεγμένος ήχος ειδοποίησης</string>
-    	<string name="X_has_been_set_as_default_alarm">Το % ορίστηκε ως προεπιλεγμένος ήχος αφύπνισης</string>
-    	<string name="Copy_path">Αντιγραφή τοποθεσίας</string>
-    	<string name="Copy_name">Αντιγραφή ονόματος</string>
-    	<string name="Create_symlink">Δημιουργία συμβολικού συνδέσμου</string>
-    	<string name="Set_as_wallpaper">Ορισμός ως ταπετσαρία</string>
-    	<string name="Set_as_ringtone">Ορισμός ως ήχου κλήσης</string>
-    	<string name="Set_as_notification">Ορισμός ως ήχου ειδοποίησης</string>
-    	<string name="Set_as_alarm">Ορισμός ως ήχου αφύπνισης</string>
-    	<string name="Enter_the_symlink_location">Εισαγάγετε την τοποθεσία του συμβολικού συνδέσμου</string>
-    	<string name="Symbolic_link_created_successfully">Ο συμβολικός σύνδεσμος δημιουργήθηκε επιτυχώς</string>
-    	<string name="Sugarsync_login">Είσοδος στο SugarSync</string>
-    	<string name="Copy_link">Αντιγραφή συνδέσμου</string>
-    	<string name="Data_backup">Αντίγραφο δεδομένων</string>
-    	<string name="Application_data">Δεδομένα εφαρμογών</string>
-    	<string name="Create_backup">Δημιουργία αντιγράφου</string>
-    	<string name="Backup_application_data_to_a_desired_file">Αντίγραφο δεδομένων εφαρμογών σε ένα επιθυμητό αρχείο</string>
-    	<string name="Restore_backup">Επαναφορά αντιγράφου</string>
-    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Επιλέξτε ένα αρχείο αντιγράφου από το οποίο θα γίνει η επαναφορά δεδομένων</string>
-    	<string name="Data_backup_created">Το αντίγραφο δεδομένων δημιουργήθηκε</string>
-    	<string name="Data_backup_restored">Έγινε επαναφορά του αντιγράφου δεδομένων</string>
-    	<string name="Support">Υποστήριξη</string>
-    	<string name="Support_summary">Επισκεφθείτε τη σελίδα υποστήριξης του Solid Explorer</string>
-    	<string name="Experimental_feature_notifier">Παρακαλούμε σημειώστε ότι αυτή η δυνατότητα είναι πειραματική και μπορεί να μην λειτουργήσει σωστά στην τρέχουσα έκδοση Android.</string>
-    	<string name="Trial_check_notice">Ο Solid Explorer δεν μπόρεσε να πιστοποιήσει τη δοκιμαστική περίοδο. Παρακαλούμε ενεργοποιήστε τη σύνδεση στο Διαδίκτυο τώρα ή μέσα σε 2 ημέρες. Διαφορετικά, η δοκιμαστική περίοδος θα λήξει.</string>
-    	<string name="Back_goes_to_root">Πρόσβαση στο ριζικό κατάλογο με το "Πίσω"</string>
-    	<string name="Back_goes_to_root_summary">Επιτρέψτε την πρόσβαση στο ριζικό κατάλογο με το πλήκτρο "Πίσω"</string>
-    	<string name="Keep_the_screen_on">Διατήρηση της οθόνης ενεργής</string>
-    	<string name="Keep_the_screen_on_summary">Διατηρήστε ενεργή την οθόνη κατά τη μεταφορά αρχείων. Επιλέξτε το εάν παρατηρείτε μείωση της ταχύτητας μεταφοράς όταν σβήνει η οθόνη.</string>
+    	<string name="Wallpaper_has_been_set_successfully">Wallpaper has been set successfully</string>
+    	<string name="X_has_been_set_as_default_ringtone">% has been set as default ringtone</string>
+    	<string name="X_has_been_set_as_default_notification">% has been set as default notification sound</string>
+    	<string name="X_has_been_set_as_default_alarm">% has been set as default alarm sound</string>
+    	<string name="Copy_path">Copy path</string>
+    	<string name="Copy_name">Copy name</string>
+    	<string name="Create_symlink">Create symlink</string>
+    	<string name="Set_as_wallpaper">Set as wallpaper</string>
+    	<string name="Set_as_ringtone">Set as ringtone</string>
+    	<string name="Set_as_notification">Set as notification</string>
+    	<string name="Set_as_alarm">Set as alarm</string>
+    	<string name="Enter_the_symlink_location">Enter the symlink location</string>
+    	<string name="Symbolic_link_created_successfully">Symbolic link created successfully</string>
+    	<string name="Sugarsync_login">SugarSync login</string>
+    	<string name="Copy_link">Copy link</string>
+    	<string name="Data_backup">Data backup</string>
+    	<string name="Application_data">Application data</string>
+    	<string name="Create_backup">Create backup</string>
+    	<string name="Backup_application_data_to_a_desired_file">Backup application data to a desired file</string>
+    	<string name="Restore_backup">Restore backup</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Choose a backup file from which the data will be restored</string>
+    	<string name="Data_backup_created">Data backup created</string>
+    	<string name="Data_backup_restored">Data backup restored</string>
+    	<string name="Support">Support</string>
+    	<string name="Support_summary">Visit the Solid Explorer\'s support page</string>
+    	<string name="Experimental_feature_notifier">Please note, that this feature is experimental and will likely not work properly on your current Android version.</string>
+    	<string name="Trial_check_notice">Solid Explorer could not verify the trial period. Please enable internet connection now or within 2 days. Otherwise your trial period will be over.</string>
+    	<string name="Back_goes_to_root">Back goes to root</string>
+    	<string name="Back_goes_to_root_summary">Allow to go to the root directory when hitting the Back button</string>
+    	<string name="Keep_the_screen_on">Keep the screen on</string>
+    	<string name="Keep_the_screen_on_summary">Keep the screen on during the file transfers. Check, if you experience transfer slowdowns when the screen is off.</string>
+    	
+    <!-- v 1.4.4 -->
+    	<string name="Clear_thumbnails_on_exit">Clear thumbnails on exit</string>
+    	<string name="Image_thumbnails_will_be_removed_on_app_exit">Image thumbnails will be removed on app exit</string>
+		<string name="Toggle_nomedia">Toggle .nomedia file</string>
+		<string name="Total_time">Total time</string>
+		<string name="Average_speed">Average speed</string>
+		<string name="Add_new_item">Add new item</string>
+		<string name="Application_chooser">Application chooser</string>
+		<string name="Manage_associations">Manage associations</string>
+		<string name="Manage_associations_summary">Specify which applications should open desired file types</string>
+		<string name="Choose_an_application">Choose an application</string>
+		<string name="Application">Application</string>
+		<string name="Extension">Extension</string>
+		<string name="No_extension_specified">No extension specified</string>
+		<string name="You_didn_t_choose_the_application">You didn\'t choose the application</string>
+		<string name="Added_to_queue">Added to queue</string>
+		<string name="Streaming">Streaming</string>
+		<string name="There_is_already_the_same_file_in_temporary_directory">There is already the same file in temporary directory. Would you like to open the cached file or download the fresh one?</string>
+		<string name="Download">Download</string>
+		<string name="X_files_updated">% file{1:|__:s} updated</string>
+		<string name="Temporary_file_has_been_modified">The temporary file % has been modified. Would you like to upload it back?</string>
+		<string name="Temporary_files_have_been_modified">% temporary file{1:|__:s} have been modified. Would you like to upload them?</string>
+		<string name="Slide_from_bottom">Slide from bottom</string>
+		<string name="Fall_down">Fall down</string>
+		<string name="Come_in">Come in</string>
+		<string name="Slide_from_right">Slide from right</string>
+		<string name="Slide_from_left">Slide from left</string>
+		<string name="Default">Default</string>
+		<string name="List_animations">List animations</string>
+		<string name="List_animations_summary">Customize file list animations</string>
+		<string name="Clear_filter_history">Clear filter history</string>
+		<string name="Clear_filter_history_summary">Delete list filter\'s query history</string>
+		<string name="New_webdav_connection">WebDav connection</string>
+		<string name="WebDav_bookmarks">WebDav bookmarks</string>
+		
 		
 </resources>
