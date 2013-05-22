@@ -625,7 +625,7 @@
    
     <string name="About">정보</string>
     <string name="Author_version_and_changelog">제작자, 버전, 변경사항</string>
-    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Głodowski</string>
     <string name="Version">버전</string>
     <string name="Changelog">변경사항</string>
     <string name="Whats_new">신규사항</string>
