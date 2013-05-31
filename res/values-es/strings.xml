@@ -835,4 +835,15 @@
     	<string name="Clear_filter_history_summary">Elimina el historial de consultas del filtro</string>
     	<string name="New_webdav_connection">Conexión WebDav</string>
     	<string name="WebDav_bookmarks">Marcadores WebDav</string>
+    	
+ 	<!--  v 1.4.5 -->
+    	<string name="Domain">Dominio</string>
+    	<string name="Mode">Modo</string>
+    	<string name="Passive">Pasivo</string>
+    	<string name="Nomedia_on">Archivo .nomedia creado</string>
+    	<string name="Nomedia_off">Archivo .nomedia borrado</string>
+    	<string name="Wifi_disabled">WiFi desactivado</string>
+    	<string name="Wifi_enabled">WiFi activado</string>
+    	<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">¿Estás seguro de restaurar los valores por defecto para este elemento?</string>    	
+    
 </resources>
