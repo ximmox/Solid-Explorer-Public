@@ -816,13 +816,13 @@
      <string name="Total_time">Temps total</string>
      <string name="Average_speed">Vitesse moyenne</string>
      <string name="Add_new_item">Ajouter un nouvel élément</string>
-     <string name="Application_chooser">Sélecteur d'application</string>
+     <string name="Application_chooser">Sélecteur d\'application</string>
      <string name="Manage_associations">Gestionnaire des associations</string>
      <string name="Manage_associations_summary">Choisir les applications à utiliser pour les différents types de fichier</string>
      <string name="Choose_an_application">Choisir une application</string>
      <string name="Application">Application</string>
      <string name="Extension">Extension</string>
-     <string name="No_extension_specified">Pas d'extension specifiée</string>
+     <string name="No_extension_specified">Pas d\'extension specifiée</string>
      <string name="You_didn_t_choose_the_application">Vous devez choisir une application</string>
      <string name="Added_to_queue">Ajouté à la liste des opérations</string>
      <string name="Streaming">Streaming</string>

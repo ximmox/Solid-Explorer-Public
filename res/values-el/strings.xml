@@ -827,7 +827,7 @@
 		<string name="Download">Λήψη</string>
 		<string name="X_files_updated">% αρχεί{1:ο|__:α} ενημερώθηκ{1:ε|__:αν} </string>
 		<string name="Temporary_file_has_been_modified">Το προσωρινό αρχείο % έχει τροποποιηθεί. Θέλετε να το αποστείλετε ξανά;?</string>
-		<string name="Temporary_files_have_been_modified">% προσωριν{1:ό|__:ά} αρχεί{1:ο|__:α} έχ{1:ει|__:ουν} τροποποιηθεί. Θέλετε να γίνει αποστολή;<string>
+		<string name="Temporary_files_have_been_modified">% προσωριν{1:ό|__:ά} αρχεί{1:ο|__:α} έχ{1:ει|__:ουν} τροποποιηθεί. Θέλετε να γίνει αποστολή;</string>
 		<string name="Slide_from_bottom">Ολίσθηση από κάτω</string>
 		<string name="Fall_down">Πτώση</string>
 		<string name="Come_in">Είσοδος</string>
