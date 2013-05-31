@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">Thư mục không tồn tại</string>
+    
+    <string name="Unable_to_read_the_file">Không thể đọc tập tin</string>
+    <string name="Illegal_operation">Thao tác không hợp lệ</string>
+    
+    
+    <string name="Cannot_update_the_database">Không thể cập nhật dữ liệu</string>
+    <string name="Error">Lỗi</string>
+    
+    <string name="Invalid_password_for_user_x">Mật khẩu người dùng sau không hợp lệ \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Mật khẩu cấp cao không hợp lệ</string>
+    <string name="Unable_to_execute_shell_command">Không thể thực thi lệnh</string>
+    <string name="No_root_access_available">Chưa có quyền root</string>
+    <string name="Unable_to_read_root_directory">Không thể đọc thư mục root</string>
+    
+    <string name="Operation_has_failed">Thao tác thất bại</string>
+    <string name="Invalid_file_path">Đường dẫn tập tin không hợp lệ</string>
+    
+    
+    <string name="Cannot_browse_to_x">Không thể truy cập đến \&quot;%\&quot;. Một lỗi chưa xác định.</string>
+    <string name="Cannot_write_to_the_system">Không thể chép lên tập tin hệ thống. Không thể chuyển sang đọc/ghi.</string>
+    <string name="Requested_file_x_has_not_been_found">Tập tin được yêu cầu \&quot;%\&quot; không thể tìm thấy.</string>
+    <string name="Unknown_read_write_exception">Loại trừ đọc/ghi chưa rõ.</string>
+    <string name="Invalid_url_x">URL không hợp lệ: %</string>
+    <string name="An_error_occured_while_accessing_master_password">Lỗi khi truy cập mật khẩu cấp cao.</string>
+    <string name="Operation_not_allowed">Thao tác không được phép.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Không thể kết nối đến \&quot;%x\&quot; ở cổng %y.</string>
+    <string name="Unable_to_resolve_host_x">Máy chủ \&quot;%x\&quot; không thể xử lý.</string>
+    <string name="Server_returned_illegal_response">Máy chủ gửi phản hồi không hợp lệ.</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Lỗi khi chuyển dữ liệu từ máy chủ.</string>
+    <string name="Invalid_username_or_password">Tên người dùng hoặc mật khẩu không hợp lệ.</string>
+    <string name="Internal_server_error">Lỗi nội bộ máy chủ.</string>
+    <string name="Server_response_x">Máy chủ phản hồi: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Không thể mở tập tin để đọc.</string>
+    <string name="Unable_to_write_the_file_to_x">Không thể chép tập tin đến \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Không thể kết nối đến %x.</string>
+    <string name="Unknown_error">Lỗi không xác định</string>
+    <string name="Cannot_create_directory_X">Không thể tạo thư mục \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Không thể khởi chạy dịch vụ ở cổng %</string>
+    
+    <string name="Invalid_position">Vị trí không hợp lệ</string>
+    <string name="Unable_to_delete_file_x">Không thể xóa tập tin %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Không thể chuyển hệ thống sang đọc/ghi</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Không thể chuyển hệ thống sang chỉ được đọc</string>
+    <string name="Access_denied">Không thể truy cập</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Không thấy hoạt động để hoàn tất tác vụ này</string>
+    <string name="Unable_to_set_the_wallpaper">Không thể cài hình nền</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Đã có thể mở khóa nhưng gặp lỗi. Nó thường xảy ra khi 1 ứng dụng khác chặn quyền truy cập của nó, ví dụ phần mềm diệt virus. Hãy chắc chắn Solid Explorer và ứng dụng mở khóa được loại ra khỏi danh sách đen và khởi động ứng dụng 1 lần nữa.</string>
+    <string name="Unable_to_get_the_link">Không thể lấy liên kết.</string>
+    
+</resources>

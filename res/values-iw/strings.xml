@@ -15,14 +15,14 @@
   <string name="Unable_to_read_root_directory">לא ניתן לקרוא את תיקיית המערכת</string>
   <string name="Operation_has_failed">פעולה נכשלה</string>
   <string name="Invalid_file_path">נתיב קובץ לא חוקי</string>
-  <string name="Cannot_browse_to_x">לא יכול לדפדף ל \"%\". קרתה שגיאה לא ידועה.</string>
+  <string name="Cannot_browse_to_x">לא יכול לדפדף אל \"%\". קרתה שגיאה לא ידועה.</string>
   <string name="Cannot_write_to_the_system">לא יכול לכתוב למערכת. החלת קריאה/כתיבה נכשל.</string>
   <string name="Requested_file_x_has_not_been_found">הקובץ המבוקש \"%\" לא נמצא.</string>
   <string name="Unknown_read_write_exception">חריגת קריאה/כתיבה לא ידועה.</string>
   <string name="Invalid_url_x">URL לא חוקי: %</string>
   <string name="An_error_occured_while_accessing_master_password">אירעה שגיאה בעת גישה לסיסמא הראשית</string>
   <string name="Operation_not_allowed">הפעולה לא מורשית.</string>
-  <string name="Cannot_connect_to_host_x_on_port_y" formatted="false">לא יכול להתחבר ל \"%x\" בפורט %y.</string>
+  <string name="Cannot_connect_to_host_x_on_port_y" formatted="false">לא יכול להתחבר אל \"%x\" בפורט %y.</string>
   <string name="Unable_to_resolve_host_x">אין אפשרות לפתור את שם השרת \"%x\".</string>
   <string name="Server_returned_illegal_response">השרת החזיר פקודה לא חוקית</string>
   <string name="An_error_occured_while_transferring_data_from_the_server">אירעה שגיאה בעת העברת נתונים מהשרת</string>
@@ -30,8 +30,8 @@
   <string name="Internal_server_error">שגיאת שרת פנימי.</string>
   <string name="Server_response_x">תגובת השרת: %x</string>
   <string name="Unable_to_open_the_file_for_reading">לא ניתן לפתוח את הקובץ לקריאה.</string>
-  <string name="Unable_to_write_the_file_to_x">לא ניתן לכתוב את הקובץ ל \"%x\".</string>
-  <string name="Unable_to_connect_to_the_x">לא ניתן להתחבר ל %x.</string>
+  <string name="Unable_to_write_the_file_to_x">לא ניתן לכתוב את הקובץ אל \"%x\".</string>
+  <string name="Unable_to_connect_to_the_x">לא ניתן להתחבר אל %x.</string>
   <string name="Unknown_error">שגיאה לא ידועה</string>
   <string name="Cannot_create_directory_X">לא יכול ליצור את התיקייה \"%x\"</string>
   <string name="Unable_to_start_the_service_on_port_x">לא ניתן להתחיל את השירות בפורט %</string>
@@ -128,7 +128,7 @@
   <string name="Extract">חלץ</string>
   <string name="Extract_to">חלץ אל</string>
   <string name="Archive">ארכיון</string>
-  <string name="Paste_to_x">הדבק ל \"%\"</string>
+  <string name="Paste_to_x">הדבק אל \"%\"</string>
   <string name="OK">אישור</string>
   <string name="Cancel">ביטול</string>
   <string name="Yes">כן</string>
@@ -174,8 +174,8 @@
   <string name="Source">מקור</string>
   <string name="Destination">יעד</string>
   <string name="Operation">פעולה</string>
-  <string name="From">מ</string>
-  <string name="To">ל</string>
+  <string name="From">מאת</string>
+  <string name="To">אל</string>
   <string name="Size">גודל</string>
   <string name="Speed">מהירות</string>
   <string name="ETA">זמן משוער</string>
@@ -346,7 +346,7 @@
   <string name="Done">הושלם</string>
   <string name="Preparing_for_operation">מתכונן לפעולה...</string>
   <string name="Connecting">מתחבר...</string>
-  <string name="Connecting_to_x">מתחבר ל \"%\"</string>
+  <string name="Connecting_to_x">מתחבר אל \"%\"</string>
   <string name="File_is_too_big">הקובץ גדול מידי. אפשר לערוך קבצים עד גודל של 75kB. קבצים גדולים יותר יתמכו בקרוב.</string>
   <string name="Operation_history_has_been_cleared">היסטוריית הפעולות נוקתה</string>
   <string name="Encrypted_archive">ארכיון מוצפן</string>
@@ -383,7 +383,7 @@
   <string name="File_named_already_exists">קובץ בשם \"%\" כבר קיים</string>
   <string name="Confirm_delete">אשר מחיקה</string>
   <string name="You_cant_create_an_archive_here">אתה לא יכול ליצור פה ארכיון</string>
-  <string name="Cannot_connect_to">לא יכול להתחבר ל \"%\"</string>
+  <string name="Cannot_connect_to">לא יכול להתחבר אל \"%\"</string>
   <string name="You_are_not_logged_in">אתה לא מחובר</string>
   <string name="Can_not_create_the_directory">לא יכול ליצור את התיקייה</string>
   <string name="Beta_expired">הבטא פג</string>
@@ -582,8 +582,8 @@
   <string name="Encoding">הצפנה</string>
   <string name="Network_thumbnails">תמונות ממוזערות ברשת</string>
   <string name="Network_thumbnails_summary">אם מסומן, תמונות ממוזערות של תמונה יוצגו גם שיש חיבור אינטרנט נייד.</string>
-  <string name="Copy_to">העתק ל</string>
-  <string name="Move_to">העבר ל</string>
+  <string name="Copy_to">העתק אל</string>
+  <string name="Move_to">העבר אל</string>
   <string name="Shortcut">קיצור דרך</string>
   <string name="Two_panels_in_landscape_summary">הצג את שני הפאנלים בבת אחת שהמסך לרוחב</string>
   <string name="Two_panels_in_landscape">2 פאנלים שהמסך לרוחב</string>
@@ -626,7 +626,7 @@
   <!--New Tag-->
   <string name="X_folders_and_Y_files_moved" formatted="false">%x {1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים} הועברו.</string>
   <!--New Tag-->
-  <string name="Deleting_X_folders_and_Y_files" formatted="false">מוחק %x ת{1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים}</string>
+  <string name="Deleting_X_folders_and_Y_files" formatted="false">מוחק %x {1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים}</string>
   <!--New Tag-->
   <string name="Copying_X_folders_and_Y_files" formatted="false">מעתיק %x {1:תיקיה|__:תיקיות} ו %y {1:קובץ|__:קבצים}</string>
   <!--New Tag-->
@@ -708,4 +708,37 @@
   <string name="Back_goes_to_root_summary">מאפשר להגיע לתייקית המערכת כאשר לוחצים על כפתור חזור</string>
   <string name="Keep_the_screen_on">השאר את המסך דלוק</string>
   <string name="Keep_the_screen_on_summary">השאר את המסך דלוק בעת ההעברת קבצים. סמן אם אתה חווה האטה בהעברת הקבצים בעת שהמסך מכובה.</string>
+  <string name="Clear_thumbnails_on_exit">נקה תמונות ממוזערות ביציאה</string>
+  <string name="Image_thumbnails_will_be_removed_on_app_exit">תמונות ממוזערות ימחקו בעת יציאה מהיישום</string>
+  <string name="Toggle_nomedia">החלף קובץ .nomedia</string>
+  <string name="Total_time">זמן כולל</string>
+  <string name="Average_speed">מהירות ממוצעת</string>
+  <string name="Add_new_item">הוסף פריט חדש</string>
+  <string name="Application_chooser">בחר יישום</string>
+  <string name="Manage_associations">נהל שיוכי קבצים</string>
+  <string name="Manage_associations_summary">ציין אלו יישומים צריכים לפתוח סוג קובץ מסוים</string>
+  <string name="Choose_an_application">בחר יישום</string>
+  <string name="Application">יישום</string>
+  <string name="Extension">סיומת</string>
+  <string name="No_extension_specified">לא נכתבה סיומת</string>
+  <string name="You_didn_t_choose_the_application">לא בחרת יישום</string>
+  <string name="Added_to_queue">נוסף לתור</string>
+  <string name="Streaming">הזרמה</string>
+  <string name="There_is_already_the_same_file_in_temporary_directory">אותו הקובץ כבר קיים בתיקיה הזמנית. אתה רוצה לפתוח את הקובץ שמאוחסן או להוריד את הקובץ החדש?</string>
+  <string name="Download">הורד</string>
+  <string name="X_files_updated">% {1:קובץ|__:קבצים} התעדכן/ו</string>
+  <string name="Temporary_file_has_been_modified">הקובץ הזמני % שונה. אתה רוצה להעלות אותו חזרה?</string>
+  <string name="Temporary_files_have_been_modified">% {1:קובץ|__:קבצים} זמני/ים שונו. אתה רוצה להעלות אותו/ם?</string>
+  <string name="Slide_from_bottom">החלקה מלמטה</string>
+  <string name="Fall_down">נפילה</string>
+  <string name="Come_in">כניסה</string>
+  <string name="Slide_from_right">החלקה מימין</string>
+  <string name="Slide_from_left">החלקה משמאל</string>
+  <string name="Default">ברירת מחדל</string>
+  <string name="List_animations">אנימציות רשימה</string>
+  <string name="List_animations_summary">בחר אנימצייה של הקבצים ברשימה</string>
+  <string name="Clear_filter_history">נקה היסטוריית סינונים</string>
+  <string name="Clear_filter_history_summary">מחק את רשומות ההיסטוריה של מסנן הרשימה</string>
+  <string name="New_webdav_connection">חיבור WebDav</string>
+  <string name="WebDav_bookmarks">סימניות WebDav</string>
 </resources>

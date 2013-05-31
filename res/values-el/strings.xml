@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     
@@ -43,13 +43,13 @@
     <string name="Sort">Ταξινόμηση</string>
     <string name="Search">Αναζήτηση</string>
     <string name="Operations">Ενέργειες</string>
-    <string name="Manage_bookmarks">Διαχείριση σελιδοδεικτών</string>
+    <string name="Manage_bookmarks">Σελιδοδείκτες</string>
     <string name="File_sharing">Κοινή χρήση</string>
     <string name="Settings">Ρυθμίσεις</string>
     <string name="Exit">Έξοδος</string>
     
     <!-- "Network" popup -->
-    <string name="Cloud_storage">Αποθηκευτικός χώρος Cloud</string>
+    <string name="Cloud_storage">Χώρος Cloud</string>
     
     <!-- "Device" popup -->
      <string name="System_root">Ριζικός κατάλογος</string>
@@ -406,7 +406,7 @@
     	
     	<string name="Are_you_sure_you_want_to_delete_items">Θέλετε σίγουρα να διαγράψετε % στοιχεί{1:ο|__:α};</string>
     	<string name="X_files_deleted">% αρχεί{1:ο|__:α} διαγράφθηκ{1:ε|__:αν}.</string>
-    	<string name="X_files_copied">% αρχεί{1:ο|__:α} αντιγράφθηκ{1:ε|__:αν}.</string>
+    	<string name="X_files_copied">% αρχεί{1:ο|__:α} αντιγράφηκ{1:ε|__:αν}.</string>
     	<string name="X_files_moved">% αρχεί{1:ο|__:α} μετακινήθηκ{1:ε|__:αν}.</string>
     	<string name="X_items">% στοιχεί{1:ο|__:α}</string>
     	<string name="Deleting_X_files">Διαγραφή % αρχεί{1:ου|__:ων}</string>
@@ -678,7 +678,7 @@
     <string name="Default_panel">Προεπιλεγμένη καρτέλα</string>
     <string name="Destination_type">Τύπος προορισμού</string>
     <string name="DiskUsage_not_installed">Φαίνεται ότι το "DiskUsage" δεν έχει εγκατασταθεί. Αυτή η εφαρμογή δείχνει τη χρήση της μνήμης με ένα λεπτεπίλεπτο και φιλικό προς το χρήστη τρόπο. θέλετε να εγκατασταθεί τώρα;</string>
-    <string name="Text_copied_to_clipboard">Το κείμενο αντιγράφτηκε στο πρόχειρο</string>
+    <string name="Text_copied_to_clipboard">Το κείμενο αντιγράφηκε στο πρόχειρο</string>
     <string name="Force_english">Επιβολή Αγγλικών</string>
     <string name="Force_english_summary">Επιλέξτε το αν προτιμάτε τα Αγγλικά ως κύρια γλώσσα. Εφαρμόζεται μετά από επανεκκίνηση.</string>
     <string name="Encoding">Κωδικοποίηση</string>
@@ -805,5 +805,42 @@
     	<string name="Back_goes_to_root_summary">Επιτρέψτε την πρόσβαση στο ριζικό κατάλογο με το πλήκτρο "Πίσω"</string>
     	<string name="Keep_the_screen_on">Διατήρηση της οθόνης ενεργής</string>
     	<string name="Keep_the_screen_on_summary">Διατηρήστε ενεργή την οθόνη κατά τη μεταφορά αρχείων. Επιλέξτε το εάν παρατηρείτε μείωση της ταχύτητας μεταφοράς όταν σβήνει η οθόνη.</string>
+	
+    <!-- v 1.4.4 -->
+    	<string name="Clear_thumbnails_on_exit">Καθαρισμός μικρογραφιών κατά την έξοδο</string>
+    	<string name="Image_thumbnails_will_be_removed_on_app_exit">Οι μικρογραφίες θα διαγραφούν κατά την έξοδο από την εφαρμογή</string>
+		<string name="Toggle_nomedia">Εναλλαγή των .nomedia file</string>
+		<string name="Total_time">Συνολικός χρόνος</string>
+		<string name="Average_speed">Μέση ταχύτητα</string>
+		<string name="Add_new_item">Προσθήκη νέου αντικειμένου</string>
+		<string name="Application_chooser">Επιλογή εγαρμογής</string>
+		<string name="Manage_associations">Διαχείριση συσχετισμών</string>
+		<string name="Manage_associations_summary">Προσδιορίστε ποιες εφαρμογές θα ανοίγουν συγκεκριμένους τύπους αρχείων</string>
+		<string name="Choose_an_application">Επιλέξτε μια εφαρμογή</string>
+		<string name="Application">Εφαρμογή</string>
+		<string name="Extension">Επέκταση</string>
+		<string name="No_extension_specified">Δεν προσδιορίστηκε επέκταση</string>
+		<string name="You_didn_t_choose_the_application">Δεν επιλέξατε εφαρμογή</string>
+		<string name="Added_to_queue">Προστέθηκε στη σειρά</string>
+		<string name="Streaming">Ροή</string>
+		<string name="There_is_already_the_same_file_in_temporary_directory">Υπάρχει ήδη το ίδιο αρχείο στον προσωρινό κατάλογο. Θέλετε να ανοίξετε το προσωρινό αρχείο ή να πραγματοποιήσετε λήψη του νέου;</string>
+		<string name="Download">Λήψη</string>
+		<string name="X_files_updated">% αρχεί{1:ο|__:α} ενημερώθηκ{1:ε|__:αν} </string>
+		<string name="Temporary_file_has_been_modified">Το προσωρινό αρχείο % έχει τροποποιηθεί. Θέλετε να το αποστείλετε ξανά;?</string>
+		<string name="Temporary_files_have_been_modified">% προσωριν{1:ό|__:ά} αρχεί{1:ο|__:α} έχ{1:ει|__:ουν} τροποποιηθεί. Θέλετε να γίνει αποστολή;</string>
+		<string name="Slide_from_bottom">Ολίσθηση από κάτω</string>
+		<string name="Fall_down">Πτώση</string>
+		<string name="Come_in">Είσοδος</string>
+		<string name="Slide_from_right">Ολίσθηση από δεξιά</string>
+		<string name="Slide_from_left">Ολίσθηση από αριστερά</string>
+		<string name="Default">Προεπιλογή</string>
+		<string name="List_animations">Κτάλογος κινήσεων</string>
+		<string name="List_animations_summary">Προσαρμόστε τις κινήσεις του καταλόγου αρχείων</string>
+		<string name="Clear_filter_history">Καθαρισμός ιστορικού φίλτρων</string>
+		<string name="Clear_filter_history_summary">Διαγράψτε τον κατάλογο του ιστορικού φίλτρων</string>
+		<string name="New_webdav_connection">Σύνδεση WebDav</string>
+		<string name="WebDav_bookmarks">Σελιδοδείκτες WebDav</string>
+		
 		
 </resources>
+

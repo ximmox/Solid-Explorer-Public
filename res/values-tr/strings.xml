@@ -765,8 +765,8 @@
      <string name="A_while_ago">Bir süre önce</string>
      <string name="X_hours_Y_minutes_ago">%x saat ve %y dakika önce</string>
      <!-- Already exists, just changed the content -->
-     <string name="Expiration_message">Solid Explorer'ı kullandığınız için teşekkürler, deneme sürümünüz sona erdi. Bu uygulamayı kullanmaya devam etmek için lütfen tam sürüm uygulamasını satın alınız. </string>
-     <string name="Purchased_message">Solid Explorer'ın tam sürümünü satın aldığınız için teşekkürler. Umarım hoşnut kalırsınız.</string>
+     <string name="Expiration_message">Solid Explorer\'ı kullandığınız için teşekkürler, deneme sürümünüz sona erdi. Bu uygulamayı kullanmaya devam etmek için lütfen tam sürüm uygulamasını satın alınız. </string>
+     <string name="Purchased_message">Solid Explorer\'ın tam sürümünü satın aldığınız için teşekkürler. Umarım hoşnut kalırsınız.</string>
      <string name="Trial_expired">Deneme sürümü sona erdi</string>
      <string name="Purchase">Satın Al</string>
      <string name="No_thanks">Hayır, teşekkürler</string>

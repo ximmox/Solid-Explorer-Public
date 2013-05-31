@@ -99,36 +99,36 @@
 	<string name="Yes">Iya</string>
 	<string name="No">Tidak</string>
 	
-		<!-- New folder/file dialog -->
-		<string name="Enter_the_name">Masukkan nama</string>
+	<!-- New folder/file dialog -->
+	<string name="Enter_the_name">Masukkan nama</string>
+	
+	<!-- New connection Dialog -->
+	<string name="Display_name">Tampilan Nama</string>
+	<string name="May_be_empty">Boleh kosong</string>
+	<string name="Remote_path">Alamat tujuan</string>
+	<string name="Port">Port</string>
+	<string name="User_name">Nama pengguna</string>
+	<string name="Password">Kata sandi</string>
+	<string name="Repeat_the_password">Ulangi kata sandi</string>
+	<string name="Authentication_method">Metode autentifikasi</string>
+	<string name="Server">Server</string>
+	<string name="Connection_type">Jenis koneksi</string>
+	<string name="Scan">Mencari</string><!-- Alternate: Pindai -->
+	<string name="Computer_name_or_IP_adress">Nama komputer atau alamat IP</string>
+	<string name="Looking_for_computers">Mencari komputer</string>
+	<string name="Share">Berbagi SMB</string><!-- check needed -->
 		
-		<!-- New connection Dialog -->
-		<string name="Display_name">Tampilan Nama</string>
-		<string name="May_be_empty">Boleh kosong</string>
-		<string name="Remote_path">Alamat tujuan</string>
-		<string name="Port">Port</string>
-		<string name="User_name">Nama pengguna</string>
-		<string name="Password">Kata sandi</string>
-		<string name="Repeat_the_password">Ulangi kata sandi</string>
-		<string name="Authentication_method">Metode autentifikasi</string>
-		<string name="Server">Server</string>
-		<string name="Connection_type">Jenis koneksi</string>
-		<string name="Scan">Mencari</string><!-- Alternate: Pindai -->
-		<string name="Computer_name_or_IP_adress">Nama komputer atau alamat IP</string>
-		<string name="Looking_for_computers">Mencari komputer</string>
-		<string name="Share">Berbagi SMB</string><!-- check needed -->
-		
-			<!-- Auth methods -->
-			<string name="Ask_for_password_each_time">Tanya kata sandi tiap waktu</string>
-			<string name="Store_encrypted_password">Simpan kata sandi dengan enkripsi</string>
-			<string name="No_password_required">Tidak memerlukan kata sandi</string>
-			<string name="Anonymous">Tanpa nama pengguna</string><!-- Alternate: Anonim -->
-			<string name="Log_in_as_a_guest">Masuk sebagai tamu</string>
-			
-			<!-- FTP types -->
-			<string name="FTP_no_encryption">FTP (tanpa enkripsi)</string>
-			<string name="FTPS_implicit_encryption">FTPS (enkripsi implisit)</string>
-			<string name="FTPES_explicit_encryption">FTPES (enkripsi eksplisit)</string>
+	<!-- Auth methods -->
+	<string name="Ask_for_password_each_time">Tanya kata sandi tiap waktu</string>
+	<string name="Store_encrypted_password">Simpan kata sandi dengan enkripsi</string>
+	<string name="No_password_required">Tidak memerlukan kata sandi</string>
+	<string name="Anonymous">Tanpa nama pengguna</string><!-- Alternate: Anonim -->
+	<string name="Log_in_as_a_guest">Masuk sebagai tamu</string>
+	
+	<!-- FTP types -->
+	<string name="FTP_no_encryption">FTP (tanpa enkripsi)</string>
+	<string name="FTPS_implicit_encryption">FTPS (enkripsi implisit)</string>
+	<string name="FTPES_explicit_encryption">FTPES (enkripsi eksplisit)</string>
 		
 	<!-- Search activity -->	
 	<string name="Manual_search">Pencarian manual</string>
@@ -151,28 +151,28 @@
 	<string name="Source">Sumber</string>
 	<string name="Destination">Tujuan</string>
 	
-		<!-- Operation info -->
-		<string name="Operation">Operasi</string>
-		<string name="From">Dari</string>
-		<string name="To">Tujuan</string><!-- Alternate: Ke -->
-		<string name="Size">Ukuran</string>
-		<string name="Speed">Kecepatan</string>
-		<string name="ETA">Estimasi</string>
-		<string name="NA">-</string><!-- Alternate: Tidak Ada -->
-		<string name="Current">Saat ini</string>
-		
-		<!-- Operation descriptions -->
-		<string name="File_copy">Salin file</string>
-		<string name="File_move">Pindahkan file</string>
-		<string name="File_delete">Hapus file</string>
-		<string name="Temporary_download">Unduhan sementara</string>
-		<string name="Creating_archive">Membuat arsip %</string>
-		<string name="Extracting_archive">Mengekstrak arsip %</string>
-		<string name="X_has_been_completed">% telah selesai.</string>
-		<string name="X_has_failed">% gagal.</string>
-		<string name="Tap_to_show_details">Sentuh untuk melihat rincian</string>
-		<string name="Pending_cancel_request">Permintaan pembatalan yang tertunda</string><!-- check needed -->
-		<string name="File_operation">Operasi file</string>
+	<!-- Operation info -->
+	<string name="Operation">Operasi</string>
+	<string name="From">Dari</string>
+	<string name="To">Tujuan</string><!-- Alternate: Ke -->
+	<string name="Size">Ukuran</string>
+	<string name="Speed">Kecepatan</string>
+	<string name="ETA">Estimasi</string>
+	<string name="NA">-</string><!-- Alternate: Tidak Ada -->
+	<string name="Current">Saat ini</string>
+	
+	<!-- Operation descriptions -->
+	<string name="File_copy">Salin file</string>
+	<string name="File_move">Pindahkan file</string>
+	<string name="File_delete">Hapus file</string>
+	<string name="Temporary_download">Unduhan sementara</string>
+	<string name="Creating_archive">Membuat arsip %</string>
+	<string name="Extracting_archive">Mengekstrak arsip %</string>
+	<string name="X_has_been_completed">% telah selesai.</string>
+	<string name="X_has_failed">% gagal.</string>
+	<string name="Tap_to_show_details">Sentuh untuk melihat rincian</string>
+	<string name="Pending_cancel_request">Permintaan pembatalan yang tertunda</string><!-- check needed -->
+	<string name="File_operation">Operasi file</string>
 	
 	<!-- Bookmark manager -->
 	<string name="Bookmark_manager">Manajemen penanda</string>
@@ -254,7 +254,7 @@
 	<string name="Calculation_error">Kesalahan kalkulasi</string>
 	<string name="Content">Isi</string>
 	<string name="Other_used">Lainnya</string>
-	<string name="Free_space">Kosong</string>
+	<string name="Free">Kosong</string>
 	<string name="Usage">Penggunaan</string>
 	<string name="Attributes">Atribut</string>
 	<string name="Read">Baca</string>
@@ -297,166 +297,166 @@
 	<string name="Flash">Flash</string>
 	
 	<!-- Dialogs again -->
-		<!-- File exists dialog -->
-		<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
-		<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
-		<string name="File_exists">File sudah ada</string>
-		<string name="Skip">Lewati</string>
-		<string name="Overwrite">Timpa</string><!-- Alternate: Tulis ulang -->
-		<string name="Merge">Gabung</string>
-		<string name="Keep_both">Simpan semua</string>
-		<string name="Remember_action">Ingat aksi</string>
-		<string name="Keep_the_old_file">Simpan file yang lebih tua</string>
-		<string name="The_new_file_will_have_its_name_changed">Ganti nama untuk file yang baru dibuat</string>
-		<string name="Replace_the_file_with_this">Tukar file berikut dengan yang baru</string>
-		<string name="Create_master_password">Membuat password utama</string>
-		
-		<string name="Choose_an_activity_to_open_the_file">Memilih aplikasi untuk membuka file</string>
-		<string name="Always_use_this_application">Selalu gunakan aplikasi ini</string>
-		<string name="Send_the_file_using">Kirim file menggunakan</string>
-		<string name="Progress">Proses</string>
-		<string name="Minimize">Kecilkan</string>
-		<string name="Pause">Jeda</string>
-		<string name="Resume">Lanjutkan</string>
-		<string name="Dismiss">Bubarkan</string><!-- Alternate: Batalkan -->
-		
-		<string name="Abort_operation">Batalkan operasi</string>
-		<string name="There_is_already_an_operation_running">Ada operasi yang masih berlangsung. Anda harus menunggunya sampai selesai.</string>
+	<!-- File exists dialog -->
+	<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
+	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+	<string name="File_exists">File sudah ada</string>
+	<string name="Skip">Lewati</string>
+	<string name="Overwrite">Timpa</string><!-- Alternate: Tulis ulang -->
+	<string name="Merge">Gabung</string>
+	<string name="Keep_both">Simpan semua</string>
+	<string name="Remember_action">Ingat aksi</string>
+	<string name="Keep_the_old_file">Simpan file yang lebih tua</string>
+	<string name="The_new_file_will_have_its_name_changed">Ganti nama untuk file yang baru dibuat</string>
+	<string name="Replace_the_file_with_this">Tukar file berikut dengan yang baru</string>
+	<string name="Create_master_password">Membuat password utama</string>
 	
-		<!-- Question dialogs -->
-		<string name="Are_you_sure_you_want_to_clear_the_history">Apakah anda mau menghapus daftar riwayat ?</string>
-		<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Apakah anda mau menghapus tembolok gambar ?</string>
-		<string name="Are_you_sure_you_want_to_delete_temporary_files">Apakah anda mau menghapus file-file sementara ?</string>
-		<string name="It_is_time_for_sheduled_indexing">Saat ini merupakan jadwal indeks otomatis. Apakah anda mau mengeksekusinya sekarang ?</string>
-		<string name="Folder_exists_descr">Sudah ada nama direktori yang sama pada direktori ini. Tindakan apa yang ingin anda lakukan ?</string>
-		<string name="File_exists_descr">Sudah ada nama file yang sama pada direktori ini. Tindakan apa yang ingin anda lakukan ?</string>
-		<string name="Are_you_sure_you_want_to_delete">Apakah anda mau menghapus \&quot;%\&quot; ?</string>
-		<string name="Are_you_sure_to_abort_current_operation">Apakah anda mau membatalkan operasi yang sedang berlangsung ?</string>
-		<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Apakah anda mau menghapus semua penanda ?</string>
-		<string name="Are_you_sure_you_want_to_delete_bookmark">Apakah anda mau menghapus penanda \&quot;%\&quot; ?</string>
-		<string name="Reindex_prompt">Anda akan memulai proses indeks. Proses ini dapat berlangsung beberapa waktu, Lanjutkan ?</string>
-		<string name="Clear_index_prompt">Apakah anda mau menghapus semua data indeks ? Operasi ini tidak dapat dibatalkan.</string>
-		<string name="Are_you_sure_to_stop_indexing">Apakah anda mau membatalkan proses indeks ?</string>
-		<string name="Are_you_sure_you_want_to_clear_file_type_associations">Apakah anda mau menghapus semua asosiasi jenis-jenis file ?</string>
-		<string name="Changes_have_been_made_to_the_file">Anda telah merubah file &quot;%&quot;. Apakah anda mau menyimpan perubahan yang terjadi ?</string>
-		<string name="Chown_confirm">Apakah anda mau merubah kepemilikan daripada file berikut ?</string>
-		<string name="Busybox_request">Sepertinya BusyBox tidak terpasang pada sistem atau tidak mutakhir. BusyBox diperlukan untuk menjelajah sistem file root anda. Apakah anda mau memasangnya sekarang ?</string>
-		
-		
-		<!-- Information dialogs -->
-		<string name="SkyDrive_doesnt_support_x_files">SkyDrive tidak mendukung file \&quot;%\&quot;. Operasi dibatalkan.</string>
-		<string name="Operation_not_supported">Operasi tidak didukung</string>
-		<string name="You_have_to_provide_a_password">Anda harus memberikan kata sandi</string>
-		<string name="Insufficient_space" formatted="false">Tidak ada cukup ruang untuk menyelesaikan operasi yang diminta. Ukuran: %, tersedia: %.</string>
-		<string name="Command_executed_successfully">Perintah telah berhasil dieksekusi</string>
-		<string name="Deleting_data">Sedang menghapus data</string>
-		<string name="Done">Selesai</string>
-		<string name="Preparing_for_operation">Mempersiapkan operasi diminta...</string>
-		<string name="Connecting">Menghubungkan</string>
-		<string name="Connecting_to_x">Menghubungkan ke \&quot;%\&quot;</string>
-		<string name="File_is_too_big">Ukuran file terlalu besar. Untuk menyunting, ukuran file tidak boleh lebih dari 75 KB. Ukuran yang lebih besar akan didukung sebentar lagi.</string>
-		<string name="Operation_history_has_been_cleared">Riwayat operasi sudah dihapus</string>
-		<string name="Encrypted_archive">Arsip terenkripsi</string>
-		<string name="Enter_the_password">Masukkan kata sandi</string>
-		<string name="Confirmation">Konfirmasi</string>
-		<string name="Input_request">Meminta masukkan</string>
-		<string name="Message">Pesan</string>
-		<string name="Warning">Perhatian !</string>
-		<string name="You_did_not_specify_a_password">Anda tidak memberikan kata sandi</string>
-		<string name="Reading_archive">Membaca arsip</string>
-		<string name="Reading_archive_x">Membaca arsip \&quot;%\&quot;</string>
-		<string name="Storage_not_available">Media penyimpanan tidak ada</string>
-		<string name="The_password_given_is_incorrect">Kata sandi yang diberikan salah</string>
-		<string name="You_did_not_specify_a_server_name">Anda tidak memberikan nama server</string>
-		<string name="You_did_not_specify_a_computer_name">Anda tidak memberikan nama komputer</string>
-		<string name="You_did_not_specify_a_port_number">Anda tidak memberikan nomor port</string>
-		<string name="You_did_not_specify_user_name">Anda tidak memberikan nama pengguna</string>
-		<string name="Indexing">Mengindeks</string>
-		<string name="Indexing_in_progress">Sedang proses indeks</string>
-		<string name="Indexing_paused">Indeks dijeda</string>
-		<string name="Indexing_has_been_completed">Proses indeks telah selesai</string>
-		<string name="Indexing_has_been_aborted">Proses indeks dibatalkan</string>
-		<string name="Tap_to_dismiss">Sentuh untuk menghilangkan</string>
-		<string name="Tap_top_open">Sentuh untuk membuka</string>
-		<string name="File_is_ready_to_open">File sudah siap utuk dibuka</string>
-		
-		<string name="Operation_aborted_by_user">Operasi dibatalkan oleh pengguna</string>
-		<string name="You_cant_delete_this_item">Anda tidak dapat menghapus barang tersebut</string>
-		<string name="Indexing_service">Layanan Indeks</string>
-		<string name="Only_local_file_can_be_added_to_the_archive">Hanya file lokal yang dapat ditambahkan ke dalam arsip</string>
-		<string name="Bookmark_already_exists">Penanda sudah ada</string>
-		<string name="Added_to_bookmarks">\&quot;%\&quot; ditambahkan sebagai penanda</string>
-		<string name="Rename_a_file">Mengganti nama file</string>
-		<string name="Input_was_left_blank">Masukkan dibiarkan kosong</string>
-		<string name="File_named_already_exists">File dengan nama \&quot;%\&quot; sudah ada</string>
-		<string name="Confirm_delete">Konfirmasi penghapusan</string>
-		<string name="You_cant_create_an_archive_here">Tidak dapat membuat arsip disini</string>
-		<string name="Cannot_connect_to">Tidak dapat terhubung dengan \&quot;%\&quot;</string>
-		<string name="You_are_not_logged_in">Anda belum masuk</string>
-		<string name="Can_not_create_the_directory">Tidak dapat membuat direktori</string>
-		
-		<string name="Can_not_create_the_file">Tidak dapat membuat file</string>
-		<string name="Uknown_file_type">Jenis file tidak dikenal</string>
-		<string name="No_activity_found_to_open_this_file">Tidak ada aplikasi ditemukan untuk membuka file berikut</string>
-		<string name="You_cant_send_a_folder">Direktori tidak dapat dikirim</string>
-		<string name="Indexing_has_been_unscheduled">Jadwal proses indeks telah dihapus</string>
-		<string name="Scheduled_indexing">Penjadwalan proses indeks</string>
-		<string name="Tap_to_start">Sentuh untuk memulai</string>
-		
-		
-		<string name="Are_you_sure_you_want_to_delete_items">Apakah anda mau menghapus % barang{__:} ?</string>
-		<string name="X_files_deleted">% file{__:} dihapus.</string>
-		<string name="X_files_copied">% file{__:} disalin.</string>
-		<string name="X_files_moved">% file{__:} dipindahkan.</string>
-		<string name="X_items">% barang{__:}</string>
-		<string name="Deleting_X_files">Menghapus % file{__:}</string>
-		<string name="Copying_X_files">Menyalin % file{__:}</string>
-		<string name="Moving_X_files">Memindahkan % file{__:}</string>
-		<string name="Indexing_scheduled_at_X_every_Y">Proses indeks dijadwalkan setiap %y hari{__:} sekali pada jam %x</string>
-		<!-- Explanation of above
-		
-				In english things are simple because we have 1 file and multiple files.
-				1 file, 2 files, 3 files and so on...
-				Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
-				
-				But let's take polish for example. File means 'Plik'. We have:
-				0 plików
-				1 plik
-				2, 3, 4 pliki
-				5, 6, 7, 8, 9, 10, 11, 12 ... plików
-				but.. 22, 23 pliki
-				and 26, 27 plików
-				Complicated, huh?
-				The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
-				
-				If you have problems creating this pattern for your language, contact me.
-				
-				Quick reference:
-				'{' - starts the pattern
-				'}' - ends the pattern
-				'|' - rule divider
-				':' - separates range from the associated suffix
-				'_' - any digit
-				'-' - range
-				
-				Examples:
-				1:s 	= for single 1 give 's' suffix
-				3:		= for single 3 give no suffix
-				4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
-				1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
-				_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
-				__:s	= give 's' for any number
-				
-				This pattern has priorities. This means that the first has the highest priority and last the lowest.
-				there should be always the __:something pattern at the end.
-				
-		-->
+	<string name="Choose_an_activity_to_open_the_file">Memilih aplikasi untuk membuka file</string>
+	<string name="Always_use_this_application">Selalu gunakan aplikasi ini</string>
+	<string name="Send_the_file_using">Kirim file menggunakan</string>
+	<string name="Progress">Proses</string>
+	<string name="Minimize">Kecilkan</string>
+	<string name="Pause">Jeda</string>
+	<string name="Resume">Lanjutkan</string>
+	<string name="Dismiss">Bubarkan</string><!-- Alternate: Batalkan -->
 	
+	<string name="Abort_operation">Batalkan operasi</string>
+	<string name="There_is_already_an_operation_running">Ada operasi yang masih berlangsung. Anda harus menunggunya sampai selesai.</string>
 
+	<!-- Question dialogs -->
+	<string name="Are_you_sure_you_want_to_clear_the_history">Apakah anda mau menghapus daftar riwayat ?</string>
+	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Apakah anda mau menghapus tembolok gambar ?</string>
+	<string name="Are_you_sure_you_want_to_delete_temporary_files">Apakah anda mau menghapus file-file sementara ?</string>
+	<string name="It_is_time_for_sheduled_indexing">Saat ini merupakan jadwal indeks otomatis. Apakah anda mau mengeksekusinya sekarang ?</string>
+	<string name="Folder_exists_descr">Sudah ada nama direktori yang sama pada direktori ini. Tindakan apa yang ingin anda lakukan ?</string>
+	<string name="File_exists_descr">Sudah ada nama file yang sama pada direktori ini. Tindakan apa yang ingin anda lakukan ?</string>
+	<string name="Are_you_sure_you_want_to_delete">Apakah anda mau menghapus \&quot;%\&quot; ?</string>
+	<string name="Are_you_sure_to_abort_current_operation">Apakah anda mau membatalkan operasi yang sedang berlangsung ?</string>
+	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Apakah anda mau menghapus semua penanda ?</string>
+	<string name="Are_you_sure_you_want_to_delete_bookmark">Apakah anda mau menghapus penanda \&quot;%\&quot; ?</string>
+	<string name="Reindex_prompt">Anda akan memulai proses indeks. Proses ini dapat berlangsung beberapa waktu, Lanjutkan ?</string>
+	<string name="Clear_index_prompt">Apakah anda mau menghapus semua data indeks ? Operasi ini tidak dapat dibatalkan.</string>
+	<string name="Are_you_sure_to_stop_indexing">Apakah anda mau membatalkan proses indeks ?</string>
+	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Apakah anda mau menghapus semua asosiasi jenis-jenis file ?</string>
+	<string name="Changes_have_been_made_to_the_file">Anda telah merubah file &quot;%&quot;. Apakah anda mau menyimpan perubahan yang terjadi ?</string>
+	<string name="Chown_confirm">Apakah anda mau merubah kepemilikan daripada file berikut ?</string>
+	<string name="Busybox_request">Sepertinya BusyBox tidak terpasang pada sistem atau tidak mutakhir. BusyBox diperlukan untuk menjelajah sistem file root anda. Apakah anda mau memasangnya sekarang ?</string>
+		
+		
+	<!-- Information dialogs -->
+	<string name="SkyDrive_doesnt_support_x_files">SkyDrive tidak mendukung file \&quot;%\&quot;. Operasi dibatalkan.</string>
+	<string name="Operation_not_supported">Operasi tidak didukung</string>
+	<string name="You_have_to_provide_a_password">Anda harus memberikan kata sandi</string>
+	<string name="Insufficient_space" formatted="false">Tidak ada cukup ruang untuk menyelesaikan operasi yang diminta. Ukuran: %, tersedia: %.</string>
+	<string name="Command_executed_successfully">Perintah telah berhasil dieksekusi</string>
+	<string name="Deleting_data">Sedang menghapus data</string>
+	<string name="Done">Selesai</string>
+	<string name="Preparing_for_operation">Mempersiapkan operasi diminta...</string>
+	<string name="Connecting">Menghubungkan</string>
+	<string name="Connecting_to_x">Menghubungkan ke \&quot;%\&quot;</string>
+	<string name="File_is_too_big">Ukuran file terlalu besar. Untuk menyunting, ukuran file tidak boleh lebih dari 75 KB. Ukuran yang lebih besar akan didukung sebentar lagi.</string>
+	<string name="Operation_history_has_been_cleared">Riwayat operasi sudah dihapus</string>
+	<string name="Encrypted_archive">Arsip terenkripsi</string>
+	<string name="Enter_the_password">Masukkan kata sandi</string>
+	<string name="Confirmation">Konfirmasi</string>
+	<string name="Input_request">Meminta masukkan</string>
+	<string name="Message">Pesan</string>
+	<string name="Warning">Perhatian !</string>
+	<string name="You_did_not_specify_a_password">Anda tidak memberikan kata sandi</string>
+	<string name="Reading_archive">Membaca arsip</string>
+	<string name="Reading_archive_x">Membaca arsip \&quot;%\&quot;</string>
+	<string name="Storage_not_available">Media penyimpanan tidak ada</string>
+	<string name="The_password_given_is_incorrect">Kata sandi yang diberikan salah</string>
+	<string name="You_did_not_specify_a_server_name">Anda tidak memberikan nama server</string>
+	<string name="You_did_not_specify_a_computer_name">Anda tidak memberikan nama komputer</string>
+	<string name="You_did_not_specify_a_port_number">Anda tidak memberikan nomor port</string>
+	<string name="You_did_not_specify_user_name">Anda tidak memberikan nama pengguna</string>
+	<string name="Indexing">Mengindeks</string>
+	<string name="Indexing_in_progress">Sedang proses indeks</string>
+	<string name="Indexing_paused">Indeks dijeda</string>
+	<string name="Indexing_has_been_completed">Proses indeks telah selesai</string>
+	<string name="Indexing_has_been_aborted">Proses indeks dibatalkan</string>
+	<string name="Tap_to_dismiss">Sentuh untuk menghilangkan</string>
+	<string name="Tap_top_open">Sentuh untuk membuka</string>
+	<string name="File_is_ready_to_open">File sudah siap utuk dibuka</string>
+	
+	<string name="Operation_aborted_by_user">Operasi dibatalkan oleh pengguna</string>
+	<string name="You_cant_delete_this_item">Anda tidak dapat menghapus barang tersebut</string>
+	<string name="Indexing_service">Layanan Indeks</string>
+	<string name="Only_local_file_can_be_added_to_the_archive">Hanya file lokal yang dapat ditambahkan ke dalam arsip</string>
+	<string name="Bookmark_already_exists">Penanda sudah ada</string>
+	<string name="Added_to_bookmarks">\&quot;%\&quot; ditambahkan sebagai penanda</string>
+	<string name="Rename_a_file">Mengganti nama file</string>
+	<string name="Input_was_left_blank">Masukkan dibiarkan kosong</string>
+	<string name="File_named_already_exists">File dengan nama \&quot;%\&quot; sudah ada</string>
+	<string name="Confirm_delete">Konfirmasi penghapusan</string>
+	<string name="You_cant_create_an_archive_here">Tidak dapat membuat arsip disini</string>
+	<string name="Cannot_connect_to">Tidak dapat terhubung dengan \&quot;%\&quot;</string>
+	<string name="You_are_not_logged_in">Anda belum masuk</string>
+	<string name="Can_not_create_the_directory">Tidak dapat membuat direktori</string>
+	
+	<string name="Can_not_create_the_file">Tidak dapat membuat file</string>
+	<string name="Uknown_file_type">Jenis file tidak dikenal</string>
+	<string name="No_activity_found_to_open_this_file">Tidak ada aplikasi ditemukan untuk membuka file berikut</string>
+	<string name="You_cant_send_a_folder">Direktori tidak dapat dikirim</string>
+	<string name="Indexing_has_been_unscheduled">Jadwal proses indeks telah dihapus</string>
+	<string name="Scheduled_indexing">Penjadwalan proses indeks</string>
+	<string name="Tap_to_start">Sentuh untuk memulai</string>
 	
 	
+	<string name="Are_you_sure_you_want_to_delete_items">Apakah anda mau menghapus % barang{__:} ?</string>
+	<string name="X_files_deleted">% file{__:} dihapus.</string>
+	<string name="X_files_copied">% file{__:} disalin.</string>
+	<string name="X_files_moved">% file{__:} dipindahkan.</string>
+	<string name="X_items">% barang{__:}</string>
+	<string name="Deleting_X_files">Menghapus % file{__:}</string>
+	<string name="Copying_X_files">Menyalin % file{__:}</string>
+	<string name="Moving_X_files">Memindahkan % file{__:}</string>
+	<string name="Indexing_scheduled_at_X_every_Y">Proses indeks dijadwalkan setiap %y hari{__:} sekali pada jam %x</string>
+	<!-- Explanation of above
 	
-		<!-- Open as dialog -->
+			In english things are simple because we have 1 file and multiple files.
+			1 file, 2 files, 3 files and so on...
+			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+			
+			But let's take polish for example. File means 'Plik'. We have:
+			0 plików
+			1 plik
+			2, 3, 4 pliki
+			5, 6, 7, 8, 9, 10, 11, 12 ... plików
+			but.. 22, 23 pliki
+			and 26, 27 plików
+			Complicated, huh?
+			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+			
+			If you have problems creating this pattern for your language, contact me.
+			
+			Quick reference:
+			'{' - starts the pattern
+			'}' - ends the pattern
+			'|' - rule divider
+			':' - separates range from the associated suffix
+			'_' - any digit
+			'-' - range
+			
+			Examples:
+			1:s 	= for single 1 give 's' suffix
+			3:		= for single 3 give no suffix
+			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+			__:s	= give 's' for any number
+			
+			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+			there should be always the __:something pattern at the end.
+			
+	-->
+
+
+
+
+
+	<!-- Open as dialog -->
 	<string name="Open_as">Buka sebagai...</string>
 	<string name="Choose_a_preferred_type">Pilih jenis yang diinginkan</string>
 	<string name="Text_file">File teks</string>
@@ -477,8 +477,8 @@
 	<string name="Wrap_lines">Penggal baris</string>
 	<string name="Font_size">Ukuran huruf</string>
 	<string name="Font">Jenis Huruf</string>
-	<string name="App_default">Aplikasi semula</string><!-- check needed -->
-	<string name="System_default">Sistem semula</string>
+	<string name="App_default">Aplikasi standar</string><!-- check needed -->
+	<string name="System_default">Standar sistem</string>
 	<string name="Serif">Serif</string>
 	<string name="Monospace">Monospace</string>
 	<string name="File_saved_successfully">File telah berhasil disimpan</string>
@@ -524,7 +524,6 @@
 	<string name="Adjust_size_of_the_file_list_in_landscape">Mengatur besar ukuran daftar file pada modus tidur</string>
 	
 	<string name="Small">Kecil</string>
-	<string name="Normal">Normal</string>
 	<string name="Big">Besar</string>
 	<string name="Large">Lebih Besar</string>
 	<string name="Extra_small">Lebih kecil</string>
@@ -544,7 +543,7 @@
 	<string name="Change_pictures_directory">Ganti direktori gambar</string>
 	<string name="Change_downloads_directory">Ganti direktori unduhan</string>
 	
-	<string name="Drag_and_drop">Geser dan Lepas</string>
+	<string name="Drag_and_drop">Tarik dan Lepas</string>
 	<string name="Action_for_drop_inside_the_panel">Aksi pada panel yang sama</string>
 	<string name="Dropping_an_item_to_a_folder_in_the_same_panel">Melepaskan barang pada direktori pada panel yang sama</string>
 	<string name="Action_for_drop_to_the_second_panel">Aksi pada panel kedua</string>
@@ -574,35 +573,35 @@
 	
 	
 	<string name="Search_interface">Tampilan pencarian</string>
-	<string name="Search_key_starts_filtering">Tombol cari lansung proses filter</string>
+	<string name="Search_key_starts_filtering">Tombol cari langsung proses filter</string>
 	<string name="Search_key_starts_filtering_summary">Mulai proses penyaringan daftar daripada menjalankan aplikasi pencarian</string>
-	<string name="Match_only_beginning_of_the_word_when_filtering_the_list">Hanya cocok dengan awal kata pada saat proses penyaringan daftar</string>
+	<string name="Match_only_beginning_of_the_word_when_filtering_the_list">Mencocokkan dengan awal kata pada saat proses penyaringan daftar</string>
 	<string name="Filter_words_from_the_beginning">Filter kata dari awal</string>
 	<string name="Customize_indexing_engine_behaviour">Kustomisasi perilaku proses indeks</string>
 	<string name="Indexing_engine">Mesin indeks</string>
-		<string name="Reindex_now">Proses indeks sekarang</string>
-		<string name="Refresh_index_database">Meremajakan database indeks. Hal ini tidak akan berpengaruh jika proses sedang berlangsung.</string>
-		<string name="Clear_index_data">Hapus data indeks</string>
-		<string name="Delete_all_index_data">Hapus semua data indeks</string>
-		<string name="Reindex_on_media_mount">Indeks saat mount media</string>
-		<string name="Reindex_storage_device_when_it_is_mounted">Proses indeks pada media penyimpanan pada saat media dipasang (disarankan)</string>
-		<string name="Shedule_indexing">Jadwal proses indeks</string>
-		<string name="Perform_reindex_every_given_period">Lakukan proses indeks pada periode yang diberikan</string>
-		<string name="Set_time_and_period">Set waktu dan periode</string>
-		<string name="The_time_when_the_indexing_will_be_triggered">Waktu dimana proses indeks akan dimulai</string>
-		<string name="Maximum_index_age">Umur maks. indeks</string>
-		<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Berapa lama indeks harus tetap berada pada database jika file yang bersangkutan tidak ditemui</string>
-		<string name="one_day">1 hari</string>
-		<string name="two_days">2 hari</string>
-		<string name="five_days">5 hari</string>
-		<string name="One_week">1 Minggu</string>
-		<string name="Choose_interval">Pilih jeda waktu</string>
-		<string name="three_days">3 hari</string>
-		<string name="How_often_indexing_will_be_performed">Seberapa sering proses indeks akan dilakukan</string>
-		<string name="Set_period">Set periode</string>
-		<string name="Set_time">Set waktu</string>
-		<string name="Show_notifications">Tampilkan notifikasi</string>
-		<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Tampilkan notifikasi pada saat proses indeks selesai atau dibatalkan</string>
+	<string name="Reindex_now">Proses indeks sekarang</string>
+	<string name="Refresh_index_database">Meremajakan database indeks. Hal ini tidak akan berpengaruh jika proses sedang berlangsung.</string>
+	<string name="Clear_index_data">Hapus data indeks</string>
+	<string name="Delete_all_index_data">Hapus semua data indeks</string>
+	<string name="Reindex_on_media_mount">Indeks saat mount media</string>
+	<string name="Reindex_storage_device_when_it_is_mounted">Proses indeks pada media penyimpanan pada saat media dipasang (disarankan)</string>
+	<string name="Shedule_indexing">Jadwal proses indeks</string>
+	<string name="Perform_reindex_every_given_period">Lakukan proses indeks pada periode yang diberikan</string>
+	<string name="Set_time_and_period">Set waktu dan periode</string>
+	<string name="The_time_when_the_indexing_will_be_triggered">Waktu dimana proses indeks akan dimulai</string>
+	<string name="Maximum_index_age">Umur maks. indeks</string>
+	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Berapa lama indeks harus tetap berada pada database jika file yang bersangkutan tidak ditemui</string>
+	<string name="one_day">1 hari</string>
+	<string name="two_days">2 hari</string>
+	<string name="five_days">5 hari</string>
+	<string name="One_week">1 Minggu</string>
+	<string name="Choose_interval">Pilih jeda waktu</string>
+	<string name="three_days">3 hari</string>
+	<string name="How_often_indexing_will_be_performed">Seberapa sering proses indeks akan dilakukan</string>
+	<string name="Set_period">Set periode</string>
+	<string name="Set_time">Set waktu</string>
+	<string name="Show_notifications">Tampilkan notifikasi</string>
+	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Tampilkan notifikasi pada saat proses indeks selesai atau dibatalkan</string>
 	
 	
 	<string name="Other">Lainnya</string>
@@ -626,7 +625,7 @@
    
 	<string name="About">Tentang Kami</string>
 	<string name="Author_version_and_changelog">Pengembang, versi, dan uraian perubahan</string>
-	<string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Glodowski</string>
+	<string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Glodowski</string>
 	<string name="Version">Versi</string>
 	<string name="Changelog">Uraian Perubahan</string>
 	<string name="Whats_new">Melihat perubahan terbaru</string>
@@ -657,10 +656,8 @@
 	<string name="crash_dialog_ok_toast">Terima kasih.</string>
 	
 	<string name="Icon_designer">Disainer ikon</string>
-	<string name="Prefix">Awalan</string>
 	<string name="Translations">Terjemahan</string>
 	<string name="Translations_summary">Terjemahan dibuat oleh Hadi Susanto</string>
-	<string name="Empty">Kosong</string>
 	<string name="Press_once_again_to_exit">Tekan sekali lagi untuk keluar</string>
 	
 	
@@ -678,7 +675,7 @@
 	<string name="Columns">Kolom</string>
 	<string name="No_computers_found">Komputer tidak ditemukan</string>
 	<string name="Local_directory">Direktori lokal</string>
-	<string name="Default_panel">Panel semula</string>
+	<string name="Default_panel">Panel awal</string>
 	<string name="Destination_type">Jenis tujuan</string>
 	<string name="DiskUsage_not_installed">Sepertinya aplikasi DiskUsage tidak terpasang. Aplikasi ini menampilkan penggunaan memory secara mudah dan menarik. Apakah anda mau memasangnya sekarang ?</string>
 	<string name="Text_copied_to_clipboard">Teks telah disalin ke papan tulis</string>
@@ -694,10 +691,10 @@
 	<string name="Two_panels_in_landscape">Dua panel modus tidur</string>
 	<string name="Restart_prompt">Aplikasi harus dijalankan ulang agar perubahan menjadi efektif. Lanjutkan ?</string>
 	<string name="Custom_color_scheme">Kustomisasi warna</string>
-	<string name="Custom_color_scheme_summary">Kustomisasi semua warna. Hal ini akan membuat proses awal aplikasi menjadi sangat lama.</string>
+	<string name="Custom_color_scheme_summary">Kustomisasi warna folder. Hal ini akan membuat proses aplikasi menjadi lebih lama.</string>
 	<string name="Color_scheme">Set warna</string>
 	<string name="Color_scheme_summary">Merubah hue dan saturation daripada set warna berikut</string>
-	<string name="Change_color_scheme">Merubah set warna</string>
+	<string name="Change_color_scheme">Merubah warna</string>
 	<string name="Hue">Hue</string>
 	<string name="Saturation">Saturation</string>
 	<string name="SolidExplorer_is_running">Solid Explorer sedang berjalan</string>
@@ -731,24 +728,24 @@
 	
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
-		<string name="X_folders_and_Y_files_deleted">%x direktori{__:} dan %y file{__:} dihapus.</string>
-		<string name="X_folders_and_Y_files_copied">%x direktori{__:} dan %y file{__:} disalin.</string>
-		<string name="X_folders_and_Y_files_moved">%x direktori{__:} dan %y file{__:} dipindahkan.</string>
-		<string name="Deleting_X_folders_and_Y_files">Menghapus %x direktori{__:} dan %y file{__:}</string>
-		<string name="Copying_X_folders_and_Y_files">Menyalin %x direktori{__:} dan %y file{__:}</string>
-		<string name="Moving_X_folders_and_Y_files">Memindahkan %x direktori{__:} dan %y file{__:}</string>
-		
-		<string name="X_folders_moved">% direktori{__:} dipindahkan.</string>
-		<string name="Moving_X_folders">Memindahkan % direktori{__:}</string>
-		
-		<string name="X_folders">% direktori{__:}</string>
-		<string name="X_files">% file{__:}</string>
-		
-		<string name="Show_status_summary">Tampilkan informasi mengenai isi direktori dan tempat yang dipakai pada window penjelajah</string>
-		<string name="Show_status">Tampilkan status</string>
-		<string name="Mount_rw">Mount r/w</string>
-		<string name="System_mounted_as_read_write">Partisi system ter-mount baca/tulis</string>
-		<string name="System_mounted_as_read_only">Partisi system ter-mount baca-saja</string>
+	<string name="X_folders_and_Y_files_deleted">%x direktori{__:} dan %y file{__:} dihapus.</string>
+	<string name="X_folders_and_Y_files_copied">%x direktori{__:} dan %y file{__:} disalin.</string>
+	<string name="X_folders_and_Y_files_moved">%x direktori{__:} dan %y file{__:} dipindahkan.</string>
+	<string name="Deleting_X_folders_and_Y_files">Menghapus %x direktori{__:} dan %y file{__:}</string>
+	<string name="Copying_X_folders_and_Y_files">Menyalin %x direktori{__:} dan %y file{__:}</string>
+	<string name="Moving_X_folders_and_Y_files">Memindahkan %x direktori{__:} dan %y file{__:}</string>
+	
+	<string name="X_folders_moved">% direktori{__:} dipindahkan.</string>
+	<string name="Moving_X_folders">Memindahkan % direktori{__:}</string>
+	
+	<string name="X_folders">% direktori{__:}</string>
+	<string name="X_files">% file{__:}</string>
+	
+	<string name="Show_status_summary">Tampilkan informasi mengenai isi direktori dan tempat yang dipakai pada window penjelajah</string>
+	<string name="Show_status">Tampilkan status</string>
+	<string name="Mount_rw">Mount r/w</string>
+	<string name="System_mounted_as_read_write">Partisi system ter-mount baca/tulis</string>
+	<string name="System_mounted_as_read_only">Partisi system ter-mount baca-saja</string>
 
 	<!-- v 1.3.9 -->
 	<string name="Device_labels">Label perangkat</string>
@@ -759,50 +756,90 @@
 	<string name="Devices">Perangkat</string>
 	<string name="Bug_report_notice">Sebelum melaporkan error \'bug\' harap melakukan prosedur berikut:\n\n<b>1. Periksa apakah masalah yang sama juga ada pada file manager lainnya atau tidak.\n2. Baca FAQ.</b>\n\nApakah anda sudah melakukan semua hal diatas?</string>
 	<string name="Unable_to_move_the_file">Tidak dapat memindahkan file %</string>
-    
-    <!-- v 1.4.0 -->
-    	<string name="Compression_ratio">Rasio kompresi</string>
-    	<string name="Compression_method">Metode kompresi</string>
-    	<string name="Comment">Komentar</string>
-    	<string name="Standard">Standar</string>
-    	<string name="No_compression">Tanpa kompresi</string>
-    	<string name="A_while_ago">Beberapa waktu lalu</string>
-    	<string name="X_hours_Y_minutes_ago">%x jam{__:} %y menit{__:} yang lalu</string>
-    	<!-- Already exists, just changed the content -->
-    	<string name="Expiration_message">Terima kasih sudah menggunakan Solid Explorer, masa uji coba anda sudah berakhir. Agar anda tetap dapat menggunakan aplikasi ini anda harus membeli unlocker / lisensi di Google Play. Lakukan pembelian apabila anda benar-benar puas dengan aplikasi ini.</string>
-    	<string name="Purchased_message">Terima kasih sudah membeli versi penuh aplikasi Solid Explorer. Saya harap anda menikmatinya.</string>
-    	<string name="Trial_expired">Uji coba selesai</string>
-    	<string name="Purchase">Pembelian</string>
-    	<string name="No_thanks">Tidak, ma\'kasih</string>
-    	<string name="Function_not_available">Fungsi ini tidak ada pada sistem saat ini</string>  
+	
+	<!-- v 1.4.0 -->
+	<string name="Compression_ratio">Rasio kompresi</string>
+	<string name="Compression_method">Metode kompresi</string>
+	<string name="Comment">Komentar</string>
+	<string name="Standard">Standar</string>
+	<string name="No_compression">Tanpa kompresi</string>
+	<string name="A_while_ago">Beberapa waktu lalu</string>
+	<string name="X_hours_Y_minutes_ago">%x jam{__:} %y menit{__:} yang lalu</string>
+	<!-- Already exists, just changed the content -->
+	<string name="Expiration_message">Terima kasih sudah menggunakan Solid Explorer, masa uji coba anda sudah berakhir. Agar anda tetap dapat menggunakan aplikasi ini anda harus membeli unlocker / lisensi di Google Play. Lakukan pembelian apabila anda benar-benar puas dengan aplikasi ini.</string>
+	<string name="Purchased_message">Terima kasih sudah membeli versi penuh aplikasi Solid Explorer. Saya harap anda menikmatinya.</string>
+	<string name="Trial_expired">Uji coba selesai</string>
+	<string name="Purchase">Pembelian</string>
+	<string name="No_thanks">Tidak, ma\'kasih</string>
+	<string name="Function_not_available">Fungsi ini tidak ada pada sistem saat ini</string>  
   
-    <!-- v 1.4.3 -->
-     <string name="Wallpaper_has_been_set_successfully">Perubahan wallpaper sukses</string>
-     <string name="X_has_been_set_as_default_ringtone">% telah di-set sebagai nada panggil</string>
-     <string name="X_has_been_set_as_default_notification">% telah di-set sebagai penanda notifikasi</string>
-     <string name="X_has_been_set_as_default_alarm">% telah di-set sebagai suara alarm</string>
-     <string name="Copy_path">Alamat salin</string>
-     <string name="Copy_name">Nama penyalinan</string>
-     <string name="Create_symlink">Membuat symlink</string>
-     <string name="Set_as_wallpaper">Set sebagai wallpaper</string>
-     <string name="Set_as_ringtone">Set sebagai nada panggil</string>
-     <string name="Set_as_notification">Set sebagai penanda notifikasi</string>
-     <string name="Set_as_alarm">Set sebagai alarm</string>
-     <string name="Enter_the_symlink_location">Masukkan lokasi symlink</string>
-     <string name="Symbolic_link_created_successfully">Pembuatan Symbolic link sukses</string>
-     <string name="Sugarsync_login">Login SugarSync</string>
-     <string name="Copy_link">Salin tautan</string>
-     <string name="Data_backup">Backup data</string>
-     <string name="Application_data">Data aplikasi</string>
-     <string name="Create_backup">Membuat backup</string>
-     <string name="Backup_application_data_to_a_desired_file">Backup data aplikasi ke file yang diinginkan</string>
-     <string name="Restore_backup">Memulihkan backup</string>
-     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Pilih file backup yang akan dipulihkan</string>
-     <string name="Data_backup_created">Backup data dibuat</string>
-     <string name="Data_backup_restored">Backup data dipulihkan</string>
-     <string name="Support">Bantuan</string>
-     <string name="Support_summary">Kunjugin laman bantuan Solid Explorer</string>
-     <string name="Experimental_feature_notifier">Mohon perhatian: fitur ini bersifat eksperimental dan ada kemungkinan tidak berjalan dengan baik pada android yang ada pada perangkat anda.</string>
-     <string name="Trial_check_notice">Solid Explorer tidak dapat mengverifikasi masa uji-coba. Mohon mengaktifkan koneksi internet anda sekarang atau paling telat 2 hari kemudian. Jika tidak masa uji-coba anda akan otomatis berakhir.</string>
-		
+	<!-- v 1.4.3 -->
+	<string name="Wallpaper_has_been_set_successfully">Perubahan wallpaper sukses</string>
+	<string name="X_has_been_set_as_default_ringtone">% telah di-set sebagai nada panggil</string>
+	<string name="X_has_been_set_as_default_notification">% telah di-set sebagai penanda notifikasi</string>
+	<string name="X_has_been_set_as_default_alarm">% telah di-set sebagai suara alarm</string>
+	<string name="Copy_path">Alamat salin</string>
+	<string name="Copy_name">Nama penyalinan</string>
+	<string name="Create_symlink">Membuat symlink</string>
+	<string name="Set_as_wallpaper">Set sebagai wallpaper</string>
+	<string name="Set_as_ringtone">Set sebagai nada panggil</string>
+	<string name="Set_as_notification">Set sebagai penanda notifikasi</string>
+	<string name="Set_as_alarm">Set sebagai alarm</string>
+	<string name="Enter_the_symlink_location">Masukkan lokasi symlink</string>
+	<string name="Symbolic_link_created_successfully">Pembuatan Symbolic link sukses</string>
+	<string name="Sugarsync_login">Login SugarSync</string>
+	<string name="Copy_link">Salin tautan</string>
+	<string name="Data_backup">Backup data</string>
+	<string name="Application_data">Data aplikasi</string>
+	<string name="Create_backup">Membuat backup</string>
+	<string name="Backup_application_data_to_a_desired_file">Backup data aplikasi ke file yang diinginkan</string>
+	<string name="Restore_backup">Memulihkan backup</string>
+	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Pilih file backup yang akan dipulihkan</string>
+	<string name="Data_backup_created">Backup data dibuat</string>
+	<string name="Data_backup_restored">Backup data dipulihkan</string>
+	<string name="Support">Bantuan</string>
+	<string name="Support_summary">Kunjugin laman bantuan Solid Explorer</string>
+	<string name="Experimental_feature_notifier">Mohon perhatian: fitur ini bersifat eksperimental dan ada kemungkinan tidak berjalan dengan baik pada android yang ada pada perangkat anda.</string>
+	<string name="Trial_check_notice">Solid Explorer tidak dapat mengverifikasi masa uji-coba. Mohon mengaktifkan koneksi internet anda sekarang atau paling telat 2 hari kemudian. Jika tidak masa uji-coba anda akan otomatis berakhir.</string>
+	<string name="Back_goes_to_root">Kembali menuju root</string>
+	<string name="Back_goes_to_root_summary">Izinkan untuk kembali ke direktori root ketika menekan tombol Kembali</string>
+	<string name="Keep_the_screen_on">Biarkan layar menyala</string>
+	<string name="Keep_the_screen_on_summary">Biarkan layar tetap menyala ketika memproses perpindahan file. Centang ini jika anda merasakan penurunan kecepatan perpindahan file jika layar dimatikan.</string>
+	
+	<!-- v 1.4.4 -->
+	<string name="Clear_thumbnails_on_exit">Hapus tembolok saat keluar</string>
+	<string name="Image_thumbnails_will_be_removed_on_app_exit">Tembolok gambar akan dihapus pada saat aplikasi keluar</string>
+	<string name="Toggle_nomedia">Toggle file .nomedia</string>
+	<string name="Total_time">Total waktu</string>
+	<string name="Average_speed">Rata-rata</string>
+	<string name="Add_new_item">Tambah barang baru</string>
+	<string name="Application_chooser">Pemilihan aplikasi</string>
+	<string name="Manage_associations">Pengaturan asosiasi</string>
+	<string name="Manage_associations_summary">Menentukan aplikasi yang akan digunakan untuk membuka file secara khusus</string>
+	<string name="Choose_an_application">Pilih aplikasi</string>
+	<string name="Application">Aplikasi</string>
+	<string name="Extension">Ekstensi</string>
+	<string name="No_extension_specified">Tidak ada ekstensi</string>
+	<string name="You_didn_t_choose_the_application">Anda tidak memilih aplikasi</string>
+	<string name="Added_to_queue">Ditambahkan ke antrian</string>
+	<string name="Streaming">Streaming</string>
+	<string name="There_is_already_the_same_file_in_temporary_directory">File yang sama sudah ada pada direktori sementara. Apakah anda mau membuka file tersebut atau mengunduhnya kembali?</string>
+	<string name="Download">Unduhan</string>
+	<string name="X_files_updated">% file{__:} dimutahkirkan</string>
+	<string name="Temporary_file_has_been_modified">File sementara telah berubah. Apakah anda mau mengunggahnya kembali ke server?</string>
+	<string name="Temporary_files_have_been_modified">% file{__:} sementara sudah berubah. Apakah anda mau mengunggahnya kembali ke server?</string>
+	<string name="Slide_from_bottom">Slide dari bawah</string>
+	<string name="Fall_down">Jatuh</string>
+	<string name="Come_in">Masuk</string>
+	<string name="Slide_from_right">Slide dari kanan</string>
+	<string name="Slide_from_left">Slide dari kiri</string>
+	<string name="Default">Default</string>
+	<string name="List_animations">Daftar animasi</string>
+	<string name="List_animations_summary">Kustomisasi animasi untuk penampilan daftar file</string>
+	<string name="Clear_filter_history">Hapus riwayat filter</string>
+	<string name="Clear_filter_history_summary">Menghapus semua riwayat kata kunci filter</string>
+	<string name="New_webdav_connection">Koneksi WebDav</string>
+	<string name="WebDav_bookmarks">Penanda WebDav</string>
+
+
 </resources>
