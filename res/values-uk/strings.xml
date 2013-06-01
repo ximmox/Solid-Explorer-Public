@@ -706,8 +706,8 @@
 
 	  <!-- v 1.4.4 -->
   <string name="Clear_thumbnails_on_exit">Видаляти мініатюри при закритті</string>
-  <string name="Image_thumbnails_will_be_removed_on_app_exit">Мініатюри зображеню будуть видалятись при закритті програми</string>
-  <string name="Toggle_nomedia">Активувати файл .nomedia</string>
+  <string name="Image_thumbnails_will_be_removed_on_app_exit">Мініатюри зображень будуть видалятись при закритті програми</string>
+  <string name="Toggle_nomedia">Додати файл .nomedia</string>
   <string name="Total_time">Загальний час</string>
 <string name="Average_speed">Середня швидкість</string>
 <string name="Add_new_item">Додати новий елемент</string>
