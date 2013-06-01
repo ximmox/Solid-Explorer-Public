@@ -748,7 +748,7 @@
 		<string name="Nomedia_off">.nomedia файл видалено</string>
 		<string name="Wifi_disabled">WiFi вимкнено</string>
 		<string name="Wifi_enabled">WiFi увімкнено</string>
-		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Ви дійсно бажаєте відновити стандартні налаштування для цього елемента?</string>
+		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Ви впевнені, що хочете відновити налаштування за замовчуванням для цього елемента?</string>
 
 
 </resources>
