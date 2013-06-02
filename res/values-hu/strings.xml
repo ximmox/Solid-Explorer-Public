@@ -843,5 +843,16 @@
      <string name="Clear_filter_history_summary">List szűrés lekérdezések előzményeinek törlése</string>
      <string name="New_webdav_connection">WebDav kapcsolat</string>
      <string name="WebDav_bookmarks">WebDav könyvjelzők</string>
+	
+	<!-- v 1.4.5 -->
+<string name="Domain">Domain</string>
+<string name="Mode">Mód</string>
+<string name="Passive">Passzív</string>
+<string name="Nomedia_on">.nomedia fájl létrehozva</string>
+<string name="Nomedia_off">.nomedia fájl törölve</string>
+<string name="Wifi_disabled">WiFi letiltva</string>
+<string name="Wifi_enabled">WiFi engedélyezve</string>
+<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Biztos alaphelyzetbe állítja az elem beállításait?</string>
+
 
 </resources>
