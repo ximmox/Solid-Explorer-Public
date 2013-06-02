@@ -76,7 +76,7 @@
     
     <!-- Context menu -->
        <string name="Open_with">Otevřít pomocí...</string>
-       <string name="Open_in_bg">Otevřít na pozadí</string>
+       <string name="Open_in_bg">Otevřít vedle</string>
        <string name="Send">Odeslat</string>
        <string name="Bookmark">Přidat záložku</string>
        <string name="Rename">Přejmenovat</string>
@@ -96,12 +96,12 @@
 
     <!-- New connection Dialog -->
        <string name="Display_name">Název připojení</string>
-       <string name="May_be_empty">Nemusíte vyplňovat</string>
-       <string name="Remote_path">Vzdálené umístění</string>
+       <string name="May_be_empty">Nepovinný údaj</string>
+       <string name="Remote_path">Složka</string>
        <string name="Port">Port</string>
        <string name="User_name">Uživatelské jméno</string>
        <string name="Password">Heslo</string>
-       <string name="Repeat_the_password">Opakujte heslo</string>
+       <string name="Repeat_the_password">Potvrzení hesla</string>
        <string name="Authentication_method">Způsob ověřování</string>
        <string name="Server">Server</string>
        <string name="Connection_type">Typ připojení</string>
@@ -125,13 +125,13 @@
     <!-- Search activity -->   
        <string name="Manual_search">Ruční vyhledávání</string>
        <string name="Results_from">Výsledky pro:</string>
-       <string name="No_results">Žádné výsledky</string>
-       <string name="Matches">Shody</string>
+       <string name="No_results">Žádná shoda</string>
+       <string name="Matches">Nalezeno</string>
        <string name="Selected">Vybrané</string>
        <string name="Match_mode">Typ shody</string>
-       <string name="Match_start">Začátek názvu</string>
+       <string name="Match_start">Od začátku v názvu</string>
        <string name="Match_any">Kdekoli v názvu</string>
-       <string name="Match_end">Konec názvu</string>
+       <string name="Match_end">Od konce v názvu</string>
     
     <!-- Operations activity -->
        <string name="History_is_empty">Historie je prázdná</string>
@@ -152,7 +152,7 @@
        <string name="ETA">Zbývá</string>
        <string name="NA">N/A</string>
        <string name="Current">Aktuální</string>
-   
+    
     <!-- Operation descriptions -->
        <string name="File_copy">Kopírování souboru</string>
        <string name="File_move">Přesouvání souboru</string>
@@ -161,7 +161,7 @@
        <string name="Creating_archive">Vytváření archivu %</string>
        <string name="Extracting_archive">Rozbalování archivu %</string>
        <string name="X_has_been_completed">% bylo dokončeno.</string>
-       <string name="X_has_failed">% selhala.</string>
+       <string name="X_has_failed">% selhalo.</string>
        <string name="Tap_to_show_details">Stisknutím zobrazíte detaily</string>
        <string name="Pending_cancel_request">Probíhající žádost na zrušení</string>
        <string name="File_operation">Operace se soubory</string>
@@ -195,10 +195,10 @@
     
     <!-- File sharing -->
        <string name="File_sharing_active">Sdílení souborů je aktivní</string>
-       <string name="ftp_server_hint">Pro připojení zadejte adresu serveru v okně Průzkumníka Windows, nebo použijte jakéhokoliv FTP klienta.</string>
+       <string name="ftp_server_hint">Pro připojení, zadejte adresu serveru v okně Průzkumníka Windows, nebo použijte jakéhokoliv FTP klienta.</string>
        <string name="You_cannot_share_root_directory">Kořenový adresář nelze sdílet!</string>
        <string name="File_sharing_stopped">Sdílení souborů zastaveno</string>
-       <string name="None">Žádný</string>
+       <string name="None">Žádná</string>
        <string name="You_have_to_be_connected_to_the_LAN_network">Musíte být připojen k místní síti LAN</string>
        <string name="Active">Aktivní</string>
        <string name="Inactive">Neaktivní</string>
@@ -209,7 +209,7 @@
        <string name="Status">Stav</string>
        <string name="Server_address">Adresa serveru</string>
        <string name="Start">Spustit</string>
-       <string name="Stop">Ukončit</string>
+       <string name="Stop">Zastavit</string>
     
     <!-- Archive dialog -->
        <string name="Create_archive_dialog_title">Vytvořit archiv</string>
@@ -217,10 +217,10 @@
        <string name="Compression">Komprese</string>
        <string name="Format">Formát</string>
        <string name="Use_password_protection">Použít ochranu heslem</string>
-       <string name="Fast">rychlá</string>
-       <string name="Normal">normální</string>
-       <string name="Good">dobrá</string>
-       <string name="Best">nejlepší</string>
+       <string name="Fast">Rychlá</string>
+       <string name="Normal">Normální</string>
+       <string name="Good">Dobrá</string>
+       <string name="Best">Nejlepší</string>
     
     <!-- File properties -->
        <string name="Content_summary">Shrnutí obsahu</string>
@@ -259,7 +259,7 @@
        <string name="Archives">Archivy</string>
        <string name="Documents">Dokumenty</string>
        <string name="Change">Změnit</string>
-       <string name="Execute">Provést</string>
+       <string name="Execute">Spustit</string>
        <string name="Owner">Vlastník</string>
        <string name="Group">Skupina</string>
        <string name="Others">Ostatní</string>
@@ -296,8 +296,8 @@
        <string name="Overwrite">Přepsat</string>
        <string name="Merge">Sloučit</string>
        <string name="Keep_both">Ponechat oba</string>
-       <string name="Remember_action">Zapamatovat volbu</string>
-       <string name="Keep_the_old_file">Ponechat starý soubor</string>
+       <string name="Remember_action">Zapamatovat pro zbývající</string>
+       <string name="Keep_the_old_file">Ponechat původní soubor</string>
        <string name="The_new_file_will_have_its_name_changed">Přejmenuje nový soubor</string>
        <string name="Replace_the_file_with_this">Nahradit existující soubor tímto</string>
        <string name="Create_master_password">Vytvořit hlavní heslo</string>
@@ -306,27 +306,27 @@
        <string name="Send_the_file_using">Odeslat soubor pomocí</string>
        <string name="Progress">Průběh</string>
        <string name="Minimize">Minimalizovat</string>
-       <string name="Pause">Pauza</string>
+       <string name="Pause">Pozastavit</string>
        <string name="Resume">Pokračovat</string>
-       <string name="Dismiss">Skrýt</string>
+       <string name="Dismiss">Zavřít</string>
        <string name="Abort_operation">Zrušit operaci</string>
-       <string name="There_is_already_an_operation_running">Jiná operace právě probíhá, počkejte na její dokončení.</string>
+       <string name="There_is_already_an_operation_running">Jiná operace právě probíhá. Počkejte prosím na její dokončení.</string>
   
     <!-- Question dialogs -->
-       <string name="Are_you_sure_you_want_to_clear_the_history">Opravdu chcete vymazat historii?</string>
-       <string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Jste si jist, že chcete vymazat vyrovnávací paměť náhledů?</string>
-       <string name="Are_you_sure_you_want_to_delete_temporary_files">Jste si jist, že chcete odstranit dočasné soubory?</string>
+       <string name="Are_you_sure_you_want_to_clear_the_history">Opravdu chcete odstranit historii?</string>
+       <string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Opravdu chcete odstranit vyrovnávací paměť náhledů?</string>
+       <string name="Are_you_sure_you_want_to_delete_temporary_files">Opravdu chcete odstranit dočasné soubory?</string>
        <string name="It_is_time_for_sheduled_indexing">Je čas na pravidelné indexování. Chcete jej nyní provést?</string>
-       <string name="Folder_exists_descr">Složka se stejným názvem již v adresáři existuje. Co chcete udělat?</string>
-       <string name="File_exists_descr">Soubor se stejným názvem již v adresáři existuje. Co chcete udělat?</string>
+       <string name="Folder_exists_descr">Složka se stejným názvem již v adresáři existuje. Co si přejete udělat?</string>
+       <string name="File_exists_descr">Soubor se stejným názvem již v adresáři existuje. Co si přejete udělat?</string>
        <string name="Are_you_sure_you_want_to_delete">Opravdu chcete odstranit \&quot;%\&quot;?</string>
        <string name="Are_you_sure_to_abort_current_operation">Opravdu chcete zrušit aktuální operaci?</string>
        <string name="Are_you_sure_you_want_to_delete_all_bookmarks">Opravdu chcete odstranit všechny záložky?</string>
        <string name="Are_you_sure_you_want_to_delete_bookmark">Opravdu chcete odstranit záložku \&quot;%\&quot; ?</string>
-       <string name="Reindex_prompt">Provádím indexování. Může to trvat několik minut. Pokračovat?</string>
-       <string name="Clear_index_prompt">Opravdu chcete vymazat všechna data indexu? Tuto operaci nelze vrátit zpět.</string>
+       <string name="Reindex_prompt">Provádím indexování. Může to trvat i několik minut. Pokračovat?</string>
+       <string name="Clear_index_prompt">Opravdu chcete odstranit všechna data indexu? Tuto operaci nelze vrátit zpět.</string>
        <string name="Are_you_sure_to_stop_indexing">Opravdu chcete zastavit indexování?</string>
-       <string name="Are_you_sure_you_want_to_clear_file_type_associations">Opravdu chcete vymazat přidružení typů souborů?</string>
+       <string name="Are_you_sure_you_want_to_clear_file_type_associations">Opravdu chcete odstranit asociace typů souborů?</string>
        <string name="Changes_have_been_made_to_the_file">Byly provedeny změny v &quot;%&quot;. Přejete si je uložit?</string>
        <string name="Chown_confirm">Opravdu chcete změnit majitele tohoto souboru?</string>
        <string name="Busybox_request">Vypadá to, že BusyBox není nainstalován, nebo je v zastaralé verzi. Pro procházení kořenového adresáře a funkce root je vyžadován. Nainstalovat nyní?</string>
@@ -342,8 +342,8 @@
        <string name="Preparing_for_operation">Příprava na operaci...</string>
        <string name="Connecting">Připojování</string>
        <string name="Connecting_to_x">Připojování k \&quot;%\&quot;</string>
-       <string name="File_is_too_big">Soubor je příliš velký. Pro editaci jsou podporovány pouze soubory do 75kB. Větší soubory budou podporovány v příštích verzích.</string>
-       <string name="Operation_history_has_been_cleared">Historie byla vymazána</string>
+       <string name="File_is_too_big">Soubor je příliš velký. Pro editaci jsou podporovány pouze soubory do velikosti 75kB. Pro větší soubory se podpora připravuje.</string>
+       <string name="Operation_history_has_been_cleared">Historie byla odstraněna</string>
        <string name="Encrypted_archive">Šifrovaný archiv</string>
        <string name="Enter_the_password">Zadejte heslo</string>
        <string name="Confirmation">Potvrzení</string>
@@ -370,11 +370,11 @@
        <string name="Operation_aborted_by_user">Operace přerušena uživatelem</string>
        <string name="You_cant_delete_this_item">Tuto položku nelze smazat</string>
        <string name="Indexing_service">Služba indexování</string>
-       <string name="Only_local_file_can_be_added_to_the_archive">Do archivu může být přidán pouze lokální soubor</string>
+       <string name="Only_local_file_can_be_added_to_the_archive">Do archivu může být přidán pouze místní soubor</string>
        <string name="Bookmark_already_exists">Záložka již existuje</string>
-       <string name="Added_to_bookmarks">\&quot;%\&quot; přidáno k oblíbeným</string>
+       <string name="Added_to_bookmarks">\&quot;%\&quot; přidáno do záložek</string>
        <string name="Rename_a_file">Přejmenovat soubor</string>
-       <string name="Input_was_left_blank">Zadání nebylo vyplněno</string>
+       <string name="Input_was_left_blank">Pole nemůže zůstat nevyplněno</string>
        <string name="File_named_already_exists">Soubor s názvem \&quot;%\&quot; již existuje</string>
        <string name="Confirm_delete">Potvrdit odstranění</string>
        <string name="You_cant_create_an_archive_here">Zde archiv nelze vytvořit</string>
@@ -388,14 +388,14 @@
        <string name="Indexing_has_been_unscheduled">Plánované indexování bylo zrušeno</string>
        <string name="Scheduled_indexing">Naplánované indexování</string>
        <string name="Tap_to_start">Klepněte pro spuštění</string>
-       <string name="Are_you_sure_you_want_to_delete_items">Opravdu chcete smazat % polož{0:ek|1:ku|2-4:ky|__:ek}?</string>
-       <string name="X_files_deleted">% soubor{1:|2-4:y|__:ů} vymazán{1:|2-4:y|__:o}.</string>
+       <string name="Are_you_sure_you_want_to_delete_items">Opravdu chcete smazat % polož{1:ku|2-4:ky|__:ek}?</string>
+       <string name="X_files_deleted">% soubor{1:|2-4:y|__:ů} smazán{1:|2-4:y|__:o}.</string>
        <string name="X_files_copied">% soubor{1:|2-4:y|__:ů} zkopírován{1:|2-4:y|__:o}.</string>
        <string name="X_files_moved">% soubor{1:|2-4:y|__:ů} přesunut{1:|2-4:y|__:o}.</string>
        <string name="X_items">% polož{1:ka|2-4:ky|__:ek}</string>
-       <string name="Deleting_X_files">Odstranění % soubor{1:|2-4:y|__:ů}</string>
-       <string name="Copying_X_files">Kopírování % soubor{1:|2-4:y|__:ů}</string>
-       <string name="Moving_X_files">Přesunutí % soubor{1:u|__:ů}</string>
+       <string name="Deleting_X_files">Mazání % soubor{1:u|__:ů}</string>
+       <string name="Copying_X_files">Kopírování % soubor{1:u|__:ů}</string>
+       <string name="Moving_X_files">Přesouvání % soubor{1:u|__:ů}</string>
        <string name="Indexing_scheduled_at_X_every_Y">Indexování naplánováno na %x každ{1:ý|2-4:é|__:ých} %y d{1:en|2-4:ny|__:nů}</string>
    
    <!-- Explanation of above
@@ -432,7 +432,7 @@
 
     <!-- Open as dialog -->
        <string name="Open_as">Otevřít jako...</string>
-       <string name="Choose_a_preferred_type">Vyberte požadovaný typ</string>
+       <string name="Choose_a_preferred_type">Zvolte požadovaný typ</string>
        <string name="Text_file">Text</string>
        <string name="Image_file">Obrázek</string>
        <string name="Music_file">Hudba</string>
@@ -444,7 +444,7 @@
        <string name="Shortcut_tip">Pro vytvoření zástupce složky vyberte \&quot;Vytvořit zástupce\&quot; z kontextového menu.</string>
     
     <!-- Text editor -->
-       <string name="Wrap_lines">Zalomit řádky</string>
+       <string name="Wrap_lines">Zalamovat řádky</string>
        <string name="Font_size">Velikost písma</string>
        <string name="Font">Písmo</string>
        <string name="App_default">Výchozí aplikace</string>
@@ -466,9 +466,9 @@
        <string name="Show_file_permissions">Zobrazovat oprávnění souborů</string>
        <string name="Show_file_permissions_summary">Zobrazovat Unix oprávnění místo posledního data změny (pouze pro soubory v kořenovém adresáři).</string>
        <string name="Date_format">Formát data</string>
-       <string name="Customize_date_format">Vlastní formát data</string>
-       <string name="Time_format">Formát hodin</string>
-       <string name="Customize_time_format">Vlastní formát hodin</string>
+       <string name="Customize_date_format">Upravit formát data</string>
+       <string name="Time_format">Formát času</string>
+       <string name="Customize_time_format">Upravit formát času</string>
        <string name="Show_fast_scroll_thumb_in_file_list">Zobraz posuvník pro rychlý pohyb seznamem souborů</string>
        <string name="Use_fast_scroll">Použít rychlý posuv</string>
        <string name="Low_quality_thumbnails">Méně kvalitní náhledy</string>
@@ -484,10 +484,10 @@
        <string name="Small">Malý</string>
        <string name="Normal">Normální</string>
        <string name="Big">Velký</string>
-       <string name="Large">Obrovský</string>
-       <string name="Extra_small">Extra malý</string>
+       <string name="Large">Největší</string>
+       <string name="Extra_small">Nejmenší</string>
        <string name="Hide_exit_button">Skrýt tlačítko pro ukončení</string>
-       <string name="Hide_exit_button_summary">Aplikaci také můžete ukončit dlouhým stiskem klávesy zpět</string>
+       <string name="Hide_exit_button_summary">Aplikaci lze ukončit také dlouhým stiskem klávesy zpět</string>
        <string name="Startup">Spuštění</string>
        <string name="Remember_last_folder">Pamatovat si poslední složku</string>
        <string name="Will_start_with_recently_viewed_directories">Po spuštění se zobrazí naposledy zobrazené složky</string>
@@ -502,8 +502,8 @@
        <string name="Dropping_an_item_to_the_second_panel">Uvolnění položky do složky na druhém panelu</string>
        <string name="Move">Přesunout</string>
        <string name="Security">Zabezpečení</string>
-       <string name="Master_password_prompt">Solid Explorer využívá hlavní heslo k zašifrování všech přihlašovacích údajů. Záleží-li Vám na bezpečnosti, doporučuje se použití této funkce. K zadání hlavního hesla budete vyzváni pouze jednou, do doby než znovu spustíte aplikaci. Jinak se používá standardní šifrování bez hesla. Chcete používat tuto funkci?</string>
-       <string name="Disable_master_password_warning">Vypnutí hlavního hesla způsobí přechod na výchozí heslo. Víckrát už k němu nebudete vyzváni. Přihlašovací údaje budou i nadále zašifrovány. Chcete pokračovat?</string>
+       <string name="Master_password_prompt">Solid Explorer využívá hlavní heslo k zašifrování všech přihlašovacích údajů. Záleží-li Vám na bezpečnosti, doporučuje se použití této funkce, jinak se použije standardní šifrování bez hesla. K zadání hlavního hesla budete vyzváni pouze jednou, do doby než znovu spustíte aplikaci. Chcete používat tuto funkci?</string>
+       <string name="Disable_master_password_warning">Vypnutí hlavního hesla způsobí přechod na výchozí heslo. Víckrát již nebude požadováno jeho zadání. Přihlašovací údaje budou i nadále šifrovány. Chcete pokračovat?</string>
        <string name="Enable_master_password_warning">Jakékoli předchozí záložky zašifrované pomocí hlavního hesla budou odstraněny. Chcete pokračovat?</string>
        <string name="Enable_master_password">Povolit hlavní heslo</string>
        <string name="Too_weak_password">Heslo musí mít nejméně 6 a nejvýše 16 znaků</string>
@@ -513,7 +513,7 @@
        <string name="Set_master_password">Změnit hlavní heslo</string>
        <string name="All_passwords_will_be_reencrypted">Všechna hesla budou znovu zašifrována</string>
        <string name="I_dont_remember_my_old_password">Nepamatuji si své staré heslo</string>
-       <string name="Reset_password_warning">Upozornění! Pokud nyní nastavíte nové heslo, budou všechny záložky, které byly zašifrovány pomocí starého hesla odstraněny.</string>
+       <string name="Reset_password_warning">Upozornění! Pokud nyní nastavíte nové heslo, budou všechny záložky, které byly zašifrovány pomocí starého hesla, odstraněny.</string>
        <string name="Old_password">Staré heslo</string>
        <string name="New_password">Nové heslo</string>
        <string name="Master_password_has_been_disabled">Hlavní heslo bylo zakázáno</string>
@@ -527,15 +527,15 @@
        <string name="Customize_indexing_engine_behaviour">Upravit nastavení pro indexování</string>
        <string name="Indexing_engine">Indexování</string>
        <string name="Reindex_now">Indexovat nyní</string>
-       <string name="Refresh_index_database">Obnovit databázi indexu. Nemá žádný účinek pokud indexování právě probíhá.</string>
+       <string name="Refresh_index_database">Obnoví databázi indexu. Nemá žádný účinek, pokud indexování právě probíhá.</string>
        <string name="Clear_index_data">Vymazat data indexu</string>
-       <string name="Delete_all_index_data">Vymazat všechna data indexu</string>
+       <string name="Delete_all_index_data">Vymaže všechna data indexu</string>
        <string name="Reindex_on_media_mount">Reindex po připojení zařízení</string>
-       <string name="Reindex_storage_device_when_it_is_mounted">Spustit indexaci při připojení úložného zařízení. (doporučeno)</string>
+       <string name="Reindex_storage_device_when_it_is_mounted">Spustí indexaci při připojení úložného zařízení. (doporučeno)</string>
        <string name="Shedule_indexing">Plánované indexování</string>
        <string name="Perform_reindex_every_given_period">Provede reindexaci každé dané období</string>
        <string name="Set_time_and_period">Nastavit čas a období</string>
-       <string name="The_time_when_the_indexing_will_be_triggered">Doba kdy bude provedeno indexování</string>
+       <string name="The_time_when_the_indexing_will_be_triggered">Doba, v kterou bude provedeno indexování</string>
        <string name="Maximum_index_age">Maximální stáří indexu</string>
        <string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Jak dlouho má index zůstat v databázi, pokud soubor k němu patřící již neexistuje</string>
        <string name="one_day">1 den</string>
@@ -548,27 +548,27 @@
        <string name="Set_period">Nastavit interval</string>
        <string name="Set_time">Nastavit čas</string>
        <string name="Show_notifications">Zobrazit oznámení</string>
-       <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Zobrazit oznámení pokud je indexace dokončena nebo zrušena</string>
+       <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Zobrazit oznámení, pokud je indexace dokončena nebo zrušena</string>
        <string name="Other">Další</string>
-       <string name="Clear_persistent_data">Vyčistit trvalá data</string>
-       <string name="Clear_persistent_data_summary">Vymazání dat jako jsou cache, dočasné soubory, historie provozu atd.</string>
-       <string name="Clear_thumbnail_cache">Vymazat vyrovnávací paměť náhledů</string>
-       <string name="Clear_temporary_files">Vymazat dočasné soubory</string>
-       <string name="Clear_operation_history">Vymazat historii operací</string>
-       <string name="Delete_all_image_previews">Odstraní všechny náhledy obrázků</string>
-       <string name="Delete_all_temporary_files">Odstraní všechny dočasné soubory</string>
-       <string name="Delete_operation_history_entries">Odstraní historii provedených akcí</string>
-       <string name="Clear_file_type_associations">Vymazat asociaci typů souborů</string>
-       <string name="Clear_file_type_associations_summary">Odstranit informace o aplikacích používaných k otevření jednotlivých typů souborů</string>
-       <string name="Clear_temporary_files_on_exit">Vymazat dočasné soubory při ukončení</string>
+       <string name="Clear_persistent_data">Odstranit trvalá data</string>
+       <string name="Clear_persistent_data_summary">Odstranění dat jako jsou cache, dočasné soubory, historie provozu atd.</string>
+       <string name="Clear_thumbnail_cache">Odstranit vyrovnávací paměť náhledů</string>
+       <string name="Clear_temporary_files">Odstranit dočasné soubory</string>
+       <string name="Clear_operation_history">Odstranit historii operací</string>
+       <string name="Delete_all_image_previews">Smaže všechny náhledy obrázků</string>
+       <string name="Delete_all_temporary_files">Smaže všechny dočasné soubory</string>
+       <string name="Delete_operation_history_entries">Smaže historii provedených akcí</string>
+       <string name="Clear_file_type_associations">Odstranit asociaci typů souborů</string>
+       <string name="Clear_file_type_associations_summary">Smaže informace o aplikacích používaných k otevření jednotlivých typů souborů</string>
+       <string name="Clear_temporary_files_on_exit">Odstranit dočasné soubory při ukončení</string>
        <string name="Temporary_files_will_be_removed_on_app_exit">Dočasné soubory budou odstraněny při ukončení aplikace</string>
-       <string name="Quick_start_guide">Stručný návod</string>
+       <string name="Quick_start_guide">Stručný návod k použití</string>
        <string name="Learn_about_main_features">Zjistěte více o hlavních funkcích aplikace Solid Explorer</string>
        <string name="Help_make_Solid_Explorer_better">Pomozte učinit Solid Explorer lepším</string>
        <string name="Report_a_bug">Nahlásit chybu</string>
        <string name="About">O aplikaci</string>
        <string name="Author_version_and_changelog">Autor, verze a seznam změn</string>
-       <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+       <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Głodowski</string>
        <string name="Version">Verze</string>
        <string name="Changelog">Seznam změn</string>
        <string name="Whats_new">Co je nového</string>
@@ -580,23 +580,23 @@
        <string name="Prefix">Prefix</string>
        <string name="Empty">Prázdný</string>
        <string name="search_description">Prohledat zařízení prostřednictvím Solid Explorer</string>
-       <string name="search_hint">Zadejte název souoru </string>
+       <string name="search_hint">Zadejte název souboru </string>
        <string name="Save_file">Uložit soubor</string>
        <string name="Solid_explorer_indexing_service">Služba indexování souborů Solid Explorer</string>
     
     <!-- acra -->
-       <string name="crash_toast_text">Ooooops! Solid Explorer byl neočekávaně ukončen. Prosím, zašlete zprávu vývojáři, aby mohl problém vyřešit!</string>
-       <string name="crash_notif_ticker_text">Neočekávaná chyba, prosím zašlete zprávu...</string>
+       <string name="crash_toast_text">Uuups! Solid Explorer byl neočekávaně ukončen. Prosím, zašlete zprávu vývojáři, aby jste mu pomohli problém vyřešit!</string>
+       <string name="crash_notif_ticker_text">Neočekávaná chyba. Prosím, zašlete zprávu...</string>
        <string name="crash_notif_title">Solid Explorer byl neočekávaně ukončen...</string>
-       <string name="crash_notif_text">Prosím, klikněte zde pro pomoc s vyřešením problému</string>
+       <string name="crash_notif_text">Prosím, klikněte zde, pro pomoc s vyřešením problému</string>
        <string name="crash_dialog_title">Solid Explorer byl neočekávaně ukončen</string>
-       <string name="crash_dialog_text">Došlo k neočekávané chybě díky níž byl program ukončen. Prosím, pomozte mi vyřešit problém tím, že mi pošlete chybové hlášení.</string>
-       <string name="crash_dialog_comment_prompt">Poskytněte prosím podrobné informace o problému níže. Ve většině případů je nemožné problém reprodukovat bez vaší pomoci</string>
+       <string name="crash_dialog_text">Došlo k neočekávané chybě, díky níž byl program ukončen. Prosím, pomozte mi vyřešit problém tím, že mi pošlete chybové hlášení.</string>
+       <string name="crash_dialog_comment_prompt">Poskytněte prosím podrobné informace o problému níže. Ve většině případů je nemožné problém reprodukovat bez vaší pomoci.</string>
        <string name="crash_dialog_ok_toast">Děkuji!</string>
-       <string name="Icon_designer">Ikon designer</string>
-       <string name="Prefix">Prefix</string>
+       <string name="Icon_designer">Návrh ikon</string>
+       <string name="Prefix">Předpona</string>
        <string name="Translations">Překlad</string>
-       <string name="Translations_summary">Původní překlad od Krzysiek, jazykové korekce a nynější překlad od pcpepik</string>
+       <string name="Translations_summary">Původní překlad: Krzysiek \nJazyková korekce a nynější překlad: pcpepik</string>
        <string name="Empty">Prázdný</string>
        <string name="Press_once_again_to_exit">Opětovným stisknutím aplikaci ukončíte</string>
        <string name="View_in_DiskUsage">Zobrazit v DiskUsage</string>
@@ -605,7 +605,7 @@
        <string name="Landscape">Zobrazení na šířku</string>
        <string name="Customize_list">Vlastní nastavení zobrazení</string>
        <string name="Customize_list_summary">Upravit velikost ikon a textu v seznamu souborů</string>
-       <string name="Preview">Náhled úpravy</string>
+       <string name="Preview">Náhled</string>
        <string name="Icon_size_pixels" formatted="false">Velikost ikon (max: % x %)</string>
        <string name="Label_size">Velikost názvu složky</string>
        <string name="Subtext_size">Velikost podtextu</string>
@@ -613,7 +613,7 @@
        <string name="Columns">Sloupce</string>
        <string name="No_computers_found">Nenalezeny žádné PC</string>
        <string name="Local_directory">Místní adresář</string>
-       <string name="Default_panel">Výchozí pro panel</string>
+       <string name="Default_panel">Výchozí panel</string>
        <string name="Destination_type">Typ umístění</string>
        <string name="DiskUsage_not_installed">Vypadá to, že aplikace DiskUsage není nainstalována. Tato aplikace zobrazuje využití paměti sofistikovaným a uživatelsky přívětivým způsobem. Chcete ji nyní nainstalovat?</string>
        <string name="Text_copied_to_clipboard">Text zkopírován do schránky</string>
@@ -621,7 +621,7 @@
        <string name="Force_english_summary">Zvolte, pokud si přejete nastavit angličtinu jako výchozí jazyk. Změna se projeví po restartu aplikace.</string>
        <string name="Encoding">Kódování</string>
        <string name="Network_thumbnails">Zobrazení miniatur v síťi</string>
-       <string name="Network_thumbnails_summary">Náhledy souborů budou zobrazovány i při datovém připojení.</string>
+       <string name="Network_thumbnails_summary">Náhledy obrázků budou zobrazovány i při mobilním datovém připojení.</string>
        <string name="Copy_to">Kopírovat do</string>
        <string name="Move_to">Přesunout do</string>
        <string name="Shortcut">Zástupce</string>
@@ -652,12 +652,12 @@
        <string name="Package_name">Jméno balíčku</string>
        <string name="Map_view">Mapové zobrazení</string>
        <string name="Street_view">Zobrazení ulic</string>
-       <string name="Ask">Ask</string>
+       <string name="Ask">Dotázat se</string>
        <string name="Choose_an_action">Zvolte akci</string>
        <string name="Folders_first">Složky první</string>
        <string name="Folders_first_summary">Zobrazit nejprve složky, poté soubory.</string>
        <string name="FAQ">FAQ</string>
-       <string name="FAQ_summary">Prosím, přečtěte si FAQ než se budete na cokoli ptát</string>
+       <string name="FAQ_summary">Prosím, přečtěte si FAQ, než se budete na cokoli ptát</string>
 
     <!-- v 1.3.8 -->
        <string name="Quick_config">Rychlá nastavení</string> <!-- short word please -->
@@ -682,9 +682,9 @@
    
     <!-- v 1.3.9 -->
        <string name="Device_labels">Názvy zařízení</string>
-       <string name="Device_labels_summary">Zobrazí názvy zařízení v čitelné podobě namísto skutečných názvů složek, např. \&quot;SD Karta\&quot; namísto \&quot;sdcard0\&quot;</string>
+       <string name="Device_labels_summary">Zobrazí názvy zařízení v čitelné podobě, namísto skutečných názvů složek. Např. \&quot;SD Karta\&quot; namísto \&quot;sdcard0\&quot;</string>
        <string name="Swap_device_labels">Prohodit názvy zařízení</string>
-       <string name="Swap_device_labels_summary">Prohodit názvy Vnitřní paměťi s SD Kartou v případě chybného rozpoznání.</string>
+       <string name="Swap_device_labels_summary">Zamění názvy Vnitřní paměťi s SD Kartou, v případě chybného rozpoznání.</string>
        <string name="Panels">Panely</string>
        <string name="Devices">Zařízení</string>
        <string name="Bug_report_notice">Před nahlášením chyby prosím proveďte následující:\n\n<b>1. Zkontrolujte, zda se chyba projevuje i v jiných aplikacích na správu souborů.\n2. Přečtěte si FAQ.</b>\n\nProvedli jste výše uvedené kroky?</string>
@@ -692,14 +692,14 @@
 
     <!-- v 1.4.0 -->
        <string name="Compression_ratio">Úroveň komprese</string>
-       <string name="Compression_method">Komprimační metoda</string>
+       <string name="Compression_method">Metoda komprese</string>
        <string name="Comment">Komentář</string>
        <string name="Standard">Standardní</string>
        <string name="No_compression">Bez komprese</string>
        <string name="A_while_ago">Před chvílí</string>
        <string name="X_hours_Y_minutes_ago">Před %x hodin{1:ou|__:ami} %y minut{1:ou|__:ami}</string>
       <!-- Already exists, just changed the content -->
-       <string name="Expiration_message">Děkuji Vám za používání Solid Explorer, Vaše zkušební doba právě vypršela. Pro pokračování v používání této aplikace mi můžete přispět virtuálním pivem, zakoupením klíče z Google Play. Učiňte tak, pouze pokud jste s aplikací zcela spokojeni.</string>
+       <string name="Expiration_message">Děkuji Vám za používání Solid Explorer, Vaše zkušební doba právě vypršela. Pro pokračování v používání této aplikace mi přispějte virtuálním pivem, zakoupením klíče z Google Play. Učiňte tak, pouze pokud jste s aplikací zcela spokojeni.</string>
        <string name="Purchased_message">Děkuji Vám za zakoupení plné verze Solid Explorer. Doufám, že se Vám bude líbit.</string>
        <string name="Trial_expired">Zkušební doba vypršela</string>
        <string name="Purchase">Zakoupit</string>
@@ -708,7 +708,7 @@
    
     <!-- v 1.4.3 -->
        <string name="Wallpaper_has_been_set_successfully">Tapeta byla úspěšně změněna</string>
-       <string name="X_has_been_set_as_default_ringtone">% byl nastaven jako vyzvánění</string>
+       <string name="X_has_been_set_as_default_ringtone">% byl nastaven jako výchozí vyzvánění</string>
        <string name="X_has_been_set_as_default_notification">% byl nastaven jako výchozí zvuk oznámění</string>
        <string name="X_has_been_set_as_default_alarm">% byl nastaven jako výchozí zvuk budíku</string>
        <string name="Copy_path">Kopírovat cestu</string>
@@ -732,7 +732,7 @@
        <string name="Data_backup_restored">Záloha dat obnovena</string>
        <string name="Support">Podpora</string>
        <string name="Support_summary">Navštívit stránku podpory Solid Explorer</string>
-       <string name="Experimental_feature_notifier">Vezměte prosím na vědomí, že tato funkce je experimentální a na Vaší aktuální verzi Androidu pravděpodobně nebude fungovat správně.</string>
+       <string name="Experimental_feature_notifier">Vezměte prosím na vědomí, že tato funkce je experimentální a na Vaší aktuální verzi Androidu pravděpodobně nemusí fungovat správně.</string>
        <string name="Trial_check_notice">Solid Explorer nemohl ověřit zkušební dobu. Prosím, do dvou dnů aktivujte internetové připojení, jinak bude vaše zkušební doba ukončena.</string>
        <string name="Back_goes_to_root">Přejít zpět do kořenového adresáře</string>
        <string name="Back_goes_to_root_summary">Dovolí přejít do kořenového adresáře při stisku tlačítka zpět</string>
@@ -740,7 +740,7 @@
        <string name="Keep_the_screen_on_summary">Ponechá obrazovku aktivní během přenosu souborů. Označte, pociťujete-li zpomalení přenosů při vypnuté obrazovce.</string>
        
 	<!-- v 1.4.4 -->
-       <string name="Clear_thumbnails_on_exit">Vyčistit náhledy při ukončení</string>
+       <string name="Clear_thumbnails_on_exit">Odstranit náhledy při ukončení</string>
        <string name="Image_thumbnails_will_be_removed_on_app_exit">Náhledy obrázků budou odstraněny při ukončení aplikace</string>
        <string name="Toggle_nomedia">Povolit soubor .nomedia</string>
        <string name="Total_time">Celkový čas</string>
@@ -773,5 +773,15 @@
        <string name="Clear_filter_history_summary">Smaže historii funkce Filtrovat v seznamu souborů</string>
        <string name="New_webdav_connection">WebDav připojení</string>
        <string name="WebDav_bookmarks">WebDav záložky</string>
+       
+	<!--  v 1.4.5 -->
+       <string name="Domain">Doména</string>
+       <string name="Mode">Mód</string>
+       <string name="Passive">Pasivní</string>
+       <string name="Nomedia_on">soubor .nomedia vytvořen</string>
+       <string name="Nomedia_off">soubor .nomedia smazán</string>
+       <string name="Wifi_disabled">WiFi vypnuta</string>
+       <string name="Wifi_enabled">WiFi zapnuta</string>
+       <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Jste si jist, že chcete obnovit výchozí nastavení pro tuto položku?</string>
        
 </resources>
