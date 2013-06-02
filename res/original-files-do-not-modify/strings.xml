@@ -842,4 +842,15 @@
 		<string name="WebDav_bookmarks">WebDav bookmarks</string>
 		
 		
+		<!--  v 1.4.5 -->
+		<string name="Domain">Domain</string>
+		<string name="Mode">Mode</string>
+		<string name="Passive">Passive</string>
+		<string name="Nomedia_on">.nomedia file crated</string>
+		<string name="Nomedia_off">.nomedia file deleted</string>
+		<string name="Wifi_disabled">WiFi disabled</string>
+		<string name="Wifi_enabled">WiFi enabled</string>
+		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Are you sure you want to restore default settings for this item?</string>
+		
+		
 </resources>

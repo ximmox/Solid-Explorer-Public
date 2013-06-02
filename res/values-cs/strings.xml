@@ -208,7 +208,7 @@
        <string name="No_password_set">Žádné heslo</string>
        <string name="Status">Stav</string>
        <string name="Server_address">Adresa serveru</string>
-       <string name="Start">Začít</string>
+       <string name="Start">Spustit</string>
        <string name="Stop">Ukončit</string>
     
     <!-- Archive dialog -->
@@ -596,7 +596,7 @@
        <string name="Icon_designer">Ikon designer</string>
        <string name="Prefix">Prefix</string>
        <string name="Translations">Překlad</string>
-       <string name="Translations_summary">Prvotní překlad od Krzysiek, jazykové korekce a nynější překlad od pcpepik</string>
+       <string name="Translations_summary">Původní překlad od Krzysiek, jazykové korekce a nynější překlad od pcpepik</string>
        <string name="Empty">Prázdný</string>
        <string name="Press_once_again_to_exit">Opětovným stisknutím aplikaci ukončíte</string>
        <string name="View_in_DiskUsage">Zobrazit v DiskUsage</string>
@@ -738,5 +738,40 @@
        <string name="Back_goes_to_root_summary">Dovolí přejít do kořenového adresáře při stisku tlačítka zpět</string>
        <string name="Keep_the_screen_on">Nevypínat obrazovku</string>
        <string name="Keep_the_screen_on_summary">Ponechá obrazovku aktivní během přenosu souborů. Označte, pociťujete-li zpomalení přenosů při vypnuté obrazovce.</string>
+       
+	<!-- v 1.4.4 -->
+       <string name="Clear_thumbnails_on_exit">Vyčistit náhledy při ukončení</string>
+       <string name="Image_thumbnails_will_be_removed_on_app_exit">Náhledy obrázků budou odstraněny při ukončení aplikace</string>
+       <string name="Toggle_nomedia">Povolit soubor .nomedia</string>
+       <string name="Total_time">Celkový čas</string>
+       <string name="Average_speed">Průměrná rychlost</string>
+       <string name="Add_new_item">Přidat novou položku</string>
+       <string name="Application_chooser">Výběr aplikací</string>
+       <string name="Manage_associations">Správa asociací</string>
+       <string name="Manage_associations_summary">Zvolte, které aplikace mají otevírat požadované typy souborů</string>
+       <string name="Choose_an_application">Zvolte aplikaci</string>
+       <string name="Application">Aplikace</string>
+       <string name="Extension">Přípona</string>
+       <string name="No_extension_specified">Nebyla určena žádná přípona</string>
+       <string name="You_didn_t_choose_the_application">Nebyla zvolena žádná aplikace</string>
+       <string name="Added_to_queue">Zařazeno do fronty</string>
+       <string name="Streaming">Streaming</string>
+       <string name="There_is_already_the_same_file_in_temporary_directory">Stejný soubor již existuje ve složce s dočasnými soubory. Přejete si otevřít již stažený soubor, nebo stáhnout nový?</string>
+       <string name="Download">Stáhnout</string>
+       <string name="X_files_updated">% soubor{1:|2-4:y|__:ů} aktualizováno</string>
+       <string name="Temporary_file_has_been_modified">Dočasný soubor % byl změněn. Přejete si jej nahrát zpět?</string>
+       <string name="Temporary_files_have_been_modified">% dočasn{1:ý|2-4:é|__:ých} soubor{1:|2-4:y|__:ů} bylo změněno. Přejete si je nahrát zpět?</string>
+       <string name="Slide_from_bottom">Vysunout ze spodu</string>
+       <string name="Fall_down">Spadnout</string>
+       <string name="Come_in">Přijít</string>
+       <string name="Slide_from_right">Vysunout z prava</string>
+       <string name="Slide_from_left">Vysunout z leva</string>
+       <string name="Default">Výchozí</string>
+       <string name="List_animations">Animace seznamu</string>
+       <string name="List_animations_summary">Přizpůsobit animace seznamu souborů</string>
+       <string name="Clear_filter_history">Smazat historii filtrů</string>
+       <string name="Clear_filter_history_summary">Smaže historii funkce Filtrovat v seznamu souborů</string>
+       <string name="New_webdav_connection">WebDav připojení</string>
+       <string name="WebDav_bookmarks">WebDav záložky</string>
        
 </resources>

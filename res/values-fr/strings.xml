@@ -168,8 +168,8 @@
     	<string name="Temporary_download">Téléchargement temporaire</string>
    	 	<string name="Creating_archive">Création de l\'archive %</string>
     	<string name="Extracting_archive">Extraction de l\'archive %</string>
-    	<string name="X_has_been_completed">% terminée.</string>
-    	<string name="X_has_failed">% échoué.</string>
+    	<string name="X_has_been_completed">% terminé(e)</string>
+    	<string name="X_has_failed">% échoué(e)</string>
     	<string name="Tap_to_show_details">Appuyer pour afficher les détails</string>
     	<string name="Pending_cancel_request">Attente de demande d\'annulation</string>
     	<string name="File_operation">Opération de fichier</string>
@@ -320,7 +320,7 @@
     	<string name="Resume">Reprendre</string>
     	<string name="Dismiss">Abandonner</string>
     	
-    	<string name="Abort_operation">Interrompre l\'opération</string>
+    	<string name="Abort_operation">Annuler l\'opération</string>
     	<string name="There_is_already_an_operation_running">Une opération est déjà en cours. Vous devez attendre qu\'elle se termine.</string>
     
     	<!-- Question dialogs -->
@@ -331,7 +331,7 @@
     	<string name="Folder_exists_descr">Un dossier avec le même nom existe. Que voulez-vous faire ?</string>
     	<string name="File_exists_descr">Un fichier avec le même nom existe dans le dossier. Que voulez-vous faire ?</string>
     	<string name="Are_you_sure_you_want_to_delete">Voulez-vous vraiment supprimer \&quot;%\&quot;?</string>
-    	<string name="Are_you_sure_to_abort_current_operation">Voulez-vous vraiment abandonner l\'opération en cours ?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Voulez-vous vraiment annuler l\'opération en cours ?</string>
     	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Voulez-vous vraiment supprimer tous les favoris ?</string>
     	<string name="Are_you_sure_you_want_to_delete_bookmark">Voulez-vous vraiment supprimer le favori \&quot;%\&quot; ?</string>
     	<string name="Reindex_prompt">Vous allez démarrer l\'indexation manuelle. Cette opération peut prendre plusieurs minutes, voulez-vous vraiment continuer ?</string>
@@ -378,9 +378,9 @@
     	<string name="Indexing_has_been_aborted">Indexation annulée</string>
     	<string name="Tap_to_dismiss">Appuyer pour abandonner</string>
     	<string name="Tap_top_open">Appuyer pour ouvrir</string>
-    	<string name="File_is_ready_to_open">Le fichier est prêt pour ouverture</string>
+    	<string name="File_is_ready_to_open">Le fichier est prêt à être ouvert</string>
     	
-    	<string name="Operation_aborted_by_user">Opération arrêtée par l\'utilisateur</string>
+    	<string name="Operation_aborted_by_user">Opération annulée par l\'utilisateur</string>
     	<string name="You_cant_delete_this_item">Vous ne pouvez pas supprimer cet objet</string>
     	<string name="Indexing_service">Service d\'indexation</string>
     	<string name="Only_local_file_can_be_added_to_the_archive">Seul un fichier local peut être ajouté à l\'archive</string>
@@ -405,9 +405,9 @@
     	
     	
     	<string name="Are_you_sure_you_want_to_delete_items">Voulez-vous vraiment supprimer % élément{0-1:|__:s} ?</string>
-    	<string name="X_files_deleted">% fichier{0-1:|__:s} supprimé{0-1:|__:s}.</string>
-    	<string name="X_files_copied">% fichier{0-1:|__:s} copié{0-1:|__:s}.</string>
-    	<string name="X_files_moved">% fichier{0-1:|__:s} déplacé{0-1:|__:s}.</string>
+    	<string name="X_files_deleted">% fichier{0-1:|__:s} supprimé{0-1:|__:s}</string>
+    	<string name="X_files_copied">% fichier{0-1:|__:s} copié{0-1:|__:s}</string>
+    	<string name="X_files_moved">% fichier{0-1:|__:s} déplacé{0-1:|__:s}</string>
     	<string name="X_items">% élément{0-1:|__:s}</string>
     	<string name="Deleting_X_files">Suppression de % fichier{0-1:|__:s}</string>
     	<string name="Copying_X_files">Copie de % fichier{0-1:|__:s}</string>
@@ -457,7 +457,7 @@
 
     
     <!-- Open as dialog -->
-    <string name="Open_as">Ouvrir comme...</string>
+    <string name="Open_as">Ouvrir...</string>
     <string name="Choose_a_preferred_type">Choisir un format</string>
     <string name="Text_file">Texte</string>
     <string name="Image_file">Image</string>
@@ -602,22 +602,22 @@
     	<string name="Set_period">Définir la période</string>
     	<string name="Set_time">Définir l\'heure</string>
     	<string name="Show_notifications">Afficher une notification</string>
-    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Afficher une notification quand l\'indexation est terminée ou stoppée</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Afficher une notification quand l\'indexation est terminée ou arrêtée</string>
     
     
     <string name="Other">Autres</string>
     	
-    <string name="Clear_persistent_data">Vider les données persistantes</string>
-    <string name="Clear_persistent_data_summary">Vider les données comme le cache de miniatures, fichiers temporaires, historique d\'opérations, etc.</string>
-    <string name="Clear_thumbnail_cache">Vider le cache de miniatures</string>
-    <string name="Clear_temporary_files">Vider les fichiers temporaires</string>
-    <string name="Clear_operation_history">Vider l\'historique des opérations</string>
-    <string name="Delete_all_image_previews">Effacer toutes les prévisualisations d\'image</string>
-    <string name="Delete_all_temporary_files">Effacer tous les fichiers temporaires</string>
-    <string name="Delete_operation_history_entries">Effacer les entrées de l\'historique des opérations</string>
+    <string name="Clear_persistent_data">Supprimer les données persistantes</string>
+    <string name="Clear_persistent_data_summary">Supprimer les données du cache miniatures, des fichiers temporaires, de l\'historique d\'opérations, etc.</string>
+    <string name="Clear_thumbnail_cache">Supprimer les miniatures</string>
+    <string name="Clear_temporary_files">Supprimer les fichiers temporaires</string>
+    <string name="Clear_operation_history">Supprimer l\'historique des opérations</string>
+    <string name="Delete_all_image_previews">Supprimer toutes les prévisualisations d\'image</string>
+    <string name="Delete_all_temporary_files">Supprimer tous les fichiers temporaires</string>
+    <string name="Delete_operation_history_entries">Supprimer les entrées de l\'historique des opérations</string>
     <string name="Clear_file_type_associations">Supprimer les associations de fichier</string>
-    <string name="Clear_file_type_associations_summary">Réinitialiser les liens entre applications et fichiers particuliers</string>
-    <string name="Clear_temporary_files_on_exit">Effacer les fichiers temporaires en quittant</string>
+    <string name="Clear_file_type_associations_summary">Réinitialiser les liens entre les applications et les types de fichiers</string>
+    <string name="Clear_temporary_files_on_exit">Supprimer les fichiers temporaires en quittant</string>
     <string name="Temporary_files_will_be_removed_on_app_exit">Les fichiers temporaires seront supprimés en quittant l\'application</string>
     
     <string name="Quick_start_guide">Guide rapide</string>
@@ -625,14 +625,14 @@
     <string name="Help_make_Solid_Explorer_better">Aider à améliorer Solid Explorer</string>
     <string name="Report_a_bug">Rapporter un bug</string>
    
-    <string name="About">A propos</string>
+    <string name="About">À propos</string>
     <string name="Author_version_and_changelog">Auteur, version et changelog</string>
-    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
+    <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Głodowski</string>
     <string name="Version">Version</string>
     <string name="Changelog">Changelog</string>
-    <string name="Whats_new">Quoi de neuf</string>
+    <string name="Whats_new">Changements et nouveautés</string>
     <string name="Author">Auteur</string>
-    <string name="Functionality_for_future_releases">Fonctionnalitées des versions futures</string>
+    <string name="Functionality_for_future_releases">Fonctionnalitées des futures versions</string>
     <string name="Planned_features">Fonctionnalitées prévues</string>
     
     
@@ -808,4 +808,41 @@
      <string name="Back_goes_to_root_summary">Permettre de rejoindre la racine par appui sur le bouton Retour</string>
      <string name="Keep_the_screen_on">Garder l\'écran allumé</string>
      <string name="Keep_the_screen_on_summary">Garder l\'écran allumé pendant les opérations de fichier. A cocher si vous rencontrez des ralentissements lorsque l\'écran est éteint.</string>
+
+<!-- v 1.4.4 -->
+     <string name="Clear_thumbnails_on_exit">Supprimer les miniatures quittant</string>
+     <string name="Image_thumbnails_will_be_removed_on_app_exit">Les miniatures seront supprimés en quittant l\'application</string>
+     <string name="Toggle_nomedia">Bascule de fichier .nomedia</string>
+     <string name="Total_time">Temps total</string>
+     <string name="Average_speed">Vitesse moyenne</string>
+     <string name="Add_new_item">Ajouter un nouvel élément</string>
+     <string name="Application_chooser">Sélecteur d\'application</string>
+     <string name="Manage_associations">Gestionnaire des associations</string>
+     <string name="Manage_associations_summary">Choisir les applications à utiliser pour les différents types de fichier</string>
+     <string name="Choose_an_application">Choisir une application</string>
+     <string name="Application">Application</string>
+     <string name="Extension">Extension</string>
+     <string name="No_extension_specified">Pas d\'extension specifiée</string>
+     <string name="You_didn_t_choose_the_application">Vous devez choisir une application</string>
+     <string name="Added_to_queue">Ajouté à la liste des opérations</string>
+     <string name="Streaming">Streaming</string>
+     <string name="There_is_already_the_same_file_in_temporary_directory">Un fichier identique existe déjà dans le dossier temporaire. Voulez-vous ouvrir le fichier existant ou télécharger le nouveau fichier ?</string>
+     <string name="Download">Télécharger</string>
+     <string name="X_files_updated">% fichier{1:|__:s} mis à jour</string>
+     <string name="Temporary_file_has_been_modified">Le fichier temporaire % a été modifié. Voulez-vous mettre à jour le fichier original ?</string>
+     <string name="Temporary_files_have_been_modified">% fichier{1:|__:s} temporaires ont été modifiés. Voulez-vous mettre à jour les fichiers originaux ?</string>
+     <string name="Slide_from_bottom">Glisser du bas</string>
+     <string name="Fall_down">Disparition</string>
+     <string name="Come_in">Apparition</string>
+     <string name="Slide_from_right">Glisser de la droite</string>
+     <string name="Slide_from_left">Glisser de la gauche</string>
+     <string name="Default">Par défaut</string>
+     <string name="List_animations">Animations de la liste</string>
+     <string name="List_animations_summary">Personnaliser les animations de la liste de fichiers</string>
+     <string name="Clear_filter_history">Effacer l\'historique des requêtes</string>
+     <string name="Clear_filter_history_summary">Effacer l\'historique des requêtes de filtre</string>
+     <string name="New_webdav_connection">Connexion WebDav</string>
+     <string name="WebDav_bookmarks">Favoris WebDav</string>
+	
+
 </resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">Solid Explorer có hai cửa sổ độc lập để duyệt tập tin. Ví dụ, bạn duyệt thư mục SD ở một cửa sổ và lưu trữ trực tuyến của bạn ở cửa sổ thứ hai. Quản lý tập tin một cách dễ dàng.</string>
+    <string name="page1_2">Ở chế độ nằm dọc (thẳng đứng), một cửa sổ ẩn đi lúc đó. Để chuyển giữa chúng, chỉ cần vuốt từ trái qua phải. Ở chế độ nằm ngang, hai cửa sổ đều hiển thị.</string>
+    <string name="page2_1">Bạn có thể kéo một tập tin bằng cách bấm giữ lên biểu tượng của nó và thả bất kỳ đâu trên cửa sổ còn lại. Chỉ cần kéo nó đến cạnh màn hình và cửa sổ thứ hai sẽ xuất hiện.</string>
+    <string name="page2_2">Bạn cũng có thể thả một tập tin vào một thư mục. Giữ tập tin đè lên thư mục một lát, và thư mục sẽ tự mở. Sau đó, chỉ cần thả tập tin vào đó..</string>
+    <string name="page3_1">Để chọn nhanh tập tin, chạm lên biểu tượng của nó. Thanh tùy chọn sẽ xuất hiện với một số chức năng hữu ích. Bạn có thể kích hoạt thêm các nút \&quot;copy\&quot;, \&quot;cut\&quot; và \&quot;send\&quot; ở mục Cài đặt.</string>
+    <string name="page3_2">Tính năng này không có trong khung nhìn dạng lưới. Bạn phải chọn dùng hành động Chọn ở Hành động.</string>
+    <string name="page4_1">Tìm kiếm theo mục lục cung cấp khả năng tiếp cận nhanh chóng các tập tin ở bất kỳ đâu trên thiết bị của bạn. Việc tìm kiếm mất chưa đến một giây! Tuy nhiên, nếu không tìm thấy tập tin của bạn, bạn vẫn có thể dùng tùy chọn \'Tìm kiếm Thông thường\' để xem toàn bộ các tập tin trên thiết bị.</string>
+    <string name="page4_2">Bạn cũng có thể tìm thiết bị của bạn bằng ứng dụng Tìm kiếm của Google. Vào trình Cài đặt trong Tìm kiếm của Google và kích hoạt Solid Explorer.</string>
+    <string name="page5_1">Solid Explorer hỗ trợ các giao thức FTP, SFTP và SMB. Khi bạn đăng nhập vào một trong chúng, các thiết lập sẽ tự động được lưu là một bookmark. Bạn có thể chọn mã hóa mật khẩu với một mật khẩu chung, bạn nên thiết lập nó.</string>
+    <string name="page5_2">Nếu bạn có một tài khoản lưu trữ trực tuyến (ví như Dropbox hay Box), bạn có thể duyệt các tập tin trực tuyến của bạn như bạn duyệt chúng trên thiết bị.</string>
+    <string name="page6_1">Nếu bạn muốn gửi tập tin qua email, bạn có thể tạo một tập tin nén. Có thể đặt mật khẩu bảo vệ các tập tin ZIP và TAR với GZIP hoặc BZIP2.</string>
+    <string name="page6_2">Solid Explorer hỗ trợ đọc và giải nén các lưu trữ ZIP, RAR và TAR. Bạn có thể duyệt các mục lưu trữ này như duyệt các thư mục khác.</string>
+    <string name="page7_1">Solid Explorer cung cấp cho bạn thông tin chi tiết về tập tin hoặc thư mục. Bạn có thể kiểm tra những gì ngốn bộ nhớ của bạn hoặc xem một số thống kê.</string>
+    <string name="page8_1">Mỗi tính năng được đặt trong từng mục được bật lên. Chúng được nhóm một cách chu đáo để đảm bảo một trải nghiệm phù hợp.</string>
+    <string name="page8_2">Khi bạn kích hoạt chế độ đa cửa sổ, bạn có thể chuyển đổi giữa chúng một cách dễ dàng.</string>
+    <string name="page9">Tôi rất vui khi bạn quyết định thử Solid Explorer. Tôi hy vọng bạn sẽ thích tất cả các tính năng ứng dụng cung cấp. Nếu bạn quên điều gì đó, bạn có thể xem lại trình hướng dẫn sử dụng nhanh từ mục Cài đặt. Thân!</string>
+    <string name="Start_using_solid_explorer">Bắt đầu dùng Solid Explorer</string>
+    <string name="page0_1">Chào mừng bạn đến với Solid Explorer - trình quản lý tập tin trực quan và đẹp mắt nhất cho Android. Vui lòng xem trình hướng dẫn sử dụng nhanh này để làm quen với tất cả các tính năng được cung cấp bởi ứng dụng.</string>
+    <string name="Not_now">Thôi</string>
+    <string name="page0_2">Để bắt đầu, vuốt qua hình kế tiếp</string>
+    <string name="Welcome">Chào mừng</string>
+    <string name="Two_panels">Hai cửa sổ</string>
+    <string name="Quick_selection">Chọn nhanh</string>
+    <string name="Indexed_search">Tìm kiếm theo mục lục</string>
+    <string name="Archives">Lưu trữ dạng nén</string>
+    <string name="Detailed_information">Thông tin chi tiết</string>
+    <string name="Useful_popups">Mục bật lên hữu ích</string>
+    <string name="Lets_start">Hãy bắt đầu</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Bạn có thể xem hướng dẫn này bất kỳ khi nào bạn muốn. Chỉ cần vào mục Cài đặt và chọn tùy chọn \&quot;Hướng dẫn sử dụng nhanh\&quot;.</string>
+    <string name="Thank_you">Cảm ơn!</string>
+    
+</resources>

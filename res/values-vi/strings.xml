@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    
+    
+    <!-- bottom toolbar -->
+    <string name="New">Tạo mới</string>
+    <string name="Jump">Đến</string>
+    <string name="Filter">Lọc</string>
+    <string name="Menu">Mục</string>
+    <string name="Actions">Hành động</string>
+    
+    <!-- "New" popup -->
+    <string name="New_folder">Thư mục</string>
+    <string name="New_file">Tập tin</string>
+    <string name="New_FTP_connection">Kết nối FTP</string>
+    <string name="New_SFTP_connection">Kết nối SFTP</string>
+    <string name="New_SMB_connection">Kết nối SMB</string>
+    <string name="New_cloud_connection">Lưu trữ đám mây</string>
+    
+    <!-- "Actions" popup -->
+    
+    <string name="Copy">Chép</string>
+    <string name="Cut">Cắt</string>
+    <string name="Paste">Dán</string>
+    <string name="Delete">Xóa</string>
+    <string name="Properties">Thông tin</string>
+    <string name="Select_all">Chọn hết</string>
+    <string name="Select">Chọn</string>
+    
+    <!-- "Jump" popup -->
+    
+    <string name="Device">Thiết bị</string>
+    <string name="Photos">Ảnh</string>
+    <string name="Downloads">Tải về</string>
+    <string name="Network">Mạng</string>
+    <string name="Bookmarks">Bookmark</string>
+    <string name="No_bookmarks">Không bookmark</string>
+    
+    <!-- "Menu" popup -->
+    <string name="View">Xem</string>
+    <string name="Sort">Xếp</string>
+    <string name="Search">Tìm</string>
+    <string name="Operations">Tác vụ</string>
+    <string name="Manage_bookmarks">Quản lý bookmark</string>
+    <string name="File_sharing">Chia sẻ tập tin</string>
+    <string name="Settings">Cài đặt</string>
+    <string name="Exit">Thoát</string>
+    
+    <!-- "Network" popup -->
+    <string name="Cloud_storage">Dữ liệu đám mây</string>
+    
+    <!-- "Device" popup -->
+     <string name="System_root">Hệ thống root</string>
+    <string name="SD_card">Thẻ SD</string>
+    <string name="Internal_memory">Bộ nhớ trong</string>
+    <string name="USB_drive_x">Ổ USB %x</string>
+    
+    <!-- "View" popup -->
+    <string name="View_mode">Khung xem dạng</string>
+    <string name="List">Danh sách</string>
+    <string name="Detailed_list">Danh sách chi tiết</string>
+    <string name="Grid">Lưới</string>
+    <string name="Detailed_grid">Lưới chi tiết</string>
+    
+    <!-- "Sort" popup -->
+    <string name="Sort_files_by">Xếp tập tin theo</string>
+    <string name="File_name">Tên tập tin</string>
+    <string name="File_size">Kích cỡ tập tin</string>
+    <string name="File_type">Dạng tập tin</string>
+    <string name="Modified_date">Thời điểm chỉnh</string>
+    <string name="Ascending">Tăng dần</string>
+    <string name="Descending">Giảm dần</string>
+    <string name="In_order">Thứ tự</string>
+    
+    <!-- Browser switch popup -->
+    <string name="Active_browser">Đang duyệt</string>
+    <string name="Close_all">Đóng hết</string>
+    <string name="In_background">Ở nền</string>
+    
+    
+    
+    <!-- Context menu -->
+    <string name="Open_with">Mở với...</string>
+    <string name="Open_in_bg">Mở ở bên</string>
+    <string name="Send">Gửi qua</string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="Rename">Đổi tên</string>
+    <string name="Extract">Giải nén</string>
+    <string name="Extract_to">Giải nén đến</string>
+    <string name="Archive">Nén</string>
+    <string name="Paste_to_x">Dán vào \&quot;%\&quot;</string>
+    
+    
+    <!-- Dialogs -->
+    <string name="OK">OK</string>
+    <string name="Cancel">Hủy</string>
+    <string name="Yes">Có</string>
+    <string name="No">Không</string>
+    
+	    <!-- New folder/file dialog -->
+	    <string name="Enter_the_name">Nhập tên</string>
+	    
+	    <!-- New connection Dialog -->
+	    <string name="Display_name">Hiển thị tên</string>
+	    <string name="May_be_empty">Có thể trống</string>
+    	<string name="Remote_path">Đường truyền từ xa</string>
+    	<string name="Port">Cổng</string>
+    	<string name="User_name">Tên người dùng</string>
+    	<string name="Password">Mật khẩu</string>
+    	<string name="Repeat_the_password">Xác nhận mật khẩu</string>
+    	<string name="Authentication_method">Cách chứng thực</string>
+    	<string name="Server">Máy chủ</string>
+    	<string name="Connection_type">Loại kết nối</string>
+    	<string name="Scan">Quét</string>
+    	<string name="Computer_name_or_IP_adress">Tên máy tính hoặc địa chỉ IP</string>
+    	<string name="Looking_for_computers">Đang tìm máy tính</string>
+    	<string name="Share">Chia sẻ SMB</string>
+    	
+    		<!-- Auth methods -->
+    		<string name="Ask_for_password_each_time">Yêu cầu mật khẩu mỗi lần</string>
+        	<string name="Store_encrypted_password">Lưu trữ mật khẩu đã mã hóa</string>
+        	<string name="No_password_required">No password required</string>
+        	<string name="Anonymous">Ẩn danh</string>
+        	<string name="Log_in_as_a_guest">Đăng nhập với tư cách khách</string>
+        	
+        	<!-- FTP types -->
+        	<string name="FTP_no_encryption">FTP (không mã hóa)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (mã hóa ngầm)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (mã hóa công khai)</string>
+        
+    <!-- Search activity -->	
+    <string name="Manual_search">Tìm kiếm thông thường</string>
+    <string name="Results_from">Kết quả từ:</string>
+    <string name="No_results">Không có kết quả</string>
+    <string name="Matches">Hòa hợp</string>
+    <string name="Selected">Đã chọn</string>
+    <string name="Match_mode">Chế độ hòa hợp</string>
+    <string name="Match_start">Bắt đầu hòa hợp</string>
+    <string name="Match_any">Hòa hợp tùy ý</string>
+    <string name="Match_end">Kết thúc hòa hợp</string>
+    
+    <!-- Operations activity -->
+    <string name="History_is_empty">Lịch sử trống</string>
+    <string name="Current_operation">Tác vụ hiện nay</string>
+    <string name="No_pending_operation">Không có tác vụ chưa xử lý</string>
+    <string name="History">Lịch sử</string>
+    <string name="Count">Số lượng</string>
+    <string name="Date">Ngày</string>
+    <string name="Source">Nguồn</string>
+    <string name="Destination">Đích</string>
+    
+    	<!-- Operation info -->
+    	<string name="Operation">Tác vụ</string>
+    	<string name="From">Từ</string>
+    	<string name="To">Đến</string>
+    	<string name="Size">Kích thước</string>
+    	<string name="Speed">Tốc độ</string>
+    	<string name="ETA">Dự kiến</string>
+    	<string name="NA">Không có</string>
+    	<string name="Current">Hiện tại</string>
+    	
+    	<!-- Operation descriptions -->
+    	<string name="File_copy">Chép tập tin</string>
+    	<string name="File_move">Chuyển tập tin</string>
+    	<string name="File_delete">Xóa tập tin</string>
+    	<string name="Temporary_download">Đang tải</string>
+   	 	<string name="Creating_archive">Nén %</string>
+    	<string name="Extracting_archive">Giải nén %</string>
+    	<string name="X_has_been_completed">% đã xong.</string>
+    	<string name="X_has_failed">% đã thất bại.</string>
+    	<string name="Tap_to_show_details">Chạm để xem chi tiết</string>
+    	<string name="Pending_cancel_request">Chờ hủy yêu cầu</string>
+    	<string name="File_operation">Tác vụ trên tập tin</string>
+    
+    <!-- Bookmark manager -->
+    <string name="Bookmark_manager">Quản lý bookmark</string>
+    <string name="Edit">Sửa</string>
+    <string name="Disconnect">Ngắt kết nối</string>
+    <string name="Delete_all">Xóa hết</string>
+    <string name="Wifi_toggle">Chuyển đổi Wi-Fi</string>
+    <string name="Wifi_settings">Cài đặt Wi-Fi</string>
+    <string name="Disconnect_all">Ngắt kết nối hết</string>
+    <string name="Connected">Đã kết nối</string> 
+    <string name="Not_connected">Không thể kết nối</string>
+    <string name="on">Mở</string>
+    <string name="Local_bookmarks">Bookmark nội bộ</string>
+    <string name="FTP_bookmarks">FTP bookmark</string>
+    <string name="SFTP_bookmarks">SFTP bookmark</string>
+    <string name="SMB_bookmarks">SMB bookmark</string>
+    <string name="Cloud_bookmarks">Cloud bookmark</string>
+    <string name="Edit_bookmark">Sửa bookmark</string>
+    <string name="Name">Tên</string>
+    <string name="Path">Đường dẫn</string>
+    
+    <!-- Dir picker -->
+    <string name="Pick_a_directory">Chọn một thư mục</string>
+    
+    <!-- Cloud storage dialog -->
+    <string name="Cloud_storage_services">Dịch vụ lưu trữ đám mây</string>
+    <string name="Cloud_services_description">Chon dịch vụ lưu trữ đám mây của bạn</string>
+    
+    <!-- File sharing -->
+    <string name="File_sharing_active">Đã kích hoạt chia sẻ tập tin</string>
+    <string name="ftp_server_hint">Để kết nối, nhập địa chỉ máy chủ trên thanh địa chỉ của Windows Explorer, hoặc dùng bất kỳ FTP khác.</string>
+    <string name="You_cannot_share_root_directory">Bạn khoongtheer chia sẻ thư mục root</string>
+    <string name="File_sharing_stopped">Dừng chia sẻ tập tin</string>
+    <string name="None">Không</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Bạn cần phải kết nối với mạng nội bộ</string>
+    <string name="Active">Kích hoạt</string>
+    <string name="Inactive">Không kích hoạt</string>
+    <string name="FTP_Server">Máy chủ FTP</string>
+    <string name="Shared_directory">Thư mục đã chia sẻ</string>
+    <string name="Type_to_change">Nhập vào để thay đổi</string>
+    <string name="No_password_set">Không có mật khẩu được thiết lập</string>
+    <string name="Status">Trạng thái</string>
+    <string name="Server_address">Địa chỉ máy chủ</string>
+    <string name="Start">Bắt đầu</string>
+    <string name="Stop">Dừng</string>
+    
+    
+    <!-- Archive dialog -->
+    <string name="Create_archive_dialog_title">Tạo tập tin nén</string>
+    <string name="Archive_name">Tên tập tin nén</string>
+    <string name="Compression">Nén</string>
+    <string name="Format">Định dạng</string>
+    <string name="Use_password_protection">Dùng mật khẩu bảo vệ</string>
+    <string name="Fast">Nhanh</string>
+    <string name="Normal">Vừa</string>
+    <string name="Good">Tốt</string>
+    <string name="Best">Tốt nhất</string>
+    
+    <!-- File properties -->
+    <string name="Content_summary">Tóm lược nội dung</string>
+    <string name="File_types">Dạng tập tin</string>
+    <string name="Top_files">Top % tập tin</string>
+    <string name="Location">Vị trí</string>
+    <string name="Type">Dạng</string>
+    <string name="Parent_path">Đường dẫn chính</string>
+    <string name="Last_modified">Tùy chỉnh mới đây</string>
+    <string name="Directory">Thư mục</string>
+    <string name="Unknown">Không rõ</string>
+    <string name="Symbolic_link">Biểu tượng liên kết</string>
+    <string name="Link_target">Liên kết đích</string>
+    <string name="Open">Mở</string>
+    <string name="Open_directory">Mở thư mục</string>
+    <string name="MD5">MD5</string>
+    <string name="Calculate">Tính toán</string>
+    <string name="Compare">So sánh</string>
+    <string name="Paste_to_compare">Dán vào để so sánh</string>
+    <string name="Files">Tập tin</string>
+    <string name="Folders">Thư mục</string>
+    <string name="Calculation_error">Tính toán lỗi</string>
+    <string name="Content">Nội dung</string>
+    <string name="Other_used">Khác</string>
+    <string name="Free">Trống</string>
+    <string name="Usage">Dùng</string>
+    <string name="Attributes">Chỉ định</string>
+    <string name="Read">Đọc</string>
+    <string name="Write">Ghi</string>
+    <string name="Hidden">Ẩn</string>
+    <string name="Additional_info">Thêm thông tin</string>
+    <string name="Percent">Phần trăm</string>
+    <string name="Music">Nhạc</string>
+    <string name="Pictures">Hình ảnh</string>
+    <string name="Videos">Phim</string>
+    <string name="Archives">Tập tin nén</string>
+    <string name="Documents">Tài liệu</string>
+    <string name="Change">Đổi</string>
+    <string name="Execute">Thực thi</string>
+    <string name="Owner">Sở hữu</string>
+    <string name="Group">Nhóm</string>
+    <string name="Others">Khác</string>
+    <string name="Owners">Sở hữu</string>
+    <string name="Permissions">Quyền</string>
+    <string name="Set">Set</string>
+    <string name="Used_space">Không gian đã dùng</string>
+    <string name="Free_space">Không gian trống</string>
+    <string name="Total_size">Kích thước tổng</string>
+    <string name="Artist">Tác giả</string>
+    <string name="Title">Tiêu đề</string>
+    <string name="Duration">Thời gian</string>
+    <string name="Resolution">Phân giải</string>
+    <string name="Recorded">Ghi âm</string>
+    <string name="Width">Độ rộng</string>
+    <string name="Height">Chiều cao</string>
+    <string name="Manufacturer">Nhà sản xuất</string>
+    <string name="Camera_model">Mẫu máy ảnh</string>
+    <string name="Software">Phần mềm</string>
+    <string name="Orientation">Hướng</string>
+    <string name="Exposure_time">Thời gian phơi sáng</string>
+    <string name="Exposure_bias">Độ lệch phơi sáng</string>
+    <string name="White_balance">Cân bằng trắng</string>
+    <string name="Focal_length">Chiều dài tiêu cự</string>
+    <string name="Aperture_size">Kích thước khẩu độ</string>
+    <string name="Flash">Đèn flash</string>
+    
+    <!-- Dialogs again -->
+    	<!-- File exists dialog -->
+    	<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
+    	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+    	<string name="File_exists">Tập tin hiện có</string>
+    	<string name="Skip">Bỏ qua</string>
+    	<string name="Overwrite">Ghi đè</string>
+    	<string name="Merge">Sáp nhập</string>
+    	<string name="Keep_both">Giữ cả hai</string>
+    	<string name="Remember_action">Nhớ hành động này</string>
+    	<string name="Keep_the_old_file">Giữ tập tin cũ</string>
+    	<string name="The_new_file_will_have_its_name_changed">Đổi tên tập tin mới</string>
+    	<string name="Replace_the_file_with_this">Thay thế tập tin hiện nay</string>
+    	<string name="Create_master_password">Tạo mật khẩu cấp cao</string>
+    	
+    	<string name="Choose_an_activity_to_open_the_file">Chọn hoạt động để mở tập tin</string>
+    	<string name="Always_use_this_application">Luôn dùng ứng dụng này</string>
+    	<string name="Send_the_file_using">Gửi tập tin bằng</string>
+    	<string name="Progress">Tiến trình</string>
+    	<string name="Minimize">Thu nhỏ</string>
+    	<string name="Pause">Tạm dừng</string>
+    	<string name="Resume">Khôi phục</string>
+    	<string name="Dismiss">Loại bỏ</string>
+    	
+    	<string name="Abort_operation">Hủy tác vụ</string>
+    	<string name="There_is_already_an_operation_running">Một tác vụ hiện đang chạy. Vui lòng chờ đến khi kết thúc.</string>
+    
+    	<!-- Question dialogs -->
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Bạn có chắc muốn xóa lịch sử?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Bạn có chắc muốn xóa ảnh thu nhỏ ở bộ nhớ đệm?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">ạn có chắc muốn xóa các tập tin tạm?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Đã đến lúc lập mục lục. Bạn có muốn thực hiện một chỉ mục ngay bây giờ?</string>
+    	<string name="Folder_exists_descr">Đã có một thư mục cùng tên trong thư mục. Bạn muốn làm gì?</string>
+    	<string name="File_exists_descr">Đã có một tập tin cùng tên trong thư mục. Bạn muốn làm gì?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Bạn có chắc muốn xóa \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Bạn có chắc sẽ hủy tác vụ hiện tại?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Bạn có chắc muốn xóa tất cả bookmark?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Bạn có chắc muốn xóa bookmark sau: \&quot;%\&quot; ?</string>
+    	<string name="Reindex_prompt">Đang thực hiện một chỉ mục. Có thể mất vài phút. Vẫn tiến hành?</string>
+    	<string name="Clear_index_prompt">Bạn có chắc muốn xóa tất cả dữ liệu mục lục? Tác vụ này không thể hoàn lại.</string>
+    	<string name="Are_you_sure_to_stop_indexing">Bạn có chắc muốn dừng lập chỉ mục?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Bạn có chắc muốn xóa các tập tin dạng liên kết?</string>
+    	<string name="Changes_have_been_made_to_the_file">&quot;%&quot; đã được thay đổi. Bạn có muốn lưu lại chúng?</string>
+    	<string name="Chown_confirm">Bạn có chắc muốn đổi quyền sở hữu tập tin này?</string>
+    	<string name="Busybox_request">Có vẻ BusyBox chưa cài đặt trên thiết bị của bạn hoặc phiên bản đó đã cũ. Việc tìm quyền root trong tập tin hệ thống của bạn là cần thiết. Bạn muốn cài đặt ngay bây giờ?</string>
+    	
+    	
+    	<!-- Information dialogs -->
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive không hỗ trợ tập tin \&quot;%\&quot;. Tác vụ đã bị hủy.</string>
+    	<string name="Operation_not_supported">Tác vụ không được hỗ trợ</string>
+    	<string name="You_have_to_provide_a_password">Bạn phải cung cấp một mật khẩu</string>
+    	<string name="Insufficient_space" formatted="false">Không đủ không gian để hoàn thành tác vụ. Dung lượng: %, còn trống: %.</string>
+    	<string name="Command_executed_successfully">Câu lệnh thực thi thành công</string>
+    	<string name="Deleting_data">Đang xóa dữ liệu</string>
+    	<string name="Done">Hoàn thành</string>
+    	<string name="Preparing_for_operation">Đang chuẩn bị tác vụ...</string>
+    	<string name="Connecting">Đang kết nối</string>
+    	<string name="Connecting_to_x">Đang kết nối đến \&quot;%\&quot;</string>
+    	<string name="File_is_too_big">Tập tin này quá lớn. Chỉ hỗ trợ chỉnh sửa tập tin tối đa 75kB. Sẽ sớm hỗ trợ tập tin lớn hơn.</string>
+    	<string name="Operation_history_has_been_cleared">Lịch sử tác vụ đã bị xóa</string>
+    	<string name="Encrypted_archive">Tập tin nén đã mã hóa</string>
+    	<string name="Enter_the_password">Nhập mật khẩu</string>
+    	<string name="Confirmation">Xác nhận</string>
+    	<string name="Input_request">Yêu cầu mục nhập</string>
+    	<string name="Message">Tin nhắn</string>
+    	<string name="Warning">Cảnh báo!</string>
+    	<string name="You_did_not_specify_a_password">Bạn đã không định rõ một mật khẩu</string>
+    	<string name="Reading_archive">Đang đọc tập tin nén</string>
+    	<string name="Reading_archive_x">Đang đọc tập tin nén \&quot;%\&quot;</string>
+    	<string name="Storage_not_available">Bộ nhớ không có sẵn</string>
+    	<string name="The_password_given_is_incorrect">Mật khẩu đưa ra không đúng</string>
+    	<string name="You_did_not_specify_a_server_name">Bạn đã không định rõ tên máy chủ</string>
+    	<string name="You_did_not_specify_a_computer_name">Bạn đã không định rõ tên máy tính</string>
+    	<string name="You_did_not_specify_a_port_number">Bạn đã không định rõ số cổng</string>
+    	<string name="You_did_not_specify_user_name">Bạn đã không định rõ tên người dùng</string>
+    	<string name="Indexing">Lập chỉ mục</string>
+    	<string name="Indexing_in_progress">Đang trong tiến trình lập chỉ mục</string>
+    	<string name="Indexing_paused">Tạm dừng lập chỉ mục</string>
+    	<string name="Indexing_has_been_completed">Hoàn tất lập chỉ mục</string>
+    	<string name="Indexing_has_been_aborted">Lập chỉ mục đã bị hủy</string>
+    	<string name="Tap_to_dismiss">Chạm để bỏ qua</string>
+    	<string name="Tap_top_open">Chạm để mở</string>
+    	<string name="File_is_ready_to_open">Sẵn sàng mở tập tin</string>
+    	
+    	<string name="Operation_aborted_by_user">Tác vụ bị hủy bởi người dùng</string>
+    	<string name="You_cant_delete_this_item">Không thể xóa mục này</string>
+    	<string name="Indexing_service">Dịch vụ lập chỉ mục</string>
+    	<string name="Only_local_file_can_be_added_to_the_archive">Chỉ có thể thêm một tập tin được lưu trữ nội bộ vào tập tin nén</string>
+    	<string name="Bookmark_already_exists">Bookmark hiện có sẵn</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; đã được thêm vào bookmark</string>
+    	<string name="Rename_a_file">Đổi tên một tập tin</string>
+    	<string name="Input_was_left_blank">Mục nhập đang trống</string>
+    	<string name="File_named_already_exists">Tập tin \&quot;%\&quot; hiện có sẵn</string>
+    	<string name="Confirm_delete">Xác nhận xóa</string>
+    	<string name="You_cant_create_an_archive_here">Không thể tạo tập tin nén ở đây</string>
+    	<string name="Cannot_connect_to">Không thể kết nối đến \&quot;%\&quot;</string>
+    	<string name="You_are_not_logged_in">Bạn hiện không đăng nhập</string>
+		<string name="Can_not_create_the_directory">Không thể tạo thư mục</string>
+
+    	<string name="Can_not_create_the_file">Không thể tạo tập tin</string>
+    	<string name="Uknown_file_type">Tập tin không rõ định dạng</string>
+    	<string name="No_activity_found_to_open_this_file">Không có khả năng mở tập tin</string>
+    	<string name="You_cant_send_a_folder">Không thể gửi thư mục</string>
+    	<string name="Indexing_has_been_unscheduled">Đã bỏ lên lịch lập chỉ mục</string>
+    	<string name="Scheduled_indexing">Lên lịch lập chỉ mục</string>
+    	<string name="Tap_to_start">Chạm để bắt đầu</string>
+    	
+    	
+    	<string name="Are_you_sure_you_want_to_delete_items">Bạn có chắc muốn xóa % mục{1:|__:s}?</string>
+    	<string name="X_files_deleted">% tập tin{1:|__:s} đã bị xóa.</string>
+    	<string name="X_files_copied">% tập tin{1:|__:s} đã được chép.</string>
+    	<string name="X_files_moved">% tập tin{1:|__:s} đã được chuyển.</string>
+    	<string name="X_items">% mục{1:|__:s}</string>
+    	<string name="Deleting_X_files">Đang xóa % tập tin{1:|__:s}</string>
+    	<string name="Copying_X_files">Đang chép % tập tin{1:|__:s}</string>
+    	<string name="Moving_X_files">Đang chuyển % tập tin{1:|__:s}</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Lập chỉ mục được lên lịch vào %x mỗi %y ngày{1:|__:s}</string>
+    	<!-- Explanation of above
+    	
+    		 	In english things are simple because we have 1 file and multiple files.
+    		 	1 file, 2 files, 3 files and so on...
+    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+    			
+    			But let's take polish for example. File means 'Plik'. We have:
+    			0 plikĂłw
+    			1 plik
+    			2, 3, 4 pliki
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    			but.. 22, 23 pliki
+    			and 26, 27 plików
+    			Complicated, huh?
+    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+    			
+    			If you have problems creating this pattern for your language, contact me.
+    			
+    			Quick reference:
+    			'{' - starts the pattern
+    			'}' - ends the pattern
+    			'|' - rule divider
+    			':' - separates range from the associated suffix
+    			'_' - any digit
+    			'-' - range
+    			
+    			Examples:
+    			1:s 	= for single 1 give 's' suffix
+    			3:		= for single 3 give no suffix
+    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    			__:s	= give 's' for any number
+    			
+    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    			there should be always the __:something pattern at the end.
+    	
+    	-->
+    
+    	
+    
+
+    
+    <!-- Open as dialog -->
+    <string name="Open_as">Mở với...</string>
+    <string name="Choose_a_preferred_type">Chọn một dạng ưu thích</string>
+    <string name="Text_file">Tập tin văn bản</string>
+    <string name="Image_file">Tập tin ảnh</string>
+    <string name="Music_file">Tập tin nhạc</string>
+    <string name="Video_file">Tập tin phim</string>
+    <string name="ZIP_archive">Lưu trữ dạng ZIP</string>
+    
+    
+    <!-- File picker -->
+    
+    <string name="Create_shortcut">Tạo lối tắt</string>
+    <string name="Shortcut_tip">Để tạo lối tắt cho thư mục, chọn \&quot;Tạo lối tắt\&quot; từ thuộc tính.</string>
+    
+
+    
+	<!-- Text editor -->
+    <string name="Wrap_lines">Cắt dòng</string>
+    <string name="Font_size">Cỡ phông chữ</string>
+    <string name="Font">Phông chữ</string>
+    <string name="App_default">Mặc định của ứng dụng</string>
+    <string name="System_default">Mặc định của hệ thống</string>
+    <string name="Serif">Serif</string>
+    <string name="Monospace">Monospace</string>
+    <string name="File_saved_successfully">Lưu tập tin thành công</string>
+    
+    
+    <!-- Preferences -->
+	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
+	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
+    <string name="Appearance">Giao diện</string>
+	<string name="Theme">Theme</string>
+    <string name="Choose_between_preinstalled_themes">Chọn giữa các theme có sẵn</string>
+    <string name="Light">Sáng</string>
+    <string name="Dark">Tối</string>
+    
+    <string name="Toggle_visibility_of_hidden_files">Bật/tắt khả năng hiển thị tập tin ẩn</string>
+    <string name="Show_hidden_files">Hiển thị tập tin ẩn</string>
+    
+    <string name="Show_file_permissions">Hiển thị quyền tập tin</string>
+    <string name="Show_file_permissions_summary">Hiển thị quyền tập tin thay vì ngày tùy chỉnh mới nhất (chỉ cho tập tin root).</string>
+    
+    <string name="Date_format">Định dạng ngày</string>
+    <string name="Customize_date_format">Tùy chỉnh định dạng ngày</string>
+    
+    <string name="Time_format">Định dạng giờ</string>
+	<string name="Customize_time_format">Tùy chỉnh định dạng giờ</string>
+	
+	<string name="Show_fast_scroll_thumb_in_file_list">Hiển thị nút cuộn nhanh trong danh sách tập tin</string>
+    <string name="Use_fast_scroll">Dùng nút cuộn nhanh</string>
+    
+    <string name="Low_quality_thumbnails">Ảnh thu nhỏ chất lượng thấp</string>
+    <string name="Low_quality_thumbnails_summary">Phù hợp khi dung lượng bộ nhớ trống thấp</string>
+    
+    <string name="Portrait_fullscreen">Toàn màn hình khi xoay dọc</string>
+    <string name="Portrait_fullscreen_summary">Ẩn thanh trạng thái khi màn hình dọc</string>
+    
+    <string name="Landscape_fullscreen">Toàn màn hình khi xoay ngang</string>
+    <string name="Landscape_fullscreen_summary">Ẩn thanh trạng thái khi màn hình ngang</string>
+    
+    <string name="File_list_size">Cỡ danh sách khi xoay dọc</string>
+    <string name="Adjust_size_of_the_file_list">Điều chỉnh kích thước danh sách tập tin khi màn hình dọc</string>
+    
+    <string name="Landscape_file_list_size">Cỡ danh sách khi xoay ngang</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Điều chỉnh kích thước danh sách tập tin khi màn hình ngang</string>
+    
+    <string name="Small">Nhỏ</string>
+    <string name="Big">To</string>
+    <string name="Large">Lớn</string>
+    <string name="Extra_small">Rất nhỏ</string>
+    
+    <string name="Hide_exit_button">Ẩn nút thoát</string>
+    <string name="Hide_exit_button_summary">Bạn cũng có thể thoát ứng dụng bằng cách giữ nút back một lúc</string>
+    
+    <string name="Startup">Khởi chạy</string>
+    
+    <string name="Remember_last_folder">Nhớ thư mục mới mở</string>
+    <string name="Will_start_with_recently_viewed_directories">Ứng dụng sẽ khởi chạy với thư mục mới xem</string>
+    
+    
+    <string name="First_panel_default_dir">Thư mục ở cửa sổ thứ nhất</string>
+    <string name="Second_panel_default_dir">Thư mục ở cửa sổ thứ hai</string>
+    
+    <string name="Change_pictures_directory">Đổi thư mục ảnh</string>
+    <string name="Change_downloads_directory">Đổi thư mục tải về</string>
+    
+    <string name="Drag_and_drop">Kéo và Thả</string>
+    <string name="Action_for_drop_inside_the_panel">Hành động trong cùng cửa sổ</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Thả một mục vào thư mục trong cùng cửa sổ</string>
+    <string name="Action_for_drop_to_the_second_panel">Hành động trên cửa sổ thứ hai</string>
+    <string name="Dropping_an_item_to_the_second_panel">Thả một mục lên cửa sổ thứ hai</string>
+    <string name="Move">Chuyển</string>
+    
+    <string name="Security">Bảo mật</string>
+    <string name="Master_password_prompt">Solid Explorer dùng một mật khẩu cấp cao để mã hóa tất cả các thông tin đăng nhập. Khuyến cáo dùng tính năng này nếu bạn để tâm đến vấn đề bảo mật. Bạn sẽ chỉ bị hỏi mật khẩu duy nhất một lần, trừ khi bạn khởi động lại ứng dụng. Nếu không sẽ dùng mã hóa mặc định với không mật khẩu. Bạn có muốn dùng tính năng này?</string>
+    <string name="Disable_master_password_warning">Bỏ mật khẩu cấp cao sẽ khiến chuyển sang mật khẩu mặc định. Bạn sẽ không bao giờ bị hỏi lại. Thông tin đăng nhập sẽ vẫn được mã hóa. Bạn có muốn tiến hành?</string>
+    <string name="Enable_master_password_warning">Nếu bạn có bất kỳ bookmark trước đó được mã hóa với mật khẩu mặc định, chúng sẽ bị xóa. Tiếp tục?</string>
+    <string name="Enable_master_password">Kích hoạt mật khẩu cấp cao</string>
+	<string name="Too_weak_password">Mật khẩu phải có ít nhất 6 ký tự, không quá 16 ký tự</string>
+    <string name="Enter_the_master_password">Nhập mật khẩu cấp cao</string>
+    <string name="Enter_a_new_master_password">Nhập mật khẩu cấp cao mới.</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Mã hóa tất cả thông tin đăng nhập với mật khẩu cấp cao</string>
+    <string name="Set_master_password">Đổi mật khẩu cấp cao</string>
+    <string name="All_passwords_will_be_reencrypted">Tất cả mật khẩu sẽ được mã hóa lại</string>
+    
+    <string name="I_dont_remember_my_old_password">Tôi không nhớ mật khẩu cũ</string>
+    <string name="Reset_password_warning">Cảnh báo! Nếu bạn thiết lập mật khẩu mới bây giờ, thì tất cả bookmark vốn đã được mã hóa với mật khẩu cũ sẽ bị xóa.</string>
+    <string name="Old_password">Mật khẩu cũ</string>
+    <string name="New_password">Mật khẩu mới</string>
+    <string name="Master_password_has_been_disabled">Mật khẩu cấp cao đã bị xóa</string>
+    <string name="Passwords_do_not_match">Mật khẩu không phù hợp</string>
+    <string name="Password_is_too_short">Mật khẩu quá ngắn</string>
+    
+    
+    
+    <string name="Search_interface">Giao diện tìm kiếm</string>
+    <string name="Search_key_starts_filtering">Từ khóa cần tìm sẽ bắt đầu được lọc</string>
+    <string name="Search_key_starts_filtering_summary">Lọc danh sách trước thay vì bắt đầu hoạt động tìm kiếm</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Hòa hợp từ trước trong khi lọc danh sách</string>
+    <string name="Filter_words_from_the_beginning">Lọc ngay từ đầu</string>
+    <string name="Customize_indexing_engine_behaviour">Điều chỉnh xử lý cho công cụ lập chỉ mục</string>
+    <string name="Indexing_engine">Công cụ lập chỉ mục</string>
+    	<string name="Reindex_now">Tái lập chỉ mục ngay</string>
+    	<string name="Refresh_index_database">Cập nhật dữ liệu mục lục. Không có ảnh hưởng khi quá trình đang hoạt động.</string>
+    	<string name="Clear_index_data">Xóa dữ liệu mục lục</string>
+    	<string name="Delete_all_index_data">Xóa tất cả dữ liệu mục lục</string>
+    	<string name="Reindex_on_media_mount">Tái lập chỉ mục khi kết nối với phương tiện</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">Tái lập chỉ mục với bộ lưu trữ của thiết bị khi nó được gắn vào (khuyến cáo).</string>
+    	<string name="Shedule_indexing">Lên lịch lập chỉ mục</string>
+    	<string name="Perform_reindex_every_given_period">Thực hiện tái lập chỉ mục với thời hạn nhất định</string>
+    	<string name="Set_time_and_period">Thiết lập thời điểm và thời hạn</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Thời điểm lập chỉ mục sẽ được kích hoạt</string>
+    	<string name="Maximum_index_age">Thời lượng tối đa của mục lục</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Thời hạn giữ lại mục lục trong cơ sở dữ liệu khi tập tin không còn tồn tại</string>
+    	<string name="one_day">1 ngày</string>
+    	<string name="two_days">2 ngày</string>
+    	<string name="five_days">5 ngày</string>
+    	<string name="One_week">1 tuần</string>
+    	<string name="Choose_interval">Chọn khoảng thời gian</string>
+    	<string name="three_days">3 ngày</string>
+    	<string name="How_often_indexing_will_be_performed">Lập chỉ mục được thực hiện trong bao lâu</string>
+    	<string name="Set_period">Thiết lập thời hạn</string>
+    	<string name="Set_time">Thiết lập thời điểm</string>
+    	<string name="Show_notifications">Hiển thị thông báo</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Hiển thị thông báo khi lập chỉ mục hoàn tất hay bị hủy</string>
+    
+    
+    <string name="Other">Khác</string>
+    	
+    <string name="Clear_persistent_data">Xóa dữ liệu bất biến</string>
+    <string name="Clear_thumbnail_cache">Xóa ảnh thu nhỏ ở bộ nhớ đệm</string>
+    <string name="Clear_temporary_files">Xóa các tập tin tạm</string>
+    <string name="Clear_operation_history">Xóa lịch sử tác vụ</string>
+    <string name="Delete_all_image_previews">Xóa tất cả ảnh xem trước</string>
+    <string name="Delete_all_temporary_files">Xóa tất cả tập tin tạm</string>
+    <string name="Delete_operation_history_entries">Xóa lịch sử tác vụ đang vận hành</string>
+    <string name="Clear_file_type_associations">Xóa các tập tin dạng liên kết</string>
+    <string name="Clear_file_type_associations_summary">Xóa thông tin về ứng dụng được dùng để mở từng loại ứng dụng cụ thể</string>
+    <string name="Clear_temporary_files_on_exit">Xóa tập tin tạm khi thoát</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Các tập tin tạm sẽ bị xóa khi thoát ứng dụng</string>
+    
+    <string name="Quick_start_guide">Hướng dẫn sử dụng nhanh</string>
+    <string name="Learn_about_main_features">Tìm hiểu các tính năng chính của Solid Explorer</string>
+    <string name="Help_make_Solid_Explorer_better">Giúp cải thiện Solid Explorer</string>
+    <string name="Report_a_bug">Báo lỗi</string>
+   
+    <string name="About">Thông tin ứng dụng</string>
+    <string name="Author_version_and_changelog">Tác giả, phiên bản và các thay đổi</string>
+    <string name="Copyright_text">Tác quyền thuộc Krzysztof Głodowski 2011-2013</string>
+    <string name="Version">Phiên bản</string>
+    <string name="Changelog">Thay đổi</string>
+    <string name="Whats_new">Có gì mới</string>
+    <string name="Author">Tác giả</string>
+    <string name="Functionality_for_future_releases">Các chức năng trong bản sắp tới</string>
+    <string name="Planned_features">Các tính năng dự kiến</string>
+    
+    
+    
+    <!-- Other -->
+    <string name="Prefix">Tiền tố</string>
+    <string name="Empty">Trống</string>
+	<string name="search_description">Tìm trên thiết bị với Solid Explorer</string>
+    <string name="search_hint">Nhập tên tập tin</string>
+    <string name="Save_file">Lưu tập tin</string>
+    <string name="Solid_explorer_indexing_service">Dịch vụ lập chỉ mục của Solid Explorer</string>
+    
+    
+    
+    <!-- acra -->
+    <string name="crash_toast_text">Ôi! Solid Explorer đã bị lỗi. Vui lòng báo cáo với nhà phát triển để giúp anh khắc phục vấn đề !</string>
+    <string name="crash_notif_ticker_text">Lỗi ngoài dự kiến, vui lòng gửi một báo cáo...</string>
+    <string name="crash_notif_title">Solid Explorer đã bị lỗi...</string>
+    <string name="crash_notif_text">Vui lòng bấm vào đây để giúp khắc phục vấn đề.</string>
+    <string name="crash_dialog_title">Solid Explorer đã bị lỗi</string>
+    <string name="crash_dialog_text">Một lỗi ngoài dự kiến khiến ứng dụng phải ngừng. Vui lòng giúp tôi khắc phục bằng cách gửi dữ liệu về lỗi.</string>
+    <string name="crash_dialog_comment_prompt">Vui lòng cung cấp thông tin chi tiết về vấn đề bên dưới. Trong nhiều trường hợp không thể tái lập vấn đề mà không có phản hồi của bạn.</string>
+    <string name="crash_dialog_ok_toast">Cảm ơn!</string>
+    
+    <string name="Icon_designer">Thiết kế biểu tượng</string>
+    <string name="Translations">Bản dịch</string>
+    <string name="Translations_summary">Điều chỉnh ngôn ngữ với sự giúp đỡ của Hoàng Hải Long</string>
+    <string name="Press_once_again_to_exit">Bấm lần nữa để thoát</string>
+    
+    
+    <string name="View_in_DiskUsage">Xem trong dung lượng sử dụng</string>
+    <string name="Retry">Thử lại</string>
+    <string name="Portrait">Màn hình dọc</string>
+    <string name="Landscape">Màn hình ngang</string>
+    <string name="Customize_list">Tùy chỉnh danh sách</string>
+    <string name="Customize_list_summary">Chỉnh kích cỡ biểu tượng và chữ trong danh sách tập tin</string>
+    <string name="Preview">Xem trước</string>
+    <string name="Icon_size_pixels" formatted="false">Cỡ biểu tượng (tối đa: % x %)</string>
+    <string name="Label_size">Cỡ nhãn</string>
+    <string name="Subtext_size">Cỡ chữ bổ nghĩa</string>
+    <string name="Label_size_points">Cỡ chữ (tối đa 35pt)</string>
+    <string name="Columns">Cột</string>
+    <string name="No_computers_found">Không thấy máy tính</string>
+    <string name="Local_directory">Thư mục nội bộ</string>
+    <string name="Default_panel">Cửa sổ mặc định</string>
+    <string name="Destination_type">Đích đến</string>
+    <string name="DiskUsage_not_installed">Có vẻ chưa cài đặt dung lượng sử dụng. Ứng dụng này hiển thị việc dùng bộ nhớ một cách chi tiết và thân thiện với người dùng. Bạn có muốn cài đặt nó ngay?</string>
+    <string name="Text_copied_to_clipboard">Đã sao văn bản vào bảng ghi tạm</string>
+    <string name="Force_english">Chỉ dùng tiếng Anh</string>
+    <string name="Force_english_summary">Chọn nếu bạn muốn tiếng Anh là ngôn ngữ chính. Có hiệu lực sau khi khởi động lại.</string>
+    <string name="Encoding">Mã hóa</string>
+    <string name="Network_thumbnails">Ảnh khi dùng mạng</string>
+    <string name="Network_thumbnails_summary">Nếu chọn, ảnh thu nhỏ sẽ được tải khi kết nối bằng dữ liệu di động.</string>
+    <string name="Copy_to">Chép tới</string>
+    <string name="Move_to">Chuyển tới</string>
+    <string name="Shortcut">Phím tắt</string>
+    <string name="Two_panels_in_landscape_summary">Hiển thị hai cửa sổ cùng lúc khi xoay ngang</string>
+    <string name="Two_panels_in_landscape">Hai cửa sổ khi xoay ngang</string>
+    <string name="Restart_prompt">Ứng dụng phải được khởi chạy lại để áp dụng các thay đổi. Tiếp tục?</string>
+    <string name="Custom_color_scheme">Tùy chỉnh màu sắc</string>
+    <string name="Custom_color_scheme_summary">Tùy chỉnh màu sắc tổng thể. Sẽ làm ứng dụng khởi chạy chậm đáng kể.</string>
+    <string name="Color_scheme">Bảng màu</string>
+    <string name="Color_scheme_summary">Đổi màu sắc và độ bão hòa màu hiện tại</string>
+    <string name="Change_color_scheme">Đổi màu</string>
+    <string name="Hue">Màu sắc</string>
+    <string name="Saturation">Độ bão hòa</string>
+    <string name="SolidExplorer_is_running">Solid Explorer đang chạy</string>
+    <string name="Notification_shortcut">Phím tắt thông báo</string>
+    <string name="Notification_shortcut_summary">Đưa phím tắt lên thanh trạng thái khi ứng dụng chạy nền</string>
+    <string name="Please_wait">Vui lòng chờ</string>
+    
+    
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Bạn có chắc muốn chép nó vào cửa sổ bên kia?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Bạn có chắc muốn chuyển nó vào cửa sổ bên kia?</string>
+	<string name="Image_not_loaded">Không tải được ảnh</string>
+	<string name="Target_SDK">Target SDK</string>
+	<string name="Description">Mô tả</string>
+	<string name="Data_dir">Data dir</string> <!-- short word please -->
+	<string name="Installed">Đã cài đặt</string>
+	<string name="Updated">Đã cập nhật</string>
+	<string name="Install">Cài đặt</string>
+	<string name="More">Thêm</string>
+	<string name="Package_name">Tên gói</string>
+	<string name="Map_view">Map view</string>
+	<string name="Street_view">Street view</string>
+	<string name="Ask">Ask</string>
+	<string name="Choose_an_action">Chọn một hành động</string>
+	<string name="Folders_first">Folders first</string>
+	<string name="Folders_first_summary">Hiển thị ứng dụng trước rồi tới tập tin.</string>
+	<string name="FAQ">Hỏi/Đáp</string>
+	<string name="FAQ_summary">Vui lòng đọc Hỏi/Đáp trước khi đặt câu hỏi</string>
+	
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">Chọn nhanh</string> <!-- short word please -->
+	
+	<!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
+    	<string name="X_folders_and_Y_files_deleted">Đã xóa %x thư mục{1:|__:s} và %y tập tin{1:|__:s}.</string>
+    	<string name="X_folders_and_Y_files_copied">Đã chép %x thư mục{1:|__:s} và %y tập tin{1:|__:s}.</string>
+    	<string name="X_folders_and_Y_files_moved">Đã chuyển %x thư mục{1:|__:s} và %y tập tin{1:|__:s}.</string>
+    	<string name="Deleting_X_folders_and_Y_files">Đang xóa %x thư mục{1:|__:s} và %y tập tin{1:|__:s}</string>
+    	<string name="Copying_X_folders_and_Y_files">Đang chép %x thư mục{1:|__:s} và %y tập tin{1:|__:s}</string>
+    	<string name="Moving_X_folders_and_Y_files">Đang chuyển %x thư mục{1:|__:s} và %y tập tin{1:|__:s}</string>
+    	
+    	<string name="X_folders_moved">Đã chuyển % thư mục{1:|__:s}.</string>
+    	<string name="Moving_X_folders">Đang chuyển % thư mục{1:|__:s}</string>
+    	
+    	<string name="X_folders">% thư mục{1:|__:s}</string>
+    	<string name="X_files">% tập tin{1:|__:s}</string>
+    	
+    	<string name="Show_status_summary">Hiển thị thông tin nội dung và dung lượng sử dụng của thư mục trong cửa sổ kiểm tra</string>
+    	<string name="Show_status">Hiển thị trạng thái</string>
+    	<string name="Mount_rw">Mount r/w</string>
+    	<string name="System_mounted_as_read_write">Hệ thống được thiết lập đọc/ghi</string>
+    	<string name="System_mounted_as_read_only">Hệ thống được thiết lập chỉ đọc</string>
+    	
+    <!--  v 1.3.9 -->
+    	<string name="Device_labels">Tên thiết bị</string>
+    	<string name="Device_labels_summary">Hiển thị người xem tên thiết bị thay vì tên thực thư mục, ví dụ: \&quot;Thẻ SD\&quot; thay cho \&quot;sdcard0\&quot;</string>
+    	<string name="Swap_device_labels">Đổi tiên thiết bị</string>
+    	<string name="Swap_device_labels_summary">Đổi tên Bộ nhớ trong với Thẻ SD trong trường hợp phát hiện sai.</string>
+    	<string name="Panels">Cửa sổ</string>
+    	<string name="Devices">Thiết bị</string>
+    	<string name="Bug_report_notice">Trước khi báo lỗi vui lòng làm như sau:\n\n<b>1. Kiểm tra xem liệu vấn đề có tồn tại trong các ứng dụng quản lý tập tin khác.\n2. Đọc Hỏi/Đáp.</b>\n\nBạn đã hoàn tất các bước trên?</string>
+    	<string name="Unable_to_move_the_file">Không thể chuyển tập tin %</string>
+    
+    <!-- v 1.4.0 -->
+    	<string name="Compression_ratio">Tỷ lệ nén</string>
+    	<string name="Compression_method">Phương pháp nén</string>
+    	<string name="Comment">Nhận xét</string>
+    	<string name="Standard">Tiêu chuẩn</string>
+    	<string name="No_compression">Không nén</string>
+    	<string name="A_while_ago">Trước đó</string>
+    	<string name="X_hours_Y_minutes_ago">%x giờ{1:|__:s} %y phút{1:|__:s} trước đó</string>
+    	<!-- Already exists, just changed the content -->
+    	<string name="Expiration_message">Cảm ơn bạn đã dùng Solid Explorer, bản dùng thử đã hết hạn. Để tiếp tục dùng ứng dụng, hãy ủng hộ tôi bằng cách mua unlocker <!-- Ứng dụng mở khóa ( In Vietnamese, if you had plan to trans it too ^_^!) --> từ Google Play. Chỉ mua khi bạn hoàn toàn hài lòng về ứng dụng.</string>
+    	<string name="Purchased_message">Cảm ơn bạn đã mua Solid Explorer bản đầy đủ tính năng. Tôi hy vọng bạn sẽ thích nó.</string>
+    	<string name="Trial_expired">Hết hạn dùng thử</string>
+    	<string name="Purchase">Mua</string>
+    	<string name="No_thanks">Không, cảm ơn</string>
+    	<string name="Function_not_available">Chức năng này không có sẵn trong hệ thống bản hiện tại</string>
+    	
+    <!-- v 1.4.3 -->
+    	<string name="Wallpaper_has_been_set_successfully">Đã thiết lập thành công hình nền</string>
+    	<string name="X_has_been_set_as_default_ringtone">Đã thiết lập % là nhạc chuông mặc định</string>
+    	<string name="X_has_been_set_as_default_notification">Đã thiết lập % là âm báo mặc định</string>
+    	<string name="X_has_been_set_as_default_alarm">Đã thiết lập % là âm báo thức mặc định</string>
+    	<string name="Copy_path">Chép đường dẫn</string>
+    	<string name="Copy_name">Chép tên</string>
+    	<string name="Create_symlink">Tạo liên kết biểu tượng</string>
+    	<string name="Set_as_wallpaper">Thiết lập hình nền</string>
+    	<string name="Set_as_ringtone">Thiết lập nhạc chuông</string>
+    	<string name="Set_as_notification">Thiết lập âm báo</string>
+    	<string name="Set_as_alarm">Thiết lập âm báo thức</string>
+    	<string name="Enter_the_symlink_location">Nhập địa chỉ liên kết biểu tượng</string>
+    	<string name="Symbolic_link_created_successfully">Đã tạo thành công liên kết biểu tượng</string>
+    	<string name="Sugarsync_login">Đăng nhập SugarSync</string>
+    	<string name="Copy_link">Chép liên kết</string>
+    	<string name="Data_backup">Sao lưu dữ liệu</string>
+    	<string name="Application_data">Dữ liệu ứng dụng</string>
+    	<string name="Create_backup">Tạo sao lưu</string>
+    	<string name="Backup_application_data_to_a_desired_file">Sao lưu dữ liệu ứng dụng vào tập tin mong muốn</string>
+    	<string name="Restore_backup">Khôi phục sao lưu</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Chọn một tập tin sao lưu để phục hồi dữ liệu</string>
+    	<string name="Data_backup_created">Đã tạo bản sao dữ liệu</string>
+    	<string name="Data_backup_restored">Đã phục hồi bản sao dữ liệu</string>
+    	<string name="Support">Hỗ trợ</string>
+    	<string name="Support_summary">Ghé thăm trang hỗ trợ cho Solid Explorer</string>
+    	<string name="Experimental_feature_notifier">Xin lưu ý, tính năng này đang thử nghiệm và rất có thể không hoạt động tốt trên phiên bản Android hiện tại của bạn.</string>
+    	<string name="Trial_check_notice">Solid Explorer không thể xác minh thời hạn dùng thử. Vui lòng kích hoạt kết nối internet ngay hoặc trong vòng 2 ngày. Nếu không bạn sẽ hết hạn dùng thử.</string>
+    	<string name="Back_goes_to_root">Về root</string>
+    	<string name="Back_goes_to_root_summary">Cho phép về thư mục root khi bấm nút Back</string>
+    	<string name="Keep_the_screen_on">Giữ màn hình luôn sáng</string>
+    	<string name="Keep_the_screen_on_summary">Giữ màn hình sáng trong quá trình truyền tải tập tin. Chọn nó nếu bạn thấy việc truyền tải chậm đi khi màn hình bị tắt.</string>
+    	
+    <!-- v 1.4.4 -->
+    	<string name="Clear_thumbnails_on_exit">Xóa ảnh thu nhỏ khi thoát</string>
+    	<string name="Image_thumbnails_will_be_removed_on_app_exit">Ảnh thu nhỏ sẽ bị xóa khi thoát ứng dụng</string>
+		<string name="Toggle_nomedia">Thêm/xóa tập tin .nomedia</string>
+		<string name="Total_time">Tổng thời gian</string>
+		<string name="Average_speed">Tốc độ trung bình</string>
+		<string name="Add_new_item">Thêm mục mới</string>
+		<string name="Application_chooser">Chọn ứng dụng</string>
+		<string name="Manage_associations">Quản lý liên kết</string>
+		<string name="Manage_associations_summary">Chỉnh định ứng dụng dùng để mở tập tin bạn muốn</string>
+		<string name="Choose_an_application">Chọn một ứng dụng</string>
+		<string name="Application">Ứng dụng</string>
+		<string name="Extension">Mở rộng</string>
+		<string name="No_extension_specified">Không có phần mở rộng</string>
+		<string name="You_didn_t_choose_the_application">Bạn đã không chọn ứng dụng nào</string>
+		<string name="Added_to_queue">Đã thêm vào mục đợi</string>
+		<string name="Streaming">Truyền tải</string>
+		<string name="There_is_already_the_same_file_in_temporary_directory">Đã có tập tin tương tự trong thư mục tạm. Bạn có muốn mở tập tin đã lưu hoặc tải một tập tin mới hoàn toàn?</string>
+		<string name="Download">Tải về</string>
+		<string name="X_files_updated">Đã cập nhật % tập tin{1:|__:s}</string>
+		<string name="Temporary_file_has_been_modified">Tập tin tạm % đã được tùy chỉnh. Bạn có muốn tải lên lại?</string>
+		<string name="Temporary_files_have_been_modified">Đã tùy chỉnh % tập tin tạm{1:|__:s}. Bạn có muốn tải lên lại?</string>
+		<string name="Slide_from_bottom">Trượt từ dưới lên</string>
+		<string name="Fall_down">Chuyển xuống</string>
+		<string name="Come_in">Trở vào</string>
+		<string name="Slide_from_right">Trượt từ phải sang</string>
+		<string name="Slide_from_left">Trượt từ trái sang</string>
+		<string name="Default">Mặc định</string>
+		<string name="List_animations">Danh sách hình động</string>
+		<string name="List_animations_summary">Tùy chỉnh danh sách hình động</string>
+		<string name="Clear_filter_history">Xóa lịch sử lọc</string>
+		<string name="Clear_filter_history_summary">Xóa lịch sử truy vấn của bộ lọc</string>
+		<string name="New_webdav_connection">Kết nối WebDav</string>
+		<string name="WebDav_bookmarks">Bookmark của WebDav</string>
+		
+		
+</resources>
