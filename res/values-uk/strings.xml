@@ -703,4 +703,52 @@
   <string name="Back_goes_to_root_summary">Переходити до кореневої папки за допомогою клавіші \"Назад\"</string>
   <string name="Keep_the_screen_on">Утримувати увімкнутим дисплей</string>
   <string name="Keep_the_screen_on_summary">Не вимикати дисплей під час передачі файлів. Позначте, якще передача сповільнюється з вимкненим дисплеєм.</string>
+
+	  <!-- v 1.4.4 -->
+  <string name="Clear_thumbnails_on_exit">Видаляти мініатюри при закритті</string>
+  <string name="Image_thumbnails_will_be_removed_on_app_exit">Мініатюри зображень будуть видалятись при закритті програми</string>
+  <string name="Toggle_nomedia">Додати файл .nomedia</string>
+  <string name="Total_time">Загальний час</string>
+<string name="Average_speed">Середня швидкість</string>
+<string name="Add_new_item">Додати новий елемент</string>
+<string name="Application_chooser">Вибір додатку</string>
+<string name="Manage_associations">Керувати асоціаціями</string>
+<string name="Manage_associations_summary">Вкажіть яким додатком відкривати обраний тип файлів</string>
+<string name="Choose_an_application">Оберіть додаток</string>
+<string name="Application">Додаток</string>
+<string name="Extension">Розширення</string>
+<string name="No_extension_specified">Розширення не вказано</string>
+<string name="You_didn_t_choose_the_application">Ви не вказали розширення файлів</string>
+<string name="Added_to_queue">Додано до черги</string>
+<string name="Streaming">Потокове відтворення</string>
+<string name="There_is_already_the_same_file_in_temporary_directory">У тимчасовій папці уже присутній такий файл. Відкрити вже існуючий, чи завантажити новий?</string>
+<string name="Download">Завантаження</string>
+<string name="X_files_updated">% файл{1:|_1:|2-4:а|_2-4:а|__:ів} оновлено</string>
+<string name="Temporary_file_has_been_modified">Тимчасовий файл % змінено. Чи бажаєте ви, завантажити його?</string>
+<string name="Temporary_files_have_been_modified">% файл{1:|_1:|2-4:а|_2-4:а|__:ів} було змінено. Бажаєте їх завантажити?</string>
+<string name="Slide_from_bottom">Знизу догори</string>
+<string name="Fall_down">Донизу</string>
+<string name="Come_in">Вхід</string>
+<string name="Slide_from_right">Зправа</string>
+<string name="Slide_from_left">Зліва</string>
+<string name="Default">Звичайна</string>
+<string name="List_animations">Анімації списків</string>
+<string name="List_animations_summary">Налаштувати анімації списку файлів</string>
+<string name="Clear_filter_history">Очистити історію фільтрів</string>
+<string name="Clear_filter_history_summary">Видалити історію фільтрів</string>
+<string name="New_webdav_connection">WebDav з\'єднання</string>
+<string name="WebDav_bookmarks">WebDav закладки</string>
+
+
+		<!--  v 1.4.5 -->
+		<string name="Domain">Домен</string>
+		<string name="Mode">Режим</string>
+		<string name="Passive">Пасивний</string>
+		<string name="Nomedia_on">.nomedia файл створено</string>
+		<string name="Nomedia_off">.nomedia файл видалено</string>
+		<string name="Wifi_disabled">WiFi вимкнено</string>
+		<string name="Wifi_enabled">WiFi увімкнено</string>
+		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Ви впевнені, що хочете відновити налаштування за замовчуванням для цього елемента?</string>
+
+
 </resources>
