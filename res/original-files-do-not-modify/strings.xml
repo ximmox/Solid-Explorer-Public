@@ -846,7 +846,7 @@
 		<string name="Domain">Domain</string>
 		<string name="Mode">Mode</string>
 		<string name="Passive">Passive</string>
-		<string name="Nomedia_on">.nomedia file crated</string>
+		<string name="Nomedia_on">.nomedia file created</string>
 		<string name="Nomedia_off">.nomedia file deleted</string>
 		<string name="Wifi_disabled">WiFi disabled</string>
 		<string name="Wifi_enabled">WiFi enabled</string>
