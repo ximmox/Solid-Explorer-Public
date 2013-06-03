@@ -770,4 +770,15 @@ Krzysztof Głodowski"</string>
     	<string name="Keep_the_screen_on">Ponechať obrazovku zapnutú</string>
     	<string name="Keep_the_screen_on_summary">Ponechá obrazovku zapnutú počas prenosu súborov. Označte, ak dochádza k spomaleniu prenosu pri vypnutí obrazovky.</string>
 
+       
+    <!-- v 1.4.5 -->
+        <string name="Domain">Doména</string>
+        <string name="Mode">Režim</string>
+        <string name="Passive">Pasívny</string>
+        <string name="Nomedia_on">súbor .nomedia vytvorený</string>
+        <string name="Nomedia_off">súbor .nomedia odstránený</string>
+        <string name="Wifi_disabled">WiFi vypnuté</string>
+        <string name="Wifi_enabled">WiFi zapnté</string>
+        <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Určite chcete obnoviť predvolené nastavenia pre túto položku?</string>
+
 </resources>
