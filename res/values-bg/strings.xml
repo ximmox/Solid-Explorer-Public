@@ -412,7 +412,7 @@
     	<string name="Deleting_X_files">Изтриване на % файл{1:|__:а}</string>
     	<string name="Copying_X_files">Копиране на % файл{1:|__:а}</string>
     	<string name="Moving_X_files">Преместване на % файл{1:|__:а}</string>
-    	<string name="Indexing_scheduled_at_X_every_Y">Планирано индексиране на %x всеки %y ден{1:|__:дни}</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">Планирано индексиране в %x всеки %y д{1:ен|__:ни}</string>
     	<!-- Explanation of above
     	
     		 	In english things are simple because we have 1 file and multiple files.
@@ -524,7 +524,6 @@
     <string name="Adjust_size_of_the_file_list_in_landscape">Нагласява размера на списъка с файлове в пейзажен режим</string>
     
     <string name="Small">Малък</string>
-    <string name="Normal">Нормален</string>
     <string name="Big">Голям</string>
     <string name="Large">Много голям</string>
     <string name="Extra_small">Много малък</string>
@@ -608,7 +607,6 @@
     <string name="Other">Други</string>
     	
     <string name="Clear_persistent_data">Изчисти постоянни данни</string>
-    <string name="Clear_persistent_data_summary">Изтрива данни като кеш на миниатюри, временни файлове, история на операции и др.</string>
     <string name="Clear_thumbnail_cache">Изчисти кеш на миниатюри</string>
     <string name="Clear_temporary_files">Изчисти временни файлове</string>
     <string name="Clear_operation_history">Изчисти история на операции</string>
@@ -658,10 +656,8 @@
     <string name="crash_dialog_ok_toast">Благодаря ви!</string>
     
     <string name="Icon_designer">Дизайнер на икона</string>
-    <string name="Prefix">Префикс</string>
     <string name="Translations">Превод</string>
     <string name="Translations_summary">Корекция на езика с любезното съдействие на Steven Schoen</string>
-    <string name="Empty">Празно</string>
     <string name="Press_once_again_to_exit">Натиснете още веднъж за изход</string>
     
 	
@@ -751,63 +747,110 @@
     	<string name="System_mounted_as_read_write">Системата е монтирана за четене/запис</string>
      	<string name="System_mounted_as_read_only">Системата е монтирана само за четене</string>
 
-    <!-- v 1.3.9 -->
-     <string name="Device_labels">Етикети за устройства</string>
-     <string name="Device_labels_summary">Показва етикетите за устройствата в разбираем вид вместо реалните имена на директориите, т.е. \&quot;SD Card\&quot; вместо \&quot;sdcard0\&quot;</string>
-     <string name="Swap_device_labels">Размени етикети за устройства</string>
-     <string name="Swap_device_labels_summary">Разменя етикетите Вътрешна памет с SD карта в случай на неправилно разпознаване.</string>
-     <string name="Panels">Панели</string>
-     <string name="Devices">Устройства</string>
-     <string name="Bug_report_notice">Преди да докладвате грешка, моля направете следното:\n\n<b>1. Проверете дали проблема съществува в други файлови мениджъри.\n2. Прочетете ЧЗВ.</b>\n\Изпълнихте ли стъпките по-горе?</string>
-     <string name="Unable_to_move_the_file">Файла % не може да се премести</string>
+    	<!-- v 1.3.9 -->
+     	<string name="Device_labels">Етикети за устройства</string>
+    	<string name="Device_labels_summary">Показва етикетите за устройствата в разбираем вид вместо реалните имена на директориите, т.е. \&quot;SD Card\&quot; вместо \&quot;sdcard0\&quot;</string>
+    	<string name="Swap_device_labels">Размени етикети за устройства</string>
+     	<string name="Swap_device_labels_summary">Разменя етикетите Вътрешна памет с SD карта в случай на неправилно разпознаване.</string>
+     	<string name="Panels">Панели</string>
+     	<string name="Devices">Устройства</string>
+     	<string name="Bug_report_notice">Преди да докладвате грешка, моля направете следното:\n\n<b>1. Проверете дали проблема съществува в други файлови мениджъри.\n2. Прочетете ЧЗВ.</b>\n\Изпълнихте ли стъпките по-горе?</string>
+     	<string name="Unable_to_move_the_file">Файла % не може да се премести</string>
     
-    <!-- v 1.4.0 -->
-     <string name="Compression_ratio">Степен на компресия</string>
-     <string name="Compression_method">Метод на компресия</string>
-     <string name="Comment">Коментар</string>
-     <string name="Standard">Стандартен</string>
-     <string name="No_compression">Без компресия</string>
-     <string name="A_while_ago">Преди известно време</string>
-     <string name="X_hours_Y_minutes_ago">Преди %x час{1:|__:а} и %y минут{1:а|__:и}</string>
-     <!-- Already exists, just changed the content -->
-     <string name="Expiration_message">Благодаря Ви, че използвахте Solid Explorer. Пробната версия свърши. За да продължите да използвате това приложение, купете ми виртуална бира чрез закупуване на unlocker от Google Play. Направете го само, ако сте напълно задоволен от приложението.</string>
-     <string name="Purchased_message">Благодаря Ви, че закупихте пълната версия на Solid Explorer. Надявам се, че ще Ви хареса.</string>
-     <string name="Trial_expired">Пробната версия изтече</string>
-     <string name="Purchase">Закупи</string>
-     <string name="No_thanks">Не, благодаря</string>
-     <string name="Function_not_available">Тази функция не е налична в текущата версия на системата</string>
+    	<!-- v 1.4.0 -->
+     	<string name="Compression_ratio">Степен на компресия</string>
+     	<string name="Compression_method">Метод на компресия</string>
+     	<string name="Comment">Коментар</string>
+     	<string name="Standard">Стандартен</string>
+     	<string name="No_compression">Без компресия</string>
+     	<string name="A_while_ago">Преди известно време</string>
+     	<string name="X_hours_Y_minutes_ago">Преди %x час{1:|__:а} и %y минут{1:а|__:и}</string>
+     	<!-- Already exists, just changed the content -->
+     	<string name="Expiration_message">Благодаря Ви, че използвахте Solid Explorer. Пробната версия свърши. За да продължите да използвате това приложение, купете ми виртуална бира чрез закупуване на unlocker от Google Play. Направете го само, ако сте напълно задоволен от приложението.</string>
+     	<string name="Purchased_message">Благодаря Ви, че закупихте пълната версия на Solid Explorer. Надявам се, че ще Ви хареса.</string>
+     	<string name="Trial_expired">Пробната версия изтече</string>
+     	<string name="Purchase">Закупи</string>
+     	<string name="No_thanks">Не, благодаря</string>
+     	<string name="Function_not_available">Тази функция не е налична в текущата версия на системата</string>
      
-     <!-- v 1.4.3 -->
-     <string name="Wallpaper_has_been_set_successfully">Тапетът е зададен успешно</string>
-     <string name="X_has_been_set_as_default_ringtone">% е зададен като тон на звънене</string>
-     <string name="X_has_been_set_as_default_notification">% е зададен като тон за известия</string>
-     <string name="X_has_been_set_as_default_alarm">% е зададен като звук за аларма</string>
-     <string name="Copy_path">Копирай пътя</string>
-     <string name="Copy_name">Копирай името</string>
-     <string name="Create_symlink">Създай символна връзка</string>
-     <string name="Set_as_wallpaper">Задай като тапет</string>
-     <string name="Set_as_ringtone">Задай като тон на звънене</string>
-     <string name="Set_as_notification">Задай като тон за известие</string>
-     <string name="Set_as_alarm">Задай като аларма</string>
-     <string name="Enter_the_symlink_location">Вход в символно местоположение</string>
-     <string name="Symbolic_link_created_successfully">Символната връзка е създадена успешно</string>
-     <string name="Sugarsync_login">Вход в SugarSync</string>
-     <string name="Copy_link">Копирай връзка</string>
-     <string name="Data_backup">Архивиране на данни</string>
-     <string name="Application_data">Данни на приложението</string>
-     <string name="Create_backup">Създай архив</string>
-     <string name="Backup_application_data_to_a_desired_file">Архивиране на данните на прилеожението във файл</string>
-     <string name="Restore_backup">Възстанови архив</string>
-     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Избор на архивен файл, от който данните ще бъдат възстановени</string>
-     <string name="Data_backup_created">Създаден е архив на данните</string>
-     <string name="Data_backup_restored">Архивът на данните е възстановен</string>
-     <string name="Support">Поддръжка</string>
-     <string name="Support_summary">Посетете страницата за поддръжка на Solid Explorer</string>
-     <string name="Experimental_feature_notifier">Моля, имайте предвид, че тази функция е експериментална и вероятно няма да работи правилно на текущата ви версия на Android.</string>
-     <string name="Trial_check_notice">Solid Explorer не може да потвърди пробният период. Моля, включете интернет връзка сега или до 2 дни. В противен случай вашият тестов период ще приключи.</string>
-     <string name="Back_goes_to_root">Назад отива към root</string>
-     <string name="Back_goes_to_root_summary">Позволява връщането към системната директория при натискане на бутан Назад</string>
-     <string name="Keep_the_screen_on">Държи екрана включен</string>
-     <string name="Keep_the_screen_on_summary">Екрана стои включен по време на файлови прехвърляния. Отметнете, ако имате забавяния при прехвърлянията, когато екрана е изключен.</string>
+     	<!-- v 1.4.3 -->
+     	<string name="Wallpaper_has_been_set_successfully">Тапетът е зададен успешно</string>
+     	<string name="X_has_been_set_as_default_ringtone">% е зададен като тон на звънене</string>
+     	<string name="X_has_been_set_as_default_notification">% е зададен като тон за известия</string>
+     	<string name="X_has_been_set_as_default_alarm">% е зададен като звук за аларма</string>
+     	<string name="Copy_path">Копирай пътя</string>
+     	<string name="Copy_name">Копирай името</string>
+     	<string name="Create_symlink">Създай символна връзка</string>
+     	<string name="Set_as_wallpaper">Задай като тапет</string>
+     	<string name="Set_as_ringtone">Задай като тон на звънене</string>
+     	<string name="Set_as_notification">Задай като тон за известие</string>
+     	<string name="Set_as_alarm">Задай като аларма</string>
+     	<string name="Enter_the_symlink_location">Вход в символно местоположение</string>
+     	<string name="Symbolic_link_created_successfully">Символната връзка е създадена успешно</string>
+     	<string name="Sugarsync_login">Вход в SugarSync</string>
+     	<string name="Copy_link">Копирай връзка</string>
+     	<string name="Data_backup">Архивиране на данни</string>
+     	<string name="Application_data">Данни на приложението</string>
+     	<string name="Create_backup">Създай архив</string>
+     	<string name="Backup_application_data_to_a_desired_file">Архивиране на данните на прилеожението във файл</string>
+     	<string name="Restore_backup">Възстанови архив</string>
+     	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Избор на архивен файл, от който данните ще бъдат възстановени</string>
+     	<string name="Data_backup_created">Създаден е архив на данните</string>
+     	<string name="Data_backup_restored">Архивът на данните е възстановен</string>
+     	<string name="Support">Поддръжка</string>
+     	<string name="Support_summary">Посетете страницата за поддръжка на Solid Explorer</string>
+     	<string name="Experimental_feature_notifier">Моля, имайте предвид, че тази функция е експериментална и вероятно няма да работи правилно на текущата ви версия на Android.</string>
+     	<string name="Trial_check_notice">Solid Explorer не може да потвърди пробният период. Моля, включете интернет връзка сега или до 2 дни. В противен случай вашият тестов период ще приключи.</string>
+     	<string name="Back_goes_to_root">Назад отива към root</string>
+     	<string name="Back_goes_to_root_summary">Позволява връщането към системната директория при натискане на бутан Назад</string>
+     	<string name="Keep_the_screen_on">Държи екрана включен</string>
+     	<string name="Keep_the_screen_on_summary">Екрана стои включен по време на файлови прехвърляния. Отметнете, ако имате забавяния при прехвърлянията, когато екрана е изключен.</string>
+
+ 	<!-- v 1.4.4 -->
+     	<string name="Clear_thumbnails_on_exit">Изчисти миниатюри при изход</string>
+     	<string name="Image_thumbnails_will_be_removed_on_app_exit">Миниатюрите на изображенията ще бъдат премахнати при изход от приложението</string>
+     	<string name="Toggle_nomedia">Включи файл .nomedia</string>
+     	<string name="Total_time">Общо време</string>
+     	<string name="Average_speed">Средна скорост</string>
+     	<string name="Add_new_item">Добави нов елемент</string>
+     	<string name="Application_chooser">Избор на приложение</string>
+     	<string name="Manage_associations">Управление на асоциации</string>
+     	<string name="Manage_associations_summary">Указване кои приложения трябва да отварят определени типове файлове</string>
+     	<string name="Choose_an_application">Избор на приложение</string>
+	<string name="Application">Приложение</string>
+	<string name="Extension">Разширение</string>
+	<string name="No_extension_specified">Няма указано разширение</string>
+	<string name="You_didn_t_choose_the_application">Не сте избрали приложение</string>
+	<string name="Added_to_queue">Добавено към опашка</string>
+	<string name="Streaming">Поточно</string>
+	<string name="There_is_already_the_same_file_in_temporary_directory">Вече има същия файл във временна директория. Искате ли да отворите кеширания файл или да изтеглите нов?</string>
+	<string name="Download">Изтегляне</string>
+	<string name="X_files_updated">% файл{1:|__:а} обновен{1:|__:и}</string>
+	<string name="Temporary_file_has_been_modified">Временният файл % е променен. Искате ли да го качите обратно?</string>
+	<string name="Temporary_files_have_been_modified">% времен{1:ен|__:ни} файл{1:|__:а} променен{1:|__:и}. Искате ли да г{1:о|__:и} качите?</string>
+	<string name="Slide_from_bottom">Плъзгане от долу</string>
+	<string name="Fall_down">Падане</string>
+	<string name="Come_in">Влизане</string>
+	<string name="Slide_from_right">Плъзгане отдясно</string>
+	<string name="Slide_from_left">Плъзгане отляво</string>
+	<string name="Default">По подразбиране</string>
+	<string name="List_animations">Анимации</string>
+	<string name="List_animations_summary">Настройка на анимациите за списъка с файлове</string>
+	<string name="Clear_filter_history">Изчисти история на филтри</string>
+	<string name="Clear_filter_history_summary">Изтрива списъка с историята на заявките на филтриране</string>
+	<string name="New_webdav_connection">WebDav връзка</string>
+	<string name="WebDav_bookmarks">WebDav отметки</string>
+
+
+	<!-- v 1.4.5 -->
+	<string name="Domain">Домейн</string>
+	<string name="Mode">Режим</string>
+	<string name="Passive">Пасивен</string>
+	<string name="Nomedia_on">Създаден е файл .nomedia</string>
+	<string name="Nomedia_off">Файл .nomedia е изтрит</string>
+	<string name="Wifi_disabled">WiFi е изключен</string>
+	<string name="Wifi_enabled">WiFi е включен</string>
+	<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Сигурни ли сте, че искате да възстановите настройките по подразбиране за този елемент?</string>
+
 
 </resources>
