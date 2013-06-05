@@ -87,7 +87,7 @@
     <string name="Send">보내기</string>
     <string name="Bookmark">북마크</string>
     <string name="Rename">이름 바꾸기</string>
-    <string name="Extract">압축 해제</string>
+    <string name="Extract">압축 풀기</string>
     <string name="Extract_to">폴더 선택 후 압축 풀기</string>
     <string name="Archive">압축하기</string>
     <string name="Paste_to_x">\&quot;%\&quot;로 붙여넣기</string>
@@ -167,7 +167,7 @@
     	<string name="File_delete">파일 삭제</string>
     	<string name="Temporary_download">임시 다운로드</string>
    	 	<string name="Creating_archive">% 기록 생성중</string>
-    	<string name="Extracting_archive">% 기록 추출중</string>
+    	<string name="Extracting_archive">% 압축 푸는 중</string>
     	<string name="X_has_been_completed">% 완료되었습니다.</string>
     	<string name="X_has_failed">% 실패했습니다.</string>
     	<string name="Tap_to_show_details">자세히 보려면 클릭하세요</string>
@@ -181,7 +181,7 @@
     <string name="Delete_all">모두 삭제</string>
     <string name="Wifi_toggle">Wi-Fi 토글</string>
     <string name="Wifi_settings">Wi-Fi 설정</string>
-    <string name="Disconnect_all">모드 연결해제</string>
+    <string name="Disconnect_all">모두 연결해제</string>
     <string name="Connected">연결됨</string> 
     <string name="Not_connected">연결되지 않음</string>
     <string name="on">on</string>
@@ -208,7 +208,7 @@
     <string name="File_sharing_stopped">파일 공유 중단됨</string>
     <string name="None">없음</string>
     <string name="You_have_to_be_connected_to_the_LAN_network">사용자가 지역 네트워크에 연결되어있어야 합니다</string>
-    <string name="Active">동작</string>
+    <string name="Active">Active</string>
     <string name="Inactive">동작중단</string>
     <string name="FTP_Server">FTP 서버</string>
     <string name="Shared_directory">공유할 디렉토리</string>
@@ -325,7 +325,7 @@
     
     	<!-- Question dialogs -->
     	<string name="Are_you_sure_you_want_to_clear_the_history">정말 기록을 지우시겠습니까?</string>
-    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">정말 썸네일 캐시를 지우시겠습니까?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">정말 미리보기 캐시를 지우시겠습니까?</string>
     	<string name="Are_you_sure_you_want_to_delete_temporary_files">정말 임시 파일들을 삭제하시겠습니까?</string>
     	<string name="It_is_time_for_sheduled_indexing">이것은 예약된 인덱스시점입니다. 지금바로 인덱스 작업을 수행하시겠습니까?</string>
     	<string name="Folder_exists_descr">이미 같은 경로에 같은 이름의 폴더가 존재합니다. 무엇을 하시겠습니까?</string>
@@ -508,7 +508,7 @@
 	<string name="Show_fast_scroll_thumb_in_file_list">파일 목록에서 빠른 스크롤을 표시합니다</string>
     <string name="Use_fast_scroll">빠른 스크롤 사용</string>
     
-    <string name="Low_quality_thumbnails">저품질 썸네일</string>
+    <string name="Low_quality_thumbnails">저화질 미리보기</string>
     <string name="Low_quality_thumbnails_summary">메모리 사용량을 줄이려면 사용하세요</string>
     
     <string name="Portrait_fullscreen">세로 전체화면</string>
@@ -607,7 +607,7 @@
     <string name="Other">기타</string>
     	
     <string name="Clear_persistent_data">영구 데이터 지우기</string>
-    <string name="Clear_thumbnail_cache">썸네일 캐시 지우기</string>
+    <string name="Clear_thumbnail_cache">미리보기 캐시 지우기</string>
     <string name="Clear_temporary_files">임시 파일 지우기</string>
     <string name="Clear_operation_history">작업 기록 지우기</string>
     <string name="Delete_all_image_previews">모든 이미지 미리보기 지우기</string>
@@ -682,8 +682,8 @@
     <string name="Force_english">영어 사용</string>
     <string name="Force_english_summary">만약 사용자가 자신의 언어보다 영어 사용을 원한다면 체크하세요. 재 시작후 적용됩니다.</string>
     <string name="Encoding">인코딩</string>
-    <string name="Network_thumbnails">네트워크 썸네일</string>
-    <string name="Network_thumbnails_summary">체크하실 경우, 이미지 썸네일은 모바일 데이터 연결을 사용하는 동안 불러옵니다.</string>
+    <string name="Network_thumbnails">네트워크 미리보기</string>
+    <string name="Network_thumbnails_summary">체크하실 경우, 이미지 미리보기는 모바일 데이터 연결을 사용하는 동안 불러옵니다.</string>
     <string name="Copy_to">옆패널로 복사</string>
     <string name="Move_to">옆패널로 이동</string>
     <string name="Shortcut">바로가기</string>
@@ -807,7 +807,7 @@
     	<string name="Keep_the_screen_on_summary">파일 전송중일 때는 화면을 켜둡니다. 화면이 꺼졌을 때 전송이 느려지는 경험을 하셨다면 옵션을 체크해 두세요.</string>
     	
     <!-- v 1.4.4 -->
-    	<string name="Clear_thumbnails_on_exit">종료시 썸네일 비우기</string>
+    	<string name="Clear_thumbnails_on_exit">종료시 미리보기 비우기</string>
     	<string name="Image_thumbnails_will_be_removed_on_app_exit">앱 종료시 미리보기 이미지를 삭제합니다</string>
 		<string name="Toggle_nomedia">.nomedia 파일 토글</string>
 		<string name="Total_time">총 시간</string>
@@ -841,5 +841,15 @@
 		<string name="New_webdav_connection">WebDav 연결</string>
 		<string name="WebDav_bookmarks">WebDav 북마크</string>
 		
-	
+
+		<!--  v 1.4.5 -->
+		<string name="Domain">도메인</string>
+		<string name="Mode">모드</string>
+		<string name="Passive">Passive</string>
+		<string name="Nomedia_on">.nomedia 파일이 생성되었습니다</string>
+		<string name="Nomedia_off">.nomedia 파일이 삭제되었습니다</string>
+		<string name="Wifi_disabled">WiFi가 비활성화 되었습니다</string>
+		<string name="Wifi_enabled">WiFi가 활성화 되었습니다</string>
+		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">이 항목을 기본값으로 변경하시겠습니까?</string>
+			
 </resources>
