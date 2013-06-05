@@ -405,7 +405,7 @@
     	
     	
     	<string name="Are_you_sure_you_want_to_delete_items">Θέλετε σίγουρα να διαγράψετε % στοιχεί{1:ο|__:α};</string>
-    	<string name="X_files_deleted">% αρχεί{1:ο|__:α} διαγράφθηκ{1:ε|__:αν}.</string>
+    	<string name="X_files_deleted">% αρχεί{1:ο|__:α} διαγράφηκ{1:ε|__:αν}.</string>
     	<string name="X_files_copied">% αρχεί{1:ο|__:α} αντιγράφηκ{1:ε|__:αν}.</string>
     	<string name="X_files_moved">% αρχεί{1:ο|__:α} μετακινήθηκ{1:ε|__:αν}.</string>
     	<string name="X_items">% στοιχεί{1:ο|__:α}</string>
@@ -841,6 +841,15 @@
 		<string name="New_webdav_connection">Σύνδεση WebDav</string>
 		<string name="WebDav_bookmarks">Σελιδοδείκτες WebDav</string>
 		
-		
-</resources>
+			<!-- v 1.4.5 -->
+<string name="Domain">Τομέας</string>
+<string name="Mode">Λειτουργία</string>
+<string name="Passive">Παθητικό</string>
+<string name="Nomedia_on">Δημιουργήθηκε αρχείο .nomedia</string>
+<string name="Nomedia_off">Διαγράφηκε αρχείο .nomedia</string>
+<string name="Wifi_disabled">WiFi απενεργοποιημένο</string>
+<string name="Wifi_enabled">WiFi ενεργοποιημένο</string>
+<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Έιστε βέβαιοι ότι θέλετε να επαναφέρετε τις προεπιλεγμένες ρυθμίσεις για αυτό το αντικείμενο;</string>
 
+
+</resources>
