@@ -786,4 +786,14 @@
     <string name="New_webdav_connection">WebDav 接连</string>
     <string name="WebDav_bookmarks">WebDav 书签</string>
 
+    <!--  v 1.4.5 -->
+    <string name="Domain">域名</string>
+    <string name="Mode">模式</string>
+    <string name="Passive">被动</string>
+    <string name="Nomedia_on">.nomedia 文件已创建</string>
+    <string name="Nomedia_off">.nomedia 文件已删除</string>
+    <string name="Wifi_disabled">WiFi 已禁用</string>
+    <string name="Wifi_enabled">WiFi 已启用</string>
+    <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">您确定要为此项目恢复默认设置吗？</string>
+
 </resources>
