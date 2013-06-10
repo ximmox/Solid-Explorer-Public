@@ -12,8 +12,8 @@
     <string name="Actions">동작</string>
     
     <!-- "New" popup -->
-    <string name="New_folder">폴더</string>
-    <string name="New_file">파일</string>
+    <string name="New_folder">새 폴더</string>
+    <string name="New_file">새 파일</string>
     <string name="New_FTP_connection">FTP 연결</string>
     <string name="New_SFTP_connection">SFTP 연결</string>
     <string name="New_SMB_connection">SMB 연결</string>
@@ -87,8 +87,8 @@
     <string name="Send">보내기</string>
     <string name="Bookmark">북마크</string>
     <string name="Rename">이름 바꾸기</string>
-    <string name="Extract">압축 풀기</string>
-    <string name="Extract_to">폴더 선택 후 압축 풀기</string>
+    <string name="Extract">압축풀기</string>
+    <string name="Extract_to">폴더선택 압축풀기</string>
     <string name="Archive">압축하기</string>
     <string name="Paste_to_x">\&quot;%\&quot;로 붙여넣기</string>
     
@@ -203,7 +203,7 @@
     
     <!-- File sharing -->
     <string name="File_sharing_active">파일 공유 동작</string>
-    <string name="ftp_server_hint">연결하시려면, 윈도우 익스플로러 주소 창에 서버의 주소를 입력하시거나 FTP 클라이언트를 사용하세요.</string>
+    <string name="ftp_server_hint">접속하시려면 윈도우 익스플로러 주소 창에 서버의 주소를 입력하시거나 또는 FTP 클라이언트를 사용하세요.</string>
     <string name="You_cannot_share_root_directory">사용자는 루트 디렉토리를 공유하실 수 없습니다</string>
     <string name="File_sharing_stopped">파일 공유 중단됨</string>
     <string name="None">없음</string>
@@ -212,7 +212,7 @@
     <string name="Inactive">동작중단</string>
     <string name="FTP_Server">FTP 서버</string>
     <string name="Shared_directory">공유할 디렉토리</string>
-    <string name="Type_to_change">변경할 타입</string>
+    <string name="Type_to_change">변경하시려면 입력하세요</string>
     <string name="No_password_set">비밀번호 설정되지 않음</string>
     <string name="Status">상태</string>
     <string name="Server_address">서버 주소</string>
@@ -334,7 +334,7 @@
     	<string name="Are_you_sure_to_abort_current_operation">정말 현재 작업을 중지하시겠습니까?</string>
     	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">정말 모든 북마크를 삭제하시겠습니까?</string>
     	<string name="Are_you_sure_you_want_to_delete_bookmark">정말 \&quot;%\&quot; 북마크를 삭제하시겠습니까?</string>
-    	<string name="Reindex_prompt">인덱스 작업을 수행중입니다. 이 작업에는 몇 분의 시간이 소모됩니다. 계속하시겠습니까?</string>
+    	<string name="Reindex_prompt">인덱스 작업을 시작합니다. 이 작업은 몇 분의 시간이 소요됩니다. 계속하시겠습니까?</string>
     	<string name="Clear_index_prompt">정말 모든 인덱스 데이터를 지우시겠습니까? 이 작업은 실행을 취소할 수 없습니다.</string>
     	<string name="Are_you_sure_to_stop_indexing">정말 인덱스 작업을 중지하시겠습니까?</string>
     	<string name="Are_you_sure_you_want_to_clear_file_type_associations">정말 파일 연결 형식을 지우시겠습니까?</string>
@@ -580,7 +580,7 @@
     <string name="Customize_indexing_engine_behaviour">사용자가 인덱싱 엔진 동작을 설정합니다</string>
     <string name="Indexing_engine">인덱싱 엔진</string>
     	<string name="Reindex_now">인덱스 새로고침</string>
-    	<string name="Refresh_index_database">인덱스 데이터베이스를 새로고침합니다. 작업이 진행중일 때는 효과가 없습니다.</string>
+    	<string name="Refresh_index_database">인덱스 데이터베이스를 다시 구축합니다. 작업이 진행중일 때는 효과가 없습니다.</string>
     	<string name="Clear_index_data">인덱스 데이터 지우기</string>
     	<string name="Delete_all_index_data">모든 인덱스 데이터 삭제</string>
     	<string name="Reindex_on_media_mount">저장소 연결시 인덱스 새로고침</string>
@@ -590,7 +590,7 @@
     	<string name="Set_time_and_period">시간과 기간 설정</string>
     	<string name="The_time_when_the_indexing_will_be_triggered">인덱싱 작업을 실행할 시간</string>
     	<string name="Maximum_index_age">최대 인덱스 수명</string>
-    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">파일이 존재하지 않을때 얼마나 오래 인덱스가 DB에 남아있을지 결정합니다</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">파일이 존재하지 않을때 인덱스가 얼마나 오랫동안 DB에 남아 있을지 결정합니다</string>
     	<string name="one_day">1 일</string>
     	<string name="two_days">2 일</string>
     	<string name="five_days">5 일</string>
@@ -721,7 +721,7 @@
 	<string name="Folders_first">폴더 먼저 표시</string>
 	<string name="Folders_first_summary">폴더를 먼저 표시하고 그 다음 파일을 표시합니다.</string>
 	<string name="FAQ">FAQ</string>
-	<string name="FAQ_summary">질문을 하시기 전에 FAQ를 참고해주세요</string>
+	<string name="FAQ_summary">질문을 하시기 전에 FAQ를 참고해 주세요</string>
 
 	<!-- v 1.3.8 -->
 	<string name="Quick_config">빠른 설정</string> <!-- short word please -->
@@ -828,7 +828,7 @@
 		<string name="X_files_updated">% 파일 갱신됨</string>
 		<string name="Temporary_file_has_been_modified">% 임시파일이 변경되었습니다. 다시 업로드 하시겠습니까?</string>
 		<string name="Temporary_files_have_been_modified">% 임시파일이 변경되었습니다. 다시 업로드 하시겠습니까?</string>
-		<string name="Slide_from_bottom">아래에서부터 미세요</string>
+		<string name="Slide_from_bottom">아래에서 밀어올림</string>
 		<string name="Fall_down">쓰러짐</string>
 		<string name="Come_in">들어옴</string>
 		<string name="Slide_from_right">우측에서 슬라이드</string>
@@ -848,8 +848,8 @@
 		<string name="Passive">Passive</string>
 		<string name="Nomedia_on">.nomedia 파일이 생성되었습니다</string>
 		<string name="Nomedia_off">.nomedia 파일이 삭제되었습니다</string>
-		<string name="Wifi_disabled">WiFi가 비활성화 되었습니다</string>
-		<string name="Wifi_enabled">WiFi가 활성화 되었습니다</string>
+		<string name="Wifi_disabled">WiFi가 꺼졌습니다</string>
+		<string name="Wifi_enabled">WiFi가 켜졌습니다</string>
 		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">이 항목을 기본값으로 변경하시겠습니까?</string>
 			
 </resources>
