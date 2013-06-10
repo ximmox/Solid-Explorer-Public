@@ -796,9 +796,9 @@
      <string name="Data_backup">Резервирование данных</string>
      <string name="Application_data">Данные приложений</string>
      <string name="Create_backup">Создать резервную копию</string>
-     <string name="Backup_application_data_to_a_desired_file">Резервировать внешние данные к выбранному файлу</string>
+     <string name="Backup_application_data_to_a_desired_file">Резервировать данные этого приложения в файл</string>
      <string name="Restore_backup">Восстановить из резервной копии</string>
-     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Выбрать резервный файл для извлечения данных</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Выбрать резервный файл для восстановления данных</string>
      <string name="Data_backup_created">Резервная копия данных создана</string>
      <string name="Data_backup_restored">Данные восстановлены</string>
      <string name="Support">Поддержка</string>
