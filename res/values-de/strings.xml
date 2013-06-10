@@ -814,7 +814,7 @@
     <string name="Average_speed">Durchschnittsgeschwindigkeit</string>
     <string name="Add_new_item">Neuen Typ hinzufügen</string>
     <string name="Application_chooser">App-Auswahl</string>
-    <string name="Manage_associations">Verwalte Datenverbindungen</string>
+    <string name="Manage_associations">Verwalte Dateitypverknüpfungen</string>
     <string name="Manage_associations_summary">Legt fest, mit welchen Apps bestimmte Dateitypen geöffnet werden</string>
     <string name="Choose_an_application">Wähle eine Anwendung</string>
     <string name="Application">Anwendung</string>
@@ -836,7 +836,7 @@
     <string name="Default">Standard</string>
     <string name="List_animations">Animationen der Dateiliste</string>
     <string name="List_animations_summary">Passt die Animationen bei Übergangen in der Dateiliste an</string>
-    <string name="Clear_filter_history">Lösche Suchfilter Verlauf</string>
+    <string name="Clear_filter_history">Lösche Suchfilter-Verlauf</string>
     <string name="Clear_filter_history_summary">Löscht den Verlauf des Dateilisten-Suchfilters</string>
     <string name="New_webdav_connection">WebDAV-Verbindung</string>
     <string name="WebDav_bookmarks">WebDAV Lesezeichen</string>
