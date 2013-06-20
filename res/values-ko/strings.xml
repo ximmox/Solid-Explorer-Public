@@ -87,8 +87,8 @@
     <string name="Send">보내기</string>
     <string name="Bookmark">북마크</string>
     <string name="Rename">이름 바꾸기</string>
-    <string name="Extract">압축풀기</string>
-    <string name="Extract_to">폴더선택 압축풀기</string>
+    <string name="Extract">압축해제</string>
+    <string name="Extract_to">폴더에 압축해제</string>
     <string name="Archive">압축하기</string>
     <string name="Paste_to_x">\&quot;%\&quot;로 붙여넣기</string>
     
@@ -166,8 +166,8 @@
     	<string name="File_move">파일 이동</string>
     	<string name="File_delete">파일 삭제</string>
     	<string name="Temporary_download">임시 다운로드</string>
-   	 	<string name="Creating_archive">% 압축 생성 중</string>
-    	<string name="Extracting_archive">% 압축 푸는 중</string>
+   	 	<string name="Creating_archive">% 압축 생성</string>
+    	<string name="Extracting_archive">% 압축 해제</string>
     	<string name="X_has_been_completed">% 완료되었습니다</string>
     	<string name="X_has_failed">% 실패 하였습니다</string>
     	<string name="Tap_to_show_details">자세히 보려면 클릭하세요</string>
@@ -233,7 +233,7 @@
     
     <!-- File properties -->
     <string name="Content_summary">내용 요약</string>
-    <string name="File_types">File_types</string>
+    <string name="File_types">파일 종류</string>
     <string name="Top_files">상위 %개의 파일</string>
     <string name="Location">경로</string>
     <string name="Type">형식</string>
@@ -363,8 +363,8 @@
     	<string name="Message">메시지</string>
     	<string name="Warning">경고!</string>
     	<string name="You_did_not_specify_a_password">사용자는 비밀번호를 지정하지 않았습니다</string>
-    	<string name="Reading_archive">압축파일 읽는중</string>
-    	<string name="Reading_archive_x">\&quot;%\&quot; 압축파일 읽는중</string>
+    	<string name="Reading_archive">압축파일 읽는 중</string>
+    	<string name="Reading_archive_x">\&quot;%\&quot; 압축파일 읽는 중</string>
     	<string name="Storage_not_available">저장소를 사용할 수 없습니다</string>
     	<string name="The_password_given_is_incorrect">비밀번호가 옳바르지 않습니다</string>
     	<string name="You_did_not_specify_a_server_name">사용자는 서버 이름을 지정하지 않았습니다</string>
@@ -531,10 +531,10 @@
     <string name="Hide_exit_button">종료 버튼 숨기기</string>
     <string name="Hide_exit_button_summary">뒤로가기 버튼을 길게 눌러 앱을 종료할 수 있습니다</string>
     
-    <string name="Startup">설정</string>
+    <string name="Startup">시작 설정</string>
     
     <string name="Remember_last_folder">최근 폴더 기억</string>
-    <string name="Will_start_with_recently_viewed_directories">앱이 최근에 열었던 디렉토리로 실행됩니다</string>
+    <string name="Will_start_with_recently_viewed_directories">앱이 최근에 열었던 디렉토리에서 시작합니다</string>
     
     
     <string name="First_panel_default_dir">첫 패널 디렉토리</string>
@@ -580,11 +580,11 @@
     <string name="Customize_indexing_engine_behaviour">사용자가 인덱싱 엔진 동작을 설정합니다</string>
     <string name="Indexing_engine">인덱싱 엔진</string>
     	<string name="Reindex_now">인덱스 새로고침</string>
-    	<string name="Refresh_index_database">인덱스 데이터베이스를 다시 구축합니다. 작업이 진행중일 때는 효과가 없습니다.</string>
+    	<string name="Refresh_index_database">인덱스 데이터를 다시 구축합니다. 작업이 진행중일 때는 효과가 없습니다.</string>
     	<string name="Clear_index_data">인덱스 데이터 삭제</string>
     	<string name="Delete_all_index_data">모든 인덱스 데이터를 삭제 합니다</string>
-    	<string name="Reindex_on_media_mount">저장소 연결시 인덱스 새로고침</string>
-    	<string name="Reindex_storage_device_when_it_is_mounted">저장소가 연결되었을 때 인덱스를 갱신합니다 (추천)</string>
+    	<string name="Reindex_on_media_mount">저장소 연결시 새로고침</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">저장소가 연결되었을 때 인덱스를 다시 생성합니다(추천)</string>
     	<string name="Shedule_indexing">인덱싱 작업 예약</string>
     	<string name="Perform_reindex_every_given_period">설정된 기간마다 인덱스를 다시 생성합니다</string>
     	<string name="Set_time_and_period">시간과 기간 설정</string>
@@ -615,7 +615,7 @@
     <string name="Delete_operation_history_entries">모든 작업 기록을 삭제합니다</string>
     <string name="Clear_file_type_associations">파일 연결 형식 삭제</string>
     <string name="Clear_file_type_associations_summary">특정 파일의 형식을 여는데 사용하는 앱에 대한 정보를 삭제합니다</string>
-    <string name="Clear_temporary_files_on_exit">종료에서 임시파일 삭제</string>
+    <string name="Clear_temporary_files_on_exit">종료시 임시파일 삭제</string>
     <string name="Temporary_files_will_be_removed_on_app_exit">앱을 종료할 때 임시 파일을 삭제합니다</string>
     
     <string name="Quick_start_guide">빠른 시작 가이드</string>
@@ -628,9 +628,9 @@
     <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Głodowski</string>
     <string name="Version">버전</string>
     <string name="Changelog">변경사항</string>
-    <string name="Whats_new">신규사항</string>
+    <string name="Whats_new">버전별 변경사항을 표시합니다</string>
     <string name="Author">제작자</string>
-    <string name="Functionality_for_future_releases">앞으로 추가예정 기능</string>
+    <string name="Functionality_for_future_releases">앞으로 추가 예정인 기능을 표시합니다</string>
     <string name="Planned_features">예정된 기능</string>
     
     
@@ -651,7 +651,7 @@
     <string name="crash_notif_title">Solid Explorer가 충돌했습니다...</string>
     <string name="crash_notif_text">이 문제를 해결하려면 이곳을 클릭하세요.</string>
     <string name="crash_dialog_title">Solid Explorer가 충돌했습니다</string>
-    <string name="crash_dialog_text">예상하지 못한 오류가 발생하여 애플리케이션을 강제로 중지했습니다. 이 문제를 해결하기 위해 저에게 버그 리포트를 보내주세요.</string>
+    <string name="crash_dialog_text">예상하지 못한 오류가 발생하여 앱을 강제로 중지했습니다. 이 문제를 해결하기 위해 저희에게 오류 보고서를 보내주세요.</string>
     <string name="crash_dialog_comment_prompt">아래에 발생한 문제에 대한 정보를 자세하게 입력해주세요. 사용자의 의견 없이는 해결이 불가능한 문제가 있을 수 있습니다.</string>
     <string name="crash_dialog_ok_toast">감사합니다!</string>
     
@@ -689,7 +689,7 @@
     <string name="Shortcut">바로가기</string>
     <string name="Two_panels_in_landscape_summary">가로 방향에서 한번에 두 패널을 표시합니다</string>
     <string name="Two_panels_in_landscape">가로 방향 두 패널</string>
-    <string name="Restart_prompt">변경값을 적용하시려면 애플리케이션을 다시시작 하셔야합니다. 계속하시겠습니까?</string>
+    <string name="Restart_prompt">변경값을 적용하시려면 앱을 재시작 하셔야 합니다. 계속하시겠습니까?</string>
     <string name="Custom_color_scheme">사용자 정의 색상</string>
     <string name="Custom_color_scheme_summary">사용자가 전체 색상을 설정합니다. 앱의 실행 속도가 느려질 수 있습니다.</string>
     <string name="Color_scheme">색상</string>
@@ -716,7 +716,7 @@
 	<string name="Package_name">패키지 이름</string>
 	<string name="Map_view">지도 표시</string>
 	<string name="Street_view">길 표시</string>
-	<string name="Ask">질문</string>
+	<string name="Ask">물어보기</string>
 	<string name="Choose_an_action">동작을 선택하세요</string>
 	<string name="Folders_first">폴더 먼저 표시</string>
 	<string name="Folders_first_summary">폴더를 먼저 표시하고 파일을 표시합니다</string>
@@ -735,8 +735,8 @@
     	<string name="Copying_X_folders_and_Y_files">%x 폴더 %y 파일을 복사 중</string>
     	<string name="Moving_X_folders_and_Y_files">%x 폴더 %y 파일을 이동 중</string>
     	
-    	<string name="X_folders_moved">% 폴더 이동 됨.</string>
-    	<string name="Moving_X_folders">% 폴더 이동 중</string>
+    	<string name="X_folders_moved">% 폴더 이동 완료</string>
+    	<string name="Moving_X_folders">% 폴더 이동</string>
     	
     	<string name="X_folders">% 폴더</string>
     	<string name="X_files">% 파일</string>
@@ -766,7 +766,7 @@
     	<string name="A_while_ago">얼마 전</string>
     	<string name="X_hours_Y_minutes_ago">%x 시간 %y 분 전</string>
     	<!-- Already exists, just changed the content -->
-    	<string name="Expiration_message">Solid Explorer를 이용해 주셔서 감사합니다. 시험판 사용기한이 만료되었습니다. 이 앱을 계속 사용하시려면 구글 플레이에서 unlocker를 구매해서 저에게 맥주 한 잔 사주세요. 앱을 완전히 만족하실 때 구매해 주세요.</string>
+    	<string name="Expiration_message">Solid Explorer를 이용해 주셔서 감사합니다. 시험판 사용기한이 만료되었습니다. 이 앱을 계속 사용하시려면 구글 플레이에서 unlocker를 구매해서 저희에게 맥주 한 잔 사주세요. 앱을 완전히 만족하실 때 구매해 주세요.</string>
     	<string name="Purchased_message">Solid Explorer 풀버전을 구입해 주셔서 감사합니다. 잘 사용하시기 바랍니다.</string>
     	<string name="Trial_expired">시험판 만료</string>
     	<string name="Purchase">구입</string>
