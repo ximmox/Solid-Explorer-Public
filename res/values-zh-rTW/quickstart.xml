@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="page1_1">Solid Explorer有兩個獨立的瀏覽面板。舉例:你可以在一個面板中瀏覽記憶卡的內容，然後另一個面板是電腦SMB網路分享的內容。然後你便可以輕鬆的處理文件了。</string>
+    <string name="page1_1">Solid Explorer有兩個獨立的瀏覽面板。舉例：你可以在一個面板中瀏覽記憶卡的內容，然後另一個面板是電腦SMB網路分享的內容。然後你便可以輕鬆的處理文件了。</string>
     <string name="page1_2">在豎屏模式中只能瀏覽一個面板。不過你可以藉由向右或向左滑動在兩面板間切換。在橫屏模式中你可以同時瀏覽兩個面板。</string>
     <string name="page2_1">你可以按住圖標拖動幾個文件並將它們丟入另一個面板。只要滑動到屏幕邊緣，會出現第二個面板。非常的直觀方便。</string>
     <string name="page2_2">您也可以拖放文件到一個目錄中。只要移動至該文件夾上方半秒後，該文件夾就會打開。然後，只需丟入您選擇的檔案。</string>
@@ -24,10 +24,10 @@
     <string name="Two_panels">兩個面板</string>
     <string name="Quick_selection">快速選擇</string>
     <string name="Indexed_search">索引搜尋</string>
-    <string name="Archives">Archives</string>
+    <string name="Archives">壓縮文件</string>
     <string name="Detailed_information">詳細資訊</string>
     <string name="Useful_popups">彈出窗口</string>
-    <string name="Lets_start">開始吧</string>
+    <string name="Lets_start">開始吧！</string>
     <string name="You_can_read_the_guide_later_in_the_settings">你可以稍後進入設定，並選擇\&quot;快速入門指南\&quot;選項來閱讀使用者導覽。</string>
     <string name="Thank_you">感謝你！</string>
     
