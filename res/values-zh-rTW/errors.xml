@@ -1,2 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources><string name="Directory_does_not_exists">路徑不存在</string><string name="Unable_to_read_the_file">無法讀取檔案</string><string name="Illegal_operation">不合理的操作</string><string name="Cannot_update_the_database">無法更新資料庫</string><string name="Error">錯誤</string><string name="Invalid_password_for_user_x">無效的 \"%\" 使用者密碼</string><string name="Invalid_master_password">無效的主密碼</string><string name="Unable_to_execute_shell_command">無法執行此命令</string><string name="No_root_access_available">無法取得root權限</string><string name="Unable_to_read_root_directory">無法讀取根目錄</string><string name="Operation_has_failed">操作失敗</string><string name="Invalid_file_path">無效的檔案路徑</string><string name="Cannot_browse_to_x">無法瀏覽 \"%\"，發生未知錯誤。</string><string name="Cannot_write_to_the_system">無法更改系統資料，mount 統系為可 讀/寫 失敗。</string><string name="Requested_file_x_has_not_been_found">欲存取的檔案 \"%\" 不存在。</string><string name="Unknown_read_write_exception">未知的不可 讀/寫 的路徑</string><string name="Invalid_url_x">無效的 URL: %</string><string name="An_error_occured_while_accessing_master_password">獲取主密碼時發生錯誤</string><string name="Operation_not_allowed">不允許的操作</string><string name="Cannot_connect_to_host_x_on_port_y">無法用port %y  連線到 \"%x\" 。</string><string name="Unable_to_resolve_host_x">無法解析host名稱  \"%x\".</string><string name="Server_returned_illegal_response">伺服器回傳 : 不合理的操作</string><string name="An_error_occured_while_transferring_data_from_the_server">傳送資料到伺服器過程中發生錯誤。</string><string name="Invalid_username_or_password">無法的使用者名稱或密碼</string><string name="Internal_server_error">內部伺服器錯誤</string><string name="Server_response_x">伺服器回傳 : %x</string><string name="Unable_to_open_the_file_for_reading">無法開啟並讀取檔案</string><string name="Unable_to_write_the_file_to_x">無法寫入檔案到 \"%x\".</string><string name="Unable_to_connect_to_the_x">無法連線到 %x.</string><string name="Unknown_error">未知的錯誤</string><string name="Cannot_create_directory_X">無法創建路徑 \"%x\"</string></resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">The directory does not exist</string>
+    
+    <string name="Unable_to_read_the_file">Unable to read the file</string>
+    <string name="Illegal_operation">Illegal operation</string>
+    
+    
+    <string name="Cannot_update_the_database">Cannot update the database</string>
+    <string name="Error">Error</string>
+    
+    <string name="Invalid_password_for_user_x">Invalid password for user \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">Invalid master password</string>
+    <string name="Unable_to_execute_shell_command">Unable to execute the command</string>
+    <string name="No_root_access_available">No root access available</string>
+    <string name="Unable_to_read_root_directory">Unable to read root directory</string>
+    
+    <string name="Operation_has_failed">Operation failed</string>
+    <string name="Invalid_file_path">Invalid file path</string>
+    
+    
+    <string name="Cannot_browse_to_x">Cannot browse to \&quot;%\&quot;. An unknown error occured.</string>
+    <string name="Cannot_write_to_the_system">Cannot write to the filesystem. Mount as read/write has failed.</string>
+    <string name="Requested_file_x_has_not_been_found">Requested file \&quot;%\&quot; was not found.</string>
+    <string name="Unknown_read_write_exception">Unknown read/write exception.</string>
+    <string name="Invalid_url_x">Invalid URL: %</string>
+    <string name="An_error_occured_while_accessing_master_password">An error occured while accessing the master password.</string>
+    <string name="Operation_not_allowed">Operation not allowed.</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Cannot connect to \&quot;%x\&quot; on port %y.</string>
+    <string name="Unable_to_resolve_host_x">Unable to resolve hostname \&quot;%x\&quot;.</string>
+    <string name="Server_returned_illegal_response">The server returned an illegal response</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">An error occured while transferring data from the server.</string>
+    <string name="Invalid_username_or_password">Invalid username or password.</string>
+    <string name="Internal_server_error">Internal server error.</string>
+    <string name="Server_response_x">Server response: %x</string>
+    <string name="Unable_to_open_the_file_for_reading">Unable to open the file for reading</string>
+    <string name="Unable_to_write_the_file_to_x">Unable to write the file to \&quot;%x\&quot;.</string>
+    <string name="Unable_to_connect_to_the_x">Unable to connect to the %x.</string>
+    <string name="Unknown_error">Unknown error</string>
+    <string name="Cannot_create_directory_X">Cannot create directory \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Unable to start the service on port %</string>
+    
+    <string name="Invalid_position">Invalid position</string>
+    <string name="Unable_to_delete_file_x">Unable to delete file %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Unable to mount the system as read/write</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Unable to mount the system as read only</string>
+    <string name="Access_denied">Access denied</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Unable to find an activity to complete this action</string>
+    <string name="Unable_to_set_the_wallpaper">Unable to set the wallpaper</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">The unlocker was found but it returned an error. It usually happens when another application blocks its permissions, ex. antivirus software. Make sure the Solid Explorer and the unlocker are excluded from any blacklists and start the app again.</string>
+    <string name="Unable_to_get_the_link">Unable to get the link</string>
+    
+</resources>
