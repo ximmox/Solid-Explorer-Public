@@ -413,49 +413,50 @@
     	<string name="Copying_X_files">正複製 % 個檔案</string>
     	<string name="Moving_X_files">正移動 % 個檔案</string>
     	<string name="Indexing_scheduled_at_X_every_Y">索引編輯已安排於每 %y 天的 %x 進行</string>
-    	<!-- Explanation of above
-    	
-    		 	In english things are simple because we have 1 file and multiple files.
-    		 	1 file, 2 files, 3 files and so on...
-    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
-    			
-    			But let's take polish for example. File means 'Plik'. We have:
-    			0 plik??w
-    			1 plik
-    			2, 3, 4 pliki
-    			5, 6, 7, 8, 9, 10, 11, 12 ... plik籀w
-    			but.. 22, 23 pliki
-    			and 26, 27 plik籀w
-    			Complicated, huh?
-    			The pattern for polish is following: {0:籀w|1:|2-4:i|1_:籀w|_2-4:i|__:籀w}
-    			
-    			If you have problems creating this pattern for your language, contact me.
-    			
-    			Quick reference:
-    			'{' - starts the pattern
-    			'}' - ends the pattern
-    			'|' - rule divider
-    			':' - separates range from the associated suffix
-    			'_' - any digit
-    			'-' - range
-    			
-    			Examples:
-    			1:s 	= for single 1 give 's' suffix
-    			3:		= for single 3 give no suffix
-    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
-    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
-    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
-    			__:s	= give 's' for any number
-    			
-    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
-    			there should be always the __:something pattern at the end.
-    	
-    	-->
-    
-    	
-    
 
-    
+
+
+    <!-- Explanation of above
+ 
+    In english things are simple because we have 1 file and multiple files.
+    1 file, 2 files, 3 files and so on...
+    Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
+ 
+    But let's take polish for example. File means 'Plik'. We have:
+    0 plików
+    1 plik
+    2, 3, 4 pliki
+    5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    but.. 22, 23 pliki
+    and 26, 27 plików
+    Complicated, huh?
+    The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+ 
+    If you have problems creating this pattern for your language, contact me.
+ 
+    Quick reference:
+    '{' - starts the pattern
+    '}' - ends the pattern
+    '|' - rule divider
+    ':' - separates range from the associated suffix
+    '_' - any digit
+    '-' - range
+ 
+    Examples:
+    1:s 	= for single 1 give 's' suffix
+    3:		= for single 3 give no suffix
+    4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+    1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+    _2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+    __:s	= give 's' for any number
+ 
+    This pattern has priorities. This means that the first has the highest priority and last the lowest.
+    there should be always the __:something pattern at the end.
+ 
+    -->
+ 
+ 
+ 
     <!-- Open as dialog -->
     <string name="Open_as">當作…開啟</string>
     <string name="Choose_a_preferred_type">選擇一個類型</string>
