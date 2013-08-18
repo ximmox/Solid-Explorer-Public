@@ -32,7 +32,7 @@
     <!-- "Jump" popup -->
     
     <string name="Device">デバイス</string>
-    <string name="Photos">フォト</string>
+    <string name="Photos">写真</string>
     <string name="Downloads">ダウンロード</string>
     <string name="Network">ネットワーク</string>
     <string name="Bookmarks">ブックマーク</string>
@@ -42,7 +42,7 @@
     <string name="View">表示</string>
     <string name="Sort">並べ替え</string>
     <string name="Search">検索</string>
-    <string name="Operations">オペレーション</string>
+    <string name="Operations">操作</string>
     <string name="Manage_bookmarks">ブックマーク管理</string>
     <string name="File_sharing">ファイル共有</string>
     <string name="Settings">設定</string>
@@ -143,8 +143,8 @@
     
     <!-- Operations activity -->
     <string name="History_is_empty">履歴は空です</string>
-    <string name="Current_operation">現在のオペレーション</string>
-    <string name="No_pending_operation">待機中のオペレーションはありません</string>
+    <string name="Current_operation">現在の操作</string>
+    <string name="No_pending_operation">待機中の操作はありません</string>
     <string name="History">履歴</string>
     <string name="Count">数</string>
     <string name="Date">日付</string>
@@ -152,7 +152,7 @@
     <string name="Destination">転送先</string>
     
     	<!-- Operation info -->
-    	<string name="Operation">オペレーション</string>
+    	<string name="Operation">操作</string>
     	<string name="From">転送元</string>
     	<string name="To">転送先</string>
     	<string name="Size">サイズ</string>
@@ -171,8 +171,8 @@
     	<string name="X_has_been_completed">% が完了しました。</string>
     	<string name="X_has_failed">% に失敗しました。</string>
     	<string name="Tap_to_show_details">タップして詳細を表示</string>
-    	<string name="Pending_cancel_request">待機中のオペレーションの取り消しリクエスト</string>
-    	<string name="File_operation">ファイルオペレーション</string>
+    	<string name="Pending_cancel_request">待機中の操作の取り消しリクエスト</string>
+    	<string name="File_operation">ファイル操作</string>
     
     <!-- Bookmark manager -->
     <string name="Bookmark_manager">ブックマークマネージャ</string>
@@ -320,8 +320,8 @@
     	<string name="Resume">再開</string>
     	<string name="Dismiss">閉じる</string>
     	
-    	<string name="Abort_operation">オペレーションが中止されました</string>
-    	<string name="There_is_already_an_operation_running">他のオペレーションが進行中です。完了するまでお待ちください。</string>
+    	<string name="Abort_operation">操作が中止されました</string>
+    	<string name="There_is_already_an_operation_running">他の操作が進行中です。完了するまでお待ちください。</string>
     
     	<!-- Question dialogs -->
     	<string name="Are_you_sure_you_want_to_clear_the_history">本当に履歴を削除しますか？</string>
@@ -331,7 +331,7 @@
     	<string name="Folder_exists_descr">ディレクトリには既に同じ名前のフォルダーが存在します。どうしますか？</string>
     	<string name="File_exists_descr">ディレクトリには既に同じ名前のファイルが存在します。どうしますか？</string>
     	<string name="Are_you_sure_you_want_to_delete">本当に \&quot;%\&quot; を削除しますか？</string>
-    	<string name="Are_you_sure_to_abort_current_operation">本当に現在のオペレーションを中止しますか？</string>
+    	<string name="Are_you_sure_to_abort_current_operation">本当に現在の操作を中止しますか？</string>
     	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">本当にすべてのブックマークを削除しますか？</string>
     	<string name="Are_you_sure_you_want_to_delete_bookmark">本当にブックマーク \&quot;%\&quot; を削除しますか？</string>
     	<string name="Reindex_prompt">手動でインデックスを作成します。これには数分かかることがあります。続行しますか？</string>
@@ -344,18 +344,18 @@
     	
     	
     	<!-- Information dialogs -->
-    	<string name="SkyDrive_doesnt_support_x_files">SkyDriveは \&quot;%\&quot; ファイルをサポートしていません。オペレーションは中止されました。</string>
-    	<string name="Operation_not_supported">オペレーションがサポートされていません。</string>
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDriveは \&quot;%\&quot; ファイルをサポートしていません。操作は中止されました。</string>
+    	<string name="Operation_not_supported">操作がサポートされていません。</string>
     	<string name="You_have_to_provide_a_password">パスワードが必要です</string>
-    	<string name="Insufficient_space" formatted="false">オペレーションを完了するための空き容量が十分にありません。サイズ: % / 空き: %</string>
+    	<string name="Insufficient_space" formatted="false">操作を完了するための空き容量が十分にありません。サイズ: % / 空き: %</string>
     	<string name="Command_executed_successfully">コマンドが正常に実行されました</string>
     	<string name="Deleting_data">データを削除中</string>
     	<string name="Done">完了</string>
-    	<string name="Preparing_for_operation">オペレーションの準備中...</string>
+    	<string name="Preparing_for_operation">操作の準備中...</string>
     	<string name="Connecting">接続中</string>
     	<string name="Connecting_to_x">\&quot;%\&quot; に接続中</string>
     	<string name="File_is_too_big">ファイルが大きすぎます。編集できるファイルのサイズは最大で75kBです。より大きなファイルの編集はまもなくサポートする予定です。</string>
-    	<string name="Operation_history_has_been_cleared">オペレーション履歴が削除されました</string>
+    	<string name="Operation_history_has_been_cleared">操作履歴が削除されました</string>
     	<string name="Encrypted_archive">暗号化されたアーカイブ</string>
     	<string name="Enter_the_password">パスワードを入力</string>
     	<string name="Confirmation">確認</string>
@@ -380,7 +380,7 @@
     	<string name="Tap_top_open">タップして開く</string>
     	<string name="File_is_ready_to_open">ファイルを開く準備が完了しています</string>
     	
-    	<string name="Operation_aborted_by_user">オペレーションがユーザーにより中止されました</string>
+    	<string name="Operation_aborted_by_user">操作がユーザーにより中止されました</string>
     	<string name="You_cant_delete_this_item">このアイテムは削除できません</string>
     	<string name="Indexing_service">インデックスサービス</string>
     	<string name="Only_local_file_can_be_added_to_the_archive">ローカルのファイルのみをアーカイブ内に追加することができます</string>
@@ -510,10 +510,10 @@
     <string name="Low_quality_thumbnails_summary">サムネイルの画質を抑えてメモリを節約します</string>
     
     <string name="Portrait_fullscreen">縦画面でフルスクリーン</string>
-    <string name="Portrait_fullscreen_summary">画面が縦向きの時にAndroidの通知バーを非表示にします</string>
+    <string name="Portrait_fullscreen_summary">画面が縦向きの時にステータスバーを非表示にします</string>
     
     <string name="Landscape_fullscreen">横画面でフルスクリーン</string>
-    <string name="Landscape_fullscreen_summary">画面が横向きの時にAndroidの通知バーを非表示にします</string>
+    <string name="Landscape_fullscreen_summary">画面が横向きの時にステータスバーを非表示にします</string>
     
     <string name="File_list_size">縦画面時の一覧サイズ</string>
     <string name="Adjust_size_of_the_file_list">画面が縦向きの時の一覧の大きさを調整します</string>
@@ -539,7 +539,7 @@
     <string name="First_panel_default_dir">パネル1ディレクトリ</string>
     <string name="Second_panel_default_dir">パネル2ディレクトリ</string>
     
-    <string name="Change_pictures_directory">フォトディレクトリを変更</string>
+    <string name="Change_pictures_directory">写真ディレクトリを変更</string>
     <string name="Change_downloads_directory">ダウンロードディレクトリを変更</string>
     
     <string name="Drag_and_drop">ドラッグ＆ドロップ</string>
@@ -606,13 +606,13 @@
     <string name="Other">その他</string>
     	
     <string name="Clear_persistent_data">データをクリア</string>
-    <string name="Clear_persistent_data_summary">サムネイルキャッシュや一時ファイル、オペレーション履歴等を削除します</string>
+    <string name="Clear_persistent_data_summary">サムネイルキャッシュや一時ファイル、操作履歴等を削除します</string>
     <string name="Clear_thumbnail_cache">サムネイルキャッシュをクリア</string>
     <string name="Clear_temporary_files">一時ファイルをクリア</string>
-    <string name="Clear_operation_history">オペレーション履歴をクリア</string>
+    <string name="Clear_operation_history">操作履歴をクリア</string>
     <string name="Delete_all_image_previews">すべての画像プレビューを削除します</string>
     <string name="Delete_all_temporary_files">すべての一時ファイルを削除します</string>
-    <string name="Delete_operation_history_entries">オペレーション履歴のエントリーを削除します</string>
+    <string name="Delete_operation_history_entries">操作履歴のエントリーを削除します</string>
     <string name="Clear_file_type_associations">ファイルの関連付けをクリア</string>
     <string name="Clear_file_type_associations_summary">ファイルに関連付けられた既定のアプリ設定を削除します</string>
     <string name="Clear_temporary_files_on_exit">終了時に一時ファイルをクリア</string>
@@ -621,7 +621,7 @@
     <string name="Quick_start_guide">クイックスタートガイド</string>
     <string name="Learn_about_main_features">Solid Explorerの主な機能をご紹介します</string>
     <string name="Help_make_Solid_Explorer_better">Solid Explorerをより良いものにするために、サポートをお願いします</string>
-    <string name="Report_a_bug">バグレポート</string>
+    <string name="Report_a_bug">バグ報告</string>
    
     <string name="About">Solid Explorerについて</string>
     <string name="Author_version_and_changelog">開発者の情報、バージョン情報、変更履歴</string>
@@ -637,7 +637,7 @@
     
     <!-- Other -->
     <string name="Prefix">プレフィックス</string>
-    <string name="Expiration_message">Solid Explorer ベータ版をご利用いただきありがとうございます。このアプリを継続してお試しいただくには、Google Playから最新版のダウンロードをお願いします。</string>
+    <string name="Expiration_message">Solid Explorer ベータ版をご利用いただきありがとうございます。このアプリを継続してお試しいただくには、Google Playストアから最新版のダウンロードをお願いします。</string>
     <string name="Empty">空</string>
 	<string name="search_description">Solid Explorerでデバイスを検索</string>
     <string name="search_hint">ファイル名を入力 </string>
@@ -659,7 +659,7 @@
     <string name="Icon_designer">アイコンデザイナー</string>
     <string name="Prefix">プレフィックス</string>
     <string name="Translations">翻訳</string>
-    <string name="Translations_summary">有志による翻訳の加筆修正: Steven Schoen</string>
+    <string name="Translations_summary">有志による翻訳の加筆修正: Steven Schoen, WedyDQ10</string>
     <string name="Empty">空</string>
     <string name="Press_once_again_to_exit">もう一度戻るキーを押すと終了します</string>
     
@@ -683,7 +683,7 @@
     <string name="DiskUsage_not_installed">DiskUsageがインストールされていないようです。このアプリはディスクの使用状況を表示するとても洗練された使いやすいアプリです。今すぐインストールしますか？</string>
     <string name="Text_copied_to_clipboard">テキストをクリップボードにコピーしました</string>
     <string name="Force_english">英語を使用</string>
-    <string name="Force_english_summary">アプリの表示言語を英語にします。この設定はアプリの再起動後に有効になります。</string>
+    <string name="Force_english_summary">アプリの表示言語を英語にします。この設定はアプリの再起動後に有効になります</string>
     <string name="Encoding">エンコード</string>
     <string name="Network_thumbnails">ネットワークサムネイル</string>
     <string name="Network_thumbnails_summary">モバイルデータ接続時でも画像のサムネイルを読み込みます</string>
@@ -725,5 +725,135 @@
 	<string name="Folders_first_summary">フォルダーを先に表示し、その後でファイルを表示します。</string>
 	<string name="FAQ">FAQ</string>
 	<string name="FAQ_summary">質問の前にFAQをよくお読みください</string>
-
+	
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">クイック設定</string> <!-- short word please -->
+	
+	<!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
+    	<string name="X_folders_and_Y_files_deleted">%x フォルダ{1:|__:s} と %y ファイル{1:|__:s} を削除しました。</string>
+    	<string name="X_folders_and_Y_files_copied">%x フォルダ{1:|__:s} と %y ファイル{1:|__:s} をコピーしました。</string>
+    	<string name="X_folders_and_Y_files_moved">%x フォルダ{1:|__:s} と %y ファイル{1:|__:s} を移動しました。</string>
+    	<string name="Deleting_X_folders_and_Y_files">%x フォルダ{1:|__:s} と %y ファイル{1:|__:s}を削除中</string>
+    	<string name="Copying_X_folders_and_Y_files">%x フォルダ{1:|__:s} と %y ファイル{1:|__:s}をコピー中</string>
+    	<string name="Moving_X_folders_and_Y_files">%x フォルダ{1:|__:s} と %y ファイル{1:|__:s}を移動中</string>
+    	
+    	<string name="X_folders_moved">% フォルダ{1:|__:s} を移動しました。</string>
+    	<string name="Moving_X_folders">% フォルダ{1:|__:s}を移動中</string>
+    	
+    	<string name="X_folders">% フォルダ{1:|__:s}</string>
+    	<string name="X_files">% ファイル{1:|__:s}</string>
+    	
+    	<string name="Show_status_summary">ディレクトリ内容やサイズ情報をエクスプローラに表示します</string>
+    	<string name="Show_status">状態の表示</string>
+    	<string name="Mount_rw">r/wマウント</string>
+    	<string name="System_mounted_as_read_write">システムがread/writeにマウントされました</string>
+    	<string name="System_mounted_as_read_only">システムがread onlyにマウントされました</string>
+    	
+    <!--  v 1.3.9 -->
+    	<string name="Device_labels">デバイスラベル</string>
+    	<string name="Device_labels_summary">本来のディレクトリ名ではなくわかりやすいラベルを表示します 例) \&quot;SDカード\&quot; を \&quot;sdcard0\&quot;の代わりに表示</string>
+    	<string name="Swap_device_labels">デバイスラベルを交換</string>
+    	<string name="Swap_device_labels_summary">内部ストレージにSDカードラベルがついたときに設定してください</string>
+    	<string name="Panels">パネル</string>
+    	<string name="Devices">デバイス</string>
+    	<string name="Bug_report_notice">バグ報告の前に:\n\n<b>1. 他のファイルマネージャで同じバグが起きていないか確認する\n2. FAQを読む</b>\n\n以上をしてからご報告ください。</string>
+    	<string name="Unable_to_move_the_file">ファイル %を移動できません</string>
+    
+    <!-- v 1.4.0 -->
+    	<string name="Compression_ratio">圧縮率</string>
+    	<string name="Compression_method">圧縮方法</string>
+    	<string name="Comment">コメント</string>
+    	<string name="Standard">標準</string>
+    	<string name="No_compression">圧縮なし</string>
+    	<string name="A_while_ago">少し前</string>
+    	<string name="X_hours_Y_minutes_ago">%x 時間{1:|__:s} %y 分{1:|__:s}前</string>
+    	<!-- Already exists, just changed the content -->
+    	<string name="Expiration_message">Solid Explorerをお試し頂きありがとうございます。試用期間が終了したので、これ以降もお使いになりたい場合はUnlockerをGoogle Playストアでご購入ください。</string>
+    	<string name="Purchased_message">Solid Explorerをご購入頂ありがとうございます。どうぞお楽しみください。</string>
+    	<string name="Trial_expired">試用期限切れ</string>
+    	<string name="Purchase">購入</string>
+    	<string name="No_thanks">いいえ</string>
+    	<string name="Function_not_available">この機能は現在のシステムバージョンでは使用できません</string>
+    	
+    <!-- v 1.4.3 -->
+    	<string name="Wallpaper_has_been_set_successfully">壁紙をセットしました</string>
+    	<string name="X_has_been_set_as_default_ringtone">% を着信音にしました</string>
+    	<string name="X_has_been_set_as_default_notification">% を通知音にしました</string>
+    	<string name="X_has_been_set_as_default_alarm">% をアラーム音にしました</string>
+    	<string name="Copy_path">パスをコピー</string>
+    	<string name="Copy_name">名前をコピー</string>
+    	<string name="Create_symlink">symlinkを作成</string>
+    	<string name="Set_as_wallpaper">壁紙にする</string>
+    	<string name="Set_as_ringtone">着信音にする</string>
+    	<string name="Set_as_notification">通知音にする</string>
+    	<string name="Set_as_alarm">アラーム音にする</string>
+    	<string name="Enter_the_symlink_location">symlink先の場所を入力</string>
+    	<string name="Symbolic_link_created_successfully">シンボリックリンクを作成しました</string>
+    	<string name="Sugarsync_login">SugarSync ログイン</string>
+    	<string name="Copy_link">リンクをコピー</string>
+    	<string name="Data_backup">データバックアップ</string>
+    	<string name="Application_data">アプリデータ</string>
+    	<string name="Create_backup">バックアップを作成</string>
+    	<string name="Backup_application_data_to_a_desired_file">アプリデータをバックアップします</string>
+    	<string name="Restore_backup">バックアップを復元</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">復元したいバックアップファイルを選択してください</string>
+    	<string name="Data_backup_created">バックアップを作成しました</string>
+    	<string name="Data_backup_restored">バックアップを復元しました</string>
+    	<string name="Support">サポート</string>
+    	<string name="Support_summary">Solid Explorerのサポートページへ</string>
+    	<string name="Experimental_feature_notifier">注意! この機能は実験的でお使いのAndroidバージョンでは動作しない可能性があります</string>
+    	<string name="Trial_check_notice">Solid Explorerは試用期限を確認できませんでした。 2日以内にインターネットに接続しないと試用期限が終了します。</string>
+    	<string name="Back_goes_to_root">戻るボタンでrootへ</string>
+    	<string name="Back_goes_to_root_summary">戻るボタンを押したときrootディレクトリに移動するようにします</string>
+    	<string name="Keep_the_screen_on">画面をオンにしたままにする</string>
+    	<string name="Keep_the_screen_on_summary">ファイル転送中に画面をオンにしたままにします。画面オフ時に転送速度が遅くなった場合にチェックしてください</string>
+    	
+    <!-- v 1.4.4 -->
+    	<string name="Clear_thumbnails_on_exit">終了時にサムネイルを消去</string>
+    	<string name="Image_thumbnails_will_be_removed_on_app_exit">アプリ終了時にサムネイル画像が消去されます</string>
+		<string name="Toggle_nomedia">.nomediaファイルをトグル</string>
+		<string name="Total_time">合計時間</string>
+		<string name="Average_speed">平均速度</string>
+		<string name="Add_new_item">新規アイテムを追加</string>
+		<string name="Application_chooser">アプリ選択</string>
+		<string name="Manage_associations">関連づけを管理</string>
+		<string name="Manage_associations_summary">特定のファイルタイプを開くときどのアプリを開くか指定します</string>
+		<string name="Choose_an_application">アプリを選択</string>
+		<string name="Application">アプリ</string>
+		<string name="Extension">拡張子</string>
+		<string name="No_extension_specified">拡張子が指定されていません</string>
+		<string name="You_didn_t_choose_the_application">アプリを選択していません</string>
+		<string name="Added_to_queue">キューに追加しました</string>
+		<string name="Streaming">ストリーミング</string>
+		<string name="There_is_already_the_same_file_in_temporary_directory">一時ディレクトリに同じ名前のファイルがあります。キャッシュ済みファイルを表示するか再ダウンロードするか選択してください</string>
+		<string name="Download">ダウンロード</string>
+		<string name="X_files_updated">% ファイル{1:|__:s} を更新しました</string>
+		<string name="Temporary_file_has_been_modified">一時ファイル % が編集されました。アップロードしますか?</string>
+		<string name="Temporary_files_have_been_modified">% 一時ファイル{1:|__:s}が編集されました。アップロードしますか?</string>
+		<string name="Slide_from_bottom">下からスライド</string>
+		<string name="Fall_down">Fall down</string>
+		<string name="Come_in">Come in</string>
+		<string name="Slide_from_right">右からスライド</string>
+		<string name="Slide_from_left">左からスライド</string>
+		<string name="Default">デフォルト</string>
+		<string name="List_animations">リストのアニメーション</string>
+		<string name="List_animations_summary">ファイルリストのアニメーションを変更します</string>
+		<string name="Clear_filter_history">フィルタ履歴を消去</string>
+		<string name="Clear_filter_history_summary">フィルタのクエリ履歴を削除します</string>
+		<string name="New_webdav_connection">WebDav 接続</string>
+		<string name="WebDav_bookmarks">WebDav ブックマーク</string>
+		
+		
+		<!--  v 1.4.5 -->
+		<string name="Domain">ドメイン</string>
+		<string name="Mode">モード</string>
+		<string name="Passive">パッシブ</string>
+		<string name="Nomedia_on">.nomediaファイルを作成しました</string>
+		<string name="Nomedia_off">.nomediaファイルを削除しました</string>
+		<string name="Wifi_disabled">WiFiを無効にしました</string>
+		<string name="Wifi_enabled">WiFiを有効にしました</string>
+		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">このアイテムのデフォルト設定を復元しますか?</string>
+		
+		
 </resources>
