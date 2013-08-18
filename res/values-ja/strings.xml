@@ -199,7 +199,7 @@
     
     <!-- Cloud storage dialog -->
     <string name="Cloud_storage_services">クラウドストレージサービス</string>
-    <string name="Cloud_services_description">利用するクラウドストレージサービスを選択します</string>
+    <string name="Cloud_services_description">使用するクラウドストレージサービスを選択します</string>
     
     <!-- File sharing -->
     <string name="File_sharing_active">ファイル共有が有効です</string>
@@ -255,7 +255,7 @@
     <string name="Content">コンテンツ</string>
     <string name="Other_used">その他</string>
     <string name="Free_space">空き</string>
-    <string name="Usage">利用状況</string>
+    <string name="Usage">使用状況</string>
     <string name="Attributes">属性</string>
     <string name="Read">読み</string>
     <string name="Write">書き</string>
@@ -275,7 +275,7 @@
     <string name="Owners">所有者</string>
     <string name="Permissions">パーミッション</string>
     <string name="Set">設定</string>
-    <string name="Used_space">利用領域</string>
+    <string name="Used_space">使用領域</string>
     <string name="Free_space">空き領域</string>
     <string name="Total_size">合計サイズ</string>
     <string name="Artist">アーティスト</string>
@@ -312,7 +312,7 @@
     	<string name="Create_master_password">マスターパスワードを作成</string>
     	
     	<string name="Choose_an_activity_to_open_the_file">アプリを選択</string>
-    	<string name="Always_use_this_application">常にこのアプリを利用する</string>
+    	<string name="Always_use_this_application">常にこのアプリを使用する</string>
     	<string name="Send_the_file_using">アプリを選択</string>
     	<string name="Progress">進捗状況</string>
     	<string name="Minimize">最小化</string>
@@ -416,14 +416,14 @@
     	<!-- Explanation of above
     	
     		 	In english things are simple because we have 1 file and multiple files.
-    		 	1 file, 2 files, 3 files and so on…
+    		 	1 file, 2 files, 3 files and so on...
     			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
     			
     			But let's take polish for example. File means 'Plik'. We have:
     			0 plikow
     			1 plik
     			2, 3, 4 pliki
-    			5, 6, 7, 8, 9, 10, 11, 12 … plikow
+    			5, 6, 7, 8, 9, 10, 11, 12 ... plikow
     			but.. 22, 23 pliki
     			and 26, 27 plikow
     			Complicated, huh?
@@ -504,7 +504,7 @@
 	<string name="Customize_time_format">時刻書式をカスタマイズします</string>
 	
 	<string name="Show_fast_scroll_thumb_in_file_list">ファイル一覧で高速にスクロールできるようにツマミを表示します</string>
-    <string name="Use_fast_scroll">高速スクロールを利用</string>
+    <string name="Use_fast_scroll">高速スクロールを使用</string>
     
     <string name="Low_quality_thumbnails">低品質サムネイル</string>
     <string name="Low_quality_thumbnails_summary">サムネイルの画質を抑えてメモリを節約します</string>
@@ -550,7 +550,7 @@
     <string name="Move">移動</string>
     
     <string name="Security">セキュリティ</string>
-    <string name="Master_password_prompt">Solid Explorerはすべてのログイン情報をマスターパスワードで暗号化します。セキュリティをより強固にしたい方におすすめです。あなたはアプリを起動する毎に一度だけ、マスターパスワードの入力を求められます。マスターパスワードを有効にしない場合、パスワード無しの標準の暗号化が利用されます。この機能を有効にしますか？</string>
+    <string name="Master_password_prompt">Solid Explorerはすべてのログイン情報をマスターパスワードで暗号化します。セキュリティをより強固にしたい方におすすめです。あなたはアプリを起動する毎に一度だけ、マスターパスワードの入力を求められます。マスターパスワードを有効にしない場合、パスワード無しの標準の暗号化が使用されます。この機能を有効にしますか？</string>
     <string name="Disable_master_password_warning">マスターパスワードを無効にすると、標準のパスワードへ自動的に切り替わりますが、パスワードの入力を求められることはありません。ログイン情報は暗号化されたまま保持されます。本当に続行しますか？</string>
     <string name="Enable_master_password_warning">もし標準のパスワードで暗号化されたブックマークが存在する場合、それらは削除されます。続行しますか？</string>
     <string name="Enable_master_password">マスターパスワードを有効化</string>
@@ -680,9 +680,9 @@
     <string name="Local_directory">ローカルディレクトリ</string>
     <string name="Default_panel">デフォルトパネル</string>
     <string name="Destination_type">場所の種類</string>
-    <string name="DiskUsage_not_installed">DiskUsageがインストールされていないようです。このアプリはディスクの利用状況を表示するとても洗練された使いやすいアプリです。今すぐインストールしますか？</string>
+    <string name="DiskUsage_not_installed">DiskUsageがインストールされていないようです。このアプリはディスクの使用状況を表示するとても洗練された使いやすいアプリです。今すぐインストールしますか？</string>
     <string name="Text_copied_to_clipboard">テキストをクリップボードにコピーしました</string>
-    <string name="Force_english">英語を利用</string>
+    <string name="Force_english">英語を使用</string>
     <string name="Force_english_summary">アプリの表示言語を英語にします。この設定はアプリの再起動後に有効になります。</string>
     <string name="Encoding">エンコード</string>
     <string name="Network_thumbnails">ネットワークサムネイル</string>
