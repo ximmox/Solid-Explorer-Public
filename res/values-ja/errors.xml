@@ -40,4 +40,25 @@
     <string name="Cannot_create_directory_X">ディレクトリ \&quot;%x\&quot; を作成できません。</string>
     <string name="Unable_to_start_the_service_on_port_x">ポート % でサービスを開始できません。</string>
     
+    <string name="Invalid_position">不正な位置です。</string>
+    <string name="Unable_to_delete_file_x">ファイル%を削除できません。</string>
+    <string name="Unable_to_mount_the_system_as_read_write">システムを読み/書きモードでマウントできません。</string>
+    <string name="Unable_to_mount_the_system_as_read_only">システムを読み取り専用モードでマウントできません。</string>
+    <string name="Access_denied">アクセスが拒否されました。</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">この操作を完了するためのアクティビティが見つかりません。</string>
+    <string name="Unable_to_set_the_wallpaper">壁紙をセットできません。</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Unlockerがありますがエラーを返しました。ウイルス対策アプリなどが権限を制限している場合があるので、Solid ExplorerとUnlockerがブラックリストから除外されているか確認してください。</string>
+    <string name="Unable_to_get_the_link">リンクを取得できません。</string>
+    
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">要求したリソースは移動されました。</string>
+    <string name="Invalid_syntax">不正な構文</string>
+    <string name="Service_unavailable">サービスが一時的に使用できないので後でお試しください。</string>
+    <string name="Unauthorized">もう一度ログインしてください。</string>
+    <string name="Resource_not_found">リソースがありません。</string>
+    <string name="Method_not_allowed">要求したメソッドはこのリソースには許可されていません。</string>
+    <string name="Timeout_reached">タイムアウトしました。</string>
+
 </resources>

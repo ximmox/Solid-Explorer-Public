@@ -856,5 +856,22 @@
 		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">これらのアイテムの設定を初期設定に戻しますか？</string>
 
 
+		<!-- v 1.4.6 -->
+		<string name="no_wifi_available">Wi-Fiに接続していません。ホットスポットを作成しますか?</string>
+		<string name="disable_hotspot">ホットスポットを無効にしますか?</string>
+
+		<!-- v 1.5 -->
+		<string name="Any_type">全てのタイプ</string>
+		<string name="Ubuntu_one_login">Ubuntu Oneにログイン</string>
+		<string name="Master_password_has_been_changed">マスターパスワードが変更されました。</string>
+		<string name="Encryption">暗号化</string>
+		<string name="Certificates">証明書</string>
+		<string name="Trust_all_ssl_certificates">SSL証明書を全て信頼する</string>
+		<string name="Use_at_your_own_risk">自己責任でご利用ください</string>
+		<string name="Gestures">ジェスチャ</string>
+		<string name="Enable_list_zoom">リストでのズームを有効にする</string>
+		<string name="Enable_list_zoom_summary">有効にするとリストのサイズをピンチジェスチャで変更出来るようになります。</string>
+		<string name="Mediafire_login">MediaFireにログイン</string>
+		<string name="No_master_password_set">マスターパスワードはセットされていません。</string>
 
 </resources>
