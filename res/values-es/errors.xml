@@ -48,8 +48,17 @@
     <string name="Unable_to_find_an_activity_to_complete_this_action">No se pudo encontrar una actividad para completar esta acción</string>
     <string name="Unable_to_set_the_wallpaper">no se puedo configurar el fondo de pantalla</string>    
 	
-	<!-- 1.4.3 -->
+    <!-- 1.4.3 -->
     <string name="Unlocker_error">Se encontró el unlocker pero este devolvió un error. Esto normalmente sucede cuando otra aplicación bloquea sus permisos, ej. antivirus. Aseguresé de que Solid Explorer y el unlocker están excluidos de cualquier lista negra y arranque la aplicación de nuevo.</string>
     <string name="Unable_to_get_the_link">No se puedo obtener el enlace</string>    
+
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">El recurso solicitado ha sido movido</string>
+    <string name="Invalid_syntax">Sintaxis inválida</string>
+    <string name="Service_unavailable">Servicio temporalmente no disponible, inténtelo más tarde por favor</string>
+    <string name="Unauthorized">No autorizado, inicie sesión de nuevo</string>
+    <string name="Resource_not_found">Recurso no encontrado</string>
+    <string name="Method_not_allowed">Método solicitado no permitido para este recurso</string>
+    <string name="Timeout_reached">Límite de tiempo excedido</string>    
     
 </resources>
