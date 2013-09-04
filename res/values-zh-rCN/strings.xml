@@ -796,4 +796,18 @@
     <string name="Wifi_enabled">WiFi 已启用</string>
     <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">您确定要为此项目恢复默认设置吗？</string>
 
+    <!-- v 1.5 -->
+    <string name="Any_type">任意类型</string>
+    <string name="Ubuntu_one_login">登陆 Ubuntu One</string>
+    <string name="Master_password_has_been_changed">主密码已经修改</string>
+    <string name="Encryption">加密</string>
+    <string name="Certificates">证书</string>
+    <string name="Trust_all_ssl_certificates">信任所有 SSL 证书</string>
+    <string name="Use_at_your_own_risk">自行承担风险</string>
+    <string name="Gestures">手势</string>
+    <string name="Enable_list_zoom">启用列表缩放</string>
+    <string name="Enable_list_zoom_summary">启用之后，可以通过手势来改变列表的大小</string>
+    <string name="Mediafire_login">登陆到 MediaFire</string>
+    <string name="No_master_password_set">未设置主密码</string>
+
 </resources>
