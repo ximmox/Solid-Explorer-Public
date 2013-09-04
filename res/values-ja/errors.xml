@@ -3,7 +3,7 @@
     <string name="Directory_does_not_exists">ディレクトリが存在しません</string>
     
     <string name="Unable_to_read_the_file">ファイルを読み込めません</string>
-    <string name="Illegal_operation">不正なオペレーション</string>
+    <string name="Illegal_operation">不正な操作</string>
     
     
     <string name="Cannot_update_the_database">データベースを更新できません</string>
@@ -15,17 +15,17 @@
     <string name="No_root_access_available">ルートアクセスができません</string>
     <string name="Unable_to_read_root_directory">ルートディレクトリを読み込めません</string>
     
-    <string name="Operation_has_failed">オペレーションに失敗しました</string>
+    <string name="Operation_has_failed">操作に失敗しました</string>
     <string name="Invalid_file_path">ファイルパスが正しくありません</string>
     
     
     <string name="Cannot_browse_to_x">\&quot;%\&quot; をブラウズできません。不明なエラーが発生しました。</string>
-    <string name="Cannot_write_to_the_system">ファイルシステムに書き込みできません。R/Wモードとしてマウントできませんでした。</string>
+    <string name="Cannot_write_to_the_system">ファイルシステムに書き込みできません。ジャンプ→クイック設定で読み/書きモードでマウントしてください。</string>
     <string name="Requested_file_x_has_not_been_found">要求されたファイル \&quot;%\&quot; は見つかりませんでした。</string>
     <string name="Unknown_read_write_exception">不明なR/W例外が発生しました。</string>
     <string name="Invalid_url_x">無効なURL: %</string>
     <string name="An_error_occured_while_accessing_master_password">マスターパスワードのアクセス中にエラーが発生しました。</string>
-    <string name="Operation_not_allowed">オペレーションは許可されていません。</string>
+    <string name="Operation_not_allowed">操作は許可されていません。</string>
     <string name="Cannot_connect_to_host_x_on_port_y">\&quot;%x\&quot; (ポート %y) に接続できません。</string>
     <string name="Unable_to_resolve_host_x">ホスト名 \&quot;%x\&quot; を解決できません。</string>
     <string name="Server_returned_illegal_response">サーバーからのレスポンスが不正です。</string>
@@ -40,4 +40,25 @@
     <string name="Cannot_create_directory_X">ディレクトリ \&quot;%x\&quot; を作成できません。</string>
     <string name="Unable_to_start_the_service_on_port_x">ポート % でサービスを開始できません。</string>
     
+    <string name="Invalid_position">不正な位置です。</string>
+    <string name="Unable_to_delete_file_x">ファイル%を削除できません。</string>
+    <string name="Unable_to_mount_the_system_as_read_write">システムを読み/書きモードでマウントできません。</string>
+    <string name="Unable_to_mount_the_system_as_read_only">システムを読み取り専用モードでマウントできません。</string>
+    <string name="Access_denied">アクセスが拒否されました。</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">この操作を完了するためのアクティビティが見つかりません。</string>
+    <string name="Unable_to_set_the_wallpaper">壁紙をセットできません。</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">Unlockerがありますがエラーを返しました。ウイルス対策アプリなどが権限を制限している場合があるので、Solid ExplorerとUnlockerがブラックリストから除外されているか確認してください。</string>
+    <string name="Unable_to_get_the_link">リンクを取得できません。</string>
+    
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">要求したリソースは移動されました。</string>
+    <string name="Invalid_syntax">不正な構文</string>
+    <string name="Service_unavailable">サービスが一時的に使用できないので後でお試しください。</string>
+    <string name="Unauthorized">もう一度ログインしてください。</string>
+    <string name="Resource_not_found">リソースがありません。</string>
+    <string name="Method_not_allowed">要求したメソッドはこのリソースには許可されていません。</string>
+    <string name="Timeout_reached">タイムアウトしました。</string>
+
 </resources>

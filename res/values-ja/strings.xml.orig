@@ -351,7 +351,11 @@
     	<string name="Command_executed_successfully">コマンドが正常に実行されました</string>
     	<string name="Deleting_data">データを削除中</string>
     	<string name="Done">完了</string>
+<<<<<<< HEAD
+    	<string name="Preparing_for_operation">オペレーションの準備中…</string>
+=======
     	<string name="Preparing_for_operation">操作の準備中…</string>
+>>>>>>> 044c41a5d0fad9dbca8774822e9f00b113e47638
     	<string name="Connecting">接続中</string>
     	<string name="Connecting_to_x">\&quot;%\&quot; に接続中</string>
     	<string name="File_is_too_big">ファイルが大きすぎます。編集できるファイルのサイズは最大で75kBです。より大きなファイルの編集はまもなくサポートする予定です。</string>
@@ -606,7 +610,11 @@
     <string name="Other">その他</string>
     	
     <string name="Clear_persistent_data">データをクリア</string>
+<<<<<<< HEAD
+    <string name="Clear_persistent_data_summary">サムネイルキャッシュや一時ファイル、オペレーション履歴などを削除します</string>
+=======
     <string name="Clear_persistent_data_summary">サムネイルキャッシュや一時ファイル、操作履歴などを削除します</string>
+>>>>>>> 044c41a5d0fad9dbca8774822e9f00b113e47638
     <string name="Clear_thumbnail_cache">サムネイルキャッシュをクリア</string>
     <string name="Clear_temporary_files">一時ファイルをクリア</string>
     <string name="Clear_operation_history">操作履歴をクリア</string>
@@ -659,7 +667,11 @@
     <string name="Icon_designer">アイコンデザイナー</string>
     <string name="Prefix">プレフィックス</string>
     <string name="Translations">翻訳者</string>
+<<<<<<< HEAD
+    <string name="Translations_summary">おたっく（otack）</string>
+=======
     <string name="Translations_summary">おたっく（otack）, WedyDQ10</string>
+>>>>>>> 044c41a5d0fad9dbca8774822e9f00b113e47638
     <string name="Empty">空</string>
     <string name="Press_once_again_to_exit">もう一度戻るキーを押すと終了します</string>
     
@@ -856,6 +868,8 @@
 		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">これらのアイテムの設定を初期設定に戻しますか？</string>
 
 
+<<<<<<< HEAD
+=======
 		<!-- v 1.4.6 -->
 		<string name="no_wifi_available">Wi-Fiに接続していません。ホットスポットを作成しますか?</string>
 		<string name="disable_hotspot">ホットスポットを無効にしますか?</string>
@@ -873,5 +887,6 @@
 		<string name="Enable_list_zoom_summary">有効にするとリストのサイズをピンチジェスチャで変更出来るようになります。</string>
 		<string name="Mediafire_login">MediaFireにログイン</string>
 		<string name="No_master_password_set">マスターパスワードはセットされていません。</string>
+>>>>>>> 044c41a5d0fad9dbca8774822e9f00b113e47638
 
 </resources>
