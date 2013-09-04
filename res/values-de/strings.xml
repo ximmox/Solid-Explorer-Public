@@ -805,4 +805,50 @@
     <string name="Back_goes_to_root_summary">Erlaubt bis zum Stammverzeichnis zu gehen, wenn der Zurück-Button gedrückt wird</string>
     <string name="Keep_the_screen_on">Bildschirm angeschaltet lassen</string>
     <string name="Keep_the_screen_on_summary">Hält den Bildschirm angeschaltet während Datei-Operationen. Nützlich falls bei ausgeschaltetem Bildschirm langsamere Übertragungen auftreten.</string>
+
+    <!-- v 1.4.4 -->
+    <string name="Clear_thumbnails_on_exit">Lösche Thumbnails beim Beenden</string>
+    <string name="Image_thumbnails_will_be_removed_on_app_exit">Vorschaubilder werden beim Beenden der App gelöscht</string>
+    <string name="Toggle_nomedia"> Schalte .nomedia Datei an/aus</string>
+    <string name="Total_time">Gesamtzeit</string>
+    <string name="Average_speed">Durchschnittsgeschwindigkeit</string>
+    <string name="Add_new_item">Neuen Typ hinzufügen</string>
+    <string name="Application_chooser">App-Auswahl</string>
+    <string name="Manage_associations">Verwalte Dateitypverknüpfungen</string>
+    <string name="Manage_associations_summary">Legt fest, mit welchen Apps bestimmte Dateitypen geöffnet werden</string>
+    <string name="Choose_an_application">Wähle eine Anwendung</string>
+    <string name="Application">Anwendung</string>
+    <string name="Extension">Dateiendung</string>
+    <string name="No_extension_specified">Keine Dateieindung festgelegt</string>
+    <string name="You_didn_t_choose_the_application">Keine Anwendung ausgewählt</string>
+    <string name="Added_to_queue">Zum Queue hinzugefügt</string>
+    <string name="Streaming">Streaming</string>
+    <string name="There_is_already_the_same_file_in_temporary_directory">Die gleiche Datei existiert bereits im temporären Ordner. Soll diese aus dem Cache geöffnet werden oder die aktuellste Version heruntergeladen werden?</string>
+    <string name="Download">Download</string>
+    <string name="X_files_updated">% Datei{1:|__:en} aktualisiert<ring>
+    <string name="Temporary_file_has_been_modified">Die temporäre Datei % wurde geändert. Soll sie wieder hochgeladen werden?</string>
+    <string name="Temporary_files_have_been_modified">% temporäre Datei{1:|__:en} wurden geändert. Sollen sie hochgeladen werden?</string>
+    <string name="Slide_from_bottom">Von unten aufbauen</string>
+    <string name="Fall_down">Von oben herunterfallen</string>
+    <string name="Come_in">Einblenden</string>
+    <string name="Slide_from_right">Von rechts hereinschieben</string>
+    <string name="Slide_from_left">Von links hereinschieben</string>
+    <string name="Default">Standard</string>
+    <string name="List_animations">Animationen der Dateiliste</string>
+    <string name="List_animations_summary">Passt die Animationen bei Übergangen in der Dateiliste an</string>
+    <string name="Clear_filter_history">Lösche Suchfilter-Verlauf</string>
+    <string name="Clear_filter_history_summary">Löscht den Verlauf des Dateilisten-Suchfilters</string>
+    <string name="New_webdav_connection">WebDAV-Verbindung</string>
+    <string name="WebDav_bookmarks">WebDAV Lesezeichen</string>
+    
+    <!--  v 1.4.5 -->
+    <string name="Domain">Domain</string>
+    <string name="Mode">Modus</string>
+    <string name="Passive">Passiv</string>
+    <string name="Nomedia_on">.nomedia Datei erstellt</string>
+    <string name="Nomedia_off">.nomedia Datei entfernt</string>
+    <string name="Wifi_disabled">WLAN deaktiviert</string>
+    <string name="Wifi_enabled">WLAN aktiviert</string>
+    <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Sicher, dass die Standardeinstellungen für dieses Objekt wiederhergestellt werden sollen?</string>
+	
 </resources>

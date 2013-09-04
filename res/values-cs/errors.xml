@@ -5,7 +5,7 @@
     <string name="Unable_to_read_the_file">Soubor nelze přečíst</string>
     <string name="Illegal_operation">Neplatná operace</string>
     
-    
+	
     <string name="Cannot_update_the_database">Nelze aktualizovat databázi</string>
     <string name="Error">Chyba</string>
     
@@ -19,7 +19,7 @@
     <string name="Invalid_file_path">Neplatná cesta k souboru</string>
     
 	
-    <string name="Cannot_browse_to_x">Nelze procházet \&quot;%\&quot;. Neznámá chyba.</string>
+    <string name="Cannot_browse_to_x">Nelze procházet \&quot;%\&quot;. Vyskytla se neznámá chyba.</string>
     <string name="Cannot_write_to_the_system">Nelze zapisovat do souborového systému. Připojení pro čtení/zápis se nezdařilo.</string>
     <string name="Requested_file_x_has_not_been_found">Požadovaný soubor \&quot;%\&quot; nebyl nalezen.</string>
     <string name="Unknown_read_write_exception">Neznámá výjimka čtení/zápis.</string>
@@ -28,8 +28,8 @@
     <string name="Operation_not_allowed">Operace není povolena.</string>
     <string name="Cannot_connect_to_host_x_on_port_y">Nelze se připojit k \&quot;%x\&quot; na portu %y.</string>
     <string name="Unable_to_resolve_host_x">Nelze přeložit jméno hostitele \&quot;%x\&quot;.</string>
-    <string name="Server_returned_illegal_response">Server vrátil nedovolenou odpověď</string>
-    <string name="An_error_occured_while_transferring_data_from_the_server">Chyba při přenosu dat ze serveru.</string>
+    <string name="Server_returned_illegal_response">Server vrátil neplatnou odpověď</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Vyskytla se chyba při přenosu dat ze serveru.</string>
     <string name="Invalid_username_or_password">Neplatné uživatelské jméno nebo heslo.</string>
     <string name="Internal_server_error">Vnitřní chyba serveru.</string>
     <string name="Server_response_x">Odpověď serveru: %x</string>

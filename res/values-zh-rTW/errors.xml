@@ -1,2 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources><string name="Directory_does_not_exists">路徑不存在</string><string name="Unable_to_read_the_file">無法讀取檔案</string><string name="Illegal_operation">不合理的操作</string><string name="Cannot_update_the_database">無法更新資料庫</string><string name="Error">錯誤</string><string name="Invalid_password_for_user_x">無效的 \"%\" 使用者密碼</string><string name="Invalid_master_password">無效的主密碼</string><string name="Unable_to_execute_shell_command">無法執行此命令</string><string name="No_root_access_available">無法取得root權限</string><string name="Unable_to_read_root_directory">無法讀取根目錄</string><string name="Operation_has_failed">操作失敗</string><string name="Invalid_file_path">無效的檔案路徑</string><string name="Cannot_browse_to_x">無法瀏覽 \"%\"，發生未知錯誤。</string><string name="Cannot_write_to_the_system">無法更改系統資料，mount 統系為可 讀/寫 失敗。</string><string name="Requested_file_x_has_not_been_found">欲存取的檔案 \"%\" 不存在。</string><string name="Unknown_read_write_exception">未知的不可 讀/寫 的路徑</string><string name="Invalid_url_x">無效的 URL: %</string><string name="An_error_occured_while_accessing_master_password">獲取主密碼時發生錯誤</string><string name="Operation_not_allowed">不允許的操作</string><string name="Cannot_connect_to_host_x_on_port_y">無法用port %y  連線到 \"%x\" 。</string><string name="Unable_to_resolve_host_x">無法解析host名稱  \"%x\".</string><string name="Server_returned_illegal_response">伺服器回傳 : 不合理的操作</string><string name="An_error_occured_while_transferring_data_from_the_server">傳送資料到伺服器過程中發生錯誤。</string><string name="Invalid_username_or_password">無法的使用者名稱或密碼</string><string name="Internal_server_error">內部伺服器錯誤</string><string name="Server_response_x">伺服器回傳 : %x</string><string name="Unable_to_open_the_file_for_reading">無法開啟並讀取檔案</string><string name="Unable_to_write_the_file_to_x">無法寫入檔案到 \"%x\".</string><string name="Unable_to_connect_to_the_x">無法連線到 %x.</string><string name="Unknown_error">未知的錯誤</string><string name="Cannot_create_directory_X">無法創建路徑 \"%x\"</string></resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Directory_does_not_exists">目錄不存在</string>
+    
+    <string name="Unable_to_read_the_file">無法讀取檔案</string>
+    <string name="Illegal_operation">非法操作</string>
+    
+    
+    <string name="Cannot_update_the_database">無法更新數據庫</string>
+    <string name="Error">錯誤</string>
+    
+    <string name="Invalid_password_for_user_x">用戶或密碼無效 \&quot;%\&quot;</string>
+    <string name="Invalid_master_password">主密碼無效</string>
+    <string name="Unable_to_execute_shell_command">無法執行命令</string>
+    <string name="No_root_access_available">沒有Root權限</string>
+    <string name="Unable_to_read_root_directory">無法讀取系統目錄</string>
+    
+    <string name="Operation_has_failed">操作失敗</string>
+    <string name="Invalid_file_path">無效文件路徑</string>
+    
+    
+    <string name="Cannot_browse_to_x">無法瀏覽 \&quot;%\&quot檔案文件，加載檔案系統為讀/寫時失敗。</string>
+    <string name="Requested_file_x_has_not_been_found">請求文件 \&quot;%\&quot; 不存在。</string>
+    <string name="Unknown_read_write_exception">未知讀/寫異常</string>
+    <string name="Invalid_url_x">無效URL：%</string>
+    <string name="An_error_occured_while_accessing_master_password">訪問主密碼時發生錯誤</string>
+    <string name="Operation_not_allowed">該操作不被允許。</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">無法連接至 \&quot;%x\&quot; 的 %y 端口。</string>
+    <string name="Unable_to_resolve_host_x">無法解析主機名 \&quot;%x\&quot;。</string>
+    <string name="Server_returned_illegal_response">服務器返回非法響應</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">從服務器傳輸數據的過程中發生錯誤。</string>
+    <string name="Invalid_username_or_password">無效用戶名或密碼。</string>
+    <string name="Internal_server_error">服務器內部錯誤。</string>
+    <string name="Server_response_x">服務器響應：%x</string>
+    <string name="Unable_to_open_the_file_for_reading">無法打開以讀取檔案。</string>
+    <string name="Unable_to_write_the_file_to_x">無法寫入檔案至 \&quot;%x\&quot;</string>
+    <string name="Unable_to_connect_to_the_x">無法連接至 %x。</string>
+    <string name="Unknown_error">未知的錯誤</string>
+    <string name="Cannot_create_directory_X">無法創建目錄 \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">無法在 % 端口上開啟服務</string>
+    
+    <string name="Invalid_position">無效位置</string>
+    <string name="Unable_to_delete_file_x">無法刪除檔案 %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">無法加載系統目錄為讀/寫</string>
+    <string name="Unable_to_mount_the_system_as_read_only">無法加載系統目錄為只讀</string>
+    <string name="Access_denied">訪問被拒絕</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">無法找到能完成行動的動作</string>
+    <string name="Unable_to_set_the_wallpaper">無法設置壁紙</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">解鎖器已找到，但是卻返回了一個錯誤信息。這通常是由於另外一個應用程序鎖定了它的權限所造成的，比如殺毒軟件等。請確保Solid Explorer和解鎖器沒有在任何黑名單之中，並重新打開應用重試。</string>
+    <string name="Unable_to_get_the_link">無法獲得連接信息</string>
+    
+</resources>

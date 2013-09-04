@@ -741,4 +741,13 @@
   <string name="Clear_filter_history_summary">מחק את רשומות ההיסטוריה של מסנן הרשימה</string>
   <string name="New_webdav_connection">חיבור WebDav</string>
   <string name="WebDav_bookmarks">סימניות WebDav</string>
+  <!--  v 1.4.5 -->
+  <string name="Domain">דומיין</string>
+  <string name="Mode">מצב</string>
+  <string name="Passive">פסיבי</string>
+  <string name="Nomedia_on">נוצר קובץ .nomedia</string>
+  <string name="Nomedia_off">הקובץ .nomedia נמחק</string>
+  <string name="Wifi_disabled">WiFi מכובה</string>
+  <string name="Wifi_enabled">WiFi דלוק</string>
+  <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">אתה בטוח שאתה רוצה לשחזר את ההגדרות ברירת מחדל לפריט הזה?</string>
 </resources>

@@ -389,14 +389,14 @@
     <string name="Indexing_has_been_unscheduled">索引计划未创建</string>
     <string name="Scheduled_indexing">创建索引计划</string>
     <string name="Tap_to_start">点击开始</string>
-    <string name="Are_you_sure_you_want_to_delete_items">您是否确认删除 % 项文件？</string>
-    <string name="X_files_deleted">% 项文件已被删除</string>
-    <string name="X_files_copied">% 项文件已被复制</string>
-    <string name="X_files_moved">% 项文件已被移动</string>
-    <string name="X_items">% 项</string>
-    <string name="Deleting_X_files">正在删除 % 项文件</string>
-    <string name="Copying_X_files">正在复制 % 项文件</string>
-    <string name="Moving_X_files">正在移动 % 项文件</string>
+    <string name="Are_you_sure_you_want_to_delete_items">您是否确认删除 % 个文件？</string>
+    <string name="X_files_deleted">% 个文件已被删除</string>
+    <string name="X_files_copied">% 个文件已被复制</string>
+    <string name="X_files_moved">% 个文件已被移动</string>
+    <string name="X_items">% 个</string>
+    <string name="Deleting_X_files">正在删除 % 个文件</string>
+    <string name="Copying_X_files">正在复制 % 个文件</string>
+    <string name="Moving_X_files">正在移动 % 个文件</string>
     <string name="Indexing_scheduled_at_X_every_Y">索引计划将每隔 %y 天的 %x 执行</string>
 
 
@@ -636,7 +636,7 @@
     <string name="Shortcut">快捷方式</string>
     <string name="Two_panels_in_landscape_summary">横屏状态下同时显示双面板</string>
     <string name="Two_panels_in_landscape">横屏显示双面板</string>
-    <string name="Restart_prompt">应用程序需要重启来使更改生效，您是否确认继续？</string>
+    <string name="Restart_prompt">应用程序需重启以使更改生效，您是否确认继续？</string>
     <string name="Custom_color_scheme">自定义配色方案</string>
     <string name="Custom_color_scheme_summary">自定义整体配色方案，但可能将大大减慢应用程序启动速度。</string>
     <string name="Color_scheme">配色方案</string>
@@ -678,15 +678,15 @@
  
     <!-- Now multiple patterns are supported so you can correct previous patterns
     if more than one noun in a sentence is affected -->
-    <string name="X_folders_and_Y_files_deleted">%x 项文件夹和 %y 个文件已被删除</string>
-    <string name="X_folders_and_Y_files_copied">%x 项文件夹和 %y 个文件已被复制</string>
-    <string name="X_folders_and_Y_files_moved">%x 项文件夹和 %y 个文件已被移动</string>
-    <string name="Deleting_X_folders_and_Y_files">正在删除 %x 项文件夹和 %y 个文件</string>
-    <string name="Copying_X_folders_and_Y_files">正在复制 %x 项文件夹和 %y 个文件</string>
-    <string name="Moving_X_folders_and_Y_files">正在移动 %x 项文件夹和 %y 个文件</string>
-    <string name="X_folders_moved">% 项文件夹已被移动</string>
-    <string name="Moving_X_folders">正在移动 % 项文件夹</string>
-    <string name="X_folders">% 项文件夹</string>
+    <string name="X_folders_and_Y_files_deleted">%x 个文件夹和 %y 个文件已被删除</string>
+    <string name="X_folders_and_Y_files_copied">%x 个文件夹和 %y 个文件已被复制</string>
+    <string name="X_folders_and_Y_files_moved">%x 个文件夹和 %y 个文件已被移动</string>
+    <string name="Deleting_X_folders_and_Y_files">正在删除 %x 个文件夹和 %y 个文件</string>
+    <string name="Copying_X_folders_and_Y_files">正在复制 %x 个文件夹和 %y 个文件</string>
+    <string name="Moving_X_folders_and_Y_files">正在移动 %x 个文件夹和 %y 个文件</string>
+    <string name="X_folders_moved">% 个文件夹已被移动</string>
+    <string name="Moving_X_folders">正在移动 % 个文件夹</string>
+    <string name="X_folders">% 个文件夹</string>
     <string name="X_files">% 个文件</string>
     <string name="Show_status_summary">在浏览窗口中显示当前目录内容空间使用情况</string>
     <string name="Show_status">显示状态</string>
@@ -709,7 +709,7 @@
     <string name="Standard">标准</string>
     <string name="No_compression">无压缩</string>
     <string name="A_while_ago">一段时间之前</string>
-    <string name="X_hours_Y_minutes_ago">%x 小时%y 分之前</string>
+    <string name="X_hours_Y_minutes_ago">%x 小时 %y 分之前</string>
     <!-- Already exists, just changed the content -->
     <string name="Expiration_message">感谢您使用 Solid Explorer，试用期到此结束。若您需继续使用，请移步至 Google Play 购买解锁密钥，请确保您对该应用完全满意后再进行付款。</string>
     <string name="Purchased_message">感谢您购买完整版 Solid Explorer。祝您使用愉快！</string>
@@ -720,8 +720,8 @@
  
     <!-- v 1.4.3 -->
     <string name="Wallpaper_has_been_set_successfully">壁纸设置成功</string>
-    <string name="X_has_been_set_as_default_ringtone">% 已设置为默认铃声</string>
-    <string name="X_has_been_set_as_default_notification">% 已设置为默认通知音</string>
+    <string name="X_has_been_set_as_default_ringtone">已设置 % 为默认铃声</string>
+    <string name="X_has_been_set_as_default_notification">已设置 % 为默认通知音</string>
     <string name="X_has_been_set_as_default_alarm">% 已设置为默认闹铃</string>
     <string name="Copy_path">复制路径</string>
     <string name="Copy_name">复制昵称</string>
@@ -768,11 +768,11 @@
     <string name="You_didn_t_choose_the_application">您尚未选择任何应用</string>
     <string name="Added_to_queue">添加至队列</string>
     <string name="Streaming">流</string>
-    <string name="There_is_already_the_same_file_in_temporary_directory">临时文件夹中已有同名文件存在，您想要打开本地缓存的副本还是重新下载该文件？</string>
+    <string name="There_is_already_the_same_file_in_temporary_directory">临时文件夹中已有同名文件存在，您是否确认打开本地缓存的副本还是重新下载该文件？</string>
     <string name="Download">下载</string>
     <string name="X_files_updated">% 个文件已更新</string>
-    <string name="Temporary_file_has_been_modified">本地文件 % 已被修改，您要将其上传回服务器吗？</string>
-    <string name="Temporary_files_have_been_modified">% 个本地文件已被修改，您要将其上传回服务器吗？</string>
+    <string name="Temporary_file_has_been_modified">本地文件 % 已被修改，您是否需将其上传回服务器？</string>
+    <string name="Temporary_files_have_been_modified">% 个本地文件已被修改，您是否需将其上传回服务器？</string>
     <string name="Slide_from_bottom">从底部滑动</string>
     <string name="Fall_down">下拉</string>
     <string name="Come_in">进入</string>
@@ -785,5 +785,15 @@
     <string name="Clear_filter_history_summary">删除列表过虑器查询历史</string>
     <string name="New_webdav_connection">WebDav 接连</string>
     <string name="WebDav_bookmarks">WebDav 书签</string>
+
+    <!--  v 1.4.5 -->
+    <string name="Domain">域名</string>
+    <string name="Mode">模式</string>
+    <string name="Passive">被动</string>
+    <string name="Nomedia_on">.nomedia 文件已创建</string>
+    <string name="Nomedia_off">.nomedia 文件已删除</string>
+    <string name="Wifi_disabled">WiFi 已禁用</string>
+    <string name="Wifi_enabled">WiFi 已启用</string>
+    <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">您确定要为此项目恢复默认设置吗？</string>
 
 </resources>

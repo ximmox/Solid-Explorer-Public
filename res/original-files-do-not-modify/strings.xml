@@ -846,11 +846,29 @@
 		<string name="Domain">Domain</string>
 		<string name="Mode">Mode</string>
 		<string name="Passive">Passive</string>
-		<string name="Nomedia_on">.nomedia file crated</string>
+		<string name="Nomedia_on">.nomedia file created</string>
 		<string name="Nomedia_off">.nomedia file deleted</string>
 		<string name="Wifi_disabled">WiFi disabled</string>
 		<string name="Wifi_enabled">WiFi enabled</string>
 		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Are you sure you want to restore default settings for this item?</string>
 		
+		
+		<!-- v 1.4.6 -->
+		<string name="no_wifi_available">No wifi available. Would you like to setup a hot spot on your device?</string>
+		<string name="disable_hotspot">Disable hotspot?</string>
+		
+		<!-- v 1.5 -->
+		<string name="Any_type">Any type</string>
+		<string name="Ubuntu_one_login">Ubuntu One login</string>
+		<string name="Master_password_has_been_changed">Master password has been changed</string>
+		<string name="Encryption">Encryption</string>
+		<string name="Certificates">Certificates</string>
+		<string name="Trust_all_ssl_certificates">Trust all SSL certificates</string>
+		<string name="Use_at_your_own_risk">Use at your own risk</string>
+		<string name="Gestures">Gestures</string>
+		<string name="Enable_list_zoom">Enable list zoom</string>
+		<string name="Enable_list_zoom_summary">When enabled, you can change size of the lists using pinch gesture</string>
+		<string name="Mediafire_login">Log in to MediaFire</string>
+		<string name="No_master_password_set">Master password has not been set</string>
 		
 </resources>

@@ -256,6 +256,7 @@
     <string name="Calculation_error">Ошибка вычисления</string>
     <string name="Content">Содержание</string>
     <string name="Other_used">Другое.</string>
+    <string name="Free">Свободно</string>
     <string name="Free_space">Свободно</string>
     <string name="Usage">Занято</string>
     <string name="Attributes">Атрибуты</string>
@@ -796,9 +797,9 @@
      <string name="Data_backup">Резервирование данных</string>
      <string name="Application_data">Данные приложений</string>
      <string name="Create_backup">Создать резервную копию</string>
-     <string name="Backup_application_data_to_a_desired_file">Резервировать внешние данные к выбранному файлу</string>
+     <string name="Backup_application_data_to_a_desired_file">Резервировать данные этого приложения в файл</string>
      <string name="Restore_backup">Восстановить из резервной копии</string>
-     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Выбрать резервный файл для извлечения данных</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Выбрать резервный файл для восстановления данных</string>
      <string name="Data_backup_created">Резервная копия данных создана</string>
      <string name="Data_backup_restored">Данные восстановлены</string>
      <string name="Support">Поддержка</string>
@@ -843,4 +844,28 @@
     <string name="Clear_filter_history_summary">"Удалить список истории запросов фильтра"</string>
     <string name="New_webdav_connection">WebDav соединение</string>
     <string name="WebDav_bookmarks">WebDav закладки</string>
+    <!-- v 1.4.5 -->
+    <string name="Domain">Домен</string>
+    <string name="Mode">Режим</string>
+    <string name="Passive">Паcсивный</string>
+    <string name="Nomedia_on">.nomedia файл создан</string>
+    <string name="Nomedia_off">.nomedia файл удалён</string>
+    <string name="Wifi_disabled">WiFi выключен</string>
+    <string name="Wifi_enabled">WiFi включён</string>
+    <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Вы уверены, что хотите восстановить настройки по умолчанию для этого пункта?</string>
+    <!-- v 1.5 Beta-->
+    <string name="no_wifi_available">Нет точки WiFi. Хотели бы Вы установить Hot Spot на вашем устройстве?</string>
+    <string name="disable_hotspot">Отключить Hot Spot?</string>
+    <string name="Any_type">Любой тип</string>
+    <string name="Ubuntu_one_login">Ubuntu One логин</string>
+    <string name="Master_password_has_been_changed">Мастер-пароль был изменён</string>
+    <string name="Encryption">Шифрование</string>
+    <string name="Certificates">Сертификаты</string>
+    <string name="Trust_all_ssl_certificates">Доверять всем SSL сертификатам</string>
+    <string name="Use_at_your_own_risk">Используйте их на свой страх и риск</string>
+    <string name="Gestures">Жесты</string>
+    <string name="Enable_list_zoom">Включить увеличение жестами в списке</string>
+    <string name="Enable_list_zoom_summary">Если эта функция включена, вы можете изменить размер списка, используя щипком жест</string>
+    <string name="Mediafire_login">Войти в MediaFire</string>
+    <string name="No_master_password_set">Мастер-пароль не был установлен</string>
 </resources>

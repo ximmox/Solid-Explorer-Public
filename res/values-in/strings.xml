@@ -841,5 +841,15 @@
 	<string name="New_webdav_connection">Koneksi WebDav</string>
 	<string name="WebDav_bookmarks">Penanda WebDav</string>
 
+	<!--  v 1.4.5 -->
+	<string name="Domain">Domain</string>
+	<string name="Mode">Mode</string>
+	<string name="Passive">Pasif</string>
+	<string name="Nomedia_on">File .nomedia dibuat</string>
+	<string name="Nomedia_off">File .nomedia Dihapus</string>
+	<string name="Wifi_disabled">WiFi dinon-aktifkan</string>
+	<string name="Wifi_enabled">WiFi diaktifkan</string>
+	<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Apakah anda mau mengembalikan pengaturan berikut ke nilai semula?</string>
+
 
 </resources>

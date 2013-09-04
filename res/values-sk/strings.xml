@@ -738,7 +738,8 @@ Krzysztof Głodowski"</string>
     	<string name="Function_not_available">Táto funkcia nie je dostupná v aktálnej verzii systému</string>
 
     <!-- v 1.4.3 -->
-    	<string name="Wallpaper_has_been_set_successfully">Tapeta bola úspešne zmenená</string>
+    	<string name="Clear_thumbnails_on_exit">Vymazať náhľady pri ukončení</string>
+    	<string name="Image_thumbnails_will_be_removed_on_app_exit">Náhľady obrátkov budú pri ukončení aplikácie vymazané</string><string name="Wallpaper_has_been_set_successfully">Tapeta bola úspešne zmenená</string>
     	<string name="X_has_been_set_as_default_ringtone">% bol nastavený ako predvolený tón zvonenia</string>
     	<string name="X_has_been_set_as_default_notification">% bol nastavený ako predvolený tón oznámenia</string>
     	<string name="X_has_been_set_as_default_alarm">% bol nastavený ako predvolený tón budíka</string>
@@ -769,5 +770,16 @@ Krzysztof Głodowski"</string>
     	<string name="Back_goes_to_root_summary">Povoľte prechod do koreňového adresára pri stlačení tlačidla Späť</string>
     	<string name="Keep_the_screen_on">Ponechať obrazovku zapnutú</string>
     	<string name="Keep_the_screen_on_summary">Ponechá obrazovku zapnutú počas prenosu súborov. Označte, ak dochádza k spomaleniu prenosu pri vypnutí obrazovky.</string>
+
+       
+    <!-- v 1.4.5 -->
+        <string name="Domain">Doména</string>
+        <string name="Mode">Režim</string>
+        <string name="Passive">Pasívny</string>
+        <string name="Nomedia_on">súbor .nomedia vytvorený</string>
+        <string name="Nomedia_off">súbor .nomedia odstránený</string>
+        <string name="Wifi_disabled">WiFi vypnuté</string>
+        <string name="Wifi_enabled">WiFi zapnté</string>
+        <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Určite chcete obnoviť predvolené nastavenia pre túto položku?</string>
 
 </resources>

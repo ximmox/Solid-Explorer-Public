@@ -12,8 +12,8 @@
     <string name="Actions">동작</string>
     
     <!-- "New" popup -->
-    <string name="New_folder">폴더</string>
-    <string name="New_file">파일</string>
+    <string name="New_folder">새 폴더</string>
+    <string name="New_file">새 파일</string>
     <string name="New_FTP_connection">FTP 연결</string>
     <string name="New_SFTP_connection">SFTP 연결</string>
     <string name="New_SMB_connection">SMB 연결</string>
@@ -53,8 +53,8 @@
     
     <!-- "Device" popup -->
      <string name="System_root">시스템 루트</string>
-    <string name="SD_card">SD카드</string>
-    <string name="Internal_memory">내부 메모리</string>
+    <string name="SD_card">SD 카드</string>
+    <string name="Internal_memory">내부 저장소</string>
     <string name="USB_drive_x">USB 장치 %x</string>
     
     <!-- "View" popup -->
@@ -87,8 +87,8 @@
     <string name="Send">보내기</string>
     <string name="Bookmark">북마크</string>
     <string name="Rename">이름 바꾸기</string>
-    <string name="Extract">압축 해제</string>
-    <string name="Extract_to">폴더 선택 후 압축 풀기</string>
+    <string name="Extract">압축해제</string>
+    <string name="Extract_to">폴더에 압축해제</string>
     <string name="Archive">압축하기</string>
     <string name="Paste_to_x">\&quot;%\&quot;로 붙여넣기</string>
     
@@ -104,7 +104,7 @@
 	    
 	    <!-- New connection Dialog -->
 	    <string name="Display_name">표시될 이름</string>
-	    <string name="May_be_empty">비어있는 것 같습니다</string>
+	    <string name="May_be_empty">비어있습니다</string>
     	<string name="Remote_path">원격 경로</string>
     	<string name="Port">포트</string>
     	<string name="User_name">사용자 이름</string>
@@ -148,8 +148,8 @@
     <string name="History">기록</string>
     <string name="Count">숫자</string>
     <string name="Date">날짜</string>
-    <string name="Source">소스</string>
-    <string name="Destination">목적</string>
+    <string name="Source">원본</string>
+    <string name="Destination">목표</string>
     
     	<!-- Operation info -->
     	<string name="Operation">작업</string>
@@ -166,10 +166,10 @@
     	<string name="File_move">파일 이동</string>
     	<string name="File_delete">파일 삭제</string>
     	<string name="Temporary_download">임시 다운로드</string>
-   	 	<string name="Creating_archive">% 기록 생성중</string>
-    	<string name="Extracting_archive">% 기록 추출중</string>
-    	<string name="X_has_been_completed">% 완료되었습니다.</string>
-    	<string name="X_has_failed">% 실패했습니다.</string>
+   	 	<string name="Creating_archive">% 압축 생성</string>
+    	<string name="Extracting_archive">% 압축 해제</string>
+    	<string name="X_has_been_completed">% 완료되었습니다</string>
+    	<string name="X_has_failed">% 실패 하였습니다</string>
     	<string name="Tap_to_show_details">자세히 보려면 클릭하세요</string>
     	<string name="Pending_cancel_request">대기 중인 작업 취소</string>
     	<string name="File_operation">파일 작업</string>
@@ -181,7 +181,7 @@
     <string name="Delete_all">모두 삭제</string>
     <string name="Wifi_toggle">Wi-Fi 토글</string>
     <string name="Wifi_settings">Wi-Fi 설정</string>
-    <string name="Disconnect_all">모드 연결해제</string>
+    <string name="Disconnect_all">모두 연결해제</string>
     <string name="Connected">연결됨</string> 
     <string name="Not_connected">연결되지 않음</string>
     <string name="on">on</string>
@@ -203,16 +203,16 @@
     
     <!-- File sharing -->
     <string name="File_sharing_active">파일 공유 동작</string>
-    <string name="ftp_server_hint">연결하시려면, 윈도우 익스플로러 주소 창에 서버의 주소를 입력하시거나 FTP 클라이언트를 사용하세요.</string>
+    <string name="ftp_server_hint">접속하시려면 윈도우 익스플로러 주소 창에 서버의 주소를 입력하시거나 또는 FTP 클라이언트를 사용하세요.</string>
     <string name="You_cannot_share_root_directory">사용자는 루트 디렉토리를 공유하실 수 없습니다</string>
     <string name="File_sharing_stopped">파일 공유 중단됨</string>
     <string name="None">없음</string>
     <string name="You_have_to_be_connected_to_the_LAN_network">사용자가 지역 네트워크에 연결되어있어야 합니다</string>
-    <string name="Active">동작</string>
+    <string name="Active">Active</string>
     <string name="Inactive">동작중단</string>
     <string name="FTP_Server">FTP 서버</string>
     <string name="Shared_directory">공유할 디렉토리</string>
-    <string name="Type_to_change">변경할 타입</string>
+    <string name="Type_to_change">변경하시려면 입력하세요</string>
     <string name="No_password_set">비밀번호 설정되지 않음</string>
     <string name="Status">상태</string>
     <string name="Server_address">서버 주소</string>
@@ -233,7 +233,7 @@
     
     <!-- File properties -->
     <string name="Content_summary">내용 요약</string>
-    <string name="File_types">File_types</string>
+    <string name="File_types">파일 종류</string>
     <string name="Top_files">상위 %개의 파일</string>
     <string name="Location">경로</string>
     <string name="Type">형식</string>
@@ -325,7 +325,7 @@
     
     	<!-- Question dialogs -->
     	<string name="Are_you_sure_you_want_to_clear_the_history">정말 기록을 지우시겠습니까?</string>
-    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">정말 썸네일 캐시를 지우시겠습니까?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">정말 미리보기 캐시를 지우시겠습니까?</string>
     	<string name="Are_you_sure_you_want_to_delete_temporary_files">정말 임시 파일들을 삭제하시겠습니까?</string>
     	<string name="It_is_time_for_sheduled_indexing">이것은 예약된 인덱스시점입니다. 지금바로 인덱스 작업을 수행하시겠습니까?</string>
     	<string name="Folder_exists_descr">이미 같은 경로에 같은 이름의 폴더가 존재합니다. 무엇을 하시겠습니까?</string>
@@ -334,7 +334,7 @@
     	<string name="Are_you_sure_to_abort_current_operation">정말 현재 작업을 중지하시겠습니까?</string>
     	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">정말 모든 북마크를 삭제하시겠습니까?</string>
     	<string name="Are_you_sure_you_want_to_delete_bookmark">정말 \&quot;%\&quot; 북마크를 삭제하시겠습니까?</string>
-    	<string name="Reindex_prompt">인덱스 작업을 수행중입니다. 이 작업에는 몇 분의 시간이 소모됩니다. 계속하시겠습니까?</string>
+    	<string name="Reindex_prompt">인덱스 작업을 시작합니다. 이 작업은 몇 분의 시간이 소요됩니다. 계속하시겠습니까?</string>
     	<string name="Clear_index_prompt">정말 모든 인덱스 데이터를 지우시겠습니까? 이 작업은 실행을 취소할 수 없습니다.</string>
     	<string name="Are_you_sure_to_stop_indexing">정말 인덱스 작업을 중지하시겠습니까?</string>
     	<string name="Are_you_sure_you_want_to_clear_file_type_associations">정말 파일 연결 형식을 지우시겠습니까?</string>
@@ -363,8 +363,8 @@
     	<string name="Message">메시지</string>
     	<string name="Warning">경고!</string>
     	<string name="You_did_not_specify_a_password">사용자는 비밀번호를 지정하지 않았습니다</string>
-    	<string name="Reading_archive">압축파일 읽는중</string>
-    	<string name="Reading_archive_x">\&quot;%\&quot; 압축파일 읽는중</string>
+    	<string name="Reading_archive">압축파일 읽는 중</string>
+    	<string name="Reading_archive_x">\&quot;%\&quot; 압축파일 읽는 중</string>
     	<string name="Storage_not_available">저장소를 사용할 수 없습니다</string>
     	<string name="The_password_given_is_incorrect">비밀번호가 옳바르지 않습니다</string>
     	<string name="You_did_not_specify_a_server_name">사용자는 서버 이름을 지정하지 않았습니다</string>
@@ -487,9 +487,9 @@
     <!-- Preferences -->
 	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
 	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
-    <string name="Appearance">테마</string>
+    <string name="Appearance">화면표시</string>
 	<string name="Theme">테마</string>
-    <string name="Choose_between_preinstalled_themes">설치된 테마에서 테마를 선택합니다</string>
+    <string name="Choose_between_preinstalled_themes">테마를 선택합니다</string>
     <string name="Light">라이트</string>
     <string name="Dark">다크</string>
     
@@ -497,7 +497,7 @@
     <string name="Show_hidden_files">숨겨진 파일 표시</string>
     
     <string name="Show_file_permissions">파일 퍼미션 표시</string>
-    <string name="Show_file_permissions_summary">최근 데이터 수정일 대신에 유닉스 스타일 퍼미션을 표시합니다 (오직 루트 파일만).</string>
+    <string name="Show_file_permissions_summary">최근 수정일자 대신 유닉스 스타일 퍼미션을 표시합니다 (루트 파일만)</string>
     
     <string name="Date_format">날짜 형식</string>
     <string name="Customize_date_format">날짜 형식을 사용자가 결정합니다</string>
@@ -508,8 +508,8 @@
 	<string name="Show_fast_scroll_thumb_in_file_list">파일 목록에서 빠른 스크롤을 표시합니다</string>
     <string name="Use_fast_scroll">빠른 스크롤 사용</string>
     
-    <string name="Low_quality_thumbnails">저품질 썸네일</string>
-    <string name="Low_quality_thumbnails_summary">메모리 사용량을 줄이려면 사용하세요</string>
+    <string name="Low_quality_thumbnails">저화질 미리보기</string>
+    <string name="Low_quality_thumbnails_summary">메모리 사용량을 줄이려면 체크하세요</string>
     
     <string name="Portrait_fullscreen">세로 전체화면</string>
     <string name="Portrait_fullscreen_summary">세로 모드에서 시스템 상태 바를 숨깁니다</string>
@@ -529,12 +529,12 @@
     <string name="Extra_small">아주작게</string>
     
     <string name="Hide_exit_button">종료 버튼 숨기기</string>
-    <string name="Hide_exit_button_summary">사용자는 뒤로가기 키를 길게 눌러 앱을 종료할 수 있습니다</string>
+    <string name="Hide_exit_button_summary">뒤로가기 버튼을 길게 눌러 앱을 종료할 수 있습니다</string>
     
-    <string name="Startup">설정</string>
+    <string name="Startup">시작 설정</string>
     
     <string name="Remember_last_folder">최근 폴더 기억</string>
-    <string name="Will_start_with_recently_viewed_directories">앱이 최근에 열었던 디렉토리로 실행됩니다</string>
+    <string name="Will_start_with_recently_viewed_directories">앱이 최근에 열었던 디렉토리에서 시작합니다</string>
     
     
     <string name="First_panel_default_dir">첫 패널 디렉토리</string>
@@ -546,14 +546,14 @@
     <string name="Drag_and_drop">끌어다 놓기</string>
     <string name="Action_for_drop_inside_the_panel">같은 패널의 동작</string>
     <string name="Dropping_an_item_to_a_folder_in_the_same_panel">같은 패널에서 폴더에 항목을 끌어다 놓을 경우의 동작을 선택합니다</string>
-    <string name="Action_for_drop_to_the_second_panel">두번째 패널의 동작</string>
-    <string name="Dropping_an_item_to_the_second_panel">두번째 패널에 항목을 끌어다 놓을 경우의 동작을 선택합니다</string>
+    <string name="Action_for_drop_to_the_second_panel">다른 패널의 동작</string>
+    <string name="Dropping_an_item_to_the_second_panel">다른 패널에 항목을 끌어다 놓을 경우의 동작을 선택합니다</string>
     <string name="Move">이동</string>
     
     <string name="Security">보안</string>
-    <string name="Master_password_prompt">Solid Explorer는 모든 로그인 기록을 암호화 하기 위해 마스터 비밀번호를 사용합니다. 만약 사용자가 보안을 걱정하신다면 이 기능을 사용할 것을 추천드립니다. 사용자가 앱을 다시 실행하지 않는 이상 마스터 비밀번호는 한번만 입력하시면 됩니다.  사용하지 않으시면 비밀번호 없이 기본 암호화 상태로 앱을 사용하게 됩니다. 이 기능을 사용하시겠습니까?</string>
-    <string name="Disable_master_password_warning">마스터 비밀번호 기능을 사용중지 하면 기본 비밀번호 형식으로 돌아가게 됩니다. 사용자가 이것을 요청하지 않는이상 로그인 기록은 계속해서 암호화됩니다. 계속 진행하시겠습니까?</string>
-    <string name="Enable_master_password_warning">만약 사용자가 기본 비밀번호로 이전의 북마크를 암호화해서 사용하셨을 경우, 이것들은 모두 제거됩니다. 계속하시겠습니까?</string>
+    <string name="Master_password_prompt">Solid Explorer는 모든 로그인 기록을 암호화 하기 위해 마스터 비밀번호를 사용합니다. 보안을 걱정하신다면 이 기능을 사용할 것을 추천드립니다. 앱을 다시 실행하지 않는 이상 마스터 비밀번호는 한번만 입력하시면 됩니다. 사용하지 않으시면 비밀번호 없이 기본 암호화 상태로 앱을 사용하게 됩니다. 이 기능을 사용하시겠습니까?</string>
+    <string name="Disable_master_password_warning">마스터 비밀번호 기능을 사용중지 하면 기본 비밀번호 형식으로 돌아가게 됩니다. 사용자가 이것을 요청하지 않는 이상 로그인 기록은 계속해서 암호화됩니다. 계속 진행하시겠습니까?</string>
+    <string name="Enable_master_password_warning">기본 비밀번호로 이전의 북마크를 암호화해서 사용하셨을 경우 모두 삭제됩니다. 계속하시겠습니까?</string>
     <string name="Enable_master_password">마스터 비밀번호 사용</string>
 	<string name="Too_weak_password">비밀번호는 최소 6자 이상 16자 미만이여야 합니다.</string>
     <string name="Enter_the_master_password">마스터 비밀번호를 입력해주세요</string>
@@ -563,7 +563,7 @@
     <string name="All_passwords_will_be_reencrypted">모든 비밀번호가 다시 암호화됩니다</string>
     
     <string name="I_dont_remember_my_old_password">이전 비밀번호를 기억해두지 않습니다</string>
-    <string name="Reset_password_warning">경고! 만약 지금바로 새 비밀번호를 설정하실 경우, 모든 북마크에서 이전에 암호화를 사용하고 계실경우 이들은 모두 제거됩니다.</string>
+    <string name="Reset_password_warning">경고! 지금 바로 새 비밀번호를 설정하실 경우, 모든 북마크에서 이전에 암호화를 사용하고 계실경우 이들은 모두 삭제됩니다.</string>
     <string name="Old_password">이전 비밀번호</string>
     <string name="New_password">새 비밀번호</string>
     <string name="Master_password_has_been_disabled">마스터 비밀번호가 사용중지 되었습니다</string>
@@ -575,48 +575,48 @@
     <string name="Search_interface">검색 인터페이스</string>
     <string name="Search_key_starts_filtering">검색 키 필터링 실행</string>
     <string name="Search_key_starts_filtering_summary">검색 동작 실행 대신 필터링 목록을 실행합니다</string>
-    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">목록을 필터링 할때 첫글자만 일치할 경우</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">목록을 필터링 할때 단어의 첫글자가 일치할 경우만 필터링 됩니다</string>
     <string name="Filter_words_from_the_beginning">첫글자만 필터링</string>
     <string name="Customize_indexing_engine_behaviour">사용자가 인덱싱 엔진 동작을 설정합니다</string>
     <string name="Indexing_engine">인덱싱 엔진</string>
     	<string name="Reindex_now">인덱스 새로고침</string>
-    	<string name="Refresh_index_database">인덱스 데이터베이스를 새로고침합니다. 작업이 진행중일 때는 효과가 없습니다.</string>
-    	<string name="Clear_index_data">인덱스 데이터 지우기</string>
-    	<string name="Delete_all_index_data">모든 인덱스 데이터 삭제</string>
-    	<string name="Reindex_on_media_mount">저장소 연결시 인덱스 새로고침</string>
-    	<string name="Reindex_storage_device_when_it_is_mounted">저장소가 연결되었 되었을때 인덱스를 갱신합니다 (추천)</string>
+    	<string name="Refresh_index_database">인덱스 데이터를 다시 구축합니다. 작업이 진행중일 때는 효과가 없습니다.</string>
+    	<string name="Clear_index_data">인덱스 데이터 삭제</string>
+    	<string name="Delete_all_index_data">모든 인덱스 데이터를 삭제 합니다</string>
+    	<string name="Reindex_on_media_mount">저장소 연결시 새로고침</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">저장소가 연결되었을 때 인덱스를 다시 생성합니다(추천)</string>
     	<string name="Shedule_indexing">인덱싱 작업 예약</string>
     	<string name="Perform_reindex_every_given_period">설정된 기간마다 인덱스를 다시 생성합니다</string>
     	<string name="Set_time_and_period">시간과 기간 설정</string>
-    	<string name="The_time_when_the_indexing_will_be_triggered">인덱싱 작업을 실행할 시간</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">인덱싱 작업을 실행할 시각을 설정합니다</string>
     	<string name="Maximum_index_age">최대 인덱스 수명</string>
-    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">파일이 존재하지 않을때 얼마나 오래 인덱스가 DB에 남아있을지 결정합니다</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">파일이 존재하지 않을때 인덱스가 얼마나 오랫동안 DB에 남아 있을지 결정합니다</string>
     	<string name="one_day">1 일</string>
     	<string name="two_days">2 일</string>
     	<string name="five_days">5 일</string>
     	<string name="One_week">일주일</string>
     	<string name="Choose_interval">Choose_interval</string>
     	<string name="three_days">3 일</string>
-    	<string name="How_often_indexing_will_be_performed">인덱싱 작업 수행 주기</string>
+    	<string name="How_often_indexing_will_be_performed">얼마나 자주 인덱싱 작업을 실행할지 결정합니다</string>
     	<string name="Set_period">기간 설정</string>
-    	<string name="Set_time">시간 설정</string>
+    	<string name="Set_time">시각 설정</string>
     	<string name="Show_notifications">알림 표시</string>
     	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">인덱싱 작업이 완료되었거나 중단되었을때 알림을 표시합니다</string>
     
     
     <string name="Other">기타</string>
     	
-    <string name="Clear_persistent_data">영구 데이터 지우기</string>
-    <string name="Clear_thumbnail_cache">썸네일 캐시 지우기</string>
-    <string name="Clear_temporary_files">임시 파일 지우기</string>
-    <string name="Clear_operation_history">작업 기록 지우기</string>
-    <string name="Delete_all_image_previews">모든 이미지 미리보기 지우기</string>
-    <string name="Delete_all_temporary_files">모든 임시 파일 지우기</string>
-    <string name="Delete_operation_history_entries">작업 기록 전체 삭제</string>
-    <string name="Clear_file_type_associations">파일 연결 형식 지우기</string>
-    <string name="Clear_file_type_associations_summary">특정 파일의 형식을 여는데 사용하는 애플리케이션에 대한 정보를 삭제합니다</string>
-    <string name="Clear_temporary_files_on_exit">종료에서 임시파일 지우기</string>
-    <string name="Temporary_files_will_be_removed_on_app_exit">앱을 종료할 때 임시 파일을 제거합니다</string>
+    <string name="Clear_persistent_data">영구 데이터 삭제</string>
+    <string name="Clear_thumbnail_cache">미리보기 캐시 삭제</string>
+    <string name="Clear_temporary_files">임시 파일 삭제</string>
+    <string name="Clear_operation_history">작업 기록 삭제</string>
+    <string name="Delete_all_image_previews">모든 이미지 미리보기를 삭제합니다</string>
+    <string name="Delete_all_temporary_files">모든 임시 파일을 삭제합니다</string>
+    <string name="Delete_operation_history_entries">모든 작업 기록을 삭제합니다</string>
+    <string name="Clear_file_type_associations">파일 연결 형식 삭제</string>
+    <string name="Clear_file_type_associations_summary">특정 파일의 형식을 여는데 사용하는 앱에 대한 정보를 삭제합니다</string>
+    <string name="Clear_temporary_files_on_exit">종료시 임시파일 삭제</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">앱을 종료할 때 임시 파일을 삭제합니다</string>
     
     <string name="Quick_start_guide">빠른 시작 가이드</string>
     <string name="Learn_about_main_features">Solid Exporer의 주요 기능을 배웁니다</string>
@@ -628,9 +628,9 @@
     <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Głodowski</string>
     <string name="Version">버전</string>
     <string name="Changelog">변경사항</string>
-    <string name="Whats_new">신규사항</string>
+    <string name="Whats_new">버전별 변경사항을 표시합니다</string>
     <string name="Author">제작자</string>
-    <string name="Functionality_for_future_releases">앞으로 추가예정 기능</string>
+    <string name="Functionality_for_future_releases">앞으로 추가 예정인 기능을 표시합니다</string>
     <string name="Planned_features">예정된 기능</string>
     
     
@@ -651,7 +651,7 @@
     <string name="crash_notif_title">Solid Explorer가 충돌했습니다...</string>
     <string name="crash_notif_text">이 문제를 해결하려면 이곳을 클릭하세요.</string>
     <string name="crash_dialog_title">Solid Explorer가 충돌했습니다</string>
-    <string name="crash_dialog_text">예상하지 못한 오류가 발생하여 애플리케이션을 강제로 중지했습니다. 이 문제를 해결하기 위해 저에게 버그 리포트를 보내주세요.</string>
+    <string name="crash_dialog_text">예상하지 못한 오류가 발생하여 앱을 강제로 중지했습니다. 이 문제를 해결하기 위해 저희에게 오류 보고서를 보내주세요.</string>
     <string name="crash_dialog_comment_prompt">아래에 발생한 문제에 대한 정보를 자세하게 입력해주세요. 사용자의 의견 없이는 해결이 불가능한 문제가 있을 수 있습니다.</string>
     <string name="crash_dialog_ok_toast">감사합니다!</string>
     
@@ -661,7 +661,7 @@
     <string name="Press_once_again_to_exit">종료하려면 한번 더 누르세요</string>
     
     
-    <string name="View_in_DiskUsage">디스크사용량 보기</string>
+    <string name="View_in_DiskUsage">저장소 사용량 보기</string>
     <string name="Retry">다시시도</string>
     <string name="Portrait">세로</string>
     <string name="Landscape">가로</string>
@@ -676,22 +676,22 @@
     <string name="No_computers_found">컴퓨터를 발견하지 못했습니다</string>
     <string name="Local_directory">일반 경로</string>
     <string name="Default_panel">기본 패널</string>
-    <string name="Destination_type">목적 형식</string>
-    <string name="DiskUsage_not_installed">DiskUsage가 설치되지 않은 것 같습니다. 이 앱은 정말 정확하고 사용자에게 도움이 되도록 메모리 사용량을 보여줍니다. 지금바로 설치하시겠습니까?</string>
+    <string name="Destination_type">대상 형식</string>
+    <string name="DiskUsage_not_installed">DiskUsage가 설치되지 않은 것 같습니다. 이 앱은 정말 정확하고 사용자에게 도움이 되도록 저장소 사용량을 보여줍니다. 지금 설치하시겠습니까?</string>
     <string name="Text_copied_to_clipboard">텍스트가 클립보드로 복사되었습니다</string>
     <string name="Force_english">영어 사용</string>
-    <string name="Force_english_summary">만약 사용자가 자신의 언어보다 영어 사용을 원한다면 체크하세요. 재 시작후 적용됩니다.</string>
+    <string name="Force_english_summary">자신의 언어보다 영어 사용을 원한다면 체크하세요. 재시작후 적용됩니다.</string>
     <string name="Encoding">인코딩</string>
-    <string name="Network_thumbnails">네트워크 썸네일</string>
-    <string name="Network_thumbnails_summary">체크하실 경우, 이미지 썸네일은 모바일 데이터 연결을 사용하는 동안 불러옵니다.</string>
+    <string name="Network_thumbnails">네트워크 미리보기</string>
+    <string name="Network_thumbnails_summary">체크하시면 모바일 데이터 연결을 사용하는 동안 미리보기 할 이미지를 불러옵니다</string>
     <string name="Copy_to">옆패널로 복사</string>
     <string name="Move_to">옆패널로 이동</string>
     <string name="Shortcut">바로가기</string>
     <string name="Two_panels_in_landscape_summary">가로 방향에서 한번에 두 패널을 표시합니다</string>
     <string name="Two_panels_in_landscape">가로 방향 두 패널</string>
-    <string name="Restart_prompt">변경값을 적용하시려면 애플리케이션을 다시시작 하셔야합니다. 계속하시겠습니까?</string>
+    <string name="Restart_prompt">변경값을 적용하시려면 앱을 재시작 하셔야 합니다. 계속하시겠습니까?</string>
     <string name="Custom_color_scheme">사용자 정의 색상</string>
-    <string name="Custom_color_scheme_summary">사용자가 전체 색상을 설정합니다. 애플리케이션의 실행 속도가 느려질 수 있습니다.</string>
+    <string name="Custom_color_scheme_summary">사용자가 전체 색상을 설정합니다. 앱의 실행 속도가 느려질 수 있습니다.</string>
     <string name="Color_scheme">색상</string>
     <string name="Color_scheme_summary">현재 색상의 색조 및 채도를 변경합니다</string>
     <string name="Change_color_scheme">색상 변경</string>
@@ -716,12 +716,12 @@
 	<string name="Package_name">패키지 이름</string>
 	<string name="Map_view">지도 표시</string>
 	<string name="Street_view">길 표시</string>
-	<string name="Ask">질문</string>
+	<string name="Ask">물어보기</string>
 	<string name="Choose_an_action">동작을 선택하세요</string>
 	<string name="Folders_first">폴더 먼저 표시</string>
-	<string name="Folders_first_summary">폴더를 먼저 표시하고 그 다음 파일을 표시합니다.</string>
+	<string name="Folders_first_summary">폴더를 먼저 표시하고 파일을 표시합니다</string>
 	<string name="FAQ">FAQ</string>
-	<string name="FAQ_summary">질문을 하시기 전에 FAQ를 참고해주세요</string>
+	<string name="FAQ_summary">질문을 하시기 전에 FAQ를 참고해 주세요</string>
 
 	<!-- v 1.3.8 -->
 	<string name="Quick_config">빠른 설정</string> <!-- short word please -->
@@ -731,17 +731,17 @@
     	<string name="X_folders_and_Y_files_deleted">%x 폴더 %y 파일 삭제 완료</string>
     	<string name="X_folders_and_Y_files_copied">%x 폴더 %y 파일 복사 완료</string>
     	<string name="X_folders_and_Y_files_moved">%x 폴더 %y 파일 이동 완료</string>
-    	<string name="Deleting_X_folders_and_Y_files">%x 폴더 %y 파일을 삭제 중.</string>
+    	<string name="Deleting_X_folders_and_Y_files">%x 폴더 %y 파일을 삭제 중</string>
     	<string name="Copying_X_folders_and_Y_files">%x 폴더 %y 파일을 복사 중</string>
     	<string name="Moving_X_folders_and_Y_files">%x 폴더 %y 파일을 이동 중</string>
     	
-    	<string name="X_folders_moved">% 폴더 이동 됨.</string>
-    	<string name="Moving_X_folders">% 폴더 이동 중</string>
+    	<string name="X_folders_moved">% 폴더 이동 완료</string>
+    	<string name="Moving_X_folders">% 폴더 이동</string>
     	
     	<string name="X_folders">% 폴더</string>
     	<string name="X_files">% 파일</string>
     	
-    	<string name="Show_status_summary">탐색창에서 디렉토리 내용과 사용공간에 대한 정보 표시</string>
+    	<string name="Show_status_summary">탐색창에서 디렉토리 내용과 사용량에 대한 정보를 표시합니다</string>
     	<string name="Show_status">상태 보기</string>
     	<string name="Mount_rw">R/W 마운트</string>
     	<string name="System_mounted_as_read_write">시스템이 읽기/쓰기로 마운트 되었습니다</string>
@@ -749,9 +749,9 @@
     	
     <!--  v 1.3.9 -->
     	<string name="Device_labels">장치명</string>
-    	<string name="Device_labels_summary">실제 디렉토리명 대신 읽기 쉬운 장치명을 표시 합니다. 예) \&quot;sdcard0\&quot; 대신 \&quot;SD카드\&quot;</string>
+    	<string name="Device_labels_summary">실제 디렉토리명 대신 읽기 쉬운 장치명을 표시합니다 예) \&quot;sdcard0\&quot; 대신 \&quot;SD 카드\&quot;</string>
     	<string name="Swap_device_labels">장치명 바꾸기</string>
-    	<string name="Swap_device_labels_summary">잘못 검출된 경우에 SD카드명과 내부 메모리를 바꿔서 표시합니다.</string>
+    	<string name="Swap_device_labels_summary">저장소 이름이 잘못 감지된 경우에 SD 카드명과 내부 저장소를 바꿔서 표시합니다</string>
     	<string name="Panels">패널</string>
     	<string name="Devices">장치</string>
     	<string name="Bug_report_notice">오류 보고를 하시기 전 아래를 먼저 보세요:\n\n<b>1. 다른 파일관리 앱에도 존재하는 문제인지 확인 해 보세요.\n2. FAQ를 읽어보세요.</b>\n\n위 단계를 진행하셨나요?</string>
@@ -766,7 +766,7 @@
     	<string name="A_while_ago">얼마 전</string>
     	<string name="X_hours_Y_minutes_ago">%x 시간 %y 분 전</string>
     	<!-- Already exists, just changed the content -->
-    	<string name="Expiration_message">Solid Explorer를 이용해 주셔서 감사합니다. 시험판 사용기한이 만료되었습니다. 이 앱을 계속 사용하시려면 구글 플레이에서 unlocker를 구매해서 저에게 맥주 한 잔 사주세요. 앱을 완전히 만족하실 때 구매해 주세요.</string>
+    	<string name="Expiration_message">Solid Explorer를 이용해 주셔서 감사합니다. 시험판 사용기한이 만료되었습니다. 이 앱을 계속 사용하시려면 구글 플레이에서 unlocker를 구매해서 저희에게 맥주 한 잔 사주세요. 앱을 완전히 만족하실 때 구매해 주세요.</string>
     	<string name="Purchased_message">Solid Explorer 풀버전을 구입해 주셔서 감사합니다. 잘 사용하시기 바랍니다.</string>
     	<string name="Trial_expired">시험판 만료</string>
     	<string name="Purchase">구입</string>
@@ -798,16 +798,16 @@
     	<string name="Data_backup_created">데이타 백업이 생성되었습니다</string>
     	<string name="Data_backup_restored">백업 데이타를 복원하였습니다</string>
     	<string name="Support">지원</string>
-    	<string name="Support_summary">Solid Explorer 지원 페이지 방문</string>
+    	<string name="Support_summary">Solid Explorer 지원 페이지를 방문합니다</string>
     	<string name="Experimental_feature_notifier">이 기능은 시험중입니다. 현재 안드로이드 버전에서는 정상동작 하지 않을 수 있습니다.</string>
     	<string name="Trial_check_notice">Solid Explorer가 만료기간을 확인할 수 없습니다. 바로 또는 2일내에 인터넷 접속이 가능하도록 해 주세요. 그렇지 않으면 시험판 사용기한이 만료 됩니다.</string>
     	<string name="Back_goes_to_root">루트로 가기</string>
     	<string name="Back_goes_to_root_summary">뒤로가기 버튼을 눌렀을 때 루트 디렉토리까지 이동하도록 합니다</string>
     	<string name="Keep_the_screen_on">화면 켜짐 유지</string>
-    	<string name="Keep_the_screen_on_summary">파일 전송중일 때는 화면을 켜둡니다. 화면이 꺼졌을 때 전송이 느려지는 경험을 하셨다면 옵션을 체크해 두세요.</string>
+    	<string name="Keep_the_screen_on_summary">파일 전송중일 때는 화면을 켜둡니다. 화면이 꺼졌을 때 전송이 느려지는 경험을 하셨다면 체크하세요</string>
     	
     <!-- v 1.4.4 -->
-    	<string name="Clear_thumbnails_on_exit">종료시 썸네일 비우기</string>
+    	<string name="Clear_thumbnails_on_exit">종료시 미리보기 비우기</string>
     	<string name="Image_thumbnails_will_be_removed_on_app_exit">앱 종료시 미리보기 이미지를 삭제합니다</string>
 		<string name="Toggle_nomedia">.nomedia 파일 토글</string>
 		<string name="Total_time">총 시간</string>
@@ -815,7 +815,7 @@
 		<string name="Add_new_item">새 항목 추가</string>
 		<string name="Application_chooser">앱 선택</string>
 		<string name="Manage_associations">파일 연결 관리</string>
-		<string name="Manage_associations_summary">특정 파일을 열었을 때 그 실행하시고 싶은 앱을 지정 합니다</string>
+		<string name="Manage_associations_summary">특정 파일을 열었을 때 그 파일을 실행하시고 싶은 앱을 지정 합니다</string>
 		<string name="Choose_an_application">앱 선택</string>
 		<string name="Application">앱</string>
 		<string name="Extension">확장자</string>
@@ -828,7 +828,7 @@
 		<string name="X_files_updated">% 파일 갱신됨</string>
 		<string name="Temporary_file_has_been_modified">% 임시파일이 변경되었습니다. 다시 업로드 하시겠습니까?</string>
 		<string name="Temporary_files_have_been_modified">% 임시파일이 변경되었습니다. 다시 업로드 하시겠습니까?</string>
-		<string name="Slide_from_bottom">아래에서부터 미세요</string>
+		<string name="Slide_from_bottom">아래에서 슬라이드</string>
 		<string name="Fall_down">쓰러짐</string>
 		<string name="Come_in">들어옴</string>
 		<string name="Slide_from_right">우측에서 슬라이드</string>
@@ -836,10 +836,20 @@
 		<string name="Default">기본</string>
 		<string name="List_animations">목록 애니메이션</string>
 		<string name="List_animations_summary">파일목록 애니메이션을 설정합니다</string>
-		<string name="Clear_filter_history">필터링 기록 지우기</string>
+		<string name="Clear_filter_history">필터링 기록 삭제</string>
 		<string name="Clear_filter_history_summary">목록 필터링 기록을 삭제합니다</string>
 		<string name="New_webdav_connection">WebDav 연결</string>
 		<string name="WebDav_bookmarks">WebDav 북마크</string>
 		
-	
+
+		<!--  v 1.4.5 -->
+		<string name="Domain">도메인</string>
+		<string name="Mode">모드</string>
+		<string name="Passive">Passive</string>
+		<string name="Nomedia_on">.nomedia 파일이 생성되었습니다</string>
+		<string name="Nomedia_off">.nomedia 파일이 삭제되었습니다</string>
+		<string name="Wifi_disabled">WiFi가 꺼졌습니다</string>
+		<string name="Wifi_enabled">WiFi가 켜졌습니다</string>
+		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">이 항목을 기본값으로 변경하시겠습니까?</string>
+			
 </resources>
