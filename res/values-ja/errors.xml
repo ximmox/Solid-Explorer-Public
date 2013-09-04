@@ -3,7 +3,7 @@
     <string name="Directory_does_not_exists">ディレクトリが存在しません</string>
     
     <string name="Unable_to_read_the_file">ファイルを読み込めません</string>
-    <string name="Illegal_operation">不正なオペレーション</string>
+    <string name="Illegal_operation">不正な操作</string>
     
     
     <string name="Cannot_update_the_database">データベースを更新できません</string>
@@ -15,17 +15,17 @@
     <string name="No_root_access_available">ルートアクセスができません</string>
     <string name="Unable_to_read_root_directory">ルートディレクトリを読み込めません</string>
     
-    <string name="Operation_has_failed">オペレーションに失敗しました</string>
+    <string name="Operation_has_failed">操作に失敗しました</string>
     <string name="Invalid_file_path">ファイルパスが正しくありません</string>
     
     
     <string name="Cannot_browse_to_x">\&quot;%\&quot; をブラウズできません。不明なエラーが発生しました。</string>
-    <string name="Cannot_write_to_the_system">ファイルシステムに書き込みできません。R/Wモードとしてマウントできませんでした。</string>
+    <string name="Cannot_write_to_the_system">ファイルシステムに書き込みできません。ジャンプ→クイック設定で読み/書きモードでマウントしてください。</string>
     <string name="Requested_file_x_has_not_been_found">要求されたファイル \&quot;%\&quot; は見つかりませんでした。</string>
     <string name="Unknown_read_write_exception">不明なR/W例外が発生しました。</string>
     <string name="Invalid_url_x">無効なURL: %</string>
     <string name="An_error_occured_while_accessing_master_password">マスターパスワードのアクセス中にエラーが発生しました。</string>
-    <string name="Operation_not_allowed">オペレーションは許可されていません。</string>
+    <string name="Operation_not_allowed">操作は許可されていません。</string>
     <string name="Cannot_connect_to_host_x_on_port_y">\&quot;%x\&quot; (ポート %y) に接続できません。</string>
     <string name="Unable_to_resolve_host_x">ホスト名 \&quot;%x\&quot; を解決できません。</string>
     <string name="Server_returned_illegal_response">サーバーからのレスポンスが不正です。</string>
