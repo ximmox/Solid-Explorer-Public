@@ -60,9 +60,9 @@
     <!-- "View" popup -->
     <string name="View_mode">表示方法</string>
     <string name="List">一覧</string>
-    <string name="Detailed_list">一覧 (詳細)</string>
+    <string name="Detailed_list">一覧（詳細）</string>
     <string name="Grid">並べて表示</string>
-    <string name="Detailed_grid">並べて表示 (詳細)</string>
+    <string name="Detailed_grid">並べて表示（詳細）</string>
     
     <!-- "Sort" popup -->
     <string name="Sort_files_by">並べ替え</string>
@@ -82,7 +82,7 @@
     
     
     <!-- Context menu -->
-    <string name="Open_with">開く...</string>
+    <string name="Open_with">開く…</string>
     <string name="Open_in_bg">横のﾊﾟﾈﾙで開く</string>
     <string name="Send">送信</string>
     <string name="Bookmark">ブックマーク</string>
@@ -109,7 +109,7 @@
     	<string name="Port">ポート</string>
     	<string name="User_name">ユーザー名</string>
     	<string name="Password">パスワード</string>
-    	<string name="Repeat_the_password">パスワード(確認)</string>
+    	<string name="Repeat_the_password">パスワード（確認）</string>
     	<string name="Authentication_method">認証方法</string>
     	<string name="Server">サーバー</string>
     	<string name="Connection_type">接続の種類</string>
@@ -126,9 +126,9 @@
         	<string name="Log_in_as_a_guest">ゲストとしてログイン</string>
         	
         	<!-- FTP types -->
-        	<string name="FTP_no_encryption">FTP (暗号化なし)</string>
-        	<string name="FTPS_implicit_encryption">FTPS (implicitモード)</string>
-        	<string name="FTPES_explicit_encryption">FTPES (explicitモード)</string>
+        	<string name="FTP_no_encryption">FTP（暗号化なし）</string>
+        	<string name="FTPS_implicit_encryption">FTPS（implicitモード）</string>
+        	<string name="FTPES_explicit_encryption">FTPES（explicitモード）</string>
         
     <!-- Search activity -->	
     <string name="Manual_search">手動検索</string>
@@ -166,16 +166,16 @@
     	<string name="File_move">ファイルの移動</string>
     	<string name="File_delete">ファイルの削除</string>
     	<string name="Temporary_download">一時ファイルのダウンロード</string>
-   	 	<string name="Creating_archive">% アーカイブを作成中</string>
-    	<string name="Extracting_archive"> % アーカイブを展開中</string>
-    	<string name="X_has_been_completed">% が完了しました。</string>
-    	<string name="X_has_failed">% に失敗しました。</string>
+   	 	<string name="Creating_archive">%アーカイブを作成中</string>
+    	<string name="Extracting_archive">%アーカイブを展開中</string>
+    	<string name="X_has_been_completed">%が完了しました。</string>
+    	<string name="X_has_failed">%に失敗しました。</string>
     	<string name="Tap_to_show_details">タップして詳細を表示</string>
     	<string name="Pending_cancel_request">待機中のオペレーションの取り消しリクエスト</string>
     	<string name="File_operation">ファイルオペレーション</string>
     
     <!-- Bookmark manager -->
-    <string name="Bookmark_manager">ブックマークマネージャ</string>
+    <string name="Bookmark_manager">ブックマークマネージャー</string>
     <string name="Edit">編集</string>
     <string name="Disconnect">切断</string>
     <string name="Delete_all">すべて削除</string>
@@ -229,7 +229,7 @@
     <string name="Fast">速い</string>
     <string name="Normal">標準</string>
     <string name="Good">良い</string>
-    <string name="Best">ベスト</string>
+    <string name="Best">最良</string>
     
     <!-- File properties -->
     <string name="Content_summary">コンテンツの概要</string>
@@ -298,8 +298,8 @@
     
     <!-- Dialogs again -->
     	<!-- File exists dialog -->
-    	<!-- <string name="This_file_already_exists">このファイルは既に存在します。どうしますか？</string>
-    	<string name="This_folder_already_exists">このフォルダーは既に存在します。どうしますか？</string> -->
+    	<!-- <string name="This_file_already_exists">このファイルはすでに存在します。どうしますか？</string>
+    	<string name="This_folder_already_exists">このフォルダーはすでに存在します。どうしますか？</string> -->
     	<string name="File_exists">ファイルが存在します</string>
     	<string name="Skip">スキップ</string>
     	<string name="Overwrite">上書き</string>
@@ -328,8 +328,8 @@
     	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">本当にサムネイルキャッシュを削除しますか？</string>
     	<string name="Are_you_sure_you_want_to_delete_temporary_files">本当に一時ファイルを削除しますか？</string>
     	<string name="It_is_time_for_sheduled_indexing">スケジュールされたインデックスの作成時刻になりました。今すぐ実行しますか？</string>
-    	<string name="Folder_exists_descr">ディレクトリには既に同じ名前のフォルダーが存在します。どうしますか？</string>
-    	<string name="File_exists_descr">ディレクトリには既に同じ名前のファイルが存在します。どうしますか？</string>
+    	<string name="Folder_exists_descr">ディレクトリにはすでに同じ名前のフォルダーが存在します。どうしますか？</string>
+    	<string name="File_exists_descr">ディレクトリにはすでに同じ名前のファイルが存在します。どうしますか？</string>
     	<string name="Are_you_sure_you_want_to_delete">本当に \&quot;%\&quot; を削除しますか？</string>
     	<string name="Are_you_sure_to_abort_current_operation">本当に現在のオペレーションを中止しますか？</string>
     	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">本当にすべてのブックマークを削除しますか？</string>
@@ -340,7 +340,7 @@
     	<string name="Are_you_sure_you_want_to_clear_file_type_associations">本当にファイルの関連付けを削除しますか？</string>
     	<string name="Changes_have_been_made_to_the_file">ファイル &quot;%&quot; は変更されています。保存しますか？</string>
     	<string name="Chown_confirm">本当にこのファイルの所有者を変更しますか？</string>
-    	<string name="Busybox_request">システムにBusyBoxがインストールされていないようです。このままではルート権限を必要とする機能は使用できません。今すぐBusyBoxをインストールしますか？</string>
+    	<string name="Busybox_request">システムにBusyBoxがインストールされていないようです。このままではルート権限を必要とする機能はご利用いただけません。今すぐBusyBoxをインストールしますか？</string>
     	
     	
     	<!-- Information dialogs -->
@@ -351,7 +351,7 @@
     	<string name="Command_executed_successfully">コマンドが正常に実行されました</string>
     	<string name="Deleting_data">データを削除中</string>
     	<string name="Done">完了</string>
-    	<string name="Preparing_for_operation">オペレーションの準備中...</string>
+    	<string name="Preparing_for_operation">オペレーションの準備中…</string>
     	<string name="Connecting">接続中</string>
     	<string name="Connecting_to_x">\&quot;%\&quot; に接続中</string>
     	<string name="File_is_too_big">ファイルが大きすぎます。編集できるファイルのサイズは最大で75kBです。より大きなファイルの編集はまもなくサポートする予定です。</string>
@@ -384,11 +384,11 @@
     	<string name="You_cant_delete_this_item">このアイテムは削除できません</string>
     	<string name="Indexing_service">インデックスサービス</string>
     	<string name="Only_local_file_can_be_added_to_the_archive">ローカルのファイルのみをアーカイブ内に追加することができます</string>
-    	<string name="Bookmark_already_exists">ブックマークが既に存在します</string>
+    	<string name="Bookmark_already_exists">ブックマークがすでに存在します</string>
     	<string name="Added_to_bookmarks">\&quot;%\&quot; をブックマークに追加しました</string>
     	<string name="Rename_a_file">ファイル名を変更</string>
     	<string name="Input_was_left_blank">入力が空のままです</string>
-    	<string name="File_named_already_exists">\&quot;%\&quot; と同じ名前のファイルが既に存在します</string>
+    	<string name="File_named_already_exists">\&quot;%\&quot; と同じ名前のファイルがすでに存在します</string>
     	<string name="Confirm_delete">削除の確認</string>
     	<string name="You_cant_create_an_archive_here">ここにはアーカイブを作成できません。</string>
     	<string name="Cannot_connect_to">\&quot;%\&quot; へ接続できません</string>
@@ -404,15 +404,15 @@
     	<string name="Tap_to_start">タップして開始</string>
     	
     	
-    	<string name="Are_you_sure_you_want_to_delete_items">本当に % 個のアイテムを削除しますか？</string>
-    	<string name="X_files_deleted">% 個のファイルを削除しました。</string>
-    	<string name="X_files_copied">% 個のファイルをコピーしました。</string>
-    	<string name="X_files_moved">% 個のファイルを移動しました。</string>
-    	<string name="X_items">% 個のアイテム</string>
-    	<string name="Deleting_X_files">% 個のファイルを削除中</string>
-    	<string name="Copying_X_files">% 個のファイルをコピー中</string>
-    	<string name="Moving_X_files">% 個のファイルを移動中</string>
-    	<string name="Indexing_scheduled_at_X_every_Y">インデックスの作成は %y 日毎 %x にスケジュールされています</string>
+    	<string name="Are_you_sure_you_want_to_delete_items">本当に%件のアイテムを削除しますか？</string>
+    	<string name="X_files_deleted">%件のファイルを削除しました。</string>
+    	<string name="X_files_copied">%件のファイルをコピーしました。</string>
+    	<string name="X_files_moved">%件のファイルを移動しました。</string>
+    	<string name="X_items">%件のアイテム</string>
+    	<string name="Deleting_X_files">%件のファイルを削除中</string>
+    	<string name="Copying_X_files">%件のファイルをコピー中</string>
+    	<string name="Moving_X_files">%件のファイルを移動中</string>
+    	<string name="Indexing_scheduled_at_X_every_Y">インデックスの作成は%y日ごと、%xにスケジュールされています</string>
     	<!-- Explanation of above
     	
     		 	In english things are simple because we have 1 file and multiple files.
@@ -455,7 +455,7 @@
 
     
     <!-- Open as dialog -->
-    <string name="Open_as">開く...</string>
+    <string name="Open_as">開く…</string>
     <string name="Choose_a_preferred_type">ファイルの種類を選択</string>
     <string name="Text_file">テキストファイル</string>
     <string name="Image_file">画像ファイル</string>
@@ -477,7 +477,7 @@
     <string name="Font">フォント</string>
     <string name="App_default">アプリの初期値</string>
     <string name="System_default">システムの初期値</string>
-    <string name="Serif">セリフ体</string>
+    <string name="Serif">セリフ</string>
     <string name="Monospace">等幅</string>
     <string name="File_saved_successfully">ファイルが保存されました</string>
     
@@ -487,15 +487,15 @@
 	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
     <string name="Appearance">外観</string>
 	<string name="Theme">テーマ</string>
-    <string name="Choose_between_preinstalled_themes">プリインストールされている中からテーマを選択します</string>
-    <string name="Light">Light</string>
-    <string name="Dark">Dark</string>
+    <string name="Choose_between_preinstalled_themes">プリインストールされた中からテーマを選択します</string>
+    <string name="Light">淡色</string>
+    <string name="Dark">濃色</string>
     
     <string name="Toggle_visibility_of_hidden_files">隠しファイルの表示を切り替えます</string>
     <string name="Show_hidden_files">隠しファイルを表示</string>
     
     <string name="Show_file_permissions">パーミッションを表示</string>
-    <string name="Show_file_permissions_summary">更新日時の代わりに、UNIXスタイルのファイルパーミッションを表示します (アクセスにルート権限が必要なファイルのみ)</string>
+    <string name="Show_file_permissions_summary">更新日時の代わりに、UNIXスタイルのファイルパーミッションを表示します（アクセスにルート権限が必要なファイルのみ）</string>
     
     <string name="Date_format">日付書式</string>
     <string name="Customize_date_format">日付書式をカスタマイズします</string>
@@ -574,7 +574,7 @@
     <string name="Search_interface">検索インターフェース</string>
     <string name="Search_key_starts_filtering">検索キーでフィルター開始</string>
     <string name="Search_key_starts_filtering_summary">検索アプリを起動する代わりに、アプリ内でフィルターを開始します</string>
-    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">フィルター使用時に前方一致したアイテムのみを表示します</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">フィルター利用時に前方一致したアイテムのみを表示します</string>
     <string name="Filter_words_from_the_beginning">前方一致フィルター</string>
     <string name="Customize_indexing_engine_behaviour">インデックスエンジンをカスタマイズします</string>
     <string name="Indexing_engine">インデックスエンジン</string>
@@ -583,7 +583,7 @@
     	<string name="Clear_index_data">インデックスデータをクリア</string>
     	<string name="Delete_all_index_data">すべてのインデックスデータを削除します</string>
     	<string name="Reindex_on_media_mount">マウント時に再作成</string>
-    	<string name="Reindex_storage_device_when_it_is_mounted">外部ストレージがマウントされた時に、インデックスを再作成します (推奨)</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">外部ストレージがマウントされた時に、インデックスを再作成します（推奨）</string>
     	<string name="Shedule_indexing">作成をスケジューリング</string>
     	<string name="Perform_reindex_every_given_period">一定の周期でインデックスを再作成します</string>
     	<string name="Set_time_and_period">時刻と周期を設定</string>
@@ -606,7 +606,7 @@
     <string name="Other">その他</string>
     	
     <string name="Clear_persistent_data">データをクリア</string>
-    <string name="Clear_persistent_data_summary">サムネイルキャッシュや一時ファイル、オペレーション履歴等を削除します</string>
+    <string name="Clear_persistent_data_summary">サムネイルキャッシュや一時ファイル、オペレーション履歴などを削除します</string>
     <string name="Clear_thumbnail_cache">サムネイルキャッシュをクリア</string>
     <string name="Clear_temporary_files">一時ファイルをクリア</string>
     <string name="Clear_operation_history">オペレーション履歴をクリア</string>
@@ -647,9 +647,9 @@
     
     
     <!-- acra -->
-    <string name="crash_toast_text">おおっと！Solid Explorerがクラッシュしてしまいました。開発者へレポートを送信して彼がこのエラーを解決するためのサポートをお願いします。</string>
-    <string name="crash_notif_ticker_text">予期しないエラーが発生しました。レポートを送信してください...</string>
-    <string name="crash_notif_title">Solid Explorerがクラッシュ...</string>
+    <string name="crash_toast_text">おっと！Solid Explorerがクラッシュしてしまいました。開発者へレポートを送信して彼がこのエラーを解決するためのサポートをお願いします。</string>
+    <string name="crash_notif_ticker_text">予期しないエラーが発生しました。レポートを送信してください…</string>
+    <string name="crash_notif_title">Solid Explorerがクラッシュ…</string>
     <string name="crash_notif_text">問題解決をサポートするには、ここをタップしてください</string>
     <string name="crash_dialog_title">Solid Explorerがクラッシュしました</string>
     <string name="crash_dialog_text">予期しないエラーが発生したためアプリが強制停止しました。エラーレポートを送信してこの問題を解決する手助けをお願いします。</string>
@@ -658,8 +658,8 @@
     
     <string name="Icon_designer">アイコンデザイナー</string>
     <string name="Prefix">プレフィックス</string>
-    <string name="Translations">翻訳</string>
-    <string name="Translations_summary">有志による翻訳の加筆修正: Steven Schoen</string>
+    <string name="Translations">翻訳者</string>
+    <string name="Translations_summary">おたっく（otack）</string>
     <string name="Empty">空</string>
     <string name="Press_once_again_to_exit">もう一度戻るキーを押すと終了します</string>
     
@@ -671,10 +671,10 @@
     <string name="Customize_list">一覧をカスタマイズ</string>
     <string name="Customize_list_summary">ファイル一覧のアイコンやテキストの大きさを調整します</string>
     <string name="Preview">プレビュー</string>
-    <string name="Icon_size_pixels" formatted="false">アイコンの大きさ (最大: % x %)</string>
+    <string name="Icon_size_pixels" formatted="false">アイコンの大きさ（最大: % x %）</string>
     <string name="Label_size">ラベルの大きさ</string>
     <string name="Subtext_size">サブラベルの大きさ</string>
-    <string name="Label_size_points">テキストの大きさ (最大: 35pt)</string>
+    <string name="Label_size_points">テキストの大きさ（最大: 35pt）</string>
     <string name="Columns">カラム</string>
     <string name="No_computers_found">コンピューターが見つかりません</string>
     <string name="Local_directory">ローカルディレクトリ</string>
@@ -691,7 +691,7 @@
     <string name="Move_to">ﾊﾟﾈﾙへ移動</string>
     <string name="Shortcut">ショートカット</string>
     <string name="Two_panels_in_landscape_summary">画面が横向きの時に2つのパネルを一度に表示します</string>
-    <string name="Two_panels_in_landscape">横画面で2パネルを表示</string>
+    <string name="Two_panels_in_landscape">横画面で2パネル表示</string>
     <string name="Restart_prompt">変更を反映するにはアプリを再起動する必要があります。今すぐ再起動しますか？</string>
     <string name="Custom_color_scheme">カスタムカラースキーム</string>
     <string name="Custom_color_scheme_summary">全体的なアプリの色をカスタマイズします。アプリの起動が遅くなることがあります。</string>
@@ -706,8 +706,8 @@
     <string name="Please_wait">お待ちください</string>
     
     
-    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">本当にこのファイルを2つ目のパネルにコピーしますか？</string>
-	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">本当にこのファイルを2つ目のパネルに移動しますか？</string>
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">本当にこのファイルを隣のパネルにコピーしますか？</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">本当にこのファイルを隣のパネルに移動しますか？</string>
 	<string name="Image_not_loaded">画像が読み込まれていません</string>
 	<string name="Target_SDK">ターゲットSDK</string>
 	<string name="Description">説明</string>
@@ -722,8 +722,139 @@
 	<string name="Ask">質問</string>
 	<string name="Choose_an_action">操作を選択します</string>
 	<string name="Folders_first">フォルダーを先に表示</string>
-	<string name="Folders_first_summary">フォルダーを先に表示し、その後でファイルを表示します。</string>
+	<string name="Folders_first_summary">フォルダーを先に表示し、その後でファイルを表示します</string>
 	<string name="FAQ">FAQ</string>
 	<string name="FAQ_summary">質問の前にFAQをよくお読みください</string>
+	
+	<!-- v 1.3.8 -->
+	<string name="Quick_config">クイック設定</string> <!-- short word please -->
+
+	<!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
+    	<string name="X_folders_and_Y_files_deleted">%x件のフォルダーと%y件のファイルを削除しました。</string>
+    	<string name="X_folders_and_Y_files_copied">%x件のフォルダーと%y件のファイルをコピーしました。</string>
+    	<string name="X_folders_and_Y_files_moved">%x件のフォルダーと%y件のファイルを移動しました。</string>
+    	<string name="Deleting_X_folders_and_Y_files">%x件のフォルダーと%y件のファイルを削除中</string>
+    	<string name="Copying_X_folders_and_Y_files">%x件のフォルダーと%y件のファイルをコピー中</string>
+    	<string name="Moving_X_folders_and_Y_files">%x件のフォルダーと%y件のファイルを移動中</string>
+    	
+    	<string name="X_folders_moved">%件のフォルダーを移動しました。</string>
+    	<string name="Moving_X_folders">%件のフォルダーを移動中</string>
+    	
+    	<string name="X_folders">%件のフォルダー</string>
+    	<string name="X_files">%件のファイル</string>
+    	
+    	<string name="Show_status_summary">エクスプローラー画面内にディレクトリのコンテンツ数と空き容量を表示します</string>
+    	<string name="Show_status">ステータスを表示</string>
+    	<string name="Mount_rw">読み/書きモードでマウント</string>
+    	<string name="System_mounted_as_read_write">システムを読み/書きモードでマウントしました</string>
+    	<string name="System_mounted_as_read_only">システムを読み取り専用モードでマウントしました</string>
+    	
+    <!--  v 1.3.9 -->
+    	<string name="Device_labels">デバイスラベル</string>
+    	<string name="Device_labels_summary">実際のディレクトリ名の代わりに、人間が読みやすいデバイスラベルを表示します　例: \&quot;sdcard0\&quot; → \&quot;SDカード\&quot;</string>
+    	<string name="Swap_device_labels">デバイスラベルをスワップ</string>
+    	<string name="Swap_device_labels_summary">内部ストレージとSDカードのデバイスラベルを入れ替えます（誤認識対策）</string>
+    	<string name="Panels">パネル</string>
+    	<string name="Devices">デバイス</string>
+    	<string name="Bug_report_notice">バグレポートを送信する前に、次の内容をご確認ください:\n\n<b>1. 他のファイルマネージャーアプリで同様の問題が発生しないかどうか。\n2. FAQの内容。</b>\n\n上記の内容を確認しましたか？</string>
+    	<string name="Unable_to_move_the_file">ファイル \&quot;%\&quot; を移動できません</string>
+    
+    <!-- v 1.4.0 -->
+    	<string name="Compression_ratio">圧縮率</string>
+    	<string name="Compression_method">圧縮方法</string>
+    	<string name="Comment">コメント</string>
+    	<string name="Standard">標準</string>
+    	<string name="No_compression">圧縮しない</string>
+    	<string name="A_while_ago">しばらく前</string>
+    	<string name="X_hours_Y_minutes_ago">%x時間%y分前</string>
+    	<!-- Already exists, just changed the content -->
+    	<string name="Expiration_message">Solid Explorerをお試しいただきありがとうございました。試用期間は終了です。あなたが本当にこのアプリに満足し、引き続きご利用を望まれるのならば、開発者にバーチャル・ビールを贈ってください。方法は、Google Playからアンロッカーをご購入いただくだけです。</string>
+    	<string name="Purchased_message">Solid Explorer有償版をご購入いただきありがとうございます。これからもご愛用いただければ幸いです。</string>
+    	<string name="Trial_expired">試用期限切れ</string>
+    	<string name="Purchase">購入</string>
+    	<string name="No_thanks">いいえ、結構です</string>
+    	<string name="Function_not_available">この機能はお使いのシステムのバージョンではご利用いただけません。</string>
+    	
+    <!-- v 1.4.3 -->
+    	<string name="Wallpaper_has_been_set_successfully">壁紙の設定が完了しました</string>
+    	<string name="X_has_been_set_as_default_ringtone">%が既定の着信音に設定されました</string>
+    	<string name="X_has_been_set_as_default_notification">%が既定の通知音に設定されました</string>
+    	<string name="X_has_been_set_as_default_alarm">%が既定のアラーム音に設定されました</string>
+    	<string name="Copy_path">パスをコピー</string>
+    	<string name="Copy_name">名前をコピー</string>
+    	<string name="Create_symlink">シムリンクを作成</string>
+    	<string name="Set_as_wallpaper">壁紙に設定</string>
+    	<string name="Set_as_ringtone">着信音に設定</string>
+    	<string name="Set_as_notification">通知音に設定</string>
+    	<string name="Set_as_alarm">アラーム音に設定</string>
+    	<string name="Enter_the_symlink_location">シムリンクの場所を入力</string>
+    	<string name="Symbolic_link_created_successfully">シンボリックリンクが作成されました</string>
+    	<string name="Sugarsync_login">SugarSyncにログイン</string>
+    	<string name="Copy_link">リンクをコピー</string>
+    	<string name="Data_backup">データをバックアップ</string>
+    	<string name="Application_data">アプリデータ</string>
+    	<string name="Create_backup">バックアップを作成</string>
+    	<string name="Backup_application_data_to_a_desired_file">アプリデータをファイルにバックアップします</string>
+    	<string name="Restore_backup">バックアップから復元</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">復元したいバックアップファイルを選択します</string>
+    	<string name="Data_backup_created">バックアップを作成しました</string>
+    	<string name="Data_backup_restored">バックアップから復元しました</string>
+    	<string name="Support">サポート</string>
+    	<string name="Support_summary">Solid Explorerのサポートページをご覧ください</string>
+    	<string name="Experimental_feature_notifier">この機能は開発途上のため、お使いのAndroidのバージョンによっては正しく動作しないことがあります。</string>
+    	<string name="Trial_check_notice">Solid Exploreの試用期限を確認できませんでした。インターネット接続を有効にした上で、再度お試しください。2日以内に確認できなかった場合、試用期限が終了します。</string>
+    	<string name="Back_goes_to_root">戻るキーで階層を上る</string>
+    	<string name="Back_goes_to_root_summary">戻るキーを押す度にカレントディレクトリの上の階層へ移動します</string>
+    	<string name="Keep_the_screen_on">画面を常時点灯</string>
+    	<string name="Keep_the_screen_on_summary">ファイル転送中に画面を常時点灯します ※画面を消灯するとファイルの転送速度が遅くなる場合は有効にしてください</string>
+    	
+    <!-- v 1.4.4 -->
+    	<string name="Clear_thumbnails_on_exit">終了時にサムネイルをクリア</string>
+    	<string name="Image_thumbnails_will_be_removed_on_app_exit">アプリ終了時に画像のサムネイルをすべて削除します</string>
+		<string name="Toggle_nomedia">.nomediaの表示切替</string>
+		<string name="Total_time">合計時間</string>
+		<string name="Average_speed">平均速度</string>
+		<string name="Add_new_item">新規アイテム</string>
+		<string name="Application_chooser">アプリを選択</string>
+		<string name="Manage_associations">関連付けを管理</string>
+		<string name="Manage_associations_summary">ファイルの種類に応じた既定のアプリを設定します</string>
+		<string name="Choose_an_application">アプリを選択</string>
+		<string name="Application">アプリ</string>
+		<string name="Extension">拡張子</string>
+		<string name="No_extension_specified">拡張子が設定されていません</string>
+		<string name="You_didn_t_choose_the_application">アプリが選択されていません</string>
+		<string name="Added_to_queue">キューに追加</string>
+		<string name="Streaming">ストリーミング</string>
+		<string name="There_is_already_the_same_file_in_temporary_directory">一時ディレクトリに同じファイルがすでに存在します。既存のファイルを開くか、再ダウンロードしますか？</string>
+		<string name="Download">ダウンロード</string>
+		<string name="X_files_updated">%件のファイルを更新しました</string>
+		<string name="Temporary_file_has_been_modified">一時ファイル \&quot;%\&quot; は編集されました。アップロードしますか？</string>
+		<string name="Temporary_files_have_been_modified">%件の一時ファイルが編集されました。アップロードしますか？</string>
+		<string name="Slide_from_bottom">下からスライド</string>
+		<string name="Fall_down">フォールダウン</string>
+		<string name="Come_in">カムイン</string>
+		<string name="Slide_from_right">右からスライド</string>
+		<string name="Slide_from_left">左からスライド</string>
+		<string name="Default">標準</string>
+		<string name="List_animations">一覧のアニメーション</string>
+		<string name="List_animations_summary">ファイル一覧のアニメーションをカスタマイズします</string>
+		<string name="Clear_filter_history">フィルター履歴をクリア</string>
+		<string name="Clear_filter_history_summary">フィルターのクエリ履歴を削除します</string>
+		<string name="New_webdav_connection">WebDav接続</string>
+		<string name="WebDav_bookmarks">WebDavブックマーク</string>
+
+
+		<!--  v 1.4.5 -->
+		<string name="Domain">ドメイン</string>
+		<string name="Mode">モード</string>
+		<string name="Passive">パッシブ</string>
+		<string name="Nomedia_on">.nomediaファイルを作成しました</string>
+		<string name="Nomedia_off">.nomediaファイルを削除しました</string>
+		<string name="Wifi_disabled">WiFiを無効化しました</string>
+		<string name="Wifi_enabled">WiFiを有効化しました</string>
+		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">これらのアイテムの設定を初期設定に戻しますか？</string>
+
+
 
 </resources>
