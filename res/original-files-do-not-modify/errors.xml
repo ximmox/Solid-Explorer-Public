@@ -52,4 +52,13 @@
     <string name="Unlocker_error">The unlocker was found but it returned an error. It usually happens when another application blocks its permissions, ex. antivirus software. Make sure the Solid Explorer and the unlocker are excluded from any blacklists and start the app again.</string>
     <string name="Unable_to_get_the_link">Unable to get the link</string>
     
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">Requested resource has been moved</string>
+    <string name="Invalid_syntax">Invalid syntax</string>
+    <string name="Service_unavailable">Service temporarily unavailable, please try again later</string>
+    <string name="Unauthorized">Unauthorized, please log in again</string>
+    <string name="Resource_not_found">Resource not found</string>
+    <string name="Method_not_allowed">Requested method is not allowed for this resource</string>
+    <string name="Timeout_reached">Timeout reached</string>
+    
 </resources>
