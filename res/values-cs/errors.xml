@@ -51,5 +51,14 @@
     <!-- 1.4.3 -->
     <string name="Unlocker_error">Klíč byl nalezen, avšak navrátil chybu. Obvyklou příčinou bývá jiná aplikace blokující jeho oprávnění, např. antivirus. Ujistěte se, že Solid Explorer i klíč jsou vynechány z jakéhokoli blacklistu a spusťte aplikaci znovu.</string>
     <string name="Unable_to_get_the_link">Nelze získat odkaz</string>
+    
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">Požadovaný zdroj byl přesunut</string>
+    <string name="Invalid_syntax">Neplatná syntaxe</string>
+    <string name="Service_unavailable">Služba je dočasně nedostupná, prosím, zkuste to později</string>
+    <string name="Unauthorized">Neoprávněný přístup, prosím, znovu se  přihlašte</string>
+    <string name="Resource_not_found">Zdroj nenalezen</string>
+    <string name="Method_not_allowed">Požadovaný způsob není povolen pro tento zdroj</string>
+    <string name="Timeout_reached">Časový limit vypršel</string>
    
 </resources>
