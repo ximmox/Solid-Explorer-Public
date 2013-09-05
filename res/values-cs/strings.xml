@@ -591,7 +591,7 @@
        <string name="crash_notif_text">Prosím, klikněte zde, pro pomoc s vyřešením problému</string>
        <string name="crash_dialog_title">Solid Explorer byl neočekávaně ukončen</string>
        <string name="crash_dialog_text">Došlo k neočekávané chybě, díky níž byl program ukončen. Prosím, pomozte mi vyřešit problém tím, že mi pošlete chybové hlášení.</string>
-       <string name="crash_dialog_comment_prompt">Poskytněte prosím podrobné informace o problému níže. Ve většině případů je nemožné problém reprodukovat bez vaší pomoci.</string>
+       <string name="crash_dialog_comment_prompt">Poskytněte prosím podrobné informace o problému níže. Ve většině případů je nemožné problém reprodukovat bez Vaší pomoci.</string>
        <string name="crash_dialog_ok_toast">Děkuji!</string>
        <string name="Icon_designer">Návrh ikon</string>
        <string name="Prefix">Předpona</string>
@@ -733,7 +733,7 @@
        <string name="Support">Podpora</string>
        <string name="Support_summary">Navštívit stránku podpory Solid Explorer</string>
        <string name="Experimental_feature_notifier">Vezměte prosím na vědomí, že tato funkce je experimentální a na Vaší aktuální verzi Androidu pravděpodobně nemusí fungovat správně.</string>
-       <string name="Trial_check_notice">Solid Explorer nemohl ověřit zkušební dobu. Prosím, do dvou dnů aktivujte internetové připojení, jinak bude vaše zkušební doba ukončena.</string>
+       <string name="Trial_check_notice">Solid Explorer nemohl ověřit zkušební dobu. Prosím, do dvou dnů aktivujte internetové připojení, jinak bude Vaše zkušební doba ukončena.</string>
        <string name="Back_goes_to_root">Přejít zpět do kořenového adresáře</string>
        <string name="Back_goes_to_root_summary">Dovolí přejít do kořenového adresáře při stisku tlačítka zpět</string>
        <string name="Keep_the_screen_on">Nevypínat obrazovku</string>
@@ -784,4 +784,22 @@
        <string name="Wifi_enabled">WiFi zapnuta</string>
        <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Jste si jist, že chcete obnovit výchozí nastavení pro tuto položku?</string>
        
+  <!-- v 1.4.6 -->
+       <string name="no_wifi_available">Není dostupná žádná wifi. Chcete nastavit přenosný hotspot na Vašem zařízení?</string>
+       <string name="disable_hotspot">Vypnout hotspot?</string>
+    
+  <!-- v 1.5 -->
+       <string name="Any_type">Jakýkoliv typ</string>
+       <string name="Ubuntu_one_login">Ubuntu One přihlášení</string>
+       <string name="Master_password_has_been_changed">Hlavní heslo bylo změněno</string>
+       <string name="Encryption">Šifrování</string>
+       <string name="Certificates">Certifikáty</string>
+       <string name="Trust_all_ssl_certificates">Důvěřovat všem SSL certifikátům</string>
+       <string name="Use_at_your_own_risk">Použijte na vlastní nebezpečí</string>
+       <string name="Gestures">Gesta</string>
+       <string name="Enable_list_zoom">Aktivovat zoom seznamu</string>
+       <string name="Enable_list_zoom_summary">Je-li aktivní, lze měnit velikost zobrazení seznamu pomocí gesta pro přiblížení dvěma prsty</string>
+       <string name="Mediafire_login">Přihlásit se na MediaFire</string>
+       <string name="No_master_password_set">Hlavní heslo nebylo nastaveno</string>
+
 </resources>
