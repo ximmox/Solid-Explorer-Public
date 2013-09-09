@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- ITALIAN by PieR @XDA - 18 Jul 2012 v1.0 -->
-    
+    <!-- Edited on 09 Sep 2013 by Robertof <robertof dot public at gmail dot com>. Best file manager ever! -->
     <string name="Directory_does_not_exists">La directory non esiste</string>
     
     <string name="Unable_to_read_the_file">Impossibile leggere il file</string>
@@ -14,7 +14,7 @@
     <string name="Invalid_password_for_user_x">Password non valida per l\'utente \&quot;%\&quot;</string>
     <string name="Invalid_master_password">Master password non valida</string>
     <string name="Unable_to_execute_shell_command">Impossibile eseguire il comando shell</string>
-    <string name="No_root_access_available">Accesso di root non disponibile</string>
+    <string name="No_root_access_available">Permessi root non disponibili</string>
     <string name="Unable_to_read_root_directory">Impossibile leggere la directory radice</string>
     
     <string name="Operation_has_failed">Operazione fallita</string>
@@ -30,7 +30,7 @@
     <string name="Operation_not_allowed">Operazione non consentita.</string>
     <string name="Cannot_connect_to_host_x_on_port_y">Impossibile connettersi a \&quot;%x\&quot; sulla porta %y.</string>
     <string name="Unable_to_resolve_host_x">Impossibile risolvere il nome dell\'host \&quot;%x\&quot;.</string>
-    <string name="Server_returned_illegal_response">Il server ha restituito una riposta non valida.</string>
+    <string name="Server_returned_illegal_response">Il server ha restituito una risposta non valida.</string>
     <string name="An_error_occured_while_transferring_data_from_the_server">Si è verificato un errore durante il trasferimento dei dati dal server.</string>
     <string name="Invalid_username_or_password">Nome utente o password non validi.</string>
     <string name="Internal_server_error">Errore interno del server.</string>
@@ -42,4 +42,24 @@
     <string name="Cannot_create_directory_X">Impossibile creare la directory \&quot;%x\&quot;</string>
 	<string name="Unable_to_start_the_service_on_port_x">Impossibile avviare il servizio sulla porta %</string>
     
+    <string name="Invalid_position">Posizione invalida</string>
+    <string name="Unable_to_delete_file_x">Impossibile eliminare il file %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Impossibile montare il filesystem in modalità lettura/scrittura</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Impossibile montare il filesystem in modalità sola lettura</string>
+    <string name="Access_denied">Accesso negato</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Impossibile trovare un\'applicazione per completare questa azione</string>
+    <string name="Unable_to_set_the_wallpaper">Impossibile impostare lo sfondo</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">L\'unlocker è stato trovato ma ha restituito un errore. Di solito succede quando un\'altra applicazione blocca i suoi permessi, ad esempio un antivirus. Assicurati che Solid Explorer e l\'unlocker siano esclusi da qualsiasi blacklist e riavvia l\'applicazione.</string>
+    <string name="Unable_to_get_the_link">Impossibile recuperare il link</string>
+    
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">La risorsa richiesta è stata spostata</string>
+    <string name="Invalid_syntax">Sintassi invalida</string>
+    <string name="Service_unavailable">Servizio temporaneamente non disponibile, per favore riprova più tardi</string>
+    <string name="Unauthorized">Non autorizzato, per favore autenticati nuovamente</string>
+    <string name="Resource_not_found">Risorsa non trovata</string>
+    <string name="Method_not_allowed">Il metodo richiesto non è disponibile per questa risorsa</string>
+    <string name="Timeout_reached">Tempo limite raggiunto</string>
 </resources>
