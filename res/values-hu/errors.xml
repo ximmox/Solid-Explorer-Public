@@ -50,4 +50,13 @@
     <string name="Unlocker_error">A feloldó -unlocker- megtalálható, de hibával tért vissza. Általában ez olyankor történik, ha egy másik alkalmazás blokkolja a hozzáférését, pl. antivírus szoftver. Győződjön meg róla, hogy a Solid Explorer és a feloldó -unlocker- ki van zárva bármilyen tiltólistáról, és indítsa újra az alkalmazást.</string>
     <string name="Unable_to_get_the_link">Nem sikerült a kapcsolat létesítése</string>
     
+<!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">A kívánt erőforrás át lett helyezve</string>
+    <string name="Invalid_syntax">Érvénytelen formátum</string>
+    <string name="Service_unavailable">A szolgáltatás jelenleg nem elérhető, kérem próbálja meg később.</string>
+    <string name="Unauthorized">Nincs megfelelő jogosultság. Jelentkezzen be újra.</string>
+    <string name="Resource_not_found">Az erőforrás nem elérhető.</string>
+    <string name="Method_not_allowed">A kívánt mód nem engedélyezett ehhez az erőforráshoz</string>
+    <string name="Timeout_reached">Időtúllépés</string>
+    
 </resources>
