@@ -19,7 +19,7 @@
     <string name="Invalid_file_path">無效文件路徑</string>
     
     
-    <string name="Cannot_browse_to_x">無法瀏覽 \&quot;%\&quot檔案文件，加載檔案系統為讀/寫時失敗。</string>
+    <string name="Cannot_browse_to_x">無法瀏覽 \&quot;%\&quot;檔案文件，加載檔案系統為讀/寫時失敗。</string>
     <string name="Requested_file_x_has_not_been_found">請求文件 \&quot;%\&quot; 不存在。</string>
     <string name="Unknown_read_write_exception">未知讀/寫異常</string>
     <string name="Invalid_url_x">無效URL：%</string>

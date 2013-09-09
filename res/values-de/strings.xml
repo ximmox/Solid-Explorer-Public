@@ -825,7 +825,7 @@
     <string name="Streaming">Streaming</string>
     <string name="There_is_already_the_same_file_in_temporary_directory">Die gleiche Datei existiert bereits im temporären Ordner. Soll diese aus dem Cache geöffnet werden oder die aktuellste Version heruntergeladen werden?</string>
     <string name="Download">Download</string>
-    <string name="X_files_updated">% Datei{1:|__:en} aktualisiert<ring>
+    <string name="X_files_updated">% Datei{1:|__:en} aktualisiert</string>
     <string name="Temporary_file_has_been_modified">Die temporäre Datei % wurde geändert. Soll sie wieder hochgeladen werden?</string>
     <string name="Temporary_files_have_been_modified">% temporäre Datei{1:|__:en} wurden geändert. Sollen sie hochgeladen werden?</string>
     <string name="Slide_from_bottom">Von unten aufbauen</string>
