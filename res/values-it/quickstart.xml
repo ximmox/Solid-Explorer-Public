@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- ITALIAN by PieR @XDA - 18 Jul 2012 v1.0 -->
-
-    <string name="page1_1">Solid Explorer ha due pannelli indipendenti per la navigazione dei file. Ad esempio è possibile sfogliare la scheda SD in un pannello e uno storage di rete nell\'altro. La gestione dei file diventa un gioco da ragazzi.</string>
-    <string name="page1_2">Nella modalità verticale è visibile un pannello alla volta. Per passare dall\'uno all\'altro è sufficiente strusciare il dito a destra o sinistra. Nella visualizzazione orizzontale sono visibili entrambi i pannelli.</string>
+    <!-- last update: 09 Sep 2013 by Robertof <robertof dot public at gmail dot com>   -->
+    <string name="page1_1">Solid Explorer ha due pannelli indipendenti per la navigazione dei file. Ad esempio è possibile sfogliare la scheda SD in un pannello e una risorsa di rete nell\'altro. La gestione dei file diventa un gioco da ragazzi.</string>
+    <string name="page1_2">Nella modalità verticale è visibile un pannello alla volta. Per passare dall\'uno all\'altro è sufficiente fare uno swipe a destra o sinistra. Nella visualizzazione orizzontale sono visibili entrambi i pannelli.</string>
     <string name="page2_1">E\' possibile spostare un file semplicemente tenendo premuto il dito sulla sua icona e trascinandolo sul pannello opposto. Basta scorrere verso il bordo e il pannello apparirà.</string>
-	<string name="page2_2">E\' anche possibile trascinare i file in una directory: tenere il file sulla cartella per un po\' e la directory si aprirù. Poi sarà sufficiente rilasciarlo dentro.</string>
-    <string name="page3_1">Per selezionare velocemente fare tap sulla loro icona. Apparirà una barra di selezione con le funzioni disponibili. E\' possibile abilitirare ulteriori bottoni \&quot;copia\&quot;, \&quot;taglia\&quot; e \&quot;invia\&quot; dal menù Impostazioni.</string>
-    <string name="page3_2">Questa funzione non è disponibile nella visualizzazione a Griglia. Seleziona l\'azione dal menù Azioni.</string>
+	<string name="page2_2">E\' anche possibile trascinare i file in una directory: tenere il file sulla cartella per un po\' e la directory si aprirà. Poi sarà sufficiente rilasciarlo dentro.</string>
+    <string name="page3_1">Per selezionare velocemente fai tap sulla loro icona. Apparirà una barra di selezione con le funzioni disponibili. E\' possibile abilitare ulteriori bottoni come \&quot;Copia\&quot;, \&quot;Taglia\&quot; e \&quot;Invia\&quot; dal menù Impostazioni.</string>
+    <string name="page3_2">Questa funzione non è disponibile nella visualizzazione a Griglia. Devi scegliere l\'azione \&quot;Seleziona\&quot; dal menù Azioni.</string>
 	<string name="page4_1">La ricerca indicizzata consente di accedere velocemente ai file che si trovano nel dispositivo. La ricerca impiega meno di un secondo! Se il file non viene trovato è disponibile la \'Ricerca Manuale\' che permette di ricercare nel dispositivo file per file.</string>
-    <string name="page4_2">E\' possibile utiilzzare anche la ricerca Google. Abilitare Solid Explorer nel menù impostazioni dell\'applicazione Google.</string>
+    <string name="page4_2">E\' possibile utilizzare anche la ricerca Google. Abilitare Solid Explorer nel menù impostazioni dell\'applicazione Google.</string>
     <string name="page5_1">Solid Explorer supporta i protocolli FTP, SFTP e SMB. Le connessioni avvenute vengono automaticamente memorizzate come segnalibri. E\' possibile crittografare le password con una password globale, che è necessario impostare.</string>
-    <string name="page5_2">Se si dispone di un account di cloud storage (ad esempio Dropbox o Box) è possibile sfogliare i file online proprio allo stesso modo di quelli sul dispositio.</string>
-    <string name="page6_1">Per inviare file via email è possibile creare archivi ZIP o TAR  eventualmente protetti da password, con compressione GZIP o BZIP2.</string>
+    <string name="page5_2">Se si dispone di un account di cloud storage (ad esempio Dropbox o Box) è possibile sfogliare i file online proprio allo stesso modo di quelli sul dispositivo.</string>
+    <string name="page6_1">Per inviare file via email è possibile creare archivi. Questi possono essere ZIP e TAR eventualmente protetti da password, con compressione GZIP o BZIP2.</string>
     <string name="page6_2">Solid Explorer supporta gli archivi ZIP, RAR e TAR per la visualizzazione e l\'estrazione. E\' possibile navigare gli archivi esattamente come se fossero cartelle.</string>
-    <string name="page7_1">Solid Explorer fornisce informazioni dettagliate su file e directory. E\' possibile esaminare quello che consuma più memoria e visualizzare statistiche.</string>
-    <string name="page8_1">Ogni funzione trova il suo posto nei popup ed è stata accuratamente raggruppate per fornire un\'esperienza consistente.</string>
-    <string name="page8_2">Quando sono aperti pannelli multipli in background è possibile passare dall\'uno all\'altro con semplicità.</string>
-	<string name="page9">Sono felice che tu abbia deciso di usare Solid Explorer. Spero che tu apprezzerai tutte le funzionalità che l\'applicazione fornisce. Se vuoi puoi visualizzare di nuovo questa guida iniziale dal menù Impostazioni. Ciao!</string>
+    <string name="page7_1">Solid Explorer fornisce informazioni dettagliate su file e directory. E\' possibile determinare cosa consuma più memoria e visualizzare statistiche.</string>
+    <string name="page8_1">Ogni funzione trova il suo posto nei popup ed è stata accuratamenta raggruppata per fornire un\'esperienza consistente.</string>
+    <string name="page8_2">Quando sono aperti pannelli multipli in background è possibile passare da uno all\'altro con semplicità.</string>
+	<string name="page9">Sono felice che tu abbia deciso di usare Solid Explorer. Spero che apprezzerai tutte le funzionalità che l\'applicazione fornisce. Se vuoi puoi visualizzare di nuovo questa guida iniziale dal menù Impostazioni. Ciao!</string>
     <string name="Start_using_solid_explorer">Inizia ad usare Solid Explorer</string>
-    <string name="page0_1">Benveuto su Solid Explorer - il più intuitivo e accattivante file manager per Android. Si prega di leggere questa guida di avvio rapido per acquisire familiarità con tutte le caratteristiche che l\'applicazione offre.</string>
+    <string name="page0_1">Benvenuto su Solid Explorer - il più intuitivo e accattivante file manager per Android. Si prega di leggere questa guida di avvio rapido per acquisire familiarità di tutte le caratteristiche che l\'applicazione offre.</string>
     <string name="Not_now">Non adesso</string>
     <string name="page0_2">Per iniziare, scorri sulla schermata successiva</string>
     <string name="Welcome">Benvenuto</string>
@@ -30,7 +30,7 @@
     <string name="Detailed_information">Informazioni dettagliate</string>
     <string name="Useful_popups">Popup utili</string>
     <string name="Lets_start">Iniziamo</string>
-    <string name="You_can_read_the_guide_later_in_the_settings">E\' possibile leggere questa guida in qualsiasi momento. E\' sufficiente selezionare \&quot;guida iniziale\&quot; dal menu Impostazioni.</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">E\' possibile leggere questa guida in qualsiasi momento. E\' sufficiente selezionare \&quot;Guida iniziale\&quot; dal menu Impostazioni.</string>
     <string name="Thank_you">Grazie!</string>   
 	
 </resources>
