@@ -677,7 +677,7 @@
     <string name="Local_directory">일반 경로</string>
     <string name="Default_panel">기본 패널</string>
     <string name="Destination_type">대상 형식</string>
-    <string name="DiskUsage_not_installed">DiskUsage가 설치되지 않은 것 같습니다. 이 앱은 정말 정확하고 사용자에게 도움이 되도록 저장소 사용량을 보여줍니다. 지금 설치하시겠습니까?</string>
+    <string name="DiskUsage_not_installed">DiskUsage가 설치되지 않은 것 같습니다. 이 앱은 사용자에게 정확하고 유용한 저장소 사용량을 보여줍니다. 지금 설치하시겠습니까?</string>
     <string name="Text_copied_to_clipboard">텍스트가 클립보드로 복사되었습니다</string>
     <string name="Force_english">영어 사용</string>
     <string name="Force_english_summary">자신의 언어보다 영어 사용을 원한다면 체크하세요. 재시작후 적용됩니다.</string>
@@ -852,4 +852,21 @@
 		<string name="Wifi_enabled">WiFi가 켜졌습니다</string>
 		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">이 항목을 기본값으로 변경하시겠습니까?</string>
 			
+		<!-- v 1.4.6 -->  
+		<string name="no_wifi_available">사용가능한 WIFI가 없습니다. 장치에 핫스팟 설정을 하시겠습니까?</string>  
+		<string name="disable_hotspot">핫스팟을 끄시겠습니까?</string>  
+			
+		<!-- v 1.5 -->
+		<string name="Any_type">Any type</string>
+		<string name="Ubuntu_one_login">Ubuntu One 로그인</string>
+		<string name="Master_password_has_been_changed">마스터 비밀번호가 변경되었습니다</string>
+		<string name="Encryption">암호화</string>
+		<string name="Certificates">자격증명</string>
+		<string name="Trust_all_ssl_certificates">모든 SSL자격 신뢰</string>
+		<string name="Use_at_your_own_risk">위험을 감수하고 사용합니다</string>
+		<string name="Gestures">제스처</string>
+		<string name="Enable_list_zoom">목록 줌 활성화</string>
+		<string name="Enable_list_zoom_summary">활성화 하시면 핀치 제스처로 목록의 크기를 변경할 수 있습니다</string>
+		<string name="Mediafire_login">MediaFire 로그인</string>
+		<string name="No_master_password_set">마스터 비밀번호가 설정되지 않았습니다</string>			
 </resources>
