@@ -546,7 +546,7 @@
     <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Quando si rilascia un elemento su una cartella nello stesso pannello</string>
     <string name="Action_for_drop_to_the_second_panel">Azione per il secondo pannello</string>
     <string name="Dropping_an_item_to_the_second_panel">Quando si rilascia un elemento sul secondo pannello</string>
-    <string name="Move">Muovi</string>
+    <string name="Move">Sposta</string>
     
     <string name="Security">Sicurezza</string>
     <string name="Master_password_prompt">Solid Explorer utilizza una master password per crittografare tutte le credenziali di autenticazione. Per proteggere la tua sicurezza questa funzione è vivamente consigliata. La master password ti verrà richiesta una sola volta per ogni avvio dell\'applicazione. In caso contrario verrà utilizzata la crittografia standard senza password. Vuoi usare questa funzionalità?</string>
@@ -613,7 +613,7 @@
     <string name="Delete_operation_history_entries">Elimina tutta la cronologia delle operazioni effettuate</string>
     <string name="Clear_file_type_associations">Reimposta le associazioni dei file</string>
     <string name="Clear_file_type_associations_summary">Elimina le informazioni relative all\'applicazione utilizzata per aprire un determinato tipo di file</string>
-    <string name="Clear_temporary_files_on_exit">Pulisci temporanei all\'uscita</string>
+    <string name="Clear_temporary_files_on_exit">Elimina file temporanei all\'uscita</string>
     <string name="Temporary_files_will_be_removed_on_app_exit">I file temporanei verranno eliminati all\'uscita dell\'applicazione</string>
     
     <string name="Quick_start_guide">Guida introduttiva</string>
@@ -656,7 +656,7 @@
     <string name="Icon_designer">Designer dell\'icona</string>
     <string name="Prefix">Prefisso</string>
     <string name="Translations">Traduzione</string>
-    <string name="Translations_summary">Traduzione Italiana originale di PieR@XDA \nSecondo aggiornamento/revisione di Roberto Frenna \&lt;robertof dot public at gmail dot com\&gt;</string>
+    <string name="Translations_summary">Traduzione Italiana originale di PieR@XDA \nSecondo aggiornamento/revisione di Roberto Frenna (robertof dot public at gmail dot com)</string>
     <string name="Empty">Vuoto</string>
     <string name="Press_once_again_to_exit">Premi ancora una volta per uscire</string>
 
@@ -838,8 +838,8 @@
         <string name="List_animations_summary">Personalizza le animazioni della lista dei file</string>
         <string name="Clear_filter_history">Pulisci la cronologia dei filtri</string>
         <string name="Clear_filter_history_summary">Elimina la cronologia dei filtri utilizzati</string>
-        <string name="New_webdav_connection">Connessione a WebDav</string>
-        <string name="WebDav_bookmarks">Segnalibri di WebDav</string>
+        <string name="New_webdav_connection">Connessione WebDav</string>
+        <string name="WebDav_bookmarks">Segnalibri WebDav</string>
         
         
         <!--  v 1.4.5 -->
