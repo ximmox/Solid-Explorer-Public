@@ -52,4 +52,12 @@
     <string name="Unlocker_error">Unlocker가 발견되었으나 오류가 발생되었습니다. 보통 다른 앱이 권한을 차단할 때 발생합니다 (예, 안티바이러스 앱). Solid Explorer와 Unlocker를 블랙리스트로부터 해제하시고 앱을 다시 실행하세요.</string>
     <string name="Unable_to_get_the_link">링크를 얻을 수 없습니다</string>
     
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">요청된 리소스가 이동되었습니다</string>
+    <string name="Invalid_syntax">잘못된 구문</string>
+    <string name="Service_unavailable">서비스를 일시적으로 이용할 수 없습니다. 잠시후 다시 시도 하세요.</string>
+    <string name="Unauthorized">인증되지 않음, 다시 로그인 하세요.</string>
+    <string name="Resource_not_found">리소스를 찾을 수 없습니다</string>
+    <string name="Method_not_allowed">이 리소스에서는 허용되지 않은 요청입니다</string>
+    <string name="Timeout_reached">시간 초과</string>
 </resources>
