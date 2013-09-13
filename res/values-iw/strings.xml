@@ -750,4 +750,20 @@
   <string name="Wifi_disabled">WiFi מכובה</string>
   <string name="Wifi_enabled">WiFi דלוק</string>
   <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">אתה בטוח שאתה רוצה לשחזר את ההגדרות ברירת מחדל לפריט הזה?</string>
+  <!-- v 1.4.6 -->
+  <string name="no_wifi_available">אין wifi זמין. אתה רוצה להגדרי נקודה חמה במכשיר שלך?</string>
+  <string name="disable_hotspot">לבטל נקודה חמה?</string>
+  <!-- v 1.5 -->
+  <string name="Any_type">כל סוג</string>
+  <string name="Ubuntu_one_login">התחברות אל Ubuntu One</string>
+  <string name="Master_password_has_been_changed">הסיסמה הראשית שונתה</string>
+  <string name="Encryption">הצפנה</string>
+  <string name="Certificates">אישורים</string>
+  <string name="Trust_all_ssl_certificates">תבטח בכל אישורי SSL</string>
+  <string name="Use_at_your_own_risk">השימוש באחריותך בלבד</string>
+  <string name="Gestures">מחוות</string>
+  <string name="Enable_list_zoom">אפשר זום ברשימה</string>
+  <string name="Enable_list_zoom_summary">כאשר פעיל, אתה יכול שלנות את הגדול של רשימת הקבצים והתיקיות על ידי מחחות צביטה</string>
+  <string name="Mediafire_login">התחבר אל MediaFire</string>
+  <string name="No_master_password_set">לא הוגדרה סיסמה ראשית</string>
 </resources>
