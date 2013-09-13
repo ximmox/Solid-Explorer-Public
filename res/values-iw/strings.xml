@@ -660,6 +660,19 @@
   <string name="Unable_to_mount_the_system_as_read_write">לא ניתן להגדיר את המערכת כקריאה/כתיבה</string>
   <string name="Unable_to_mount_the_system_as_read_only">לא ניתן להגדיר את המערכת לקריאה בלבד</string>
   <string name="Access_denied">גישה נדחתה</string>
+  <string name="Unable_to_find_an_activity_to_complete_this_action">לא ניתן למצוא פעילות כדי להשלים את הפעולה הזאת</string>
+  <string name="Unable_to_set_the_wallpaper">לא ניתן להגדיר את הטפט</string>
+  <!-- 1.4.3 -->
+  <string name="Unlocker_error">The unlocker was found but it returned an error. It usually happens when another application blocks its permissions, ex. antivirus software. Make sure the Solid Explorer and the unlocker are excluded from any blacklists and start the app again.</string>
+  <string name="Unable_to_get_the_link">לא ניתן לקבל את הקישור</string>
+  <!-- 1.5 -->
+  <string name="Requested_resource_has_been_moved">המשאב המבוקש הועבר</string>
+  <string name="Invalid_syntax">תחביר לא חוקי</string>
+  <string name="Service_unavailable">השירות לא זמין באופן זמני, נסה שוב מאוחר יותר</string>
+  <string name="Unauthorized">לא מורשה, אנא היכנס שוב</string>
+  <string name="Resource_not_found">המקור לא נמצא</string>
+  <string name="Method_not_allowed">השיטה המבוקשת אינה מותרת עבור מקור זה</string>
+  <string name="Timeout_reached">נגמר הזמן</string>
   <string name="Compression_ratio">יחס דחיסה</string>
   <string name="Compression_method">שיטת דחיסה</string>
   <string name="Comment">הערה</string>
