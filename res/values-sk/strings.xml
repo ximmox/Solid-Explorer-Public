@@ -781,5 +781,22 @@ Krzysztof Głodowski"</string>
         <string name="Wifi_disabled">WiFi vypnuté</string>
         <string name="Wifi_enabled">WiFi zapnté</string>
         <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Určite chcete obnoviť predvolené nastavenia pre túto položku?</string>
+    <!-- v 1.4.6 -->
+        <string name="no_wifi_available">Žiadna WiFi sieť nie je k dispozícii. Chcete nastaviť hotspot na vašom zariadení?</string>
+        <string name="disable_hotspot">Zakázať hotspot?</string>
+        
+    <!-- v 1.5 -->
+        <string name="Any_type">Akýkoľvek typ</string>
+        <string name="Ubuntu_one_login">Prihlásenie Ubuntu One</string>
+        <string name="Master_password_has_been_changed">Hlavné heslo bolo zmenené</string>
+        <string name="Encryption">Šifrovanie</string>
+        <string name="Certificates">Certifikáty</string>
+        <string name="Trust_all_ssl_certificates">Dôverovať všetkým SSL certifikátom</string>
+        <string name="Use_at_your_own_risk">Použitie je na vlastné riziko</string>
+        <string name="Gestures">Gestá</string>
+        <string name="Enable_list_zoom">Povoliť približovanie zoznamu</string>
+        <string name="Enable_list_zoom_summary">Pri povolení budete môcť meniť veľkosť zoznamu pomocou gesta pre priblíženie dvoma prstami</string>
+        <string name="Mediafire_login">Prihlásiť sa do MediaFire</string>
+        <string name="No_master_password_set">Hlavné heslo nebolo nastavené</string>
 
 </resources>
