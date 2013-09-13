@@ -59,6 +59,6 @@
     <string name="Unauthorized">Неоторизиран, моля влезте отново</string>
     <string name="Resource_not_found">Ресурса не е намерен</string>
     <string name="Method_not_allowed">Изисканият метод не е позволен за този ресурс</string>
-    <string name="Timeout_reached">Timeout reached</string>
+    <string name="Timeout_reached">Времето за изчакване е достигнато</string>
     
 </resources>
