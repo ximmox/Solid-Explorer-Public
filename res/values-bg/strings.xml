@@ -792,7 +792,7 @@
      	<string name="Data_backup">Архивиране на данни</string>
      	<string name="Application_data">Данни на приложението</string>
      	<string name="Create_backup">Създай архив</string>
-     	<string name="Backup_application_data_to_a_desired_file">Архивиране на данните на прилеожението във файл</string>
+     	<string name="Backup_application_data_to_a_desired_file">Архивиране на данните на приложението във файл</string>
      	<string name="Restore_backup">Възстанови архив</string>
      	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Избор на архивен файл, от който данните ще бъдат възстановени</string>
      	<string name="Data_backup_created">Създаден е архив на данните</string>
