@@ -871,4 +871,21 @@
 		<string name="Mediafire_login">Log in to MediaFire</string>
 		<string name="No_master_password_set">Master password has not been set</string>
 		
+		<!-- v 1.5.1 -->
+		<string name="Ssl_certificate_is_not_trusted">The certificate is not signed by a trusted authority. Do you want to accept it?</string>
+		<string name="Issuer">Issuer</string>
+		<string name="Subject">Subject</string>
+		<string name="Expiration">Expiration</string>
+		<string name="Common_name">Common name</string>
+		<string name="Organization">Organization</string>
+		<string name="Organizational_unit">Organizational unit</string>
+		<string name="Country">Country</string>
+		<string name="State">State</string>
+		<string name="Algorithm">Algorithm</string>
+		<string name="Exponent">Exponent</string>
+		<string name="Key_length">Key length</string>
+		<string name="Accept">Accept</string>
+		<string name="Rescan_all_media">Rescan all media</string>
+		<string name="Rescan_all_media_summary">Rescan all media after each file transfer. Use this option if the gallery doesn\'t update properly.</string>
+		
 </resources>
