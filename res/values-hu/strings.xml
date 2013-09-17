@@ -868,4 +868,21 @@
 <string name="Mediafire_login">MediaFire bejelentkezés</string>
 <string name="No_master_password_set">Nincs beállítva mesterjelszó</string>
 
+	<!-- v 1.5.1 -->
+<string name="Ssl_certificate_is_not_trusted">Ez a tanúsítvány nincs megbízható kibocsátó által aláírva. Biztos elfogadja?</string>
+<string name="Issuer">Kibocsátó</string>
+<string name="Subject">Tárgy</string>
+<string name="Expiration">Érvényesség</string>
+<string name="Common_name">Általános név</string>
+<string name="Organization">Szervezet</string>
+<string name="Organizational_unit">Szervezeti egység</string>
+<string name="Country">Ország</string>
+<string name="State">Állam</string>
+<string name="Algorithm">Algoritmus</string>
+<string name="Exponent">Kitevő</string>
+<string name="Key_length">Kulcs hossza</string>
+<string name="Accept">Elfogad</string>
+<string name="Rescan_all_media">Összes média újraszkennelése</string>
+<string name="Rescan_all_media_summary">Minden fájlátvitel után újraszkenneli az összes médiát. Használja ezt az opciót, ha a galéria nem frissül megfelelően.</string>
+
 </resources>
