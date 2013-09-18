@@ -49,5 +49,14 @@
     <!-- 1.4.3 -->
     <string name="Unlocker_error">Kľúč bol nájdený, ale vrátil chybu. Zvyčajnou príčinou býva iná aplikácia blokujúca jeho oprávnenia, napr. antivírus. Uistite sa, že Solid Explorer aj kľúč sú vynechané z akéhokoľvek blacklistu a spustite aplikáciu znova.</string>
     <string name="Unable_to_get_the_link">Odkaz sa nedá získať</string>
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">Požadovaný zdroj bol presunutý</string>
+    <string name="Invalid_syntax">Neplatná syntax</string>
+    <string name="Service_unavailable">Služba je momentálne nedostupná, prosím, skúste to znova neskôr</string>
+    <string name="Unauthorized">Neatuorizované, prosím, znova sa prihláste</string>
+    <string name="Resource_not_found">Zdroj sa nepodarilo nájsť</string>
+    <string name="Method_not_allowed">Požadovaná metóda nie je pre tento zdroj povolená</string>
+    <string name="Timeout_reached">Vypršal časový limit</string>
+
     
 </resources>

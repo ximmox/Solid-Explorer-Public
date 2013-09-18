@@ -50,4 +50,13 @@
     <string name="Unlocker_error">解锁密钥已找到，但是却返回了一个错误信息。这通常是由于另外一个应用程序锁定了它的权限所造成的，比如杀毒软件等。请确保 Solid Explorer 和解锁密钥没有在任何黑名单之中，并重新打开应用重试。</string>
     <string name="Unable_to_get_the_link">无法获得连接信息</string>
     
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">请求的资源不存在</string>
+    <string name="Invalid_syntax">无效的语法</string>
+    <string name="Service_unavailable">服务暂时不可用，请稍后再试</string>
+    <string name="Unauthorized">认证失败，请重新登陆</string>
+    <string name="Resource_not_found">资源未找到</string>
+    <string name="Method_not_allowed">该资源不允许使用此种请求方式</string>
+    <string name="Timeout_reached">到达超时</string>
+    
 </resources>

@@ -271,7 +271,7 @@
     <string name="Execute">Futtat</string>
     <string name="Owner">Tulajdonos</string>
     <string name="Group">Csoport</string>
-    <string name="Others">Többiek</string>
+    <string name="Others">Egyebek</string>
     <string name="Owners">Tulajdonosok</string>
     <string name="Permissions">Jogosultságok</string>
     <string name="Set">Beállít</string>
@@ -843,5 +843,29 @@
      <string name="Clear_filter_history_summary">List szűrés lekérdezések előzményeinek törlése</string>
      <string name="New_webdav_connection">WebDav kapcsolat</string>
      <string name="WebDav_bookmarks">WebDav könyvjelzők</string>
+	
+	<!-- v 1.4.5 -->
+<string name="Domain">Domain</string>
+<string name="Mode">Mód</string>
+<string name="Passive">Passzív</string>
+<string name="Nomedia_on">.nomedia fájl létrehozva</string>
+<string name="Nomedia_off">.nomedia fájl törölve</string>
+<string name="Wifi_disabled">WiFi letiltva</string>
+<string name="Wifi_enabled">WiFi engedélyezve</string>
+<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Biztos alaphelyzetbe állítja az elem beállításait?</string>
+
+	<!-- v 1.5 -->
+<string name="Any_type">Bármilyen típus</string>
+<string name="Ubuntu_one_login">Ubuntu One bejelentkezés</string>
+<string name="Master_password_has_been_changed">A mesterjelszó megváltozott</string>
+<string name="Encryption">Titkosítás</string>
+<string name="Certificates">Tanúsítványok</string>
+<string name="Trust_all_ssl_certificates">Minden SSL tanúsítványban megbízik</string>
+<string name="Use_at_your_own_risk">Csak saját felelősségre használja</string>
+<string name="Gestures">Mozdulatok</string>
+<string name="Enable_list_zoom">Lista nagyítás engedélyezése</string>
+<string name="Enable_list_zoom_summary">Ha engedélyezve van, akkor csípő mozdulattal változtathatja a listák méretét</string>
+<string name="Mediafire_login">MediaFire bejelentkezés</string>
+<string name="No_master_password_set">Nincs beállítva mesterjelszó</string>
 
 </resources>

@@ -845,5 +845,23 @@
     	<string name="Wifi_disabled">WiFi desactivado</string>
     	<string name="Wifi_enabled">WiFi activado</string>
     	<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">¿Estás seguro de restaurar los valores por defecto para este elemento?</string>    	
+
+    	<!-- v 1.4.6 -->
+    	<string name="no_wifi_available">No hay red wifi disponible. ¿Deseas configurar un punto de acceso en tu dispositivo?</string>
+    	<string name="disable_hotspot">¿Desactivar punto de acceso?</string>
     
+    	<!-- v 1.5 -->
+    	<string name="Any_type">Cualquier tipo</string>
+    	<string name="Ubuntu_one_login">Iniciar sesión en Ubuntu One</string>
+	<string name="Master_password_has_been_changed">La contraseña maestra ha sido cambiada</string>
+    	<string name="Encryption">Encriptación</string>
+    	<string name="Certificates">Certificados</string>
+    	<string name="Trust_all_ssl_certificates">Confiar en todos los certificados SSL</string>
+    	<string name="Use_at_your_own_risk">Úsalo bajo tu responsibilidad</string>
+    	<string name="Gestures">Gestos</string>
+    	<string name="Enable_list_zoom">Activar zoom en listado</string>
+    	<string name="Enable_list_zoom_summary">Cuando se activa, puedes cambiar el tamaño de los listados con un gesto de pellizco</string>
+    	<string name="Mediafire_login">Iniciar sesión en MediaFire</string>
+    	<string name="No_master_password_set">La contraseña maestra no ha sido configurada</string>    
+    	
 </resources>

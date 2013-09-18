@@ -1,2 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources><string name="page1_1">Solid Explorer 有兩個獨立的瀏覽面板。舉例:你可以在一個面板中瀏覽記憶卡的內容，然後另一個面板是電腦SMB網路分享的內容。然後你便可以輕鬆的處理文件了。</string><string name="page1_2">在豎屏模式中只能瀏覽一個面板。不過你可以藉由向右或向左滑動在兩面板間切換。在橫屏模式中你可以同時瀏覽兩個面板。</string><string name="page2_1">你可以按住圖標拖動幾個文件並將它們丟入另一個面板。只要滑動到屏幕邊緣，會出現第二個面板。非常的直觀方便。</string><string name="page2_2">您也可以拖放文件到一個目錄中。只要移動至該文件夾上方半秒後，該文件夾就會打開。然後，只需丟入您選擇的檔案。.</string><string name="page3_1">你可以點選圖標來快速選擇檔案。而選擇欄會跳出一些實用的功能。 你可以使用像是\"複製\"、 \"剪下\" 和 \"傳送\" 的功能</string><string name="page3_2">唯一例外，在並排視圖中無法實現這項功能。你必須在下方的按鈕中啟用選擇模式!</string><string name="page4_1">索引搜尋提供 一個快速取得手機中任何文件位置的方法。你可以在1秒內獲得搜尋結果 ! 再也不必等待了! 然而，如果你的文件沒有搜尋到 ，請點擊\'手動搜尋\' 功能在手機中一個文件、一個文件的搜尋。</string><string name="page4_2">你也可以從Google Search搜尋你的手機檔案。你所要做的就是到設定裡允許Solid Explorer 搜尋界面。</string><string name="page5_1">Solid Explorer 支援FTP, SFTP 和 SMB。當你在某處登入後它會自動以一個書籤的方式進行讀取。 你可以設定一個主密碼來加密你的所有登入密碼。</string><string name="page5_2">你有雲端空間帳號嗎?如果是，你現在可以輕鬆的瀏覽Dropbox 和 Box 中的文件了!</string><string name="page6_1">你需要藉由電子郵件傳送一些檔案嗎? 你可以用GZIP 或 BZIP2 壓縮技術創建ZIP檔, 加密 ZIP和TAR檔</string><string name="page6_2">Solid Explorer 支援 ZIP, RAR和 TAR 類型的讀取、壓縮與解壓縮。你可以以一個文件管理系統般的瀏覽這類文件。</string><string name="page7_1">Solid Explorer 能提供你檔案與目錄的詳細資料。現在你可以得知是什麼檔案吃掉了存儲空間或查看一些統計資訊。</string><string name="page8_1">每個功能都能藉由點擊底下正確的按鈕彈出。為了保有良好的使用者體驗它們都被合理和簡潔的做成各個群組 。</string><string name="page8_2">當你有多個面板的背景中時，您可以以這種方式在它們之間做切換。</string><string name="page9">我非常開心你決定嘗試Solid Explorer.。我希望你能夠享受這個程式所帶來的功能與便利。 如果你忘了什麼重點，你可以進入設定裡閱讀快速入門指南。Cheers!</string><string name="Start_using_solid_explorer">開始使用 Solid Explorer</string><string name="page0_1">歡迎使用 Solid Explorer -最直觀，最引人注目的Android文件管理器。請閱讀本快速入門指南熟悉這個應用程序所提供的所有獨特功能。</string><string name="Not_now">現在不要</string><string name="page0_2">滑動至下一個螢幕以開始</string><string name="Welcome">歡迎使用!</string><string name="Two_panels">兩個面板</string><string name="Quick_selection">快速選擇</string><string name="Indexed_search">索引搜尋</string><string name="Archives">檔案文件</string><string name="Detailed_information">詳細資訊</string><string name="Useful_popups">彈出提示窗口</string><string name="Lets_start">開始吧!</string><string name="You_can_read_the_guide_later_in_the_settings">你可以稍後進入設定，並選擇\“快速入門指南\”選項來閱讀使用者導覽。</string><string name="Thank_you">感謝您!</string></resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1_1">Solid Explorer有兩個獨立的瀏覽面板。你可以在一個面板中瀏覽SD卡的同時，通過另一個面板中瀏覽你的雲端空間，檔案管理變得極其輕鬆。</string>
+    <string name="page1_2">在豎屏模式中，你的螢幕僅能瀏覽一個面板，不過你可以藉由向右或向左滑動以兩面板間進行切換。在橫屏模式中，你可同時瀏覽兩個面板中的內容。</string>
+    <string name="page2_1">你可以按住檔案的進行拖動。如果你想要將它們丟入另一個面板中，只要將檔案拖動到屏幕邊緣，第二面板將自動彈出。</string>
+    <string name="page2_2">您也可以拖放檔案到一個目錄中。只要將檔案拖動至該資料夾上方半秒後，該資料夾就會自動打開。然後，只需丟入您選擇的檔案。</string>
+    <string name="page3_1">你可以點選圖標來快速選擇檔案。動作欄會跳出一些實用的功能，像是\&quot;複製\&quot;，\&quot;剪下\&quot;和\&quot;傳送\&quot;等。</string>
+    <string name="page3_2">唯一例外的是，該功能在並排檢視中無法實現。你必須在下方的按鈕中啟用選擇模式。</string>
+    <string name="page4_1">索引搜尋提供一個快速取得手機中任何檔案位置的方法。你可以在1秒內獲得搜尋結果！再也不必等待了！然而，如果你的檔案沒有搜尋到，請通過\&quot;手動搜尋\&quot;功能在手機中進行搜尋。</string>
+    <string name="page4_2">你也可以從Google Search搜尋你的手機檔案。你所要做的就是到Google Search設定裡允許Solid Explorer搜尋界面。</string>
+    <string name="page5_1">Solid Explorer支援FTP，SFTP和SMB。當你在某處登入後它會自動以一個書籤的方式進行讀取。你可以設定一個主密碼來加密你所有的登入密碼。</string>
+    <string name="page5_2">你有雲端空間帳號嗎？如果有，你現在可以輕鬆的瀏覽Dropbox和Box中的檔案了！</string>
+    <string name="page6_1">你需要藉由電子郵件傳送一些檔案嗎？那你可以通過GZIP或BZIP2壓縮技術創建加密的ZIP檔案和TAR檔案。</string>
+    <string name="page6_2">Solid Explorer支援ZIP，RAR和TAR類型的讀取、壓縮與解壓縮。你可以像瀏覽資料夾般瀏覽這類檔案。</string>
+    <string name="page7_1">Solid Explorer能你為你提供檔案與目錄的詳細資料。現在你可以得知是什麼檔案佔用了大量的存儲空間或查看一些統計資訊。</string>
+    <string name="page8_1">每個功能都能藉由底下的選單中找到。為了保有良好的使用者體驗，它們都被合理和簡潔的分類到不同群組中。</string>
+    <string name="page8_2">當你有多個面板的背景中時，您可以輕鬆地在在它們之間進行切換。</string>
+    <string name="page9">我非常高興你決定嘗試Solid Explorer。我希望你能夠享受這個程式所帶來的功能與便利。如果你忘了什麼重點，你可以進入設定裡閱讀快速入門指南。</string>
+    <string name="Start_using_solid_explorer">開始使用Solid Explorer</string>
+    <string name="page0_1">歡迎使用Solid Explorer - 最直觀，最引人注目的Android檔案管理器。請閱讀本快速入門指南熟悉這個應用程序所提供的所有獨特功能。</string>
+    <string name="Not_now">現在不要</string>
+    <string name="page0_2">滑動至下一個螢幕以開始</string>
+    <string name="Welcome">歡迎</string>
+    <string name="Two_panels">兩個面板</string>
+    <string name="Quick_selection">快速選擇</string>
+    <string name="Indexed_search">索引搜尋</string>
+    <string name="Archives">壓縮檔案</string>
+    <string name="Detailed_information">詳細資訊</string>
+    <string name="Useful_popups">彈出窗口</string>
+    <string name="Lets_start">開始吧！</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">你可以稍後進入設定，並選擇\&quot;快速入門指南\&quot;選項來閱讀使用者導覽。</string>
+    <string name="Thank_you">感謝你！</string>
+    
+</resources>

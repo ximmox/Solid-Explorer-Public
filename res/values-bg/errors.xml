@@ -52,4 +52,13 @@
     <string name="Unlocker_error">Unlocker-ът беше намерен, но върна грешка. Това обикновено се случва, когато друго приложение блокира неговите разрешения, например антивирусна програма. Убедете се, че Solid Explorer и unlocker-ът са изключени от всякакви черни списъци и стартирайте приложението отново.</string>
     <string name="Unable_to_get_the_link">Не мога да взема връзката</string>
 
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">Изисканият ресурс е преместен</string>
+    <string name="Invalid_syntax">Невалиден синтаксис</string>
+    <string name="Service_unavailable">Услугата е временно недостъпна, моля опитайте отново по-късно</string>
+    <string name="Unauthorized">Неоторизиран, моля влезте отново</string>
+    <string name="Resource_not_found">Ресурса не е намерен</string>
+    <string name="Method_not_allowed">Изисканият метод не е позволен за този ресурс</string>
+    <string name="Timeout_reached">Времето за изчакване е достигнато</string>
+    
 </resources>

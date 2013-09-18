@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="page1_1">Solid Explorer má dva nezávislé panely pro procházení souborů. Na jednom můžete mít například složku z SD karty a na druhém vnitřní paměť zařízení. Díky tomu můžete spravovat soubory s lehkostí.</string>
+    <string name="page1_1">Solid Explorer má dva nezávislé panely pro procházení souborů. Na jednom například můžete procházet složku z SD karty a na druhém síťové úložiště. Díky tomu lze spravovat soubory s lehkostí.</string>
     <string name="page1_2">V režimu na výšku je viditelný pouze jeden panel. Chcete-li přepnout mezi panely, jednoduše tažením prstu posuňte panel doleva nebo doprava. V režimu na šířku jsou viditelné oba panely současně.</string>
-    <string name="page2_1">Soubor můžete přesunout tak, že podržíte prst na jeho ikoně a pak ji přetáhnete k okraji obrazovky, kde okamžik setrváte. Tak se zobrazí druhý panel. Na něm pak můžete ikonu pustit v místě, kam chcete soubor umístit.</string>
+    <string name="page2_1">Soubor lze přesunout tak, že podržíte prst na jeho ikoně a poté ji přetáhnete k okraji obrazovky, kde okamžik setrváte. Tak se zobrazí druhý panel. Na něm pak můžete ikonu pustit v místě, kam chcete soubor přemístit.</string>
     <string name="page2_2">Stejným způsobem se přetahují i soubory do složek. Stačí podržet prst na ikoně souboru, soubor přetáhnout na ikonu cílové složky, která se \&quot;pootevře\&quot; a uvolněním prstu se soubor přemístí.</string>
     <string name="page3_1">Pro rychlý výběr souborů klepněte na jejich ikonu. V dolní části obrazovky se zobrazí panel s rychlými volbami. V nastavení můžete přidat další tlačítka pro \&quot;kopírování\&quot;, \&quot;úpravy\&quot; a \&quot;odeslání\&quot;.</string>
     <string name="page3_2">Tato funkce není k dispozici v zobrazení mřížky. Zde jí musíte aktivovat z nabídky \&quot;Akce\&quot;.</string>
@@ -10,14 +10,14 @@
     <string name="page4_2">Stejným způsobem můžete soubory vyhledávat i zkrze Google Search. V aplikaci Google Search jděte do nastavení a ve vyhledávacím rozhraní povolte Solid Explorer.</string>
     <string name="page5_1">Solid Explorer podporuje protokoly FTP, SFTP a SMB. Když se někam přihlásíte, připojení se automaticky uloží jako záložka. Můžete si zvolit i šifrování hesla pomocí hlavního hesla.</string>
     <string name="page5_2">Vlastníte cloudové úložiště jako DropBox, Google Drive nebo Skydrive? Pokud ano, můžete data na nich procházet jednoduše, jako by byla uložena na Vašem zařízení.</string>
-    <string name="page6_1">Potřebujete-li poslat nějaké soubory emailem, můžete vytvořit heslem chráněný archiv ZIP nebo TAR s kompresí GZIP nebo BZIP2.</string>
+    <string name="page6_1">Potřebujete-li poslat nějaké soubory emailem, můžete vytvořit heslem chráněný archiv ZIP nebo TAR s kompresí GZIP či BZIP2.</string>
     <string name="page6_2">Solid Explorer podporuje prohlížení a rozbalování archivů ZIP, RAR a TAR. Archivy lze procházet stejným způsobem, jako složky.</string>
-    <string name="page7_1">Solid Explorer Vám poskytuje podrobné informace o souborech a složkách. Nyní si můžete prohlédnout, co Vám zabírá nejvíce paměťi, nebo se podívat na statistiky.</string>
+    <string name="page7_1">Solid Explorer Vám poskytuje podrobné informace o souborech a složkách. Můžete si prohlédnout, co Vám zabírá nejvíce paměťi, nebo se podívat na statistiky.</string>
     <string name="page8_1">Každá funkce má své místo. Všechny byly pečlivě rozděleny do skupin, pro zajištění maximálního komfortu při používání.</string>
     <string name="page8_2">Máte-li otevřeno více panelů na pozadí, můžete mezi nimi jednoduše přepínat.</string>
-    <string name="page9">Jsem rád, že jste se rozhodli pro Solid Explorer. Doufám, že se Vám všechny funkce které aplikace nabízí budou líbit. Pokud cokoli z předcházejícího zapomenete, můžete si tuto příručku kdykoli znovu otevřít z menu Nastavení.</string>
+    <string name="page9">Jsem velmi rád, že jste se rozhodli vyzkoušet Solid Explorer. Doufám, že se Vám všechny funkce které aplikace nabízí budou líbit. Pokud cokoli z předcházejícího zapomenete, můžete si tento krátký návod k použití kdykoli znovu otevřít z menu Nastavení. Ať slouží!</string>
     <string name="Start_using_solid_explorer">Začít používat Solid Explorer</string>
-    <string name="page0_1">Vítá Vás Solid Explorer - intuitivní a nevšední správce souborů pro Android. Prosím, přečtěte si tohoto rychlého průvodce, který Vás seznámí se všemi funkcemi, které tato aplikace nabízí...</string>
+    <string name="page0_1">Vítá Vás Solid Explorer - intuitivní a nevšední správce souborů pro Android. Prosím, přečtěte si tento stručný návod k použití, který Vás seznámí se všemi funkcemi, které tato aplikace nabízí.</string>
     <string name="Not_now">Později</string>
     <string name="page0_2">Chcete-li začít, tažením prstu doleva přejdete na další obrazovku.</string>
     <string name="Welcome">Vítejte</string>
@@ -28,7 +28,7 @@
     <string name="Detailed_information">Detailní informace</string>
     <string name="Useful_popups">Užitečné nabídky</string>
     <string name="Lets_start">Pojďme začít</string>
-    <string name="You_can_read_the_guide_later_in_the_settings">Průvodce si můžete přečíst kdykoliv budete chtít. Stačí jít do nastavení a zvolit možnost \&quot;Stručný návod\&quot;.</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Tohoto průvodce si můžete přečíst kdykoliv budete chtít. Stačí jít do nastavení a zvolit volbu \&quot;Stručný návod k použití\&quot;.</string>
     <string name="Thank_you">Děkuji Vám!</string>
     
 </resources>
