@@ -10,10 +10,10 @@
     <string name="Error">Erreur</string>
     
     <string name="Invalid_password_for_user_x">Mot de passe invalide pour l\'utilisateur \&quot;%\&quot;</string>
-    <string name="Invalid_master_password">Mot de passe Maître invalide</string>
-    <string name="Unable_to_execute_shell_command">Impossible d\'exécuter la commande shell</string>
+    <string name="Invalid_master_password">Mot de passe maître invalide</string>
+    <string name="Unable_to_execute_shell_command">Impossible d\'exécuter la commande Shell</string>
     <string name="No_root_access_available">Droit root non disponible</string>
-    <string name="Unable_to_read_root_directory">Impossible de lire le répertoire Root</string>
+    <string name="Unable_to_read_root_directory">Impossible de lire le dossier Root</string>
     
     <string name="Operation_has_failed">L\'opération a échouée</string>
     <string name="Invalid_file_path">Chemin de fichier invalide</string>
@@ -24,7 +24,7 @@
     <string name="Requested_file_x_has_not_been_found">Le fichier \&quot;%\&quot; n\'a pas été trouvé.</string>
     <string name="Unknown_read_write_exception">Erreur de lecture/écriture inconnue.</string>
     <string name="Invalid_url_x">URL invalide: %</string>
-    <string name="An_error_occured_while_accessing_master_password">Erreur lors de l\'accès au mot de passe Maître.</string>
+    <string name="An_error_occured_while_accessing_master_password">Erreur lors de l\'accès au mot de passe maître.</string>
     <string name="Operation_not_allowed">Opération non autorisée.</string>
     <string name="Cannot_connect_to_host_x_on_port_y">Impossible de se connecter à \&quot;%x\&quot; sur le port %y.</string>
     <string name="Unable_to_resolve_host_x">Impossible de résoudre le nom \&quot;%x\&quot;.</string>
@@ -49,4 +49,14 @@
 <!-- 1.4.3 -->
     <string name="Unlocker_error">L\'unlocker a été trouvé mais a retourné une erreur. Ceci peut se produit quand une autre application bloque ses permissions (ex: antivirus). Assurez-vous que Solid Explorer et l\'unlocker sont exclus des blacklists et redémarrez l\'application.</string>
     <string name="Unable_to_get_the_link">Impossible d\'obtenir le lien</string>	
+
+<!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">La source requise a été déplacée</string>
+    <string name="Invalid_syntax">Syntaxe invalide</string>
+    <string name="Service_unavailable">Service temporairement indisponible, merci de réessayer plus tard</string>
+    <string name="Unauthorized">Non autoriser, merci de vous reconnectez</string>
+    <string name="Resource_not_found">Resource non trouvée</string>
+    <string name="Method_not_allowed">La méthode n\'est pas permise pour cette ressource</string>
+    <string name="Timeout_reached">Délai d\'attente atteint</string>
+    
 </resources>

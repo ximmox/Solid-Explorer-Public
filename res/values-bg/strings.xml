@@ -551,7 +551,7 @@
     <string name="Move">Премести</string>
     
     <string name="Security">Защита</string>
-    <string name="Master_password_prompt">Solid Explorer използва главна парола за да криптира цялата инфрмация за вписване. Ако ви е грижа за сигурността е препоръчително да използвате тази функция. Ще бъдете подканени за главна парола само веднъж, освен ако рестартирате приложението. В противен случай се използва криптиране по подразбиранеO без парола. Искате ли да използвате тази функция?</string>
+    <string name="Master_password_prompt">Solid Explorer използва главна парола за да криптира цялата инфрмация за вписване. Ако ви е грижа за сигурността е препоръчително да използвате тази функция. Ще бъдете подканени за главна парола само веднъж, освен ако рестартирате приложението. В противен случай се използва криптиране по подразбиране без парола. Искате ли да използвате тази функция?</string>
     <string name="Disable_master_password_warning">Изключването на главната парола ще доведе до превключване на паролата по подразбиране. Никога няма да бъдете попитани за нея. Информацията за вписване все още ще е криптирана. Искате ли да продължите?</string>
     <string name="Enable_master_password_warning">Ако имате предишни отметки криптирани с паролата по подразбиране, те ще бъдат премахнати. Продължаване?</string>
     <string name="Enable_master_password">Включи главна парола</string>
@@ -792,7 +792,7 @@
      	<string name="Data_backup">Архивиране на данни</string>
      	<string name="Application_data">Данни на приложението</string>
      	<string name="Create_backup">Създай архив</string>
-     	<string name="Backup_application_data_to_a_desired_file">Архивиране на данните на прилеожението във файл</string>
+     	<string name="Backup_application_data_to_a_desired_file">Архивиране на данните на приложението във файл</string>
      	<string name="Restore_backup">Възстанови архив</string>
      	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Избор на архивен файл, от който данните ще бъдат възстановени</string>
      	<string name="Data_backup_created">Създаден е архив на данните</string>
@@ -852,5 +852,23 @@
 	<string name="Wifi_enabled">WiFi е включен</string>
 	<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Сигурни ли сте, че искате да възстановите настройките по подразбиране за този елемент?</string>
 
+	<!-- v 1.4.6 -->
+	<string name="no_wifi_available">Няма налична WiFi мрежа. Искате ли да настроите точка за достъп на вашето устройство?</string>
+	<string name="disable_hotspot">Изключване на точка за достъп?</string>
 
+
+	<!-- v 1.5 -->
+	<string name="Any_type">Всеки тип</string>
+	<string name="Ubuntu_one_login">Ubuntu One вход</string>
+	<string name="Master_password_has_been_changed">Главната парола е сменена</string>
+	<string name="Encryption">Шифроване</string>
+	<string name="Certificates">Сертификати</string>
+	<string name="Trust_all_ssl_certificates">Доверявай се на всички SSL сертификати</string>
+	<string name="Use_at_your_own_risk">Използвайте на собствен риск</string>
+	<string name="Gestures">Жестове</string>
+	<string name="Enable_list_zoom">Мащабиране в списъка</string>
+	<string name="Enable_list_zoom_summary">Когато е включено, може да променяте размера на списъците използвайки жест с два пръста</string>
+	<string name="Mediafire_login">Вход в MediaFire</string>
+	<string name="No_master_password_set">Главната парола не е зададена</string>
+	
 </resources>
