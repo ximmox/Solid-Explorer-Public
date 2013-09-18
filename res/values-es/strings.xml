@@ -123,7 +123,7 @@
         	<string name="Store_encrypted_password">Almacenar contraseñas encriptadas</string>
         	<string name="No_password_required">No se requiere contraseña</string>
         	<string name="Anonymous">Anónimo</string>
-        	<string name="Log_in_as_a_guest">Ingresar como invitado</string>
+        	<string name="Log_in_as_a_guest">Entrar como invitado</string>
         	
         	<!-- FTP types -->
         	<string name="FTP_no_encryption">FTP (sin encriptación)</string>
@@ -170,7 +170,7 @@
     	<string name="Extracting_archive">Extrayendo % archivo</string>
     	<string name="X_has_been_completed">% ha sido completado.</string>
     	<string name="X_has_failed">% ha fallado.</string>
-    	<string name="Tap_to_show_details">Pulsar para ver los detalles</string>
+    	<string name="Tap_to_show_details">Pulse para ver los detalles</string>
     	<string name="Pending_cancel_request">Esperando solicitud de cancelación</string>
     	<string name="File_operation">Operación de archivo</string>
     
@@ -189,7 +189,7 @@
     <string name="FTP_bookmarks">Marcadores FTP</string>
     <string name="SFTP_bookmarks">Marcadores SFTP</string>
     <string name="SMB_bookmarks">Marcadores SMB</string>
-    <string name="Cloud_bookmarks">Marcadores de Nube</string>
+    <string name="Cloud_bookmarks">Marcadores de nube</string>
     <string name="Edit_bookmark">Editar marcadores</string>
     <string name="Name">Nombre</string>
     <string name="Path">Ruta</string>
@@ -199,7 +199,7 @@
     
     <!-- Cloud storage dialog -->
     <string name="Cloud_storage_services">Servicios de almacenamiento en la nube</string>
-    <string name="Cloud_services_description">Elegir un servicio de almacenamiento en la nube que desees utilizar</string>
+    <string name="Cloud_services_description">Selecciona tu servicio de almacenamiento en la nube</string>
     
     <!-- File sharing -->
     <string name="File_sharing_active">Intercambio de archivos activo</string>
@@ -207,7 +207,7 @@
     <string name="You_cannot_share_root_directory">No se puede compartir el directorio raíz</string>
     <string name="File_sharing_stopped">Intercambio de archivos detenido</string>
     <string name="None">Ninguno</string>
-    <string name="You_have_to_be_connected_to_the_LAN_network">Tienes que estar conectado a la red LAN</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Debe estar conectado a una red local</string>
     <string name="Active">Activo</string>
     <string name="Inactive">Inactivo</string>
     <string name="FTP_Server">Servidor FTP</string>
@@ -321,32 +321,32 @@
     	<string name="Dismiss">Descartar</string>
     	
     	<string name="Abort_operation">Abortar la operación</string>
-    	<string name="There_is_already_an_operation_running">Ya hay una operación en ejecución. Debes esperar hasta que termine.</string>
+    	<string name="There_is_already_an_operation_running">Ya hay una operación en ejecución. Debe esperar hasta que termine.</string>
     
     	<!-- Question dialogs -->
-    	<string name="Are_you_sure_you_want_to_clear_the_history">¿Estás seguro de borrar el historial?</string>
-    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">¿Estás seguro de borrar la caché de miniaturas?</string>
-    	<string name="Are_you_sure_you_want_to_delete_temporary_files">¿Estás seguro de eliminar los archivos temporales?</string>
-    	<string name="It_is_time_for_sheduled_indexing">Es hora de la indexación programada. ¿Te gustaría llevarla a cabo ahora?</string>
-    	<string name="Folder_exists_descr">La carpeta ya existe en el directorio. ¿Qué quieres hacer?</string>
-    	<string name="File_exists_descr">El archivo ya existe en el directorio. ¿Qué quieres hacer?</string>
-    	<string name="Are_you_sure_you_want_to_delete">¿Estás seguro de eliminar \&quot;%\&quot;?</string>
-    	<string name="Are_you_sure_to_abort_current_operation">¿Estás seguro de anular la operación actual?</string>
-    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">¿Estás seguro de eliminar todos los marcadores?</string>
-    	<string name="Are_you_sure_you_want_to_delete_bookmark">¿Estás seguro de eliminar el marcador \&quot;%\&quot; ?</string>
-    	<string name="Reindex_prompt">Estás a punto de comenzar la indexación manual. Esto puede tardar varios minutos, ¿Deseas continuar?</string>
-    	<string name="Clear_index_prompt">¿Estás seguro de borrar todos los datos indexados? Esta operación no se puede deshacer.</string>
-    	<string name="Are_you_sure_to_stop_indexing">¿Estás seguro de detener la indexación?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_history">¿Está seguro de borrar el historial?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">¿Está seguro de borrar la caché de miniaturas?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">¿Está seguro de eliminar los archivos temporales?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Es hora de la indexación programada. ¿Le gustaría llevarla a cabo ahora?</string>
+    	<string name="Folder_exists_descr">La carpeta ya existe en el directorio. ¿Qué quiere hacer?</string>
+    	<string name="File_exists_descr">El archivo ya existe en el directorio. ¿Qué quiere hacer?</string>
+    	<string name="Are_you_sure_you_want_to_delete">¿Está seguro de eliminar \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">¿Está seguro de anular la operación actual?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">¿Está seguro de eliminar todos los marcadores?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">¿Está seguro de eliminar el marcador \&quot;%\&quot; ?</string>
+    	<string name="Reindex_prompt">Está a punto de comenzar la indexación manual. Esto puede tardar varios minutos, ¿Desea continuar?</string>
+    	<string name="Clear_index_prompt">¿Está seguro de borrar todos los datos indexados? Esta operación no se puede deshacer.</string>
+    	<string name="Are_you_sure_to_stop_indexing">¿Está seguro de detener la indexación?</string>
     	<string name="Are_you_sure_you_want_to_clear_file_type_associations">¿Está seguro borrar las asociaciones de archivos?</string>
-    	<string name="Changes_have_been_made_to_the_file">Se han realizado cambios en el &quot;%&quot;. ¿Deseas guardarlos?</string>
-    	<string name="Chown_confirm">¿Estás seguro de cambiar los propietarios de este archivo?</string>
-    	<string name="Busybox_request">Al parecer BusyBox no está instalado en el sistema. Es necesario para que el explorador root funcione correctamente. ¿Deseas instalarlo ahora?</string>
+    	<string name="Changes_have_been_made_to_the_file">Se han realizado cambios en el &quot;%&quot;. ¿Desea guardarlos?</string>
+    	<string name="Chown_confirm">¿Está seguro de cambiar los propietarios de este archivo?</string>
+    	<string name="Busybox_request">Al parecer BusyBox no está instalado en el sistema. Es necesario para que el explorador root funcione correctamente. ¿Desea instalarlo ahora?</string>
     	
     	
     	<!-- Information dialogs -->
     	<string name="SkyDrive_doesnt_support_x_files">SkyDrive no soporta \&quot;%\&quot; archivos. Se ha cancelado la operación.</string>
     	<string name="Operation_not_supported">Operación no soportada</string>
-    	<string name="You_have_to_provide_a_password">Tienes que proporcionar una contraseña</string>
+    	<string name="You_have_to_provide_a_password">Tiene que proporcionar una contraseña</string>
     	<string name="Insufficient_space" formatted="false">No hay suficiente espacio para completar la operación. Tamaño: %, Disponible: %.</string>
     	<string name="Command_executed_successfully">Comando ejecutado satisfactoriamente</string>
     	<string name="Deleting_data">Eliminando los datos</string>
@@ -354,34 +354,34 @@
     	<string name="Preparing_for_operation">Preparando para la operación...</string>
     	<string name="Connecting">Conectando</string>
     	<string name="Connecting_to_x">Conectando a \&quot;%\&quot;</string>
-    	<string name="File_is_too_big">El archivo es demasiado grande. Sólo archivos de hasta 75kB son compatibles para su edición. Archivos más grandes serán soportados pronto.</string>
+    	<string name="File_is_too_big">El archivo es demasiado grande. Sólo se permiten editar archivos de hasta 75kB. Se permitirán archivos más grandes pronto.</string>
     	<string name="Operation_history_has_been_cleared">Se ha limpiado el historial de operación</string>
     	<string name="Encrypted_archive">Archivo encriptado</string>
     	<string name="Enter_the_password">Ingresar contraseña</string>
     	<string name="Confirmation">Confirmación</string>
     	<string name="Input_request">Ingresar solicitud</string>
     	<string name="Message">Mensaje</string>
-    	<string name="Warning">Advertencia!</string>
-    	<string name="You_did_not_specify_a_password">No has especificado una contraseña</string>
+    	<string name="Warning">¡Advertencia!</string>
+    	<string name="You_did_not_specify_a_password">No ha especificado una contraseña</string>
     	<string name="Reading_archive">Leyendo archivo</string>
     	<string name="Reading_archive_x">Leyendo archivo \&quot;%\&quot;</string>
     	<string name="Storage_not_available">Almacenamiento no disponible</string>
     	<string name="The_password_given_is_incorrect">La contraseña indicada es incorrecta</string>
-    	<string name="You_did_not_specify_a_server_name">No has especificado un nombre de servidor</string>
-    	<string name="You_did_not_specify_a_computer_name">No has especificado un nombre de equipo</string>
-    	<string name="You_did_not_specify_a_port_number">No has especificado un número de puerto</string>
-    	<string name="You_did_not_specify_user_name">No has especificado un nombre de usuario</string>
+    	<string name="You_did_not_specify_a_server_name">No ha especificado un nombre de servidor</string>
+    	<string name="You_did_not_specify_a_computer_name">No ha especificado un nombre de equipo</string>
+    	<string name="You_did_not_specify_a_port_number">No ha especificado un número de puerto</string>
+    	<string name="You_did_not_specify_user_name">No ha especificado un nombre de usuario</string>
     	<string name="Indexing">Indexando</string>
     	<string name="Indexing_in_progress">Indexación en progreso</string>
     	<string name="Indexing_paused">Indexación en pausa</string>
     	<string name="Indexing_has_been_completed">Se ha completado la indexación</string>
     	<string name="Indexing_has_been_aborted">Se ha cancelado la indexación</string>
-    	<string name="Tap_to_dismiss">Pulsar para descartar</string>
-    	<string name="Tap_top_open">Pulsar para abrir</string>
-    	<string name="File_is_ready_to_open">El archivo está listo para abrir</string>
+    	<string name="Tap_to_dismiss">Pulse para descartar</string>
+    	<string name="Tap_top_open">Pulse para abrir</string>
+    	<string name="File_is_ready_to_open">El archivo ya se puede abrir</string>
     	
     	<string name="Operation_aborted_by_user">Operación abortada por el usuario</string>
-    	<string name="You_cant_delete_this_item">No puedes eliminar este elemento</string>
+    	<string name="You_cant_delete_this_item">No se puede eliminar este elemento</string>
     	<string name="Indexing_service">Servicio de Indexación</string>
     	<string name="Only_local_file_can_be_added_to_the_archive">Sólo se puede añadir un archivo local</string>
     	<string name="Bookmark_already_exists">El marcador ya existe</string>
@@ -393,18 +393,18 @@
     	<string name="You_cant_create_an_archive_here">No se puede crear un archivo aquí</string>
     	<string name="Cannot_connect_to">No se puede conectar a \&quot;%\&quot;</string>
     	<string name="You_are_not_logged_in">No estás conectado</string>
-		<string name="Can_not_create_the_directory">No se puede crear el directorio</string>
+	<string name="Can_not_create_the_directory">No se puede crear el directorio</string>
 
     	<string name="Can_not_create_the_file">No se puede crear el archivo</string>
     	<string name="Uknown_file_type">Tipo de archivo desconocido</string>
     	<string name="No_activity_found_to_open_this_file">No se ha encontrado una aplicación para abrir este archivo</string>
-    	<string name="You_cant_send_a_folder">No puedes enviar una carpeta</string>
+    	<string name="You_cant_send_a_folder">No se pueden enviar carpetas</string>
     	<string name="Indexing_has_been_unscheduled">Se ha eliminado la programación de indexación</string>
     	<string name="Scheduled_indexing">Indexación programada</string>
-    	<string name="Tap_to_start">Pulsar para comenzar</string>
+    	<string name="Tap_to_start">Pulse para comenzar</string>
     	
     	
-    	<string name="Are_you_sure_you_want_to_delete_items">¿Estás seguro de eliminar % elemento{1:|__:s}?</string>
+    	<string name="Are_you_sure_you_want_to_delete_items">¿Está seguro de eliminar % elemento{1:|__:s}?</string>
     	<string name="X_files_deleted">% archivo{1:|__:s} eliminado{1:|__:s}.</string>
     	<string name="X_files_copied">% archivo{1:|__:s} copiado{1:|__:s}.</string>
     	<string name="X_files_moved">% archivo{1:|__:s} movido{1:|__:s}.</string>
@@ -558,9 +558,9 @@
     <string name="Enter_a_new_master_password">Introduzca la nueva contraseña maestra</string> 
     <string name="Encrypt_all_login_ceredentials_with_a_master_password">Encriptar todos los datos de acceso con una contraseña maestra</string>
     <string name="Set_master_password">Cambiar contraseña maestra</string>
-    <string name="All_passwords_will_be_reencrypted">Todas las contraseñas se re-encriptadas</string>
+    <string name="All_passwords_will_be_reencrypted">Todas las contraseñas serán re-encriptadas</string>
     
-    <string name="I_dont_remember_my_old_password">No recuerdo mi contraseña antigua</string>
+    <string name="I_dont_remember_my_old_password">No recuerdo mi antigua contraseña</string>
     <string name="Reset_password_warning">¡Advertencia! Si se establece una nueva contraseña en este momento, todas las contraseñas de los marcadores que han sido encriptadas utilizando la antigua contraseña, serán eliminados.</string>
     <string name="Old_password">Contraseña anterior</string>
     <string name="New_password">Nueva contraseña</string>
@@ -571,8 +571,8 @@
     
     
     <string name="Search_interface">Interfaz de búsqueda</string>
-    <string name="Search_key_starts_filtering">El botón de búsqueda inicia el filtrado</string>
-    <string name="Search_key_starts_filtering_summary">Iniciar filtrado de lista en lugar de búsqueda</string>
+    <string name="Search_key_starts_filtering">El botón de búsqueda realiza un filtrado</string>
+    <string name="Search_key_starts_filtering_summary">Realiza filtrado de la lista en lugar de realizar una búsqueda</string>
     <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Coincidir sólo el principio de la palabra al filtrar la lista</string>
     <string name="Filter_words_from_the_beginning">Filtrar desde el inicio</string>
     <string name="Customize_indexing_engine_behaviour">Personalizar el comportamiento del motor de indexación</string>
@@ -644,13 +644,13 @@
     
     
     <!-- acra -->
-    <string name="crash_toast_text">Ooooops! Solid Explorer encontró un problema. Por favor, envíe el informe al desarrollador para ayudar a solucionarlo!</string>
+    <string name="crash_toast_text">¡Ooooops! Solid Explorer encontró un problema. Por favor, ¡envíe el informe al desarrollador para ayudar a solucionarlo!</string>
     <string name="crash_notif_ticker_text">Error inesperado, por favor envíe un informe ...</string>
     <string name="crash_notif_title">Solid Explorer se ha detenido...</string>
     <string name="crash_notif_text">Por favor, haz clic aquí para ayudar a solucionar el problema.</string>
     <string name="crash_dialog_title">Solid Explorer se ha detenido</string>
-    <string name="crash_dialog_text">Un error inesperado ha forzado la detención de la aplicación. Por favor, ayúdame a solucionar este problema informando qué o cómo se ocasionó el error.</string>
-    <string name="crash_dialog_comment_prompt">Por favor proporciona información detallada sobre el problema a continuación. En la mayoría de los casos es imposible reproducir el problema, sin tu colaboración.</string>
+    <string name="crash_dialog_text">Un error inesperado ha forzado la detención de la aplicación. Por favor, ayúdame a solucionar este problema informando qué o cómo se produjo el error.</string>
+    <string name="crash_dialog_comment_prompt">Por favor proporcione información detallada sobre el problema a continuación. En la mayoría de los casos es imposible reproducir el problema sin tu colaboración.</string>
     <string name="crash_dialog_ok_toast">¡Gracias!</string>
 	
     <string name="Icon_designer">Diseñador de icono</string>
@@ -701,8 +701,8 @@
     <string name="Please_wait">Por favor, espere</string>
     
     
-    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">¿Estás seguro de que quieres copiar esto al segundo panel?</string>
-	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">¿Estás seguro de que quieres mover esto al segundo panel?</string>
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">¿Está seguro de que quiere copiar esto al segundo panel?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">¿Está seguro de que quiere mover esto al segundo panel?</string>
 	<string name="Image_not_loaded">La imagen no se ha cargado</string>
 	<string name="Target_SDK">SDK objetivo</string>
 	<string name="Description">Descripción</string>
@@ -719,7 +719,7 @@
 	<string name="Folders_first">Carpetas primero</string>
 	<string name="Folders_first_summary">Mostrar carpetas primero y luego archivos.</string>
 	<string name="FAQ">Preguntas frecuentes</string>
-	<string name="FAQ_summary">Por favor, lee las preguntas frecuentes antes de realizar consultas</string>
+	<string name="FAQ_summary">Por favor, lea las preguntas frecuentes antes de realizar consultas</string>
 
 	<!-- v 1.3.8 -->
 	<string name="Quick_config">Config. rápida</string> <!-- short word please -->
@@ -753,7 +753,7 @@
 	<string name="Panels">Paneles</string>
 	<string name="Devices">Dispositivos</string>
 
-	<string name="Bug_report_notice">Antes de comunicar un error haz lo siguiente:\n\n<b>1. Comprueba si el error existe en otros exploradores de archivos.\n2. Lee las FAQ.</b>\n\n¿Has completado los pasos anteriores?</string>
+	<string name="Bug_report_notice">Antes de comunicar un error haga lo siguiente:\n\n<b>1. Compruebe si el error existe en otros exploradores de archivos.\n2. Lea las FAQ.</b>\n\n¿Ha completado los pasos anteriores?</string>
     	<string name="Unable_to_move_the_file">No se puede mover el archivo %</string>
     
     <!-- v 1.4.0 -->
@@ -765,8 +765,8 @@
     	<string name="A_while_ago">Hace un rato</string>
     	<string name="X_hours_Y_minutes_ago">Hace %x hora{1:|__:s} %y minuto{1:|__:s}</string>
     	<!-- Already exists, just changed the content -->
-    	<string name="Expiration_message">Gracias por utilizar Solid Explorer, tu periodo de prueba ha acabado. Para continuar usando esta aplicación, cómprame una cerveza virtual adquiriendo el unlocker desde el Google Play. Hazlo sólo cuando estés completamente satisfecho con la aplicación.</string>
-    	<string name="Purchased_message">Gracias por comprar la versión completa de Solid Explorer. Espero que la disfrutes.</string>
+    	<string name="Expiration_message">Gracias por utilizar Solid Explorer, su periodo de prueba ha acabado. Para continuar usando esta aplicación, cómpreme una cerveza virtual adquiriendo el unlocker desde el Google Play. Hágalo sólo cuando esté completamente satisfecho con la aplicación.</string>
+    	<string name="Purchased_message">Gracias por comprar la versión completa de Solid Explorer. Espero que la disfrute.</string>
     	<string name="Trial_expired">Periodo de prueba expirado</string>
     	<string name="Purchase">Comprar</string>
     	<string name="No_thanks">No, gracias</string>
@@ -793,7 +793,7 @@
     	<string name="Create_backup">Crear copia de seguridad</string>
     	<string name="Backup_application_data_to_a_desired_file">Copiar datos de aplicación a un archivo</string>
     	<string name="Restore_backup">Restaurar copiar de seguridad</string>
-    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Elija un archivo de copia de seguridad desde el cual los datos serán restaurados</string>
+    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Elija un archivo de copia de seguridad desde el que se restaurarán los datos</string>
     	<string name="Data_backup_created">Copia de seguridad de datos creada</string>
     	<string name="Data_backup_restored">Copia de seguridad de datos restaurada</string>
     	<string name="Support">Soporte</string>
@@ -827,7 +827,7 @@
     	<string name="Fall_down">Caer</string>
     	<string name="Come_in">Entrar</string>
     	<string name="Slide_from_right">Deslizar desde la derecha</string>
-    	<string name="Slide_from_left">Deslizar desdse la izquierda</string>
+    	<string name="Slide_from_left">Deslizar desde la izquierda</string>
     	<string name="Default">Predeterminado</string>
     	<string name="List_animations">Mostrar animaciones</string>
     	<string name="List_animations_summary">Personalizar lista de animaciones</string>
@@ -857,11 +857,28 @@
     	<string name="Encryption">Encriptación</string>
     	<string name="Certificates">Certificados</string>
     	<string name="Trust_all_ssl_certificates">Confiar en todos los certificados SSL</string>
-    	<string name="Use_at_your_own_risk">Úsalo bajo tu responsibilidad</string>
+    	<string name="Use_at_your_own_risk">Úselo bajo su responsibilidad</string>
     	<string name="Gestures">Gestos</string>
     	<string name="Enable_list_zoom">Activar zoom en listado</string>
-    	<string name="Enable_list_zoom_summary">Cuando se activa, puedes cambiar el tamaño de los listados con un gesto de pellizco</string>
+    	<string name="Enable_list_zoom_summary">Cuando se activa, puede cambiar el tamaño de los listados con un gesto de pellizco</string>
     	<string name="Mediafire_login">Iniciar sesión en MediaFire</string>
     	<string name="No_master_password_set">La contraseña maestra no ha sido configurada</string>    
+
+    	<!-- v 1.5.1 -->
+    	<string name="Ssl_certificate_is_not_trusted">El certificado no está firmado por una entidad de confianza. ¿Quiere aceptarlo?</string>
+    	<string name="Issuer">Emisor</string>
+    	<string name="Subject">Asunto</string>
+    	<string name="Expiration">Expiración</string>
+    	<string name="Common_name">Nombre común</string>
+    	<string name="Organization">Organización</string>
+    	<string name="Organizational_unit">Unidad organizativa</string>
+    	<string name="Country">País</string>
+    	<string name="State">Estado</string>
+    	<string name="Algorithm">Algoritmo</string>
+    	<string name="Exponent">Exponente</string>
+    	<string name="Key_length">Longitud de clave</string>
+    	<string name="Accept">Aceptar</string>
+    	<string name="Rescan_all_media">Buscar de nuevo multimedia</string>
+    	<string name="Rescan_all_media_summary">Vuelve a buscar archivos multimedia después de cada transferencia de archivos. Use esta opción si la galería no se actualiza correctamente.</string>    	
     	
 </resources>
