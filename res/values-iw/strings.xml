@@ -779,4 +779,19 @@
   <string name="Enable_list_zoom_summary">כאשר פעיל, אתה יכול שלנות את הגדול של רשימת הקבצים והתיקיות על ידי מחחות צביטה</string>
   <string name="Mediafire_login">התחבר אל MediaFire</string>
   <string name="No_master_password_set">לא הוגדרה סיסמה ראשית</string>
+  <string name="Ssl_certificate_is_not_trusted">האישור אינו חתום על ידי רשות מהימנה. האם ברצונך לקבל את זה?</string>
+  <string name="Issuer">מנפיק</string>
+  <string name="Subject">נושא</string>
+  <string name="Expiration">תפוגה</string>
+  <string name="Common_name">שם נפוץ</string>
+  <string name="Organization">ארגון</string>
+  <string name="Organizational_unit">יחידה ארגונית</string>
+  <string name="Country">ארץ</string>
+  <string name="State">מדינה</string>
+  <string name="Algorithm">אלגוריתם</string>
+  <string name="Exponent">מייצג</string>
+  <string name="Key_length">אורך מפתח</string>
+  <string name="Accept">קבל</string>
+  <string name="Rescan_all_media">סרוק את כל המדיה מחדש</string>
+  <string name="Rescan_all_media_summary">סרוק את כל המדיה מחדש אחרי כל העברת קובץ. השתמש באפשרות הזאת אם הגלריה לא מתעדכנת כמו שצריך.</string>
 </resources>
