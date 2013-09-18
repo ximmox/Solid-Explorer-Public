@@ -53,4 +53,13 @@
     <string name="Unlocker_error">Solid Explorer Unlocker ditemukan tetapi terjadi error pada proses validasinya. Hal ini biasanya terjadi karena adanya aplikasi lain yang memblokirnya (Contoh: anti-virus). Pastikan Solid Explorer dan Solid Explorer Unlocker tidak dimasukkan pada daftar blacklist anti-virus atau sejenisnya. Setelah itu anda dapat mencobanya kembali.</string>
     <string name="Unable_to_get_the_link">Tidak dapat mengambil tautan</string>
     
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">Sumber daya yang diminta telah dipindahkan</string>
+    <string name="Invalid_syntax">Kesalahan penulisan sintaks</string>
+    <string name="Service_unavailable">Layanan jasa sedang lumpuh sesaat, mohon mencobanya kembali nanti</string>
+    <string name="Unauthorized">Tidak teridentifikasi, mohon login kembali</string>
+    <string name="Resource_not_found">Sumber daya tidak ditemukan</string>
+    <string name="Method_not_allowed">Metode yang diminta tidak diizinkan untuk sumber daya ini</string>
+    <string name="Timeout_reached">Waktu tunggu habis</string>
+    
 </resources>

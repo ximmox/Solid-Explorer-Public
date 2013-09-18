@@ -840,6 +840,7 @@
 	<string name="Clear_filter_history_summary">Menghapus semua riwayat kata kunci filter</string>
 	<string name="New_webdav_connection">Koneksi WebDav</string>
 	<string name="WebDav_bookmarks">Penanda WebDav</string>
+	
 
 	<!--  v 1.4.5 -->
 	<string name="Domain">Domain</string>
@@ -850,6 +851,41 @@
 	<string name="Wifi_disabled">WiFi dinon-aktifkan</string>
 	<string name="Wifi_enabled">WiFi diaktifkan</string>
 	<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Apakah anda mau mengembalikan pengaturan berikut ke nilai semula?</string>
-
-
+		
+		
+	<!-- v 1.4.6 -->
+	<string name="no_wifi_available">Tidak ditemukan konektivitas WiFi. Apakah anda mau meng-setting hot spot pada perangkat anda?</string>
+	<string name="disable_hotspot">Matikan hotspot?</string>
+	
+	<!-- v 1.5 -->
+	<string name="Any_type">Semua jenis</string>
+	<string name="Ubuntu_one_login">Login Ubuntu One</string>
+	<string name="Master_password_has_been_changed">Kata sandi utama telah diganti</string>
+	<string name="Encryption">Enkripsi</string>
+	<string name="Certificates">Sertifikat</string>
+	<string name="Trust_all_ssl_certificates">Percayai semua sertifikat SSL</string>
+	<string name="Use_at_your_own_risk">Resiko ditanggung oleh pengguna</string>
+	<string name="Gestures">Gerakan</string>
+	<string name="Enable_list_zoom">Aktifkan zoom pada tampilan perambah</string>
+	<string name="Enable_list_zoom_summary">Ketika diaktifkan maka anda dapat merubah ukuran zoom dengan cara sentuhan gaya mencubit.</string>
+	<string name="Mediafire_login">Login ke MediaFire</string>
+	<string name="No_master_password_set">Kata sandi utama belum di-set</string>
+	
+	<!-- v 1.5.1 -->
+	<string name="Ssl_certificate_is_not_trusted">Sertifikat tidak dikeluarkan oleh lembaga yang terpercaya! Apakah anda mau menerimanya?</string>
+	<string name="Issuer">Pembuat</string>
+	<string name="Subject">Subyek</string>
+	<string name="Expiration">Kadaluarsa</string>
+	<string name="Common_name">Nama umum</string>
+	<string name="Organization">Organisasi</string>
+	<string name="Organizational_unit">Unit organisasi</string>
+	<string name="Country">Negara</string>
+	<string name="State">Status</string>
+	<string name="Algorithm">Algoritma</string>
+	<string name="Exponent">Eksponen</string>
+	<string name="Key_length">Panjang kuci</string>
+	<string name="Accept">Terima</string>
+	<string name="Rescan_all_media">Pindai ulang semua media</string>
+	<string name="Rescan_all_media_summary">Pindai ulang semua media ketika perpindahan file selesai. Gunakan opsi ini jika galeri tidak terbaharui secara otomatis.</string>
+		
 </resources>
