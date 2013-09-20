@@ -810,4 +810,21 @@
     <string name="Mediafire_login">登陆到 MediaFire</string>
     <string name="No_master_password_set">未设置主密码</string>
 
+    <!-- v 1.5.1 -->
+    <string name="Ssl_certificate_is_not_trusted">该证书未包含可信任的签名，是否接受？</string>
+    <string name="Issuer">发行者</string>
+    <string name="Subject">主题</string>
+    <string name="Expiration">过期时间</string>
+    <string name="Common_name">通用名称</string>
+    <string name="Organization">组织</string>
+    <string name="Organizational_unit">组织单位</string>
+    <string name="Country">国家</string>
+    <string name="State">州</string>
+    <string name="Algorithm">加密算法</string>
+    <string name="Exponent">执行者</string>
+    <string name="Key_length">密钥长度</string>
+    <string name="Accept">接受</string>
+    <string name="Rescan_all_media">重新扫描所有媒体</string>
+    <string name="Rescan_all_media_summary">移动文件后重新扫描所有媒体，如果相册无法正常更新，请勾选些项。</string>
+
 </resources>
