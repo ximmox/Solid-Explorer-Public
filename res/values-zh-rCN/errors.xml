@@ -12,7 +12,7 @@
     <string name="Invalid_password_for_user_x">用户或密码无效 \&quot;%\&quot;</string>
     <string name="Invalid_master_password">主密码无效</string>
     <string name="Unable_to_execute_shell_command">无法执行脚本命令</string>
-    <string name="No_root_access_available">没有 Root 权限</string>
+    <string name="No_root_access_available">没有Root权限</string>
     <string name="Unable_to_read_root_directory">无法读取根目录</string>
     
     <string name="Operation_has_failed">操作失败</string>
@@ -23,7 +23,7 @@
     <string name="Cannot_write_to_the_system">无法写入系统文件，挂载文件系统为读/写时失败。</string>
     <string name="Requested_file_x_has_not_been_found">请求文件 \&quot;%\&quot; 不存在。</string>
     <string name="Unknown_read_write_exception">未知读/写异常</string>
-    <string name="Invalid_url_x">无效 URL：%</string>
+    <string name="Invalid_url_x">无效URL：%</string>
     <string name="An_error_occured_while_accessing_master_password">访问主密码时发生错误</string>
     <string name="Operation_not_allowed">该操作不被允许</string>
     <string name="Cannot_connect_to_host_x_on_port_y">无法连接至 \&quot;%x\&quot; 的 %y 端口</string>
