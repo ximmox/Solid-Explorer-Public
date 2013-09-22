@@ -799,4 +799,20 @@ Krzysztof Głodowski"</string>
         <string name="Mediafire_login">Prihlásiť sa do MediaFire</string>
         <string name="No_master_password_set">Hlavné heslo nebolo nastavené</string>
 
+    <!-- v 1.5.1 -->
+        <string name="Ssl_certificate_is_not_trusted">Certifikát nie je podpísaný dôveryhodnou autoritou. Chcete ho prijať?</string>
+        <string name="Issuer">Vydavateľ</string>
+        <string name="Subject">Predmet</string>
+        <string name="Expiration">Platnosť</string>
+        <string name="Common_name">Všeobecný názov</string>
+        <string name="Organization">Organizácia</string>
+        <string name="Organizational_unit">Organizačná zložka</string>
+        <string name="Country">Krajina</string>
+        <string name="State">Štát</string>
+        <string name="Algorithm">Algoritmus</string>
+        <string name="Exponent">Exponent</string>
+        <string name="Key_length">Dĺžka kľúča</string>
+        <string name="Accept">Prijať</string>
+        <string name="Rescan_all_media">Prehľadať všetky mediálne súbory</string>
+        <string name="Rescan_all_media_summary">Prehľadať všetky médiálne súbory po každom prenose súborov. Túto voľbu použite v prípade, že galérie neaktualizuje správne.</string>
 </resources>
