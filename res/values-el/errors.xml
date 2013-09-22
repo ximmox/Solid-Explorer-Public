@@ -52,4 +52,13 @@
     <string name="Unlocker_error">Ο "Unlocker" βρέθηκε αλλά συνέβη ένα σφάλμα. Συνήθως αυτό συμβαίνει όταν άλλη εφαρμογή εμποδίζει τα δικαιώματά του, π.χ. πρόγραμμα antivirus. Βεβαιωθείτε ότι ο Solid Explorer και ο Unlocker δεν βρίσκονται σε λίστες αποκλεισμένων προγραμμάτων και ξεκινήστε ξανά την εφαρμογή.</string>
     <string name="Unable_to_get_the_link">Δεν ήταν δυνατή η λήψη της διεύθυνσης</string>
     
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">Ο πόρος έχει μετακινηθεί</string>
+    <string name="Invalid_syntax">Μη έγκυρη σύνταξη</string>
+    <string name="Service_unavailable">Η υπηρεσία είναι προσωρινά μη διαθέσιμη, παρακαλούμε ξαναπροσπαθήστε αργότερα</string>
+    <string name="Unauthorized">Δεν επιτρέπεται η πρόσβαση, παρακαλούμε συνδεθείτε ξανά</string>
+    <string name="Resource_not_found">Ο πόρος δεν βρέθηκε</string>
+    <string name="Method_not_allowed">Η απαιτούμενη μέθοδος δεν επιτρέπεται για αυτόν τον πόρο</string>
+    <string name="Timeout_reached">Επήλθε το χρονικό όριο λήξης</string>
+    
 </resources>
