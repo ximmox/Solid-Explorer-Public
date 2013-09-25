@@ -245,7 +245,7 @@
        <string name="Calculation_error">Výpočet se nezdařil</string>
        <string name="Content">Obsah</string>
        <string name="Other_used">Ostatní</string>
-       <string name="Free_space">Volné místo</string>
+       <string name="Free">Volné místo</string>
        <string name="Usage">Využití</string>
        <string name="Attributes">Atributy</string>
        <string name="Read">Čtení</string>
@@ -482,7 +482,6 @@
        <string name="Landscape_file_list_size">Velikost seznamu souborů na šířku</string>
        <string name="Adjust_size_of_the_file_list_in_landscape">Přizpůsobit velikost seznamu souborů v režimu na šířku</string>
        <string name="Small">Malý</string>
-       <string name="Normal">Normální</string>
        <string name="Big">Velký</string>
        <string name="Large">Největší</string>
        <string name="Extra_small">Nejmenší</string>
@@ -551,7 +550,6 @@
        <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Zobrazit oznámení, pokud je indexace dokončena nebo zrušena</string>
        <string name="Other">Další</string>
        <string name="Clear_persistent_data">Odstranit trvalá data</string>
-       <string name="Clear_persistent_data_summary">Odstranění dat jako jsou cache, dočasné soubory, historie provozu atd.</string>
        <string name="Clear_thumbnail_cache">Odstranit vyrovnávací paměť náhledů</string>
        <string name="Clear_temporary_files">Odstranit dočasné soubory</string>
        <string name="Clear_operation_history">Odstranit historii operací</string>
@@ -594,10 +592,8 @@
        <string name="crash_dialog_comment_prompt">Poskytněte prosím podrobné informace o problému níže. Ve většině případů je nemožné problém reprodukovat bez Vaší pomoci.</string>
        <string name="crash_dialog_ok_toast">Děkuji!</string>
        <string name="Icon_designer">Návrh ikon</string>
-       <string name="Prefix">Předpona</string>
        <string name="Translations">Překlad</string>
        <string name="Translations_summary">Původní překlad: Krzysiek \nJazyková korekce a nynější překlad: pcpepik</string>
-       <string name="Empty">Prázdný</string>
        <string name="Press_once_again_to_exit">Opětovným stisknutím aplikaci ukončíte</string>
        <string name="View_in_DiskUsage">Zobrazit v DiskUsage</string>
        <string name="Retry">Opakovat</string>
@@ -739,7 +735,7 @@
        <string name="Keep_the_screen_on">Nevypínat obrazovku</string>
        <string name="Keep_the_screen_on_summary">Ponechá obrazovku aktivní během přenosu souborů. Označte, pociťujete-li zpomalení přenosů při vypnuté obrazovce.</string>
        
-	<!-- v 1.4.4 -->
+    <!-- v 1.4.4 -->
        <string name="Clear_thumbnails_on_exit">Odstranit náhledy při ukončení</string>
        <string name="Image_thumbnails_will_be_removed_on_app_exit">Náhledy obrázků budou odstraněny při ukončení aplikace</string>
        <string name="Toggle_nomedia">Povolit soubor .nomedia</string>
@@ -774,7 +770,7 @@
        <string name="New_webdav_connection">WebDav připojení</string>
        <string name="WebDav_bookmarks">WebDav záložky</string>
        
-	<!--  v 1.4.5 -->
+    <!--  v 1.4.5 -->
        <string name="Domain">Doména</string>
        <string name="Mode">Mód</string>
        <string name="Passive">Pasivní</string>
@@ -784,11 +780,11 @@
        <string name="Wifi_enabled">WiFi zapnuta</string>
        <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Jste si jist, že chcete obnovit výchozí nastavení pro tuto položku?</string>
        
-  <!-- v 1.4.6 -->
+    <!-- v 1.4.6 -->
        <string name="no_wifi_available">Není dostupná žádná wifi. Chcete nastavit přenosný hotspot na Vašem zařízení?</string>
        <string name="disable_hotspot">Vypnout hotspot?</string>
     
-  <!-- v 1.5 -->
+    <!-- v 1.5 -->
        <string name="Any_type">Jakýkoliv typ</string>
        <string name="Ubuntu_one_login">Ubuntu One přihlášení</string>
        <string name="Master_password_has_been_changed">Hlavní heslo bylo změněno</string>
@@ -801,5 +797,22 @@
        <string name="Enable_list_zoom_summary">Je-li aktivní, lze měnit velikost zobrazení seznamu pomocí gesta pro přiblížení dvěma prsty</string>
        <string name="Mediafire_login">Přihlásit se na MediaFire</string>
        <string name="No_master_password_set">Hlavní heslo nebylo nastaveno</string>
+
+    <!-- v 1.5.1 -->
+       <string name="Ssl_certificate_is_not_trusted">Certifikát není podepsán důvěryhodnou autoritou. Chcete jej přijmout?</string>
+       <string name="Issuer">Vydavatel</string>
+       <string name="Subject">Subjekt</string>
+       <string name="Expiration">Platnost do</string>
+       <string name="Common_name">Obecné jméno</string>
+       <string name="Organization">Organizace</string>
+       <string name="Organizational_unit">Jednotka organizace</string>
+       <string name="Country">Země</string>
+       <string name="State">Stav</string>
+       <string name="Algorithm">Algoritmus</string>
+       <string name="Exponent">Exponent</string>
+       <string name="Key_length">Délka klíče</string>
+       <string name="Accept">Přijmout</string>
+       <string name="Rescan_all_media">Znovu prohledat všechna média</string>
+       <string name="Rescan_all_media_summary">Po každém přenosu souborů znovu prohledá všechna média. Povolte, neaktualizuje-li se Vám řádně galerie.</string>
 
 </resources>
