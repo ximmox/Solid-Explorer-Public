@@ -851,5 +851,39 @@
 <string name="Wifi_enabled">WiFi ενεργοποιημένο</string>
 <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Έιστε βέβαιοι ότι θέλετε να επαναφέρετε τις προεπιλεγμένες ρυθμίσεις για αυτό το αντικείμενο;</string>
 
+	<!-- v 1.4.6 -->
+<string name="no_wifi_available">Δεν υπάρχει διαθέσιμο WiFi. Θα θέλατε να εγκαταστήσετε ένα σημείο πρόσβασης στη συσκευή σας;</string>
+<string name="disable_hotspot">Απενεργοποίηση σημείου πρόσβασης;</string>
+
+<!-- v 1.5 -->
+<string name="Any_type">Οτιδήποτε</string>
+<string name="Ubuntu_one_login">Είσοδος Ubuntu One</string>
+<string name="Master_password_has_been_changed">Ο κύριος κωδικός έχει αλλάξει</string>
+<string name="Encryption">Κρυπτογράφηση</string>
+<string name="Certificates">Πιστοποιητικά</string>
+<string name="Trust_all_ssl_certificates">Αποδοχή όλων των SSL πιστοποιητικών</string>
+<string name="Use_at_your_own_risk">Χρήση με δική σας ευθύνη</string>
+<string name="Gestures">Κινήσεις</string>
+<string name="Enable_list_zoom">Ενεργοποίηση μεγέθυνσης λίστας</string>
+<string name="Enable_list_zoom_summary">Αν ενεργοποιηθεί, μπορείτε να αλλάζετε το μέγεθος των λιστών με μια κίνηση "τσιμπίματος"</string>
+<string name="Mediafire_login">Είσοδος στο MediaFire</string>
+<string name="No_master_password_set">Ο κύριος κωδικός δεν έχει ορισθεί</string>
+
+<!-- v 1.5.1 -->
+<string name="Ssl_certificate_is_not_trusted">Το πιστοποιητικό δεν έχει υπογραφεί από μια έμπιστη αρχή. Θέλετε να το δεχθείτε;</string>
+<string name="Issuer">Εκδότης</string>
+<string name="Subject">Θέμα</string>
+<string name="Expiration">Λήξη</string>
+<string name="Common_name">Σύνηθες όνομα</string>
+<string name="Organization">Οργανισμός</string>
+<string name="Organizational_unit">Οργανική μονάδα</string>
+<string name="Country">Χώρα</string>
+<string name="State">Πολιτεία</string>
+<string name="Algorithm">Αλγόριθμος</string>
+<string name="Exponent">Εκθέτης</string>
+<string name="Key_length">Μήκος κλειδιού</string>
+<string name="Accept">Αποδοχή</string>
+<string name="Rescan_all_media">Νέα σάρωση όλων των μέσων</string>
+<string name="Rescan_all_media_summary">Νέα σάρωση όλων των μέσων μετά την κάθε μεταφορά αρχείων. Χρησιμοποιήστε αυτή την επιλογή εάν η Συλλογή δεν ενημερώνεται σωστά.</string>
 
 </resources>
