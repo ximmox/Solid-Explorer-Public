@@ -874,4 +874,21 @@
 		<string name="Mediafire_login">MediaFireにログイン</string>
 		<string name="No_master_password_set">マスターパスワードはセットされていません。</string>
 
+		<!-- v 1.5.1 -->
+		<string name="Ssl_certificate_is_not_trusted">証明書が認証されていません。信頼しますか?</string>
+		<string name="Issuer">発行者名</string>
+		<string name="Subject">情報</string>
+		<string name="Expiration">有効期限</string>
+		<string name="Common_name">一般名称</string>
+		<string name="Organization">組織名</string>
+		<string name="Organizational_unit">部門名</string>
+		<string name="Country">国</string>
+		<string name="State">州</string>
+		<string name="Algorithm">アルゴリズム</string>
+		<string name="Exponent">Exponent</string>
+		<string name="Key_length">鍵の長さ</string>
+		<string name="Accept">信頼する</string>
+		<string name="Rescan_all_media">全てのメディアを再スキャン</string>
+		<string name="Rescan_all_media_summary">ファイル転送毎にメディアを再スキャンします。ギャラリーが正常に更新されない場合にお使いください。</string>
+
 </resources>
