@@ -34,7 +34,7 @@
     <string name="Server_response_x">服務器響應：%x</string>
     <string name="Unable_to_open_the_file_for_reading">無法打開以讀取檔案。</string>
     <string name="Unable_to_write_the_file_to_x">無法寫入檔案至 \&quot;%x\&quot;</string>
-    <string name="Unable_to_connect_to_the_x">無法連接至 %x。</string>
+    <string name="Unable_to_connect_to_the_x">無法連接至 %x 。</string>
     <string name="Unknown_error">未知的錯誤</string>
     <string name="Cannot_create_directory_X">無法創建目錄 \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">無法在 % 端口上開啟服務</string>
@@ -51,4 +51,12 @@
     <string name="Unlocker_error">解鎖器已找到，但是卻返回了一個錯誤信息。這通常是由於另外一個應用程序鎖定了它的權限所造成的，比如殺毒軟件等。請確保Solid Explorer和解鎖器沒有在任何黑名單之中，並重新打開應用重試。</string>
     <string name="Unable_to_get_the_link">無法獲得連接信息</string>
     
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">請求的資源不存在</string>
+    <string name="Invalid_syntax">無效的語法</string>
+    <string name="Service_unavailable">服務暫時無法使用，請稍後再試</string>
+    <string name="Unauthorized">認證失敗，請稍後再試</string>
+    <string name="Resource_not_found">資源未找到</string>
+    <string name="Method_not_allowed">該資源不允許此要求方式</string>
+    <string name="Timeout_reached">到達超時</string>    
 </resources>
