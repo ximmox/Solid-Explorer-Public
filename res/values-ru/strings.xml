@@ -868,4 +868,20 @@
     <string name="Enable_list_zoom_summary">Если эта функция включена, вы можете изменить размер списка, используя щипком жест</string>
     <string name="Mediafire_login">Войти в MediaFire</string>
     <string name="No_master_password_set">Мастер-пароль не был установлен</string>
+    <!-- v 1.5.1 -->
+    <string name="Ssl_certificate_is_not_trusted">Сертификат не подписан доверенным источником. Вы хотите, принять это предложение?</string>
+    <string name="Issuer">Издатель</string>
+    <string name="Subject">Субъект</string>
+    <string name="Expiration">Окончание</string>
+    <string name="Common_name">Название</string>
+    <string name="Organization">Организация</string>
+    <string name="Organizational_unit">Подразделение</string>
+    <string name="Country">Страна</string>
+    <string name="State">Штат/Край/Область</string>
+    <string name="Algorithm">Алгоритм</string>
+    <string name="Exponent">Представитель</string>
+    <string name="Key_length">Длина ключа</string>
+    <string name="Accept">Допуск</string>
+    <string name="Rescan_all_media">Повторное сканирование всех медиа</string>
+    <string name="Rescan_all_media_summary">"Повторно сканировать все медиа файлы после каждой передачи файлов. (Используйте эту опцию, если галерея не обновляется должным образом)."</string>
 </resources>
