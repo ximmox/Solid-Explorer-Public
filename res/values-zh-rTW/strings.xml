@@ -132,7 +132,7 @@
         
     <!-- Search activity -->	
     <string name="Manual_search">手動搜尋</string>
-    <string name="Results_from">結果來自:</string>
+    <string name="Results_from">結果來自：</string>
     <string name="No_results">沒有結果</string>
     <string name="Matches">符合</string>
     <string name="Selected">已選擇</string>
@@ -203,7 +203,7 @@
     
     <!-- File sharing -->
     <string name="File_sharing_active">檔案分享功能己啟用</string>
-    <string name="ftp_server_hint">在Windows 檔案總管或FTP客戶端中輸入伺服器地址來連線</string>
+    <string name="ftp_server_hint">在Windows檔案總管或FTP客戶端中輸入伺服器地址來連線</string>
     <string name="You_cannot_share_root_directory">你不能分享系統目錄路徑</string>
     <string name="File_sharing_stopped">檔案分享功能己停用</string>
     <string name="None">暫無</string>
@@ -347,7 +347,7 @@
     	<string name="SkyDrive_doesnt_support_x_files">SkyDrive暫不支援 \&quot;%\&quot; 檔案，操作已被取消。</string>
     	<string name="Operation_not_supported">不支援此操作</string>
     	<string name="You_have_to_provide_a_password">你必須提供密碼</string>
-    	<string name="Insufficient_space" formatted="false">沒有足夠的空間完成此項操作。大小: %，可用: %.</string>
+    	<string name="Insufficient_space" formatted="false">沒有足夠的空間完成此項操作。大小： %，可用： %.</string>
     	<string name="Command_executed_successfully">命令成功執行</string>
     	<string name="Deleting_data">刪除資料中</string>
     	<string name="Done">完成</string>
@@ -657,7 +657,7 @@
     
     <string name="Icon_designer">圖標設計者</string>
     <string name="Translations">翻譯</string>
-    <string name="Translations_summary">1.4.5版由Kelvin Lo翻譯</string>
+    <string name="Translations_summary">1.5.1版由Kelvin Lo翻譯</string>
     <string name="Press_once_again_to_exit">再按一次以退出</string>
     
     
@@ -675,7 +675,7 @@
     <string name="Columns">列數</string>
     <string name="No_computers_found">未找到電腦</string>
     <string name="Local_directory">本地目錄</string>
-    <string name="Default_panel">面版預設首頁</string>
+    <string name="Default_panel">面板預設首頁</string>
     <string name="Destination_type">首頁類型</string>
     <string name="DiskUsage_not_installed">你似乎尚未安裝DiskUsage。它能以詳細而友好的方式顯示你裝置內的儲存空間使用情況。你要立即進行安裝嗎？</string>
     <string name="Text_copied_to_clipboard">文本已複製至剪貼板</string>
@@ -687,8 +687,8 @@
     <string name="Copy_to">複製至</string>
     <string name="Move_to">移動至</string>
     <string name="Shortcut">捷徑</string>
-    <string name="Two_panels_in_landscape_summary">橫屏時同時顯示兩個面版</string>
-    <string name="Two_panels_in_landscape">橫屏時顯示雙面版</string>
+    <string name="Two_panels_in_landscape_summary">橫屏時同時顯示兩個面板</string>
+    <string name="Two_panels_in_landscape">橫屏時顯示雙面板</string>
     <string name="Restart_prompt">程式需重新啟動以使更改生效。確定繼續？</string>
     <string name="Custom_color_scheme">自訂配色方案</string>
     <string name="Custom_color_scheme_summary">自訂配色方案。程式的啟動速度可能會受影響。</string>
@@ -703,8 +703,8 @@
     <string name="Please_wait">請稍候</string>
     
     
-    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">確定要複製至另一面版？</string>
-	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">確定要移動至另一面版？</string>
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">確定要複製至另一面板？</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">確定要移動至另一面板？</string>
 	<string name="Image_not_loaded">圖片未載入</string>
 	<string name="Target_SDK">目標SDK</string>
 	<string name="Description">描述</string>
@@ -752,9 +752,9 @@
     	<string name="Device_labels_summary">以易於理解的方式顯示裝置目錄，例如以 \&quot;SD卡\&quot; 而非 \&quot;sdcard0\&quot; 來顯示SD卡的目錄名。</string>
     	<string name="Swap_device_labels">交換裝置標籤</string>
     	<string name="Swap_device_labels_summary">在檢測錯誤的情況下，交換內部記憶體與SD卡的標籤。</string>
-    	<string name="Panels">面版</string>
+    	<string name="Panels">面板</string>
     	<string name="Devices">裝置</string>
-    	<string name="Bug_report_notice">Before reporting a bug please do the following:\n\n<b>1. Check whether the issue exists in other file manager apps.\n2. Read the FAQ.</b>\n\nDid you complete the steps above?</string>
+    	<string name="Bug_report_notice">在報告Bug前請先進行以下步驟：\n\n<b>1.檢查其他檔案管理程式是否有相同問題。\n2.閱讀FAQ。</b>\n\n你是否已完成以上步驟？</string>
     	<string name="Unable_to_move_the_file">無法移動檔案 %</string>
     
     <!-- v 1.4.0 -->
@@ -787,7 +787,7 @@
     	<string name="Set_as_alarm">設為鬧鐘音效</string>
     	<string name="Enter_the_symlink_location">輸入符號鏈接位置</string>
     	<string name="Symbolic_link_created_successfully">符號鏈接創建成功</string>
-    	<string name="Sugarsync_login">SugarSync登入</string>
+    	<string name="Sugarsync_login">登入SugarSync</string>
     	<string name="Copy_link">複製鏈接</string>
     	<string name="Data_backup">數據備份</string>
     	<string name="Application_data">程式數據</string>
@@ -852,5 +852,36 @@
 		<string name="Wifi_enabled">WiFi已啟用</string>
 		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">你確定要為此項目恢復預設設置嗎？</string>
 		
-		
+		<!-- v 1.5 -->
+		<string name="Any_type">任何類型</string>
+		<string name="Ubuntu_one_login">登入Ubuntu One</string>
+		<string name="Master_password_has_been_changed">主密碼已變更</string>
+		<string name="Encryption">加密</string>
+		<string name="Certificates">憑證</string>
+		<string name="Trust_all_ssl_certificates">信任所有SSL憑證</string>
+		<string name="Use_at_your_own_risk">請自行承擔風險</string>
+		<string name="Gestures">手勢</string>
+		<string name="Enable_list_zoom">啟用列表縮放</string>
+		<string name="Enable_list_zoom_summary">啟用後可以手勢進行列表縮放</string>
+		<string name="Mediafire_login">登入MediaFire</string>
+		<string name="No_master_password_set">未設定主密碼</string>
+
+		<!-- v 1.5.1 -->
+		<string name="Ssl_certificate_is_not_trusted">該憑證並未包含可信任的簽署，是否接受？</string>
+		<string name="Issuer">發行者</string>
+		<string name="Subject">主題</string>
+		<string name="Expiration">過期時間</string>
+		<string name="Common_name">通用名稱</string>
+		<string name="Organization">組織</string>
+		<string name="Organizational_unit">組織單位</string>
+		<string name="Country">國家</string>
+		<string name="State">州</string>
+		<string name="Algorithm">加密算法</string>
+		<string name="Exponent">執行者</string>
+		<string name="Key_length">密匙長度</string>
+		<string name="Accept">接受</string>
+		<string name="Rescan_all_media">重新掃瞄所有媒體</string>
+		<string name="Rescan_all_media_summary">移動檔案後重新掃瞄所有媒體，如圖庫無法正常更新，請勾選此項。</string>		
+
+	
 </resources>
