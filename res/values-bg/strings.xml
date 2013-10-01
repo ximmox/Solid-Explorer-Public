@@ -856,7 +856,6 @@
 	<string name="no_wifi_available">Няма налична WiFi мрежа. Искате ли да настроите точка за достъп на вашето устройство?</string>
 	<string name="disable_hotspot">Изключване на точка за достъп?</string>
 
-
 	<!-- v 1.5 -->
 	<string name="Any_type">Всеки тип</string>
 	<string name="Ubuntu_one_login">Ubuntu One вход</string>
@@ -871,4 +870,22 @@
 	<string name="Mediafire_login">Вход в MediaFire</string>
 	<string name="No_master_password_set">Главната парола не е зададена</string>
 	
+	<!-- v 1.5.1 -->
+	<string name="Ssl_certificate_is_not_trusted">Сертификата не е подписан от доверен източник. Искате ли да го приемете?</string>
+	<string name="Issuer">Издател</string>
+	<string name="Subject">Тема</string>
+	<string name="Expiration">Изтичане</string>
+	<string name="Common_name">Общо име</string>
+	<string name="Organization">Организация</string>
+	<string name="Organizational_unit">Организационна единица</string>
+	<string name="Country">Страна</string>
+	<string name="State">Щат</string>
+	<string name="Algorithm">Алгоритъм</string>
+	<string name="Exponent">Степен</string>
+	<string name="Key_length">Дължина на ключа</string>
+	<string name="Accept">Приемам</string>
+	<string name="Rescan_all_media">Повторно сканиране на медията</string>
+	<string name="Rescan_all_media_summary">Сканира повторно цялата медия след всяко файлово прехвърляне. Използвайте тази опция, ако галерията не се обновява правилно.</string>
+
+
 </resources>
