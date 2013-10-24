@@ -509,7 +509,7 @@
     <string name="Use_fast_scroll">Défilement rapide</string>
     
     <string name="Low_quality_thumbnails">Miniatures de faible qualité</string>
-    <string name="Low_quality_thumbnails_summary">Activer pour une faible consommation mémoire</string>
+    <string name="Low_quality_thumbnails_summary">Afficher des miniatures de faible qualité pour réduire la consommation mémoire</string>
     
     <string name="Portrait_fullscreen">Plein écran en portrait</string>
     <string name="Portrait_fullscreen_summary">Cacher la barre de notifications en mode portrait</string>
@@ -546,9 +546,9 @@
     
     <string name="Drag_and_drop">Glisser déposer</string>
     <string name="Action_for_drop_inside_the_panel">Action pour le même panneau</string>
-    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Déposer un élément dans un dossier du même panneau</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Choisir une action lorsque vous déposeé un élément dans un dossier du même panneau</string>
     <string name="Action_for_drop_to_the_second_panel">Action pour le second panneau</string>
-    <string name="Dropping_an_item_to_the_second_panel">Déposer un élément dans le second panneau</string>
+    <string name="Dropping_an_item_to_the_second_panel">Choisir une action lorsque vous déposez un élément dans le second panneau</string>
     <string name="Move">Déplacer</string>
     
     <string name="Security">Sécurité</string>
@@ -581,7 +581,7 @@
     <string name="Customize_indexing_engine_behaviour">Personnaliser le comportement du moteur d\'indexation</string>
     <string name="Indexing_engine">Moteur d\'indexation</string>
     	<string name="Reindex_now">Réindexer maintenant</string>
-    	<string name="Refresh_index_database">Actualiser la base de données. Aucun effet si le processus est actif.</string>
+    	<string name="Refresh_index_database">Actualiser la base de données (aucun effet si le processus est en cours)</string>
     	<string name="Clear_index_data">Nettoyer les données d\'indexation</string>
     	<string name="Delete_all_index_data">Supprimer toutes les données d\'indexation</string>
     	<string name="Reindex_on_media_mount">Réindexer après montage</string>
@@ -633,7 +633,7 @@
     <string name="Whats_new">Liste des dernières nouveautés et modifications</string>
     <string name="Author">Auteur</string>
     <string name="Functionality_for_future_releases">Listes des fonctionnalitées prévues pour de futures versions</string>
-    <string name="Planned_features">Fonctions programmées</string>
+    <string name="Planned_features">Fonctionnalités programmées</string>
     
     
     
@@ -684,7 +684,7 @@
     <string name="DiskUsage_not_installed">DiskUsage ne semble pas installé. Cette application affiche l\'utilisation mémoire d\'une façon agréable et sophistiquée. Voulez-vous l\'installer maintenant ?</string>
     <string name="Text_copied_to_clipboard">Texte copié dans le presse papier</string>
     <string name="Force_english">Forcer l\'anglais</string>
-    <string name="Force_english_summary">Forcer l\'affichage de l\'application en anglais. Effectif après un redémarrage.</string>
+    <string name="Force_english_summary">Forcer l\'affichage de l\'application en anglais (redémarrage requis)</string>
     <string name="Encoding">Encodage</string>
     <string name="Network_thumbnails">Miniatures réseau</string>
     <string name="Network_thumbnails_summary">Afficher les miniatures en utilisant la connexion de données mobiles</string>
@@ -695,7 +695,7 @@
     <string name="Two_panels_in_landscape">Deux panneaux en paysage</string>
     <string name="Restart_prompt">L\'application doit-être redémarrée pour appliquer les modifications. Continuer ?</string>
     <string name="Custom_color_scheme">Palette de couleurs personnalisée</string>
-    <string name="Custom_color_scheme_summary">Personnaliser la palette de couleurs générale. Cela va considérablement ralentir le démarrage de l\'application.</string>
+    <string name="Custom_color_scheme_summary">Personnaliser la palette de couleurs générale (ralenti considérablement le démarrage de l\'application)</string>
     <string name="Color_scheme">Palette de couleurs</string>
     <string name="Color_scheme_summary">Modifier la teinte et la saturation de la palette de couleurs actuelle</string>
     <string name="Change_color_scheme">Changer la palette de couleurs</string>
@@ -703,7 +703,7 @@
     <string name="Saturation">Saturation</string>
     <string name="SolidExplorer_is_running">Solid Explorer est en cours d\'utilisation</string>
     <string name="Notification_shortcut">Raccourci de notification</string>
-    <string name="Notification_shortcut_summary">Afficher un icône dans la barre de notification lorsque l\'application est exécuter en arrière-plan</string>
+    <string name="Notification_shortcut_summary">Afficher un icône dans la barre de notification lorsque l\'application est exécutée en arrière-plan</string>
     <string name="Please_wait">Merci de patienter</string>
     
     
@@ -807,7 +807,7 @@
      <string name="Back_goes_to_root">Retour à la racine</string>
      <string name="Back_goes_to_root_summary">Permettre la navigation jusqu\'à la racine par appui sur le bouton Retour</string>
      <string name="Keep_the_screen_on">Garder l\'écran allumé</string>
-     <string name="Keep_the_screen_on_summary">Garder l\'écran allumé pendant les opérations de fichier. A cocher si vous rencontrez des ralentissements lorsque l\'écran est éteint.</string>
+     <string name="Keep_the_screen_on_summary">Garder l\'écran allumé pendant les opérations de fichier si vous rencontrez des ralentissements lorsque l\'écran est éteint</string>
 
 <!-- v 1.4.4 -->
      <string name="Clear_thumbnails_on_exit">Supprimer les miniatures en quittant l\'application</string>
@@ -871,6 +871,23 @@
      <string name="Enable_list_zoom">Zoom de liste</string>
      <string name="Enable_list_zoom_summary">Activer le zoom de liste par pincement</string>
      <string name="Mediafire_login">Connexion MediaFire</string>
-     <string name="No_master_password_set">Le mot de passe maître n\'a pas été défini</string>	 
+     <string name="No_master_password_set">Le mot de passe maître n\'a pas été défini</string>
+
+<!-- v 1.5.1 -->
+     <string name="Ssl_certificate_is_not_trusted">Le certificat n'est pas signé une autorité de confiance. Voulez-vous quand même l'utiliser ?</string>
+     <string name="Issuer">Émetteur</string>
+     <string name="Subject">Sujet</string>
+     <string name="Expiration">Expiration</string>
+     <string name="Common_name">Nom commun</string>
+     <string name="Organization">Organisation</string>
+     <string name="Organizational_unit">Unité organisationnelle</string>
+     <string name="Country">Pays</string>
+     <string name="State">État</string>
+     <string name="Algorithm">Algorithme</string>
+     <string name="Exponent">Exposant</string>
+     <string name="Key_length">Longueur de clé</string>
+     <string name="Accept">Accepter</string>
+     <string name="Rescan_all_media">Rescanner les médias</string>
+     <string name="Rescan_all_media_summary">Rescanner tous les médias après chaque transfert de fichier si la gallerie ne se met pas à jour correctement</string>
 
 </resources>
