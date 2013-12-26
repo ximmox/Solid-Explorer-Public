@@ -10,8 +10,8 @@
     <string name="Error">Fehler</string>
     
     <string name="Invalid_password_for_user_x">Ungültiges Passwort für Benutzer \&quot;%\&quot;</string>
-    <string name="Invalid_master_password">Ungültiges Master-Passwort</string>
-    <string name="Unable_to_execute_shell_command">Shell Befehl kann nicht ausgeführt werden</string>
+    <string name="Invalid_master_password">Ungültiges Haupt-Passwort</string>
+    <string name="Unable_to_execute_shell_command">Shell-Befehl kann nicht ausgeführt werden</string>
     <string name="No_root_access_available">Kein Root-Zugang verfügbar</string>
     <string name="Unable_to_read_root_directory">Stammverzeichnis kann nicht gelesen werden</string>
     
@@ -19,27 +19,46 @@
     <string name="Invalid_file_path">Ungültiger Dateipfad</string>
     
     
-    <string name="Cannot_browse_to_x">Kann \&quot;%\&quot; nicht durchsuchen. Ein unbekannter Fehler ist aufgetreten.</string>
-    <string name="Cannot_write_to_the_system">Dateisystem kann nicht beschrieben werden. Mount zu Lese/Schreib-Recht ist fehlgeschlagen.</string>
-    <string name="Requested_file_x_has_not_been_found">Angeforderte Datei \&quot;%\&quot; wurde nicht gefunden.</string>
-    <string name="Unknown_read_write_exception">Unbekannte Lese/Schreib Ausnahmesituation.</string>
+    <string name="Cannot_browse_to_x">Kann \&quot;%\&quot; nicht durchsuchen. Ein unbekannter Fehler ist aufgetreten</string>
+    <string name="Cannot_write_to_the_system">Dateisystem kann nicht beschrieben werden. Einbinden für Lese/Schreib-Rechte ist fehlgeschlagen</string>
+    <string name="Requested_file_x_has_not_been_found">Angeforderte Datei \&quot;%\&quot; wurde nicht gefunden</string>
+    <string name="Unknown_read_write_exception">Unbekannte Lese/Schreib-Ausnahmesituation</string>
     <string name="Invalid_url_x">Ungültige URL: %</string>
-    <string name="An_error_occured_while_accessing_master_password">Fehler beim Zugriff auf das Master-Passwort.</string>
-    <string name="Operation_not_allowed">Vorgang nicht zulässig.</string>
-    <string name="Cannot_connect_to_host_x_on_port_y">Keine Verbindung zu \&quot;%x\&quot; auf Port %y.</string>
-    <string name="Unable_to_resolve_host_x">Nicht möglich Hostname \&quot;%x\&quot; aufzulösen.</string>
+    <string name="An_error_occured_while_accessing_master_password">Fehler beim Zugriff auf das Haupt-Passwort</string>
+    <string name="Operation_not_allowed">Vorgang nicht zulässig</string>
+    <string name="Cannot_connect_to_host_x_on_port_y">Keine Verbindung zu \&quot;%x\&quot; auf Port %y</string>
+    <string name="Unable_to_resolve_host_x">Nicht möglich Hostname \&quot;%x\&quot; aufzulösen</string>
     <string name="Server_returned_illegal_response">Der Server liefert eine ungültige Antwort</string>
-    <string name="An_error_occured_while_transferring_data_from_the_server">Es gab einen Fehler bei der Übertragung der Daten vom Server.</string>
-    <string name="Invalid_username_or_password">Benutzername oder Passwort ungültig.</string>
-    <string name="Internal_server_error">Interner Serverfehler.</string>
+    <string name="An_error_occured_while_transferring_data_from_the_server">Es gab einen Fehler bei der Übertragung der Daten vom Server</string>
+    <string name="Invalid_username_or_password">Benutzername oder Passwort ungültig</string>
+    <string name="Internal_server_error">Interner Serverfehler</string>
     <string name="Server_response_x">Server-Antwort: %x</string>
-    <string name="Unable_to_open_the_file_for_reading">Nicht möglich die Datei zum Lesen zu öffnen.</string>
-    <string name="Unable_to_write_the_file_to_x">Datei kann nicht auf \&quot;%x\&quot; geschrieben werden.</string>
-    <string name="Unable_to_connect_to_the_x">Verbindung zu %x fehlgeschlagen.</string>
+    <string name="Unable_to_open_the_file_for_reading">Öffnen der Datei zum Lesen nicht möglich</string>
+    <string name="Unable_to_write_the_file_to_x">Datei kann nicht auf \&quot;%x\&quot; geschrieben werden</string>
+    <string name="Unable_to_connect_to_the_x">Verbindung zu %x fehlgeschlagen</string>
     <string name="Unknown_error"> Ein unbekannter Fehler ist aufgetreten</string>
-    <string name="Cannot_create_directory_X">Verzeichnis \&quot;%x\&quot; kann nicht erstellt werden.</string>
+    <string name="Cannot_create_directory_X">Verzeichnis \&quot;%x\&quot; kann nicht erstellt werden</string>
+    <string name="Unable_to_start_the_service_on_port_x">Dienst kann am Port % nicht gestartet werden</string>
+    
+    <string name="Invalid_position">Ungültige Position</string>
+    <string name="Unable_to_delete_file_x">Datei % kann nicht gelöscht werden</string>
+    <string name="Unable_to_mount_the_system_as_read_write">System-Verzeichnis konnte nicht für Lese/Schreib-Rechte eingebunden werden</string>
+    <string name="Unable_to_mount_the_system_as_read_only">System-Verzeichnis konnte nicht für Nur-Lese-Rechte eingebunden werden</string>
+    <string name="Access_denied">Zugriff verweigert</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Es konnte keine Aktivität für den Abschluß dieser Aktion gefunden werden</string>
+    <string name="Unable_to_set_the_wallpaper">Hintergrundbild konnte nicht festgelegt werden</string>
     
     <!-- 1.4.3 -->
-    <string name="Unlocker_error">Der Unlocker wurde gefunden, gab aber einen Fehler aus. Dies kann passieren, wenn andere Anwendungen den Zugriff blockieren, z.B. Antiviren-Software. Stelle sicher, dass Solid Explorer und der Unlocker nicht auf Blacklisten dieser Apps stehen und starte Solid Explorer erneut.</string>
-    <string name="Unable_to_get_the_link">Konnte den Link nicht bekommen</string>
+    <string name="Unlocker_error">Der Unlocker wurde gefunden, gab aber einen Fehler aus. Dies kann passieren, wenn andere Anwendungen - Bsp. Antiviren-Software - den Zugriff blockieren. Stelle sicher, dass Solid Explorer und der Unlocker nicht auf Black-Listen dieser Apps stehen und starte Solid Explorer erneut</string>
+    <string name="Unable_to_get_the_link">Konnte den Link nicht erhalten</string>
+
+        <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">Angeforderte Ressource wurde verschoben</string>
+    <string name="Invalid_syntax">Ungültige Syntax</string>
+    <string name="Service_unavailable">Dienst derzeit nicht verfügbar. Bitte später nochmals versuchen</string>
+    <string name="Unauthorized">Nicht berechtigt, bitte erneut anmelden</string>
+    <string name="Resource_not_found">Ressource nicht gefunden</string>
+    <string name="Method_not_allowed">Angeforderte Methode ist für diese Ressource nicht erlaubt</string>
+    <string name="Timeout_reached">Zeitüberschreitung erreicht</string>
+    
 </resources>
