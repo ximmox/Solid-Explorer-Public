@@ -42,4 +42,12 @@
   <!-- 1.4.3 -->
   <string name="Unlocker_error">Помилка розблокування додатку. Часто така помилка виникає через програми які блокують доступ, наприклад антивіруси. Переконайтесь що Solid Explorer та unlocker мають потрібні їм дозволи, вимкніть антивірус та перезапустіть додаток.</string>
   <string name="Unable_to_get_the_link">Неможливо отримати посилання</string>
+   <!-- 1.5 -->
+  <string name="Requested_resource_has_been_moved">Запитаний ресурс переміщено</string>
+  <string name="Invalid_syntax">Невірний синтаксис</string>
+  <string name="Service_unavailable">Сервіс тимчасово не доступний, будь ласка, спробуйте пізніше.</string>
+  <string name="Unauthorized">Не авторизовано, спробуйте пізніше.</string>
+  <string name="Resource_not_found">Ресурс не знайдено</string>
+  <string name="Method_not_allowed">Запитаний метод не дозволений для даного ресурсу</string>
+  <string name="Timeout_reached">Час вийшов</string>
 </resources>
