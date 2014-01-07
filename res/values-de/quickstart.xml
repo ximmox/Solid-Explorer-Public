@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="page1_1">Solid Explorer bietet zwei unabhängige Spalten als Dateibrowser. Als Beispiel kann in einer Spalte die SD-Karte durchsucht werden und in der zweiten dein Netzwerkspeicher. So wird Dateiverwaltung richtig einfach!</string>
-    <string name="page1_2">Im Porträt-Modus (hochkant) ist jeweils nur eine Spalte sichtbar. Um zwischen den beiden zu wechseln, wische (swipe) einfach nach links oder rechts. Im Landschafts-Modus (seitlich) werden immer beide Spalten angezeigt.</string>
-    <string name="page2_1">Du kannst eine Datei verschieben, indem du dessen Symbol gedrückt hälst und es in der anderen Spalte loslässt. Ziehe es einfach an den Rand des Bildschirms und es wird zur zweiten Spalte gewechselt.</string>
-    <string name="page2_2">Du kannst Dateien auch direkt in Ordner verschieben. Halte die Datei für kurze Zeit über den Ordner und er wird sich öffnen. Dann brauchst du die Datei nur noch loslassen.</string>
-    <string name="page3_1">Um Dateien schnell auszuwählen, tippe auf ihr Symbol. Die Auswahlleiste wird sich öffnen und die wichtigsten Funktionen bieten. Man kann zusätzliche \&quot;Kopieren\&quot;, \&quot;Ausschneiden\&quot; und \&quot;Senden\&quot; Buttons in den Einstellungen aktivieren.</string>
-    <string name="page3_2">Diese Funktion ist nicht verfügbar in der Raster-Ansicht. Hier muss die Funktion Auswählen unter Aktionen genutzt werden.</string>
-    <string name="page4_1">Indexierte Suche bietet schnellsten Zugriff auf Dateien überall auf dem Gerät. Suchen dauern so weniger als eine Sekunde! Sollte eine Datei trotzdem nicht gefunden werden, kann man noch die \'Manuelle Suche\' nutzen, um das Gerät Datei für Datei zu durchsuchen.</string>
-    <string name="page4_2">Du kannst dein Gerät sogar direkt aus der Google Suche-App durchsuchen. Gehe in die Einstellungen von Google Suche und aktiviere dort Solid Explorer.</string>
-    <string name="page5_1">Solid Explorer unterstützt die FTP, SFTP und SMB Protokolle. Wenn du dich mit einem davon einloggst, werden die Einstellungen automatisch als Lesezeichen gespeichert. Du kannst deine Passwörter mit einem globalen Passwort schützen, welches du in den Einstellungen setzt.</string>
-    <string name="page5_2">Wenn du einen Cloud-Storage Account (wie Dropbox oder Box) nutzt, kannst du deine Dateien online durchsehen als ob sie direkt auf dem Gerät wären.</string>
-    <string name="page6_1">Wenn du Dateien per E-Mail senden willst, kannst du Archive erzeugen. Diese können passwortgeschützte ZIPs und TARs mit GZIP oder BZIP2 Kompression sein.</string>
+    <string name="page1_1">Solid Explorer bietet zwei unabhängige Spalten als Datei-Browser. Als Beispiel kann in einer Spalte die SD-Karte durchsucht werden und in der zweiten ein Netzwerkspeicher. So wird Dateiverwaltung richtig einfach!</string>
+    <string name="page1_2">Im Hochformat-Modus ist jeweils nur eine Spalte sichtbar. Um zwischen den beiden zu wechseln, wischt man einfach nach links oder rechts. Im Querformat-Modus werden immer beide Spalten angezeigt.</string>
+    <string name="page2_1">Eine Datei kann verschoben werden, indem auf dessen Symbol gedrückt und es dann in der anderen Spalte los gelassen wird. Ziehe es einfach an den Rand des Bildschirms und es wird zur zweiten Spalte gewechselt.</string>
+    <string name="page2_2">Dateien können auch direkt in Ordner verschoben werden. Halte die Datei für kurze Zeit über den Ordner und er wird sich öffnen. Dann nur mehr die Datei loslassen.</string>
+    <string name="page3_1">Um Dateien schnell auszuwählen, tippe auf deren Symbole. Die Auswahlleiste wird sich öffnen und die wichtigsten Funktionen anzeigen. Man kann zusätzliche \&quot;Kopieren\&quot;, \&quot;Ausschneiden\&quot; und \&quot;Senden\&quot; Tasten in den Einstellungen aktivieren.</string>
+    <string name="page3_2">Diese Funktion ist nicht verfügbar in der Raster-Ansicht. Hier muss die Funktion \&quot;Auswählen\&quot; unter Aktionen genutzt werden.</string>
+    <string name="page4_1">Indexierte Suche bietet überall schnellsten Zugriff auf Dateien auf dem Gerät. Suchen dauern so weniger als eine Sekunde! Sollte eine Datei trotzdem nicht gefunden werden, kann man noch die \&quot;Manuelle Suche\&quot; nutzen, um das Gerät Datei für Datei zu durchsuchen.</string>
+    <string name="page4_2">Das Gerät kann sogar direkt aus der Google Suche-App durchsucht werden. Gehe in die Einstellungen von Google Suche und aktiviere dort Solid Explorer.</string>
+    <string name="page5_1">Solid Explorer unterstützt die FTP, SFTP und SMB Protokolle. Nach einer Anmeldung, werden die Einstellungen automatisch als Lesezeichen gespeichert. Passwörter können mit einem globalen Passwort geschützt werden, welches in den Einstellungen gestgelegt wird.</string>
+    <string name="page5_2">Cloud-Speicher-Konten (wie Dropbox oder Box) können online durchsucht werden, als ob sie direkt auf dem Gerät wären.</string>
+    <string name="page6_1">Dateien können vor dem Senden per E-Mail in Archive gepackt werden. Diese können passwortgeschützte ZIPs und TARs mit GZIP oder BZIP2 Kompression sein.</string>
     <string name="page6_2">Solid Explorer unterstützt ZIP, RAR und TAR Archive zum Betrachten oder Entpacken. Diese Archive können genau so einfach wie Ordner durchgeschaut werden.</string>
-    <string name="page7_1">Solid Explorer gibt dir detaillierte Informationen über Dateien und Ordner. Du kannst herausfinden, was den meisten Speicherplatz belegt oder Statistiken ausgeben lassen.</string>
-    <string name="page8_1">Jede Funktion hat ihren Platz in einem der Popups. Sie wurden sorgfältig zusammengefasst um für eine durchgehend einfache Benutzung zu sorgen.</string>
-    <string name="page8_2">Wenn mehrere Spalten im Hintergrund geöffnet sind, kannst du einfach zwischen ihnen wechseln.</string>
-    <string name="page9">Ich freue mich, dass du Solid Explorer ausprobierst. Ich hoffe dir gefallen die Mengen an Funktionen! Solltest du etwas vergessen haben, kannst du diese Anleitung jederzeit aus den Einstellungen erneut aufrufen. Viel Spaß!</string>
+    <string name="page7_1">Solid Explorer gibt detaillierte Informationen über Dateien und Ordner aus. Damit kann geprüft werden, was den meisten Speicherplatz belegt oder Statistiken berechnet werden.</string>
+    <string name="page8_1">Jede Funktion hat ihren Platz in einem der Popups. Sie wurden sorgfältig zusammengefasst, um für eine durchgehend einfache Benutzung zu sorgen.</string>
+    <string name="page8_2">Wenn mehrere Spalten im Hintergrund geöffnet sind, kann zwischen ihnen einfach gewechselt werden.</string>
+    <string name="page9">Ich freue mich, dass Solid Explorer ausprobiert wird. Ich hoffe der Funktionsumfang gefällt! Diese Anleitung kann jederzeit aus den Einstellungen erneut aufgerufen werden. Viel Spaß!</string>
     <string name="Start_using_solid_explorer">Benutze Solid Explorer</string>
-    <string name="page0_1">Willkommen zu Solid Explorer - dem intuitivsten und schicksten Dateimanager für Android. Bitte lies diese Schnellstart-Anleitung, um dich mit den vielen Funktionen dieser App vertraut zu machen.</string>
+    <string name="page0_1">Willkommen zu Solid Explorer - dem intuitivsten und schicksten Dateimanager für Android. Bitte lies diese Schnellstart-Anleitung, um sich mit den vielen Funktionen dieser App vertraut zu machen.</string>
     <string name="Not_now">Nicht jetzt</string>
     <string name="page0_2">Zum Starten, wische zur nächsten Seite</string>
     <string name="Welcome">Willkommen</string>
@@ -28,7 +28,7 @@
     <string name="Detailed_information">Detail-Information</string>
     <string name="Useful_popups">Praktische Popups</string>
     <string name="Lets_start">Los geht\'s</string>
-    <string name="You_can_read_the_guide_later_in_the_settings">Du kannst diese Anleitung jederzeit lesen. Gehe einfach in die Einstellungen und wähle die \&quot;Schnellstart-Anleitung\&quot;.</string>
+    <string name="You_can_read_the_guide_later_in_the_settings">Diese Anleitung kann jederzeit gelesen werden. Gehe einfach in die Einstellungen und wähle die \&quot;Schnellstart-Anleitung\&quot;.</string>
     <string name="Thank_you">Danke!</string>
     
 </resources>

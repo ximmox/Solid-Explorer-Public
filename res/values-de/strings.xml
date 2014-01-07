@@ -113,7 +113,7 @@
     	<string name="Authentication_method">Authentifizierungsmethode</string>
     	<string name="Server">Server</string>
     	<string name="Connection_type">Verbindungsart</string>
-    	<string name="Scan">Scannen</string>
+    	<string name="Scan">Durchsuchen</string>
     	<string name="Computer_name_or_IP_adress">Computername oder IP-Adresse</string>
     	<string name="Looking_for_computers">Auf der Suche nach Computern</string>
     	<string name="Share">SMB-Freigabe</string>
@@ -195,19 +195,19 @@
     <string name="Path">Pfad</string>
     
     <!-- Dir picker -->
-    <string name="Pick_a_directory">Wähle ein Verzeichnis</string>
+    <string name="Pick_a_directory">Verzeichnis auswählen</string>
     
     <!-- Cloud storage dialog -->
     <string name="Cloud_storage_services">Cloud-Dienste</string>
-    <string name="Cloud_services_description">Wähle deinen Anbieter</string>
+    <string name="Cloud_services_description">Anbieter auswählen</string>
     
     <!-- File sharing -->
     <string name="File_sharing_active">Dateifreigabe aktiv</string>
-    <string name="ftp_server_hint">Zum Verbinden tippe die Serveradresse in die Adressleiste vom Windows Explorer oder benutze den FTP-Client deiner Wahl.</string>
-    <string name="You_cannot_share_root_directory">Du kannst nicht das Stammverzeichnis freigeben.</string>
+    <string name="ftp_server_hint">Zum Verbinden tippe die Serveradresse in die Adressleiste vom Windows Explorer ein oder benutze einen beliebiegen FTP-Client</string>
+    <string name="You_cannot_share_root_directory">Das Stammverzeichnis kann nicht frei geben werden</string>
     <string name="File_sharing_stopped">Dateifreigabe gestoppt</string>
     <string name="None">keine</string>
-    <string name="You_have_to_be_connected_to_the_LAN_network">Du musst zu einem lokalen Netzwerk verbunden sein</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Verbindung zu einem lokalen Netzwerk muß vorhanden sein</string>
     <string name="Active">Aktiv</string>
     <string name="Inactive">Inaktiv</string>
     <string name="FTP_Server">FTP-Server</string>
@@ -311,8 +311,8 @@
     	<string name="Replace_the_file_with_this">Ersetzt die vorhandene Datei</string>
     	<string name="Create_master_password">Erstelle ein Master-Passwort</string>
     	
-    	<string name="Choose_an_activity_to_open_the_file">Wähle eine Aktivität um die Datei zu öffnen</string>
-    	<string name="Always_use_this_application">Immer dieses Programm benutzen</string>
+    	<string name="Choose_an_activity_to_open_the_file">Eine Aktivität auswählen, um die Datei zu öffnen</string>
+    	<string name="Always_use_this_application">Immer diese App benutzen</string>
     	<string name="Send_the_file_using">Sende die Datei mit</string>
     	<string name="Progress">Fortschritt</string>
     	<string name="Minimize">Minimieren</string>
@@ -321,40 +321,40 @@
     	<string name="Dismiss">Verwerfen</string>
     	
     	<string name="Abort_operation">Operation abbrechen</string>
-    	<string name="There_is_already_an_operation_running">Eine Operation läuft gerade. Bitte warte bis diese fertig ist.</string>
+    	<string name="There_is_already_an_operation_running">Eine Operation läuft gerade. Bitte warte bis diese fertig ist</string>
     
     	<!-- Question dialogs -->
-    	<string name="Are_you_sure_you_want_to_clear_the_history">Sicher, dass du den Verlauf leeren möchtest?</string>
-    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Sicher, dass du den Thumbnail Cache leeren möchtest?</string>
-    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Sicher, dass du alle temporären Dateien löschen möchtest?</string>
-    	<string name="It_is_time_for_sheduled_indexing">Es ist Zeit für eine geplante Indexierung. Jetzt damit starten?</string>
-    	<string name="Folder_exists_descr">Ein Ordner mit diesem Namen existiert bereits in diesem Verzeichnis. Was möchtest du tun?</string>
-    	<string name="File_exists_descr">Eine Datei mit diesem Namen existiert bereits in diesem Verzeichnis. Was möchtest du tun?</string>
-    	<string name="Are_you_sure_you_want_to_delete">Sicher, dass du \&quot;%\&quot; löschen möchtest?</string>
-    	<string name="Are_you_sure_to_abort_current_operation">Sicher, dass du diese Operation abbrechen willst?</string>
-    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Sicher, dass du alle Lesezeichen löschen möchtest?</string>
-    	<string name="Are_you_sure_you_want_to_delete_bookmark">Sicher, dass du Lesezeichen \&quot;%\&quot; löschen möchtest?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Sicher, dass der Verlauf gelöscht werden soll?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Sicher, dass die Miniaturansichten gelöscht werden sollen?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Sicher, dass alle temporären Dateien gelöscht werden sollen?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Es ist Zeit für eine geplante Indexierung. Jetzt damit beginnen?</string>
+    	<string name="Folder_exists_descr">Ein Ordner mit diesem Namen existiert bereits in diesem Verzeichnis. Weitere Vorgehensweise?</string>
+    	<string name="File_exists_descr">Eine Datei mit diesem Namen existiert bereits in diesem Verzeichnis. Weitere Vorgehensweise?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Sicher, dass \&quot;%\&quot; gelöscht werden soll?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Sicher, dass diese Operation abgebrochen werden soll?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Sicher, dass alle Lesezeichen gelöscht werden sollen?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Sicher, dass das Lesezeichen \&quot;%\&quot; gelöscht werden soll?</string>
     	<string name="Reindex_prompt">Indexierung durchführen. Dies kann ein paar Minuten dauern. Fortfahren?</string>
-    	<string name="Clear_index_prompt">Sicher, dass du alle Index-Daten löschen möchtest? Dies kann nicht rückgängig gemacht werden.</string>
+    	<string name="Clear_index_prompt">Sicher, dass alle Index-Daten gelöscht werden sollen? Dies kann nicht rückgängig gemacht werden</string>
     	<string name="Are_you_sure_to_stop_indexing">Sicher, dass die Indexierung gestoppt werden soll?</string>
-    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Sicher, dass du alle Dateityp-Verknüpfungen rückgängig machen willst?</string>
+    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Sicher, dass alle Dateityp-Verknüpfungen rückgängig gemacht werden sollen?</string>
     	<string name="Changes_have_been_made_to_the_file">Änderungen in &quot;%&quot; vorhanden. Sollen sie gespeichert werden?</string>
-    	<string name="Chown_confirm">Sicher, dass du die Besitzerrechte dieser Datei ändern möchtest?</string>
-    	<string name="Busybox_request">Scheinbar ist BusyBox auf diesem Gerät nicht installiert oder die Version veraltet. Es wird benötigt um das Stammverzeichnis des Dateisystems anzeigen zu können. Willst du es jetzt installieren?</string>
+    	<string name="Chown_confirm">Sicher, dass die Besitzerrechte dieser Datei geändert werden sollen?</string>
+    	<string name="Busybox_request">Scheinbar ist BusyBox auf diesem Gerät nicht installiert oder die Version ist veraltet. Es wird benötigt, um das Stammverzeichnis des Dateisystems anzeigen zu können. Jetzt installieren?</string>
     	
     	
     	<!-- Information dialogs -->
-    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive unterstützt keine \&quot;%\&quot; Dateien. Aktion wurde abgebrochen.</string>
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive unterstützt keine \&quot;%\&quot; Dateien. Aktion wurde abgebrochen</string>
     	<string name="Operation_not_supported">Aktion nicht unterstützt</string>
-    	<string name="You_have_to_provide_a_password">Du musst ein Passwort eingeben</string>
-    	<string name="Insufficient_space" formatted="false">Es steht nicht genügend freier Platz zur Verfügung um die Aktion zu beenden. Größe: %, verfügbar: %.</string>
+    	<string name="You_have_to_provide_a_password">Ein Passwort eingeben werden</string>
+    	<string name="Insufficient_space" formatted="false">Es steht nicht genügend freier Platz zur Verfügung, um die Aktion zu beenden. Größe: %, verfügbar: %</string>
     	<string name="Command_executed_successfully">Befehl erfolgreich ausgeführt</string>
     	<string name="Deleting_data">Lösche die Daten</string>
     	<string name="Done">Fertig</string>
     	<string name="Preparing_for_operation">Bereite Operation vor...</string>
     	<string name="Connecting">Verbinde</string>
     	<string name="Connecting_to_x">Verbinde zu \&quot;%\&quot;</string>
-    	<string name="File_is_too_big">Diese Datei ist zu groß. Nur Dateien bis 75kB können bearbeitet werden. Größere Dateien werden bald unterstützt.</string>
+    	<string name="File_is_too_big">Diese Datei ist zu groß. Nur Dateien bis 75kB können bearbeitet werden. Größere Dateien werden bald unterstützt</string>
     	<string name="Operation_history_has_been_cleared">Operations-Verlauf wurde geleert</string>
     	<string name="Encrypted_archive">Verschlüsseltes Archiv</string>
     	<string name="Enter_the_password">Password eingeben</string>
@@ -362,15 +362,15 @@
     	<string name="Input_request">Eingabeanfrage</string>
     	<string name="Message">Nachricht</string>
     	<string name="Warning">Warnung!</string>
-    	<string name="You_did_not_specify_a_password">Du hast kein Passwort festgelegt.</string>
+    	<string name="You_did_not_specify_a_password">Kein Passwort festgelegt</string>
     	<string name="Reading_archive">Lese Archiv</string>
     	<string name="Reading_archive_x">Lese Archiv \&quot;%\&quot;</string>
     	<string name="Storage_not_available">Speicher nicht verfügbar</string>
     	<string name="The_password_given_is_incorrect">Das eingegebene Passwort ist nicht korrekt</string>
-    	<string name="You_did_not_specify_a_server_name">Du hast keinen Servernamen festgelegt</string>
-    	<string name="You_did_not_specify_a_computer_name">Du hast keinen Computernamen festgelegt</string>
-    	<string name="You_did_not_specify_a_port_number">Du hast keinen Port festgelegt</string>
-    	<string name="You_did_not_specify_user_name">Du hast keinen Benutzernamen festgelegt</string>
+    	<string name="You_did_not_specify_a_server_name">Kein Servernamen wurde festgelegt</string>
+    	<string name="You_did_not_specify_a_computer_name">Kein Computernamen wurde festgelegt</string>
+    	<string name="You_did_not_specify_a_port_number">Kein Port wurde festgelegt</string>
+    	<string name="You_did_not_specify_user_name">Kein Benutzernamen wurde festgelegt</string>
     	<string name="Indexing">Indexiere</string>
     	<string name="Indexing_in_progress">Indexierung läuft</string>
     	<string name="Indexing_paused">Indexierung pausiert</string>
@@ -392,19 +392,19 @@
     	<string name="Confirm_delete">Löschen bestätigen</string>
     	<string name="You_cant_create_an_archive_here">Hier können keine Archive erstellt werden</string>
     	<string name="Cannot_connect_to">Kann nicht verbinden zu \&quot;%\&quot;</string>
-    	<string name="You_are_not_logged_in">Du bist nicht eingeloggt</string>
-		<string name="Can_not_create_the_directory">Kann verzeichnis nicht erstellen</string>
-    	<string name="Beta_expired">Beta abgelaufen</string>
+    	<string name="You_are_not_logged_in">Nicht eingeloggt</string>
+		<string name="Can_not_create_the_directory">Kann Verzeichnis nicht erstellen</string>
+
     	<string name="Can_not_create_the_file">Kann Datei nicht erstellen</string>
     	<string name="Uknown_file_type">Unbekannter Dateityp</string>
-    	<string name="No_activity_found_to_open_this_file">Kein Programm gefunden, das diese Datei öffnen kann</string>
+    	<string name="No_activity_found_to_open_this_file">Keine App gefunden, das diese Datei öffnen kann</string>
     	<string name="You_cant_send_a_folder">Ordner können nicht gesendet werden</string>
     	<string name="Indexing_has_been_unscheduled">Geplante Indexierung deaktiviert</string>
     	<string name="Scheduled_indexing">Geplante Indexierung</string>
     	<string name="Tap_to_start">Tippe zum Starten</string>
     	
     	
-    	<string name="Are_you_sure_you_want_to_delete_items">Sicher, dass du % Objekt{1:|__:e} löschen möchtest?</string>
+    	<string name="Are_you_sure_you_want_to_delete_items">Sicher, dass % Objekt{1:|__:e} gelöscht werden soll?</string>
     	<string name="X_files_deleted">% Datei{1:|__:en} gelöscht</string>
     	<string name="X_files_copied">% Datei{1:|__:en} kopiert</string>
     	<string name="X_files_moved">% Datei{1:|__:en} verschoben</string>
@@ -452,11 +452,13 @@
     	
     	-->
     
+    	
+    
 
     
     <!-- Open as dialog -->
     <string name="Open_as">Öffnen als...</string>
-    <string name="Choose_a_preferred_type">Wähle gewünschten Typ</string>
+    <string name="Choose_a_preferred_type">Gewünschten Typ auswählen</string>
     <string name="Text_file">Text-Datei</string>
     <string name="Image_file">Bild-Datei</string>
     <string name="Music_file">Musik-Datei</string>
@@ -467,7 +469,7 @@
     <!-- File picker -->
     
     <string name="Create_shortcut">Verknüpfung erstellen</string>
-    <string name="Shortcut_tip">Um eine Ordner-Verknüpfung zu erstellen, wähle \&quot;Verknüpfung erstellen\&quot; im Kontextmenü.</string>
+    <string name="Shortcut_tip">Um eine Ordner-Verknüpfung zu erstellen, wähle \&quot;Verknüpfung erstellen\&quot; im Kontextmenü</string>
     
 
     
@@ -475,7 +477,7 @@
     <string name="Wrap_lines">Zeilen umbrechen</string>
     <string name="Font_size">Schriftgröße</string>
     <string name="Font">Schriftart</string>
-    <string name="App_default">Programmstandard</string>
+    <string name="App_default">App-Standard</string>
     <string name="System_default">Systemstandard</string>
     <string name="Serif">Serif</string>
     <string name="Monospace">Monospace</string>
@@ -487,7 +489,7 @@
 	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
     <string name="Appearance">Aussehen</string>
 	<string name="Theme">Theme</string>
-    <string name="Choose_between_preinstalled_themes">Auswahl zwischen vorinstallierten Themes</string>
+    <string name="Choose_between_preinstalled_themes">Auswahl zwischen vorinstallierten Themen</string>
     <string name="Light">Hell</string>
     <string name="Dark">Dunkel</string>
     
@@ -495,7 +497,7 @@
     <string name="Show_hidden_files">Zeige versteckte Dateien</string>
     
     <string name="Show_file_permissions">Zeige Datei-Berechtigungen</string>
-    <string name="Show_file_permissions_summary">Zeigt die Berechtigungen wie bei Unix statt des letzten Änderungsdatums (nur im Stammverzeichnis)</string>
+    <string name="Show_file_permissions_summary">Zeigt die Berechtigungen wie bei Unix anstatt des letzten Änderungsdatums (nur im Stammverzeichnis)</string>
     
     <string name="Date_format">Datumsformat</string>
     <string name="Customize_date_format">Passt das Datumsformat an</string>
@@ -506,34 +508,33 @@
 	<string name="Show_fast_scroll_thumb_in_file_list">Zeigt größere Scrollfläche in der Dateiliste</string>
     <string name="Use_fast_scroll">Benutze schnelles Scrollen</string>
     
-    <string name="Low_quality_thumbnails">Niedrige Thumbnail-Qualität</string>
+    <string name="Low_quality_thumbnails">Niedrige Miniaturansichten-Qualität</string>
     <string name="Low_quality_thumbnails_summary">Verbraucht weniger Speicher</string>
     
     <string name="Portrait_fullscreen">Porträt Vollbild</string>
-    <string name="Portrait_fullscreen_summary">Versteckt die Statusleiste im Porträtmodus</string>
+    <string name="Portrait_fullscreen_summary">Versteckt die Statusleiste im Hochformat-Modus</string>
     
     <string name="Landscape_fullscreen">Landschaft Vollbild</string>
-    <string name="Landscape_fullscreen_summary">Versteckt die Statusleiste im Lanschaftsmodus</string>
+    <string name="Landscape_fullscreen_summary">Versteckt die Statusleiste im Querformat-Modus</string>
     
     <string name="File_list_size">Porträt Listengröße</string>
-    <string name="Adjust_size_of_the_file_list">Passt Größe der Dateiliste im Porträtmodus an</string>
+    <string name="Adjust_size_of_the_file_list">Passt Größe der Dateiliste im Hochformat-Modus an</string>
     
     <string name="Landscape_file_list_size">Lanschaft Listengröße</string>
-    <string name="Adjust_size_of_the_file_list_in_landscape">Passt Größe der Dateiliste im Landschaftsmodus an</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Passt Größe der Dateiliste im Querformat-Modus an</string>
     
     <string name="Small">Klein</string>
-    <string name="Normal">Normal</string>
     <string name="Big">Groß</string>
     <string name="Large">Riesig</string>
     <string name="Extra_small">Winzig</string>
     
-    <string name="Hide_exit_button">Verstecke Beenden Button</string>
-    <string name="Hide_exit_button_summary">App kann auch durch langes Drücken der Zurück-Taste beendet werden.</string>
+    <string name="Hide_exit_button">Verstecke Beenden Taste</string>
+    <string name="Hide_exit_button_summary">App kann auch durch langes Drücken der Zurück-Taste beendet werden</string>
     
-    <string name="Startup">Programmstart</string>
+    <string name="Startup">App-Start</string>
     
-    <string name="Remember_last_folder">An letzte Ordner erinnern</string>
-    <string name="Will_start_with_recently_viewed_directories">Die App zeigt beim Start die zuletzt geöffneten Ordner</string>
+    <string name="Remember_last_folder">An letzten Ordner erinnern</string>
+    <string name="Will_start_with_recently_viewed_directories">Die App zeigt beim Start die zuletzt geöffneten Ordner an</string>
     
     
     <string name="First_panel_default_dir">Verzeichnis erste Spalte</string>
@@ -542,7 +543,7 @@
     <string name="Change_pictures_directory">Ändere Bilder-Ordner</string>
     <string name="Change_downloads_directory">Ändere Download-Ordner</string>
     
-    <string name="Drag_and_drop">Drag and Drop</string>
+    <string name="Drag_and_drop">Drag und Drop</string>
     <string name="Action_for_drop_inside_the_panel">Aktion für gleiche Spalte</string>
     <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Loslassen eines Objekts in der gleichen Spalte</string>
     <string name="Action_for_drop_to_the_second_panel">Aktion für zweite Spalte</string>
@@ -550,22 +551,22 @@
     <string name="Move">Verschieben</string>
     
     <string name="Security">Sicherheit</string>
-    <string name="Master_password_prompt">Solid Explorer benutzt ein Master-Passwort um alle Logindaten zu verschlüsseln. Bei Sorge um die Sicherheit deiner Daten solltest du diese Funktion nutzen. Das Master-Passwort wird nur einmalig abgefragt, außer du startest die App neu. Andererseits wird die Standardverschlüsselung genutzt. Möchtest du diese Funktion benutzen?</string>
-    <string name="Disable_master_password_warning">Bei Deaktivierung des Master-Passworts wird wieder zum Standard-Passwort gewechselt. Nach diesem wirst du nie gefragt, die Logindaten sind aber dennoch verschlüsselt. Fortfahren?</string>
-    <string name="Enable_master_password_warning">Wenn du schon Lesezeichen mit dem Standard-Passwort verschlüsselt hast, werden diese entfernt. Fortfahren?</string>
-    <string name="Enable_master_password">Aktiviere Master-Passwort</string>
-	<string name="Too_weak_password">Password muss mindestens 6 Zeichen lang sein und maximal 16</string>
-    <string name="Enter_the_master_password">Master-Passwort eingeben</string>
-    <string name="Enter_a_new_master_password">Neues Master-Passwort eingeben</string> 
-    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Verschlüsselt alle Logindaten mit einem Master-Passwort</string>
-    <string name="Set_master_password">Ändere Master-Passwort</string>
+    <string name="Master_password_prompt">Solid Explorer benutzt ein Haupt-Passwort um alle Anmeldedaten zu verschlüsseln. Bei Sorge um die Sicherheit dieser Daten sollte diese Funktion benutzt werden. Das Haupt-Passwort wird nur einmalig beim App-Start abgefragt. Andererseits wird die Standardverschlüsselung genutzt. Soll diese Funktion benutzt werden?</string>
+    <string name="Disable_master_password_warning">Bei Deaktivierung des Haupt-Passworts wird wieder zum Standard-Passwort gewechselt. Danach wird nicht mehr nachgefragt, die Anmeldedaten sind aber dennoch verschlüsselt. Fortfahren?</string>
+    <string name="Enable_master_password_warning">Wenn Lesezeichen mit dem Standard-Passwort schon verschlüsselt worden sind, werden diese jetzt entfernt. Fortfahren?</string>
+    <string name="Enable_master_password">Aktiviere Haupt-Passwort</string>
+	<string name="Too_weak_password">Password muss mindestens 6 und maximal 16 lang sein Zeichen</string>
+    <string name="Enter_the_master_password">Haupt-Passwort eingeben</string>
+    <string name="Enter_a_new_master_password">Neues Haupt-Passwort eingeben</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Verschlüsselt alle Anmeldedaten mit einem Haupt-Passwort</string>
+    <string name="Set_master_password">Ändere Haupt-Passwort</string>
     <string name="All_passwords_will_be_reencrypted">Alle Passwörter werden neu verschlüsselt</string>
     
     <string name="I_dont_remember_my_old_password">Ich habe mein altes Passwort vergessen</string>
-    <string name="Reset_password_warning">Warnung! Wenn du jetzt ein neues Passwort festlegst, werden alle Lesezeichen, die mit dem alten Passwort verschlüsselt wurden, entfernt.</string>
+    <string name="Reset_password_warning">Warnung! Wenn jetzt ein neues Passwort festgelegt wird, werden alle Lesezeichen, die mit dem alten Passwort verschlüsselt wurden, entfernt!</string>
     <string name="Old_password">Altes Passwort</string>
     <string name="New_password">Neues Passwort</string>
-    <string name="Master_password_has_been_disabled">Master-Passwort wurde deaktiviert</string>
+    <string name="Master_password_has_been_disabled">Haupt-Passwort wurde deaktiviert</string>
     <string name="Passwords_do_not_match">Passwörter stimmen nicht überein</string>
     <string name="Password_is_too_short">Passwort ist zu kurz</string>
     
@@ -579,7 +580,7 @@
     <string name="Customize_indexing_engine_behaviour">Verhalten der Indexierung anpassen</string>
     <string name="Indexing_engine">Indexierung</string>
     	<string name="Reindex_now">Jetzt neu indexieren</string>
-    	<string name="Refresh_index_database">Aktualisiert die Index-Datenbank. Sollte der Prozess gerade laufen, ist dies wirkungslos.</string>
+    	<string name="Refresh_index_database">Aktualisiert die Index-Datenbank. Sollte der Prozess gerade laufen, ist dies wirkungslos</string>
     	<string name="Clear_index_data">Index-Daten löschen</string>
     	<string name="Delete_all_index_data">Löscht alle vorhandenen Index-Daten</string>
     	<string name="Reindex_on_media_mount">Indexiere bei Mounten von Speicher</string>
@@ -589,12 +590,12 @@
     	<string name="Set_time_and_period">Setze Zeit und Intervall</string>
     	<string name="The_time_when_the_indexing_will_be_triggered">Die Zeit, zu der die Indexierung angestoßen wird</string>
     	<string name="Maximum_index_age">Maximales Index Alter</string>
-    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Wie lange der Index-Eintrag in der Datenbank verbleiben soll, wenn die Datei nicht mehr existiert.</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Wie lange der Index-Eintrag in der Datenbank verbleiben soll, wenn die Datei nicht mehr existiert</string>
     	<string name="one_day">1 Tag</string>
     	<string name="two_days">2 Tage</string>
     	<string name="five_days">5 Tage</string>
     	<string name="One_week">1 Woche</string>
-    	<string name="Choose_interval">Wähle Intervall</string>
+    	<string name="Choose_interval">Intervall festlegen</string>
     	<string name="three_days">3 Tage</string>
     	<string name="How_often_indexing_will_be_performed">Wie oft die Indexierung durchgeführt wird</string>
     	<string name="Set_period">Setze Intervall</string>
@@ -606,16 +607,15 @@
     <string name="Other">Sonstiges</string>
     	
     <string name="Clear_persistent_data">Lösche dauerhafte Daten</string>
-    <string name="Clear_persistent_data_summary">Löscht Daten wie den Thumbnail-Cache, temporäre Dateien, Operations-Verlauf, etc.</string>
-    <string name="Clear_thumbnail_cache">Lösche Thumbnail-Cache</string>
+    <string name="Clear_thumbnail_cache">Lösche Miniaturansichten</string>
     <string name="Clear_temporary_files">Lösche temporäre Dateien</string>
     <string name="Clear_operation_history">Lösche Operations-Verlauf</string>
     <string name="Delete_all_image_previews">Löscht alle vorhandenen Vorschaubilder</string>
     <string name="Delete_all_temporary_files">Löscht alle vorhandenen temporären Dateien</string>
     <string name="Delete_operation_history_entries">Löscht alle Einträge im Operations-Verlauf</string>
     <string name="Clear_file_type_associations">Lösche Dateityp-Verknüpfungen</string>
-    <string name="Clear_file_type_associations_summary">Löscht Zuordnung, mit welchem Programm bestimmte Dateitypen geöffnet werden sollen</string>
-    <string name="Clear_temporary_files_on_exit">Lösche Temp beim Beenden</string>
+    <string name="Clear_file_type_associations_summary">Löscht Zuordnung, mit welcher App bestimmte Dateitypen geöffnet werden sollen</string>
+    <string name="Clear_temporary_files_on_exit">Lösche temporäre Dateien beim Beenden</string>
     <string name="Temporary_files_will_be_removed_on_app_exit">Temporäre Dateien werden beim Beenden der App gelöscht</string>
     
     <string name="Quick_start_guide">Schnellstart-Anleitung</string>
@@ -627,7 +627,7 @@
     <string name="Author_version_and_changelog">Autor, Version und Changelog</string>
     <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
     <string name="Version">Version</string>
-    <string name="Changelog">Changelog</string>
+    <string name="Changelog">Verlauf</string>
     <string name="Whats_new">Was ist neu?</string>
     <string name="Author">Autor</string>
     <string name="Functionality_for_future_releases">Funktionen für zukünftige Versionen</string>
@@ -637,9 +637,8 @@
     
     <!-- Other -->
     <string name="Prefix">Prefix</string>
-    <string name="Expiration_message">Vielen Dank für die Benutzung von Solid Explorer Beta! Um die App weiterhin testen zu können, lade die neueste Version im Google Play Store herunter.</string>
     <string name="Empty">Leer</string>
-	<string name="search_description">Durchsuche dein Gerät mittels Solid Explorer</string>
+	<string name="search_description">Gerät mittels Solid Explorer durchsuchen</string>
     <string name="search_hint">Gib einen Dateinamen ein</string>
     <string name="Save_file">Datei speichern</string>
     <string name="Solid_explorer_indexing_service">Solid Explorer Indexierungs-Dienst</string>
@@ -650,27 +649,26 @@
     <string name="crash_toast_text">Uuups! Solid Explorer ist abgestürzt. Bitte sende die Fehlermeldung an den Entwickler, damit dies behoben werden kann!</string>
     <string name="crash_notif_ticker_text">Unerwarteter Fehler, bitte sende einen Bericht...</string>
     <string name="crash_notif_title">Solid Explorer ist abgestürzt...</string>
-    <string name="crash_notif_text">Bitte klicke hier, um bei der Behebung zu helfen.</string>
+    <string name="crash_notif_text">Bitte tippe hier, um bei der Behebung zu helfen</string>
     <string name="crash_dialog_title">Solid Explorer ist abgestürzt</string>
-    <string name="crash_dialog_text">Ein unerwarteter Fehler ist aufgetreten und die App musste beendet werden. Bitte hilf mir dies zu beheben, indem du mir einen Fehlerbericht schickst.</string>
-    <string name="crash_dialog_comment_prompt">Bitte beschreibe den Fehler hierunter möglichst genau. In den meisten Fällen ist es unmöglich, den Fehler ohne deine Hilfe nachzustellen und zu beheben.</string>
+    <string name="crash_dialog_text">Ein unerwarteter Fehler ist aufgetreten und die App musste beendet werden. Bitte hilf mir dies zu beheben, indem ein Fehlerbericht gesendet wird</string>
+    <string name="crash_dialog_comment_prompt">Bitte beschreibe den Fehler hier unten möglichst genau. In den meisten Fällen ist es unmöglich, den Fehler ohne Mithilfe nachzustellen und zu beheben</string>
     <string name="crash_dialog_ok_toast">Vielen Dank!</string>
     
-    <string name="Icon_designer">Icon Designer</string>
-    <string name="Prefix">Prefix</string>
+    <string name="Icon_designer">Symbol-Designer</string>
     <string name="Translations">Übersetzung</string>
-    <string name="Translations_summary">Deutsche Übersetzung von P. Ihling und A. Korezki</string>
+    <string name="Translations_summary">Deutsche Übersetzung von P. Ihling, A. Korezki und Armin</string>
     <string name="Empty">Leer</string>
-    <string name="Press_once_again_to_exit">Drücke nochmal Zurück zum Beenden</string>
+    <string name="Press_once_again_to_exit">Tippee nochmal Zurück zum Beenden</string>
     
     <string name="View_in_DiskUsage">Zeige in DiskUsage</string>
     <string name="Retry">Wiederholen</string>
-    <string name="Portrait">Porträt</string>
-    <string name="Landscape">Landschaft</string>
+    <string name="Portrait">Hochformat</string>
+    <string name="Landscape">Querformat</string>
     <string name="Customize_list">Dateiliste anpassen</string>
-    <string name="Customize_list_summary">Passt die Größe der Icons und der Schrift in der Dateiliste an</string>
+    <string name="Customize_list_summary">Passt die Größe der Symbole und der Schrift in der Dateiliste an</string>
     <string name="Preview">Vorschau</string>
-    <string name="Icon_size_pixels" formatted="false">Icongröße (max: % x %)</string>
+    <string name="Icon_size_pixels" formatted="false">Symbolgröße (max: % x %)</string>
     <string name="Label_size">Objektname</string>
     <string name="Subtext_size">Detailbeschriftung</string>
     <string name="Label_size_points">Schriftgröße (max. 35pt)</string>
@@ -682,26 +680,26 @@
     <string name="DiskUsage_not_installed">Scheinbar ist DiskUsage nicht installiert. Diese App zeigt den Speicherverbrauch sehr ausführlich und übersichtlich an. Soll sie jetzt installiert werden?</string>
     <string name="Text_copied_to_clipboard">Text in Zwischenablage kopiert</string>
     <string name="Force_english">Erzwinge englische Sprache</string>
-    <string name="Force_english_summary">Aktivieren, falls Englisch als Programmsprache bevorzugt wird. Wirksam nach Neustart der App.</string>
+    <string name="Force_english_summary">Aktivieren, falls Englisch als Programmsprache bevorzugt wird. Wirksam erst nach Neustart der App</string>
     <string name="Encoding">Kodierung</string>
-    <string name="Network_thumbnails">Netzwerk-Thumbnails</string>
-    <string name="Network_thumbnails_summary">Wenn aktiviert, werden Vorschaubilder auch bei mobiler Datenverbindung geladen.</string>
+    <string name="Network_thumbnails">Netzwerk-Miniaturansichten</string>
+    <string name="Network_thumbnails_summary">Wenn aktiviert, werden Vorschaubilder auch bei mobiler Datenverbindung geladen</string>
     <string name="Copy_to">Kopiere nach</string>
     <string name="Move_to">Verschiebe nach</string>
     <string name="Shortcut">Verknüpfung</string>
-    <string name="Two_panels_in_landscape_summary">Zeigt zwei Spalten nebeneinander im Landschaftsmodus</string>
-    <string name="Two_panels_in_landscape">Zwei Spalten in Landschaftsmodus</string>
+    <string name="Two_panels_in_landscape_summary">Zeigt zwei Spalten nebeneinander im Querformat-Modus</string>
+    <string name="Two_panels_in_landscape">Zwei Spalten in Querformat-Modus</string>
     <string name="Restart_prompt">Die App muss für die Änderungen neugestartet werden. Fortfahren?</string>
     <string name="Custom_color_scheme">Eigenes Farbschema</string>
-    <string name="Custom_color_scheme_summary">Passt das gesamte Farbschema an. Dies wird den Start der App drastisch verlangsamen.</string>
+    <string name="Custom_color_scheme_summary">Passt das gesamte Farbschema an. Dies wird den Start der App drastisch verlangsamen</string>
     <string name="Color_scheme">Farbschema</string>
     <string name="Color_scheme_summary">Ändert den Farbton und die Sättigung des aktuellen Farbschemas</string>
     <string name="Change_color_scheme">Farbschema anpassen</string>
     <string name="Hue">Farbton</string>
     <string name="Saturation">Sättigung</string>
     <string name="SolidExplorer_is_running">Solid Explorer wird ausgeführt</string>
-    <string name="Notification_shortcut">Icon in der Statusleiste</string>
-    <string name="Notification_shortcut_summary">Zeigt ein Icon in der Statusleiste an, wenn Solid Explorer im Hintergrund ausgeführt wird.</string>
+    <string name="Notification_shortcut">Symbol in der Statusleiste</string>
+    <string name="Notification_shortcut_summary">Zeigt ein Symbol in der Statusleiste an, wenn Solid Explorer im Hintergrund ausgeführt wird</string>
     <string name="Please_wait">Bitte warten</string>
     
     
@@ -721,13 +719,15 @@
     <string name="Ask">Nachfragen</string>
     <string name="Choose_an_action">Wähle eine Aktion</string>
     <string name="Folders_first">Ordner zuerst</string>
-    <string name="Folders_first_summary">Zeigt erst alle Ordner, dann Dateien</string>
+    <string name="Folders_first_summary">Zeigt erst alle Ordner, dann Dateien an</string>
     <string name="FAQ">FAQ</string>
     <string name="FAQ_summary">Vor dem Fragen bitte zuerst lesen!</string>
 	
 	<!-- v 1.3.8 -->
-    <string name="Quick_config">Schnellkonfig.</string>
+    <string name="Quick_config">Schnellkonfiguration</string>
 	
+	<!-- Now multiple patterns are supported so you can correct previous patterns
+	if more than one noun in a sentence is affected -->
     <string name="X_folders_and_Y_files_deleted">%x Ordner{__:} und %y Datei{1:|__:en} gelöscht</string>
     <string name="X_folders_and_Y_files_copied">%x Ordner{__:} und %y Datei{1:|__:en} kopiert</string>
     <string name="X_folders_and_Y_files_moved">%x Ordner{__:} und %y Datei{1:|__:en} verschoben</string>
@@ -743,18 +743,18 @@
     
     <string name="Show_status_summary">Zeigt Informationen zum Verzeichnis-Inhalt und verwendetem Speicherplatz im Explorer-Fenster an</string>
     <string name="Show_status">Status anzeigen</string>
-    <string name="Mount_rw">Mount r/w</string>
-    <string name="System_mounted_as_read_write">Stammverzeichnis verbunden als \&quot;read/write\&quot;</string>
-    <string name="System_mounted_as_read_only">Stammverzeichnis verbunden als \&quot;read only\&quot;</string>
+    <string name="Mount_rw">Einbinden r/w</string>
+    <string name="System_mounted_as_read_write">Stammverzeichnis verbunden als \&quot;Lesen/Schreiben\&quot;</string>
+    <string name="System_mounted_as_read_only">Stammverzeichnis verbunden als \&quot;Nur Lesen\&quot;</string>
     
     <!-- v 1.3.9 -->
     <string name="Device_labels">Gerätebezeichnung</string>
-    <string name="Device_labels_summary">Zeigt verständliche Gerätebezeichnung statt richtiger Ordnernamen, z.B. \&quot;SD-Karte\&quot; statt \&quot;sdcard0\&quot;</string>
+    <string name="Device_labels_summary">Zeigt verständliche Gerätebezeichnung anstatt richtiger Ordnernamen, z.B. \&quot;SD-Karte\&quot; statt \&quot;sdcard0\&quot;</string>
     <string name="Swap_device_labels">Tausche Gerätebezeichnungen</string>
     <string name="Swap_device_labels_summary">Tauscht die Bezeichnungen Interner Speicher und SD-Karte, falls diese falsch erkannt werden</string>
     <string name="Panels">Spalten</string>
     <string name="Devices">Geräte</string>
-    <string name="Bug_report_notice">Bevor ein Fehler gemeldet wird, versuche bitte folgendes:\n\n<b>1. Prüfe, ob der Fehler in anderen Dateimanagern auftritt.\n2. Lies die FAQ.</b>\n\nBeide Schritte befolgt?</string>
+    <string name="Bug_report_notice">Bevor ein Fehler gemeldet wird, versuche bitte folgendes:\n\n<b>1. Prüfe, ob der Fehler in anderen Dateimanagern auch auftritt.\n2. Lies die FAQ.</b>\n\nBeide Schritte befolgt?</string>
     <string name="Unable_to_move_the_file">Kann die Datei % nicht verschieben</string>
     
     <!-- v 1.4.0 -->
@@ -766,12 +766,12 @@
     <string name="A_while_ago">kürzlich</string>
     <string name="X_hours_Y_minutes_ago">vor %x Stunde{0:n|1:|__:n} %y Minute{0:n|1:|__:n}</string>
      <!-- Already exists, just changed the content -->
-    <string name="Expiration_message">Danke, dass du Solid Explorer getestet hast, deine Probezeit ist nun abgelaufen. Um diese App weiter zu nutzen, unterstütze meine Arbeit durch den Kauf des Unlockers bei Google Play.</string>
-    <string name="Purchased_message">Danke, dass du die Vollversion von Solid Explorer gekauft hast! Ich hoffe du hast viel Freude damit.</string>
-    <string name="Trial_expired">Trial abgelaufen</string>
+    <string name="Expiration_message">Danke, dass Solid Explorer getestet wurde. Die Testzeit ist nun abgelaufen. Um diese App weiterhin benutzen zu können, unterstütze meine Arbeit bitte durch den Kauf des Unlockers bei Google Play!</string>
+    <string name="Purchased_message">Danke, dass die Vollversion von Solid Explorer gekauft wurde! Viel Spaß nun damit!</string>
+    <string name="Trial_expired">Demo abgelaufen</string>
     <string name="Purchase">Kaufen</string>
     <string name="No_thanks">Nein, danke</string>
-    <string name="Function_not_available">Diese Funktion ist nicht verfügbar in deiner aktuellen Systemversion</string>
+    <string name="Function_not_available">Diese Funktion ist in dieser aktuellen Systemversion nicht verfügbar!</string>
 	
     <!-- v 1.4.3 -->
     <string name="Wallpaper_has_been_set_successfully">Hintergrund erfolgreich gesetzt</string>
@@ -787,7 +787,7 @@
     <string name="Set_as_alarm">Als Weckton setzen</string>
     <string name="Enter_the_symlink_location">Symlink-Pfad eingeben</string>
     <string name="Symbolic_link_created_successfully">Symbolische Verknüpfung erstellt</string>
-    <string name="Sugarsync_login">SugarSync Login</string>
+    <string name="Sugarsync_login">SugarSync Anmeldung</string>
     <string name="Copy_link">Kopiere Link</string>
     <string name="Data_backup">Daten-Sicherung</string>
     <string name="Application_data">Anwendungsdaten</string>
@@ -799,15 +799,15 @@
     <string name="Data_backup_restored">Daten erfolgreich wiederhergestellt</string>
     <string name="Support">Support</string>
     <string name="Support_summary">Besuche die Solid Explorer Support-Seite</string>
-    <string name="Experimental_feature_notifier">Bitte beachte, dass diese Funktion nur experimentell ist und womöglich nicht richtig mit der vorhandenen Android-Version funktioniert.</string>
-    <string name="Trial_check_notice">Solid Explorer konnte den Probezeitraum nicht prüfen. Bitte aktiviere eine Internetverbindung jetzt oder in den nächsten zwei Tagen, ansonsten wird der Probezeitraum ablaufen.</string>
-    <string name="Back_goes_to_root">Zurück geht zum Stammverzeichnis</string>
-    <string name="Back_goes_to_root_summary">Erlaubt bis zum Stammverzeichnis zu gehen, wenn der Zurück-Button gedrückt wird</string>
-    <string name="Keep_the_screen_on">Bildschirm angeschaltet lassen</string>
-    <string name="Keep_the_screen_on_summary">Hält den Bildschirm angeschaltet während Datei-Operationen. Nützlich falls bei ausgeschaltetem Bildschirm langsamere Übertragungen auftreten.</string>
+    <string name="Experimental_feature_notifier">Bitte beachte, dass diese Funktion nur experimentell ist und womöglich nicht richtig mit der vorhandenen Android-Version funktioniert!</string>
+    <string name="Trial_check_notice">Solid Explorer konnte den Probezeitraum nicht prüfen. Bitte aktiviere eine Internetverbindung jetzt oder in den nächsten zwei Tagen, ansonsten wird der Probezeitraum ablaufen</string>
+    <string name="Back_goes_to_root">Zurück zum Stammverzeichnis</string>
+    <string name="Back_goes_to_root_summary">Erlaubt bis zum Stammverzeichnis zu gehen, wenn die Zurück-Taste gedrückt wird</string>
+    <string name="Keep_the_screen_on">Bildschirm aktiv lassen</string>
+    <string name="Keep_the_screen_on_summary">Hält den Bildschirm angeschaltet, während Datei-Operationen. Nützlich falls bei ausgeschaltetem Bildschirm langsamere Übertragungen auftreten</string>
 
     <!-- v 1.4.4 -->
-    <string name="Clear_thumbnails_on_exit">Lösche Thumbnails beim Beenden</string>
+    <string name="Clear_thumbnails_on_exit">Lösche Miniaturansichten beim Beenden</string>
     <string name="Image_thumbnails_will_be_removed_on_app_exit">Vorschaubilder werden beim Beenden der App gelöscht</string>
     <string name="Toggle_nomedia"> Schalte .nomedia Datei an/aus</string>
     <string name="Total_time">Gesamtzeit</string>
@@ -821,7 +821,7 @@
     <string name="Extension">Dateiendung</string>
     <string name="No_extension_specified">Keine Dateieindung festgelegt</string>
     <string name="You_didn_t_choose_the_application">Keine Anwendung ausgewählt</string>
-    <string name="Added_to_queue">Zum Queue hinzugefügt</string>
+    <string name="Added_to_queue">Zur Warteschlange hinzugefügt</string>
     <string name="Streaming">Streaming</string>
     <string name="There_is_already_the_same_file_in_temporary_directory">Die gleiche Datei existiert bereits im temporären Ordner. Soll diese aus dem Cache geöffnet werden oder die aktuellste Version heruntergeladen werden?</string>
     <string name="Download">Download</string>
@@ -839,7 +839,8 @@
     <string name="Clear_filter_history">Lösche Suchfilter-Verlauf</string>
     <string name="Clear_filter_history_summary">Löscht den Verlauf des Dateilisten-Suchfilters</string>
     <string name="New_webdav_connection">WebDAV-Verbindung</string>
-    <string name="WebDav_bookmarks">WebDAV Lesezeichen</string>
+    <string name="WebDav_bookmarks">WebDAV-Lesezeichen</string>
+    
     
     <!--  v 1.4.5 -->
     <string name="Domain">Domain</string>
@@ -850,5 +851,48 @@
     <string name="Wifi_disabled">WLAN deaktiviert</string>
     <string name="Wifi_enabled">WLAN aktiviert</string>
     <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Sicher, dass die Standardeinstellungen für dieses Objekt wiederhergestellt werden sollen?</string>
+    
 	
+		<!-- v 1.4.6 -->
+		<string name="no_wifi_available">Kein WLAN verfügbar. Soll ein HotSpot in diesem Gerät eingerichtet werden?e?</string>
+		<string name="disable_hotspot">HotSpot ausschalten?</string>
+		
+		<!-- v 1.5 -->
+		<string name="Any_type">Jeder Typ</string>
+		<string name="Ubuntu_one_login">Ubuntu One Anmeldung</string>
+		<string name="Master_password_has_been_changed">Haupt-Passwort wurde geändert</string>
+		<string name="Encryption">Verschlüsselung</string>
+		<string name="Certificates">Zertifikate</string>
+		<string name="Trust_all_ssl_certificates">Allen SSL-Zertifikaten vertrauen</string>
+		<string name="Use_at_your_own_risk">Benutzung auf eigene Gefahr</string>
+		<string name="Gestures">Gesten</string>
+		<string name="Enable_list_zoom">Listen-Vergößerung aktivieren</string>
+		<string name="Enable_list_zoom_summary">Mittels der Geste \&quot;Zusammenkneifen\&quot; kann die Darstellung der Listengröße verändert werden</string>
+		<string name="Mediafire_login">MediaFire Anmeldung</string>
+		<string name="No_master_password_set">Haupt-Passwort wurde noch nicht festgelegt</string>
+		
+		<!-- v 1.5.1 -->
+		<string name="Ssl_certificate_is_not_trusted">Das Zertifikat wurde von keiner vertrauenswürdigen Stelle signiert. Trotzdem verwenden?</string>
+		<string name="Issuer">Aussteller</string>
+		<string name="Subject">Betreff</string>
+		<string name="Expiration">Ablaufdatum</string>
+		<string name="Common_name">Allgemeiner Name</string>
+		<string name="Organization">Organisation</string>
+		<string name="Organizational_unit">Organisationseinheit</string>
+		<string name="Country">Land</string>
+		<string name="State">Bundesland</string>
+		<string name="Algorithm">Algorithmus</string>
+		<string name="Exponent">Exponent</string>
+		<string name="Key_length">Schlüssellänge</string>
+		<string name="Accept">Akzeptieren</string>
+		<string name="Rescan_all_media">Medien neu durchsuchen</string>
+		<string name="Rescan_all_media_summary">Medien nach jedem Datentransfer neu durchsuchen (Verwenden, falls die Galerie nicht ordnungsgemäß aktualisiert wurde)</string>
+		
+		<!-- DIFFERENT IN GERMAN -->
+		<string name="Beta_expired">Beta abgelaufen</string>
+		<string name="Expiration_message">Vielen Dank für die Benutzung von Solid Explorer Beta! Um die App weiterhin testen zu können, lade die neueste Version vom Google Play Store herunter</string>
+		<string name="Prefix">Prefix</string>
+		<string name="Normal">Normal</string>
+		<string name="Clear_persistent_data_summary">Löscht Daten wie Miniaturansichten, temporäre Dateien, Operations-Verlauf, usw.</string>
+		
 </resources>
