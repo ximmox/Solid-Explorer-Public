@@ -309,7 +309,7 @@
     	<string name="Keep_the_old_file">Behalte die alte Datei</string>
     	<string name="The_new_file_will_have_its_name_changed">Ändert den Namen der neuen Datei</string>
     	<string name="Replace_the_file_with_this">Ersetzt die vorhandene Datei</string>
-    	<string name="Create_master_password">Erstelle ein Master-Passwort</string>
+    	<string name="Create_master_password">Erstelle ein Haupt-Passwort</string>
     	
     	<string name="Choose_an_activity_to_open_the_file">Eine Aktivität auswählen, um die Datei zu öffnen</string>
     	<string name="Always_use_this_application">Immer diese App benutzen</string>
