@@ -874,7 +874,7 @@
      <string name="No_master_password_set">Le mot de passe maître n\'a pas été défini</string>
 
 <!-- v 1.5.1 -->
-     <string name="Ssl_certificate_is_not_trusted">Le certificat n'est pas signé une autorité de confiance. Voulez-vous quand même l'utiliser ?</string>
+     <string name="Ssl_certificate_is_not_trusted">Le certificat n\'est pas signé une autorité de confiance. Voulez-vous quand même l\'utiliser ?</string>
      <string name="Issuer">Émetteur</string>
      <string name="Subject">Sujet</string>
      <string name="Expiration">Expiration</string>
