@@ -274,7 +274,7 @@
     <string name="Others">Andere</string>
     <string name="Owners">Besitzer</string>
     <string name="Permissions">Berechtigungen</string>
-    <string name="Set">Setze</string>
+    <string name="Set">Festlegen</string>
     <string name="Used_space">Benutzter Platz</string>
     <string name="Free_space">Freier Platz</string>
     <string name="Total_size">Gesamtgröße</string>
@@ -309,7 +309,7 @@
     	<string name="Keep_the_old_file">Behalte die alte Datei</string>
     	<string name="The_new_file_will_have_its_name_changed">Ändert den Namen der neuen Datei</string>
     	<string name="Replace_the_file_with_this">Ersetzt die vorhandene Datei</string>
-    	<string name="Create_master_password">Erstelle ein Master-Passwort</string>
+    	<string name="Create_master_password">Erstelle ein Haupt-Passwort</string>
     	
     	<string name="Choose_an_activity_to_open_the_file">Eine Aktivität auswählen, um die Datei zu öffnen</string>
     	<string name="Always_use_this_application">Immer diese App benutzen</string>
@@ -335,7 +335,7 @@
     	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Sicher, dass alle Lesezeichen gelöscht werden sollen?</string>
     	<string name="Are_you_sure_you_want_to_delete_bookmark">Sicher, dass das Lesezeichen \&quot;%\&quot; gelöscht werden soll?</string>
     	<string name="Reindex_prompt">Indexierung durchführen. Dies kann ein paar Minuten dauern. Fortfahren?</string>
-    	<string name="Clear_index_prompt">Sicher, dass alle Index-Daten gelöscht werden sollen? Dies kann nicht rückgängig gemacht werden</string>
+    	<string name="Clear_index_prompt">Sicher, dass alle Index-Daten gelöscht werden sollen? Dies kann nicht rückgängig gemacht werden!</string>
     	<string name="Are_you_sure_to_stop_indexing">Sicher, dass die Indexierung gestoppt werden soll?</string>
     	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Sicher, dass alle Dateityp-Verknüpfungen rückgängig gemacht werden sollen?</string>
     	<string name="Changes_have_been_made_to_the_file">Änderungen in &quot;%&quot; vorhanden. Sollen sie gespeichert werden?</string>
@@ -500,10 +500,10 @@
     <string name="Show_file_permissions_summary">Zeigt die Berechtigungen wie bei Unix anstatt des letzten Änderungsdatums (nur im Stammverzeichnis)</string>
     
     <string name="Date_format">Datumsformat</string>
-    <string name="Customize_date_format">Passt das Datumsformat an</string>
+    <string name="Customize_date_format">Aussehen des Datum festlegen</string>
     
     <string name="Time_format">Zeitformat</string>
-	<string name="Customize_time_format">Passt das Zeitformat an</string>
+	<string name="Customize_time_format">Aussehen der Zeit festlegen</string>
 	
 	<string name="Show_fast_scroll_thumb_in_file_list">Zeigt größere Scrollfläche in der Dateiliste</string>
     <string name="Use_fast_scroll">Benutze schnelles Scrollen</string>
@@ -800,7 +800,7 @@
     <string name="Support">Support</string>
     <string name="Support_summary">Besuche die Solid Explorer Support-Seite</string>
     <string name="Experimental_feature_notifier">Bitte beachte, dass diese Funktion nur experimentell ist und womöglich nicht richtig mit der vorhandenen Android-Version funktioniert!</string>
-    <string name="Trial_check_notice">Solid Explorer konnte den Probezeitraum nicht prüfen. Bitte aktiviere eine Internetverbindung jetzt oder in den nächsten zwei Tagen, ansonsten wird der Probezeitraum ablaufen</string>
+    <string name="Trial_check_notice">Solid Explorer konnte den Probezeitraum nicht prüfen. Bitte aktiviere eine Internetverbindung jetzt oder in den nächsten zwei Tagen, ansonsten wird der Probezeitraum ablaufen!</string>
     <string name="Back_goes_to_root">Zurück zum Stammverzeichnis</string>
     <string name="Back_goes_to_root_summary">Erlaubt bis zum Stammverzeichnis zu gehen, wenn die Zurück-Taste gedrückt wird</string>
     <string name="Keep_the_screen_on">Bildschirm aktiv lassen</string>
