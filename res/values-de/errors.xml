@@ -19,8 +19,8 @@
     <string name="Invalid_file_path">Ungültiger Dateipfad</string>
     
     
-    <string name="Cannot_browse_to_x">Kann \&quot;%\&quot; nicht durchsuchen. Ein unbekannter Fehler ist aufgetreten</string>
-    <string name="Cannot_write_to_the_system">Dateisystem kann nicht beschrieben werden. Einbinden für Lese/Schreib-Rechte ist fehlgeschlagen</string>
+    <string name="Cannot_browse_to_x">Kann \&quot;%\&quot; nicht durchsuchen. Ein unbekannter Fehler ist aufgetreten.</string>
+    <string name="Cannot_write_to_the_system">Dateisystem kann nicht beschrieben werden. Einbinden für Lese/Schreib-Rechte ist fehlgeschlagen.</string>
     <string name="Requested_file_x_has_not_been_found">Angeforderte Datei \&quot;%\&quot; wurde nicht gefunden</string>
     <string name="Unknown_read_write_exception">Unbekannte Lese/Schreib-Ausnahmesituation</string>
     <string name="Invalid_url_x">Ungültige URL: %</string>
@@ -49,13 +49,13 @@
     <string name="Unable_to_set_the_wallpaper">Hintergrundbild konnte nicht festgelegt werden</string>
     
     <!-- 1.4.3 -->
-    <string name="Unlocker_error">Der Unlocker wurde gefunden, gab aber einen Fehler aus. Dies kann passieren, wenn andere Anwendungen - Bsp. Antiviren-Software - den Zugriff blockieren. Stelle sicher, dass Solid Explorer und der Unlocker nicht auf Black-Listen dieser Apps stehen und starte Solid Explorer erneut</string>
+    <string name="Unlocker_error">Der Unlocker wurde gefunden, gab aber einen Fehler aus. Dies kann passieren, wenn andere Anwendungen - Bsp. Antiviren-Software - den Zugriff blockieren. Stelle sicher, dass Solid Explorer und der Unlocker nicht auf Black-Listen dieser Apps stehen und starte Solid Explorer erneut.</string>
     <string name="Unable_to_get_the_link">Konnte den Link nicht erhalten</string>
 
         <!-- 1.5 -->
     <string name="Requested_resource_has_been_moved">Angeforderte Ressource wurde verschoben</string>
     <string name="Invalid_syntax">Ungültige Syntax</string>
-    <string name="Service_unavailable">Dienst derzeit nicht verfügbar. Bitte später nochmals versuchen</string>
+    <string name="Service_unavailable">Dienst derzeit nicht verfügbar. Bitte später nochmals versuchen.</string>
     <string name="Unauthorized">Nicht berechtigt, bitte erneut anmelden</string>
     <string name="Resource_not_found">Ressource nicht gefunden</string>
     <string name="Method_not_allowed">Angeforderte Methode ist für diese Ressource nicht erlaubt</string>
