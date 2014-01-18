@@ -321,7 +321,7 @@
     	<string name="Dismiss">Verwerfen</string>
     	
     	<string name="Abort_operation">Operation abbrechen</string>
-    	<string name="There_is_already_an_operation_running">Eine Operation läuft gerade. Bitte warte bis diese fertig ist</string>
+    	<string name="There_is_already_an_operation_running">Eine Operation läuft gerade. Bitte warte bis diese fertig ist.</string>
     
     	<!-- Question dialogs -->
     	<string name="Are_you_sure_you_want_to_clear_the_history">Sicher, dass der Verlauf gelöscht werden soll?</string>
@@ -344,7 +344,7 @@
     	
     	
     	<!-- Information dialogs -->
-    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive unterstützt keine \&quot;%\&quot; Dateien. Aktion wurde abgebrochen</string>
+    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive unterstützt keine \&quot;%\&quot; Dateien. Aktion wurde abgebrochen.</string>
     	<string name="Operation_not_supported">Aktion nicht unterstützt</string>
     	<string name="You_have_to_provide_a_password">Ein Passwort eingeben werden</string>
     	<string name="Insufficient_space" formatted="false">Es steht nicht genügend freier Platz zur Verfügung, um die Aktion zu beenden. Größe: %, verfügbar: %</string>
@@ -354,7 +354,7 @@
     	<string name="Preparing_for_operation">Bereite Operation vor...</string>
     	<string name="Connecting">Verbinde</string>
     	<string name="Connecting_to_x">Verbinde zu \&quot;%\&quot;</string>
-    	<string name="File_is_too_big">Diese Datei ist zu groß. Nur Dateien bis 75kB können bearbeitet werden. Größere Dateien werden bald unterstützt</string>
+    	<string name="File_is_too_big">Diese Datei ist zu groß. Nur Dateien bis 75kB können bearbeitet werden. Größere Dateien werden bald unterstützt.</string>
     	<string name="Operation_history_has_been_cleared">Operations-Verlauf wurde geleert</string>
     	<string name="Encrypted_archive">Verschlüsseltes Archiv</string>
     	<string name="Enter_the_password">Password eingeben</string>
@@ -580,7 +580,7 @@
     <string name="Customize_indexing_engine_behaviour">Verhalten der Indexierung anpassen</string>
     <string name="Indexing_engine">Indexierung</string>
     	<string name="Reindex_now">Jetzt neu indexieren</string>
-    	<string name="Refresh_index_database">Aktualisiert die Index-Datenbank. Sollte der Prozess gerade laufen, ist dies wirkungslos</string>
+    	<string name="Refresh_index_database">Aktualisiert die Index-Datenbank. Sollte der Prozess gerade laufen, ist dies wirkungslos.</string>
     	<string name="Clear_index_data">Index-Daten löschen</string>
     	<string name="Delete_all_index_data">Löscht alle vorhandenen Index-Daten</string>
     	<string name="Reindex_on_media_mount">Indexiere bei Mounten von Speicher</string>
@@ -651,15 +651,15 @@
     <string name="crash_notif_title">Solid Explorer ist abgestürzt...</string>
     <string name="crash_notif_text">Bitte tippe hier, um bei der Behebung zu helfen</string>
     <string name="crash_dialog_title">Solid Explorer ist abgestürzt</string>
-    <string name="crash_dialog_text">Ein unerwarteter Fehler ist aufgetreten und die App musste beendet werden. Bitte hilf mir dies zu beheben, indem ein Fehlerbericht gesendet wird</string>
-    <string name="crash_dialog_comment_prompt">Bitte beschreibe den Fehler hier unten möglichst genau. In den meisten Fällen ist es unmöglich, den Fehler ohne Mithilfe nachzustellen und zu beheben</string>
+    <string name="crash_dialog_text">Ein unerwarteter Fehler ist aufgetreten und die App musste beendet werden. Bitte hilf mir dies zu beheben, indem ein Fehlerbericht gesendet wird.</string>
+    <string name="crash_dialog_comment_prompt">Bitte beschreibe den Fehler hier unten möglichst genau. In den meisten Fällen ist es unmöglich, den Fehler ohne Mithilfe nachzustellen und zu beheben.</string>
     <string name="crash_dialog_ok_toast">Vielen Dank!</string>
     
     <string name="Icon_designer">Symbol-Designer</string>
     <string name="Translations">Übersetzung</string>
     <string name="Translations_summary">Deutsche Übersetzung von P. Ihling, A. Korezki und Armin</string>
     <string name="Empty">Leer</string>
-    <string name="Press_once_again_to_exit">Tippee nochmal Zurück zum Beenden</string>
+    <string name="Press_once_again_to_exit">Tippe nochmal Zurück zum Beenden</string>
     
     <string name="View_in_DiskUsage">Zeige in DiskUsage</string>
     <string name="Retry">Wiederholen</string>
@@ -680,7 +680,7 @@
     <string name="DiskUsage_not_installed">Scheinbar ist DiskUsage nicht installiert. Diese App zeigt den Speicherverbrauch sehr ausführlich und übersichtlich an. Soll sie jetzt installiert werden?</string>
     <string name="Text_copied_to_clipboard">Text in Zwischenablage kopiert</string>
     <string name="Force_english">Erzwinge englische Sprache</string>
-    <string name="Force_english_summary">Aktivieren, falls Englisch als Programmsprache bevorzugt wird. Wirksam erst nach Neustart der App</string>
+    <string name="Force_english_summary">Aktivieren, falls Englisch als Programmsprache bevorzugt wird. Wirksam erst nach Neustart der App.</string>
     <string name="Encoding">Kodierung</string>
     <string name="Network_thumbnails">Netzwerk-Miniaturansichten</string>
     <string name="Network_thumbnails_summary">Wenn aktiviert, werden Vorschaubilder auch bei mobiler Datenverbindung geladen</string>
@@ -691,7 +691,7 @@
     <string name="Two_panels_in_landscape">Zwei Spalten in Querformat-Modus</string>
     <string name="Restart_prompt">Die App muss für die Änderungen neugestartet werden. Fortfahren?</string>
     <string name="Custom_color_scheme">Eigenes Farbschema</string>
-    <string name="Custom_color_scheme_summary">Passt das gesamte Farbschema an. Dies wird den Start der App drastisch verlangsamen</string>
+    <string name="Custom_color_scheme_summary">Passt das gesamte Farbschema an. Dies wird den Start der App drastisch verlangsamen.</string>
     <string name="Color_scheme">Farbschema</string>
     <string name="Color_scheme_summary">Ändert den Farbton und die Sättigung des aktuellen Farbschemas</string>
     <string name="Change_color_scheme">Farbschema anpassen</string>
@@ -804,7 +804,7 @@
     <string name="Back_goes_to_root">Zurück zum Stammverzeichnis</string>
     <string name="Back_goes_to_root_summary">Erlaubt bis zum Stammverzeichnis zu gehen, wenn die Zurück-Taste gedrückt wird</string>
     <string name="Keep_the_screen_on">Bildschirm aktiv lassen</string>
-    <string name="Keep_the_screen_on_summary">Hält den Bildschirm angeschaltet, während Datei-Operationen. Nützlich falls bei ausgeschaltetem Bildschirm langsamere Übertragungen auftreten</string>
+    <string name="Keep_the_screen_on_summary">Hält den Bildschirm angeschaltet, während Datei-Operationen. Nützlich falls bei ausgeschaltetem Bildschirm langsamere Übertragungen auftreten.</string>
 
     <!-- v 1.4.4 -->
     <string name="Clear_thumbnails_on_exit">Lösche Miniaturansichten beim Beenden</string>
@@ -854,7 +854,7 @@
     
 	
 		<!-- v 1.4.6 -->
-		<string name="no_wifi_available">Kein WLAN verfügbar. Soll ein HotSpot in diesem Gerät eingerichtet werden?e?</string>
+		<string name="no_wifi_available">Kein WLAN verfügbar. Soll ein HotSpot in diesem Gerät eingerichtet werden?</string>
 		<string name="disable_hotspot">HotSpot ausschalten?</string>
 		
 		<!-- v 1.5 -->
@@ -890,7 +890,7 @@
 		
 		<!-- DIFFERENT IN GERMAN -->
 		<string name="Beta_expired">Beta abgelaufen</string>
-		<string name="Expiration_message">Vielen Dank für die Benutzung von Solid Explorer Beta! Um die App weiterhin testen zu können, lade die neueste Version vom Google Play Store herunter</string>
+		<string name="Expiration_message">Vielen Dank für die Benutzung von Solid Explorer Beta! Um die App weiterhin testen zu können, lade die neueste Version vom Google Play Store herunter.</string>
 		<string name="Prefix">Prefix</string>
 		<string name="Normal">Normal</string>
 		<string name="Clear_persistent_data_summary">Löscht Daten wie Miniaturansichten, temporäre Dateien, Operations-Verlauf, usw.</string>
