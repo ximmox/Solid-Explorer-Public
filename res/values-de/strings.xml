@@ -659,7 +659,7 @@
     <string name="Translations">Übersetzung</string>
     <string name="Translations_summary">Deutsche Übersetzung von P. Ihling, A. Korezki und Armin</string>
     <string name="Empty">Leer</string>
-    <string name="Press_once_again_to_exit">Tippee nochmal Zurück zum Beenden</string>
+    <string name="Press_once_again_to_exit">Tippe nochmal Zurück zum Beenden</string>
     
     <string name="View_in_DiskUsage">Zeige in DiskUsage</string>
     <string name="Retry">Wiederholen</string>
@@ -854,7 +854,7 @@
     
 	
 		<!-- v 1.4.6 -->
-		<string name="no_wifi_available">Kein WLAN verfügbar. Soll ein HotSpot in diesem Gerät eingerichtet werden?e?</string>
+		<string name="no_wifi_available">Kein WLAN verfügbar. Soll ein HotSpot in diesem Gerät eingerichtet werden?</string>
 		<string name="disable_hotspot">HotSpot ausschalten?</string>
 		
 		<!-- v 1.5 -->
